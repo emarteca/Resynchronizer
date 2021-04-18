@@ -1,7 +1,7 @@
 
 # README
 
-This is the artifact for the paper Reducing Oversynchronization in JavaScript Applications.
+This is the artifact for the paper *Reducing Oversynchronization in JavaScript Applications*.
 
 ## Contents of the artifact
 
@@ -12,7 +12,7 @@ The rest of the artifact is the code and data from our experiments.
 We have configured this to run inside of a docker container.
 Instructions for building and interacting with the docker container follow.
 
-If you already have the image, proceed to *Usage*.
+If you already have the image, proceed to [Usage](https://github.com/emarteca/Resynchronizer#usage).
 
 ## Setup and build docker image 
 
@@ -40,14 +40,14 @@ Now, you'll be in the `/home/resynchronizer` directory of the docker image.
 In the docker, you can 
 * interact with our data, and reproduce the graphs from the paper (or construct similar graphs we did not include in the paper)
 * run Resynchronizer on a new project
-* looking at transformed evaluation projects
+* check out the transformed projects we tested with and rerun the timing experiments
 
 ### Contents of the container
 
 The relevant contents of the container are as follows:
 * `ExperimentalData`: data from our timing experiments; can be used to reproduce the graphs in the paper and supplementary materials
 * `ReorderingUtils.qll`: static side effect analysis code
-* `reorder_me.py`: the driving script for applying the reordering
+* `reorder_me.py`: the driving script for applying the reorderings determined through the analysis
 * `applyResync.sh`: script for applying Resynchronizer to a project
 * `paper.pdf`: copy of the associated paper
 * `supplementary.pdf`: copy of the supplementary materials
@@ -86,6 +86,8 @@ load_data_for_package("kactus")
 plot_test_times( bothswap_jest_tests, noswap_jest_tests, 22)
 ```
 
+When you're done looking at the data, exit `ipython` to try the rest of the artifact.
+
 
 ### Run resynchronizer on a new project
 
@@ -111,6 +113,7 @@ The `mattermost-redux` with the reorderings applied is now saved in the director
 
 To see the effect of the transformations, `grep` for the temporary variables:
 ```
+cd reordered_proj
 grep -rn "TEMP_VAR_AUTOGEN"
 ```
 You should see the following output:
@@ -140,6 +143,12 @@ await TEMP_VAR_AUTOGEN<number>
 ```
 
 The other results of the `grep` are the `TIMING_TEMP` variables, which are only introduced for the purposes of logging how long the awaited computations are taking (you see these variables in the `console.log` calls).
+
+If you want to run the tests of `mattermost-redux` and observe the printing of the timing tracking statements:
+```
+npm run test
+```
+Then, go back to the `/home/resynchronizer` directory to go to the next step.
 
 ### Rerunning timing experiments
 
@@ -175,7 +184,7 @@ The parameters are:
 * `test_times_bothswap_50times.out`: the file where the processed test output gets dumped; this matches `ExperimentalData/mattermost-redux/test_times_bothswap_50times.out` (although of course the exact numbers will differ since they are test runtimes)
 * `5`: the number of warmup runs
 
-If you want to only run a few test iterations to make sure it's working, I would recommend setting a smaller number of test iterations (maybe 10) and omitting the warmup runs.
+If you want to only run a few test iterations to make sure it's working, I would recommend setting a smaller number of test iterations (maybe 10) and omitting the warmup runs (if the warmup run argument is omitted it defaults to 0).
 
 You can also run the experiments on the non-reordered code by checking out the `JustTiming` branch (where all awaits that will be reordered are timed):
 ```
@@ -184,7 +193,7 @@ git checkout JustTiming
 Then, rerun the experiments the same way as above.
 Change the output filename to `test_times_noswap_50times.out` to emulate the experiments we performed.
 
-Note: the timing values will be different running here than in the reported results in the paper, since those were not run inside a docker container. 
+**Note**: the timing values will be different running here than in the reported results in the paper, since those were not run inside a docker container. 
 
 
 

@@ -3,15 +3,7 @@ import functools as ft
 import numpy as np
 import sys
 
-# simple python script for making the reordering
-# takes in a list of: statement to be moved, place it should go, and probably the file location
-# we're going to need to make sure the information includes line, and start/end characters of the statements
-# because generally a statement is a whole line but not necessarily
-
-# running jest: after doing the  reordering, run:
-# `npm run test:unit -- --watch --runInBand`
-# watch: this options specifies to only run the tests that rely on files that have changed since the last commit
-# runInBand: run the tests sequentially
+# driver script for applying the refactoring transformation
 
 class Stmt:
 	def __init__(self, start_line, start_char, end_line, end_char):
