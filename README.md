@@ -12,30 +12,43 @@ The rest of the artifact is the code and data from our experiments.
 We have configured this to run inside of a docker container.
 Instructions for building and interacting with the docker container follow.
 
-If you already have the image, proceed to [Usage](https://github.com/emarteca/Resynchronizer#usage).
 
 ## Setup and build docker image 
 
+
 First clone this repo.
 Make sure you have docker installed.
-
-Then, from the root of the repo, you can build and run the docker image.
 ```
 # allow docker to access display (so the container can display graphs)
 xhosts +
 
+```
+
+#### If you don't have the image:
+
+Then, from the root of the repo, you can build and run the docker image.
+```
 # build
 docker build -t resynchronizer . 
 
-# run
-./runDocker.sh
+```
 
+#### If you do have the image
+
+Download the image, and load it:
+```
+docker load -i resynchronizer.tgz # assuming image file resynchronizer.tgz
+```
+
+## Usage
+
+Run the docker:
+```
+./runDocker.sh
 ```
 
 Now, you'll be in the `/home/resynchronizer` directory of the docker image.
 
-
-## Usage
 
 In the docker, you can 
 * interact with our data, and reproduce the graphs from the paper (or construct similar graphs we did not include in the paper)

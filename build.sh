@@ -7,7 +7,6 @@ rm -r local_mount
 
 mkdir -p /home/codeql_home
 
-mv /home/resynchronizer/codeql-linux64.zip /home/codeql_home/ 
 cd /home/codeql_home
 curl -L -o codeql-linux64.zip https://github.com/github/codeql-cli-binaries/releases/download/v2.3.4/codeql-linux64.zip
 unzip codeql-linux64.zip 
