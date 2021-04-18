@@ -1,7 +1,7 @@
 
 # README
 
-This is the artifact for the paper *Reducing Oversynchronization in JavaScript Applications*.
+This is the artifact for the paper *Reducing Over-Synchronization in JavaScript Applications*.
 
 ## Contents of the artifact
 
