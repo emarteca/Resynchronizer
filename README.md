@@ -21,7 +21,6 @@ Make sure you have docker installed.
 ```
 # allow docker to access display (so the container can display graphs)
 xhosts +
-
 ```
 
 #### If you don't have the image:
@@ -30,7 +29,6 @@ Then, from the root of the repo, you can build and run the docker image.
 ```
 # build
 docker build -t resynchronizer . 
-
 ```
 
 #### If you do have the image
