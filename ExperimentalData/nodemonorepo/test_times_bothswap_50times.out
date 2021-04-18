@@ -1,0 +1,750 @@
+create function creates files/directories that yet to exist,0.037,create function,18,0.497
+create function ignores already existed files/directories that is not mismatched,0.081,create function,18,0.497
+create function create symlinks with fsx.lstat as options.stat,0.03,create function,18,0.497
+create function create symlinks with fsx.lstatSync as options.stat,0.028,create function,18,0.497
+create function create symlinks with fsx.stat as options.stat,0.049,create function,18,0.497
+create function create symlinks with fsx.statSync as options.stat,0.046,create function,18,0.497
+create function create clone,0.017,create function,18,0.497
+traverse function works with default `deep` and `level`,0.022,create function,18,0.497
+"traverse function only dig names end with ""B""",0.004,create function,18,0.497
+"traverse function does not dig names end with ""B""",0.012,create function,18,0.497
+traverse function works with provided `deep` and `level`,0.022,create function,18,0.497
+traverse function works with `fs.stat` as `stat`,0.022,create function,18,0.497
+traverse function works with `fs.lstat` as `stat`,0.012,create function,18,0.497
+traverse function works with `fs.statSync` as `stat`,0.022,create function,18,0.497
+traverse function works with `fs.lstatSync` as `stat`,0.012,create function,18,0.497
+create function creates files/directories that yet to exist,0.049,create function,18,2.823
+create function ignores already existed files/directories that is not mismatched,0.085,create function,18,2.823
+create function create symlinks with fsx.lstat as options.stat,0.031,create function,18,2.823
+create function create symlinks with fsx.lstatSync as options.stat,0.028,create function,18,2.823
+create function create symlinks with fsx.stat as options.stat,0.047,create function,18,2.823
+create function create symlinks with fsx.statSync as options.stat,0.048,create function,18,2.823
+create function create clone,0.017,create function,18,2.823
+traverse function works with default `deep` and `level`,0.023,create function,18,2.823
+"traverse function only dig names end with ""B""",0.004,create function,18,2.823
+"traverse function does not dig names end with ""B""",0.011,create function,18,2.823
+traverse function works with provided `deep` and `level`,0.023,create function,18,2.823
+traverse function works with `fs.stat` as `stat`,0.022,create function,18,2.823
+traverse function works with `fs.lstat` as `stat`,0.014,create function,18,2.823
+traverse function works with `fs.statSync` as `stat`,0.02,create function,18,2.823
+traverse function works with `fs.lstatSync` as `stat`,0.011,create function,18,2.823
+create function creates files/directories that yet to exist,0.05,create function,18,2.974
+create function ignores already existed files/directories that is not mismatched,0.084,create function,18,2.974
+create function create symlinks with fsx.lstat as options.stat,0.031,create function,18,2.974
+create function create symlinks with fsx.lstatSync as options.stat,0.029,create function,18,2.974
+create function create symlinks with fsx.stat as options.stat,0.048,create function,18,2.974
+create function create symlinks with fsx.statSync as options.stat,0.048,create function,18,2.974
+create function create clone,0.017,create function,18,2.974
+traverse function works with default `deep` and `level`,0.023,create function,18,2.974
+"traverse function only dig names end with ""B""",0.005,create function,18,2.974
+"traverse function does not dig names end with ""B""",0.012,create function,18,2.974
+traverse function works with provided `deep` and `level`,0.023,create function,18,2.974
+traverse function works with `fs.stat` as `stat`,0.021,create function,18,2.974
+traverse function works with `fs.lstat` as `stat`,0.013,create function,18,2.974
+traverse function works with `fs.statSync` as `stat`,0.021,create function,18,2.974
+traverse function works with `fs.lstatSync` as `stat`,0.012,create function,18,2.974
+create function creates files/directories that yet to exist,0.049,create function,18,2.876
+create function ignores already existed files/directories that is not mismatched,0.085,create function,18,2.876
+create function create symlinks with fsx.lstat as options.stat,0.031,create function,18,2.876
+create function create symlinks with fsx.lstatSync as options.stat,0.029,create function,18,2.876
+create function create symlinks with fsx.stat as options.stat,0.049,create function,18,2.876
+create function create symlinks with fsx.statSync as options.stat,0.049,create function,18,2.876
+create function create clone,0.016,create function,18,2.876
+traverse function works with default `deep` and `level`,0.022,create function,18,2.876
+"traverse function only dig names end with ""B""",0.005,create function,18,2.876
+"traverse function does not dig names end with ""B""",0.011,create function,18,2.876
+traverse function works with provided `deep` and `level`,0.022,create function,18,2.876
+traverse function works with `fs.stat` as `stat`,0.022,create function,18,2.876
+traverse function works with `fs.lstat` as `stat`,0.013,create function,18,2.876
+traverse function works with `fs.statSync` as `stat`,0.021,create function,18,2.876
+traverse function works with `fs.lstatSync` as `stat`,0.012,create function,18,2.876
+create function creates files/directories that yet to exist,0.05,create function,18,3.016
+create function ignores already existed files/directories that is not mismatched,0.085,create function,18,3.016
+create function create symlinks with fsx.lstat as options.stat,0.031,create function,18,3.016
+create function create symlinks with fsx.lstatSync as options.stat,0.029,create function,18,3.016
+create function create symlinks with fsx.stat as options.stat,0.048,create function,18,3.016
+create function create symlinks with fsx.statSync as options.stat,0.047,create function,18,3.016
+create function create clone,0.017,create function,18,3.016
+traverse function works with default `deep` and `level`,0.022,create function,18,3.016
+"traverse function only dig names end with ""B""",0.005,create function,18,3.016
+"traverse function does not dig names end with ""B""",0.011,create function,18,3.016
+traverse function works with provided `deep` and `level`,0.022,create function,18,3.016
+traverse function works with `fs.stat` as `stat`,0.021,create function,18,3.016
+traverse function works with `fs.lstat` as `stat`,0.013,create function,18,3.016
+traverse function works with `fs.statSync` as `stat`,0.022,create function,18,3.016
+traverse function works with `fs.lstatSync` as `stat`,0.013,create function,18,3.016
+create function creates files/directories that yet to exist,0.048,create function,18,2.809
+create function ignores already existed files/directories that is not mismatched,0.081,create function,18,2.809
+create function create symlinks with fsx.lstat as options.stat,0.031,create function,18,2.809
+create function create symlinks with fsx.lstatSync as options.stat,0.028,create function,18,2.809
+create function create symlinks with fsx.stat as options.stat,0.047,create function,18,2.809
+create function create symlinks with fsx.statSync as options.stat,0.047,create function,18,2.809
+create function create clone,0.016,create function,18,2.809
+traverse function works with default `deep` and `level`,0.023,create function,18,2.809
+"traverse function only dig names end with ""B""",0.005,create function,18,2.809
+"traverse function does not dig names end with ""B""",0.011,create function,18,2.809
+traverse function works with provided `deep` and `level`,0.022,create function,18,2.809
+traverse function works with `fs.stat` as `stat`,0.021,create function,18,2.809
+traverse function works with `fs.lstat` as `stat`,0.013,create function,18,2.809
+traverse function works with `fs.statSync` as `stat`,0.02,create function,18,2.809
+traverse function works with `fs.lstatSync` as `stat`,0.012,create function,18,2.809
+create function creates files/directories that yet to exist,0.053,create function,18,2.992
+create function ignores already existed files/directories that is not mismatched,0.084,create function,18,2.992
+create function create symlinks with fsx.lstat as options.stat,0.031,create function,18,2.992
+create function create symlinks with fsx.lstatSync as options.stat,0.029,create function,18,2.992
+create function create symlinks with fsx.stat as options.stat,0.048,create function,18,2.992
+create function create symlinks with fsx.statSync as options.stat,0.048,create function,18,2.992
+create function create clone,0.017,create function,18,2.992
+traverse function works with default `deep` and `level`,0.022,create function,18,2.992
+"traverse function only dig names end with ""B""",0.005,create function,18,2.992
+"traverse function does not dig names end with ""B""",0.011,create function,18,2.992
+traverse function works with provided `deep` and `level`,0.022,create function,18,2.992
+traverse function works with `fs.stat` as `stat`,0.021,create function,18,2.992
+traverse function works with `fs.lstat` as `stat`,0.013,create function,18,2.992
+traverse function works with `fs.statSync` as `stat`,0.021,create function,18,2.992
+traverse function works with `fs.lstatSync` as `stat`,0.012,create function,18,2.992
+create function creates files/directories that yet to exist,0.049,create function,18,2.858
+create function ignores already existed files/directories that is not mismatched,0.082,create function,18,2.858
+create function create symlinks with fsx.lstat as options.stat,0.033,create function,18,2.858
+create function create symlinks with fsx.lstatSync as options.stat,0.029,create function,18,2.858
+create function create symlinks with fsx.stat as options.stat,0.048,create function,18,2.858
+create function create symlinks with fsx.statSync as options.stat,0.048,create function,18,2.858
+create function create clone,0.016,create function,18,2.858
+traverse function works with default `deep` and `level`,0.022,create function,18,2.858
+"traverse function only dig names end with ""B""",0.005,create function,18,2.858
+"traverse function does not dig names end with ""B""",0.011,create function,18,2.858
+traverse function works with provided `deep` and `level`,0.022,create function,18,2.858
+traverse function works with `fs.stat` as `stat`,0.022,create function,18,2.858
+traverse function works with `fs.lstat` as `stat`,0.014,create function,18,2.858
+traverse function works with `fs.statSync` as `stat`,0.02,create function,18,2.858
+traverse function works with `fs.lstatSync` as `stat`,0.012,create function,18,2.858
+create function creates files/directories that yet to exist,0.05,create function,18,2.838
+create function ignores already existed files/directories that is not mismatched,0.085,create function,18,2.838
+create function create symlinks with fsx.lstat as options.stat,0.031,create function,18,2.838
+create function create symlinks with fsx.lstatSync as options.stat,0.029,create function,18,2.838
+create function create symlinks with fsx.stat as options.stat,0.05,create function,18,2.838
+create function create symlinks with fsx.statSync as options.stat,0.048,create function,18,2.838
+create function create clone,0.016,create function,18,2.838
+traverse function works with default `deep` and `level`,0.022,create function,18,2.838
+"traverse function only dig names end with ""B""",0.005,create function,18,2.838
+"traverse function does not dig names end with ""B""",0.011,create function,18,2.838
+traverse function works with provided `deep` and `level`,0.021,create function,18,2.838
+traverse function works with `fs.stat` as `stat`,0.021,create function,18,2.838
+traverse function works with `fs.lstat` as `stat`,0.013,create function,18,2.838
+traverse function works with `fs.statSync` as `stat`,0.02,create function,18,2.838
+traverse function works with `fs.lstatSync` as `stat`,0.013,create function,18,2.838
+create function creates files/directories that yet to exist,0.049,create function,18,2.937
+create function ignores already existed files/directories that is not mismatched,0.082,create function,18,2.937
+create function create symlinks with fsx.lstat as options.stat,0.031,create function,18,2.937
+create function create symlinks with fsx.lstatSync as options.stat,0.028,create function,18,2.937
+create function create symlinks with fsx.stat as options.stat,0.048,create function,18,2.937
+create function create symlinks with fsx.statSync as options.stat,0.048,create function,18,2.937
+create function create clone,0.017,create function,18,2.937
+traverse function works with default `deep` and `level`,0.023,create function,18,2.937
+"traverse function only dig names end with ""B""",0.005,create function,18,2.937
+"traverse function does not dig names end with ""B""",0.011,create function,18,2.937
+traverse function works with provided `deep` and `level`,0.021,create function,18,2.937
+traverse function works with `fs.stat` as `stat`,0.022,create function,18,2.937
+traverse function works with `fs.lstat` as `stat`,0.013,create function,18,2.937
+traverse function works with `fs.statSync` as `stat`,0.02,create function,18,2.937
+traverse function works with `fs.lstatSync` as `stat`,0.012,create function,18,2.937
+create function creates files/directories that yet to exist,0.05,create function,18,2.831
+create function ignores already existed files/directories that is not mismatched,0.081,create function,18,2.831
+create function create symlinks with fsx.lstat as options.stat,0.031,create function,18,2.831
+create function create symlinks with fsx.lstatSync as options.stat,0.028,create function,18,2.831
+create function create symlinks with fsx.stat as options.stat,0.048,create function,18,2.831
+create function create symlinks with fsx.statSync as options.stat,0.047,create function,18,2.831
+create function create clone,0.016,create function,18,2.831
+traverse function works with default `deep` and `level`,0.022,create function,18,2.831
+"traverse function only dig names end with ""B""",0.005,create function,18,2.831
+"traverse function does not dig names end with ""B""",0.01,create function,18,2.831
+traverse function works with provided `deep` and `level`,0.022,create function,18,2.831
+traverse function works with `fs.stat` as `stat`,0.021,create function,18,2.831
+traverse function works with `fs.lstat` as `stat`,0.013,create function,18,2.831
+traverse function works with `fs.statSync` as `stat`,0.02,create function,18,2.831
+traverse function works with `fs.lstatSync` as `stat`,0.011,create function,18,2.831
+create function creates files/directories that yet to exist,0.048,create function,18,2.826
+create function ignores already existed files/directories that is not mismatched,0.082,create function,18,2.826
+create function create symlinks with fsx.lstat as options.stat,0.029,create function,18,2.826
+create function create symlinks with fsx.lstatSync as options.stat,0.028,create function,18,2.826
+create function create symlinks with fsx.stat as options.stat,0.047,create function,18,2.826
+create function create symlinks with fsx.statSync as options.stat,0.047,create function,18,2.826
+create function create clone,0.016,create function,18,2.826
+traverse function works with default `deep` and `level`,0.022,create function,18,2.826
+"traverse function only dig names end with ""B""",0.004,create function,18,2.826
+"traverse function does not dig names end with ""B""",0.011,create function,18,2.826
+traverse function works with provided `deep` and `level`,0.022,create function,18,2.826
+traverse function works with `fs.stat` as `stat`,0.02,create function,18,2.826
+traverse function works with `fs.lstat` as `stat`,0.014,create function,18,2.826
+traverse function works with `fs.statSync` as `stat`,0.019,create function,18,2.826
+traverse function works with `fs.lstatSync` as `stat`,0.012,create function,18,2.826
+create function creates files/directories that yet to exist,0.051,create function,18,2.972
+create function ignores already existed files/directories that is not mismatched,0.086,create function,18,2.972
+create function create symlinks with fsx.lstat as options.stat,0.032,create function,18,2.972
+create function create symlinks with fsx.lstatSync as options.stat,0.029,create function,18,2.972
+create function create symlinks with fsx.stat as options.stat,0.049,create function,18,2.972
+create function create symlinks with fsx.statSync as options.stat,0.047,create function,18,2.972
+create function create clone,0.017,create function,18,2.972
+traverse function works with default `deep` and `level`,0.023,create function,18,2.972
+"traverse function only dig names end with ""B""",0.004,create function,18,2.972
+"traverse function does not dig names end with ""B""",0.012,create function,18,2.972
+traverse function works with provided `deep` and `level`,0.022,create function,18,2.972
+traverse function works with `fs.stat` as `stat`,0.022,create function,18,2.972
+traverse function works with `fs.lstat` as `stat`,0.012,create function,18,2.972
+traverse function works with `fs.statSync` as `stat`,0.022,create function,18,2.972
+traverse function works with `fs.lstatSync` as `stat`,0.013,create function,18,2.972
+create function creates files/directories that yet to exist,0.05,create function,18,2.838
+create function ignores already existed files/directories that is not mismatched,0.083,create function,18,2.838
+create function create symlinks with fsx.lstat as options.stat,0.031,create function,18,2.838
+create function create symlinks with fsx.lstatSync as options.stat,0.029,create function,18,2.838
+create function create symlinks with fsx.stat as options.stat,0.05,create function,18,2.838
+create function create symlinks with fsx.statSync as options.stat,0.048,create function,18,2.838
+create function create clone,0.017,create function,18,2.838
+traverse function works with default `deep` and `level`,0.022,create function,18,2.838
+"traverse function only dig names end with ""B""",0.005,create function,18,2.838
+"traverse function does not dig names end with ""B""",0.011,create function,18,2.838
+traverse function works with provided `deep` and `level`,0.022,create function,18,2.838
+traverse function works with `fs.stat` as `stat`,0.022,create function,18,2.838
+traverse function works with `fs.lstat` as `stat`,0.013,create function,18,2.838
+traverse function works with `fs.statSync` as `stat`,0.021,create function,18,2.838
+traverse function works with `fs.lstatSync` as `stat`,0.012,create function,18,2.838
+create function creates files/directories that yet to exist,0.049,create function,18,2.909
+create function ignores already existed files/directories that is not mismatched,0.08,create function,18,2.909
+create function create symlinks with fsx.lstat as options.stat,0.03,create function,18,2.909
+create function create symlinks with fsx.lstatSync as options.stat,0.028,create function,18,2.909
+create function create symlinks with fsx.stat as options.stat,0.049,create function,18,2.909
+create function create symlinks with fsx.statSync as options.stat,0.046,create function,18,2.909
+create function create clone,0.017,create function,18,2.909
+traverse function works with default `deep` and `level`,0.022,create function,18,2.909
+"traverse function only dig names end with ""B""",0.004,create function,18,2.909
+"traverse function does not dig names end with ""B""",0.011,create function,18,2.909
+traverse function works with provided `deep` and `level`,0.022,create function,18,2.909
+traverse function works with `fs.stat` as `stat`,0.021,create function,18,2.909
+traverse function works with `fs.lstat` as `stat`,0.012,create function,18,2.909
+traverse function works with `fs.statSync` as `stat`,0.021,create function,18,2.909
+traverse function works with `fs.lstatSync` as `stat`,0.012,create function,18,2.909
+create function creates files/directories that yet to exist,0.05,create function,18,2.881
+create function ignores already existed files/directories that is not mismatched,0.085,create function,18,2.881
+create function create symlinks with fsx.lstat as options.stat,0.031,create function,18,2.881
+create function create symlinks with fsx.lstatSync as options.stat,0.029,create function,18,2.881
+create function create symlinks with fsx.stat as options.stat,0.049,create function,18,2.881
+create function create symlinks with fsx.statSync as options.stat,0.048,create function,18,2.881
+create function create clone,0.016,create function,18,2.881
+traverse function works with default `deep` and `level`,0.023,create function,18,2.881
+"traverse function only dig names end with ""B""",0.005,create function,18,2.881
+"traverse function does not dig names end with ""B""",0.011,create function,18,2.881
+traverse function works with provided `deep` and `level`,0.022,create function,18,2.881
+traverse function works with `fs.stat` as `stat`,0.022,create function,18,2.881
+traverse function works with `fs.lstat` as `stat`,0.014,create function,18,2.881
+traverse function works with `fs.statSync` as `stat`,0.022,create function,18,2.881
+traverse function works with `fs.lstatSync` as `stat`,0.013,create function,18,2.881
+create function creates files/directories that yet to exist,0.05,create function,18,2.883
+create function ignores already existed files/directories that is not mismatched,0.084,create function,18,2.883
+create function create symlinks with fsx.lstat as options.stat,0.031,create function,18,2.883
+create function create symlinks with fsx.lstatSync as options.stat,0.028,create function,18,2.883
+create function create symlinks with fsx.stat as options.stat,0.049,create function,18,2.883
+create function create symlinks with fsx.statSync as options.stat,0.048,create function,18,2.883
+create function create clone,0.016,create function,18,2.883
+traverse function works with default `deep` and `level`,0.022,create function,18,2.883
+"traverse function only dig names end with ""B""",0.005,create function,18,2.883
+"traverse function does not dig names end with ""B""",0.011,create function,18,2.883
+traverse function works with provided `deep` and `level`,0.022,create function,18,2.883
+traverse function works with `fs.stat` as `stat`,0.022,create function,18,2.883
+traverse function works with `fs.lstat` as `stat`,0.013,create function,18,2.883
+traverse function works with `fs.statSync` as `stat`,0.02,create function,18,2.883
+traverse function works with `fs.lstatSync` as `stat`,0.012,create function,18,2.883
+create function creates files/directories that yet to exist,0.049,create function,18,2.895
+create function ignores already existed files/directories that is not mismatched,0.081,create function,18,2.895
+create function create symlinks with fsx.lstat as options.stat,0.029,create function,18,2.895
+create function create symlinks with fsx.lstatSync as options.stat,0.028,create function,18,2.895
+create function create symlinks with fsx.stat as options.stat,0.047,create function,18,2.895
+create function create symlinks with fsx.statSync as options.stat,0.046,create function,18,2.895
+create function create clone,0.016,create function,18,2.895
+traverse function works with default `deep` and `level`,0.023,create function,18,2.895
+"traverse function only dig names end with ""B""",0.004,create function,18,2.895
+"traverse function does not dig names end with ""B""",0.011,create function,18,2.895
+traverse function works with provided `deep` and `level`,0.021,create function,18,2.895
+traverse function works with `fs.stat` as `stat`,0.021,create function,18,2.895
+traverse function works with `fs.lstat` as `stat`,0.013,create function,18,2.895
+traverse function works with `fs.statSync` as `stat`,0.021,create function,18,2.895
+traverse function works with `fs.lstatSync` as `stat`,0.012,create function,18,2.895
+create function creates files/directories that yet to exist,0.049,create function,18,2.85
+create function ignores already existed files/directories that is not mismatched,0.081,create function,18,2.85
+create function create symlinks with fsx.lstat as options.stat,0.032,create function,18,2.85
+create function create symlinks with fsx.lstatSync as options.stat,0.028,create function,18,2.85
+create function create symlinks with fsx.stat as options.stat,0.049,create function,18,2.85
+create function create symlinks with fsx.statSync as options.stat,0.047,create function,18,2.85
+create function create clone,0.017,create function,18,2.85
+traverse function works with default `deep` and `level`,0.022,create function,18,2.85
+"traverse function only dig names end with ""B""",0.004,create function,18,2.85
+"traverse function does not dig names end with ""B""",0.011,create function,18,2.85
+traverse function works with provided `deep` and `level`,0.022,create function,18,2.85
+traverse function works with `fs.stat` as `stat`,0.021,create function,18,2.85
+traverse function works with `fs.lstat` as `stat`,0.013,create function,18,2.85
+traverse function works with `fs.statSync` as `stat`,0.02,create function,18,2.85
+traverse function works with `fs.lstatSync` as `stat`,0.012,create function,18,2.85
+create function creates files/directories that yet to exist,0.052,create function,18,3.004
+create function ignores already existed files/directories that is not mismatched,0.08,create function,18,3.004
+create function create symlinks with fsx.lstat as options.stat,0.03,create function,18,3.004
+create function create symlinks with fsx.lstatSync as options.stat,0.028,create function,18,3.004
+create function create symlinks with fsx.stat as options.stat,0.047,create function,18,3.004
+create function create symlinks with fsx.statSync as options.stat,0.047,create function,18,3.004
+create function create clone,0.016,create function,18,3.004
+traverse function works with default `deep` and `level`,0.022,create function,18,3.004
+"traverse function only dig names end with ""B""",0.004,create function,18,3.004
+"traverse function does not dig names end with ""B""",0.011,create function,18,3.004
+traverse function works with provided `deep` and `level`,0.022,create function,18,3.004
+traverse function works with `fs.stat` as `stat`,0.02,create function,18,3.004
+traverse function works with `fs.lstat` as `stat`,0.013,create function,18,3.004
+traverse function works with `fs.statSync` as `stat`,0.02,create function,18,3.004
+traverse function works with `fs.lstatSync` as `stat`,0.011,create function,18,3.004
+create function creates files/directories that yet to exist,0.049,create function,18,2.878
+create function ignores already existed files/directories that is not mismatched,0.079,create function,18,2.878
+create function create symlinks with fsx.lstat as options.stat,0.03,create function,18,2.878
+create function create symlinks with fsx.lstatSync as options.stat,0.028,create function,18,2.878
+create function create symlinks with fsx.stat as options.stat,0.049,create function,18,2.878
+create function create symlinks with fsx.statSync as options.stat,0.047,create function,18,2.878
+create function create clone,0.016,create function,18,2.878
+traverse function works with default `deep` and `level`,0.022,create function,18,2.878
+"traverse function only dig names end with ""B""",0.005,create function,18,2.878
+"traverse function does not dig names end with ""B""",0.011,create function,18,2.878
+traverse function works with provided `deep` and `level`,0.022,create function,18,2.878
+traverse function works with `fs.stat` as `stat`,0.021,create function,18,2.878
+traverse function works with `fs.lstat` as `stat`,0.013,create function,18,2.878
+traverse function works with `fs.statSync` as `stat`,0.02,create function,18,2.878
+traverse function works with `fs.lstatSync` as `stat`,0.012,create function,18,2.878
+create function creates files/directories that yet to exist,0.05,create function,18,2.893
+create function ignores already existed files/directories that is not mismatched,0.084,create function,18,2.893
+create function create symlinks with fsx.lstat as options.stat,0.031,create function,18,2.893
+create function create symlinks with fsx.lstatSync as options.stat,0.027,create function,18,2.893
+create function create symlinks with fsx.stat as options.stat,0.048,create function,18,2.893
+create function create symlinks with fsx.statSync as options.stat,0.046,create function,18,2.893
+create function create clone,0.016,create function,18,2.893
+traverse function works with default `deep` and `level`,0.022,create function,18,2.893
+"traverse function only dig names end with ""B""",0.004,create function,18,2.893
+"traverse function does not dig names end with ""B""",0.011,create function,18,2.893
+traverse function works with provided `deep` and `level`,0.022,create function,18,2.893
+traverse function works with `fs.stat` as `stat`,0.021,create function,18,2.893
+traverse function works with `fs.lstat` as `stat`,0.013,create function,18,2.893
+traverse function works with `fs.statSync` as `stat`,0.02,create function,18,2.893
+traverse function works with `fs.lstatSync` as `stat`,0.012,create function,18,2.893
+create function creates files/directories that yet to exist,0.048,create function,18,2.894
+create function ignores already existed files/directories that is not mismatched,0.079,create function,18,2.894
+create function create symlinks with fsx.lstat as options.stat,0.03,create function,18,2.894
+create function create symlinks with fsx.lstatSync as options.stat,0.028,create function,18,2.894
+create function create symlinks with fsx.stat as options.stat,0.047,create function,18,2.894
+create function create symlinks with fsx.statSync as options.stat,0.046,create function,18,2.894
+create function create clone,0.016,create function,18,2.894
+traverse function works with default `deep` and `level`,0.022,create function,18,2.894
+"traverse function only dig names end with ""B""",0.004,create function,18,2.894
+"traverse function does not dig names end with ""B""",0.011,create function,18,2.894
+traverse function works with provided `deep` and `level`,0.021,create function,18,2.894
+traverse function works with `fs.stat` as `stat`,0.02,create function,18,2.894
+traverse function works with `fs.lstat` as `stat`,0.013,create function,18,2.894
+traverse function works with `fs.statSync` as `stat`,0.02,create function,18,2.894
+traverse function works with `fs.lstatSync` as `stat`,0.011,create function,18,2.894
+create function creates files/directories that yet to exist,0.048,create function,18,2.946
+create function ignores already existed files/directories that is not mismatched,0.081,create function,18,2.946
+create function create symlinks with fsx.lstat as options.stat,0.03,create function,18,2.946
+create function create symlinks with fsx.lstatSync as options.stat,0.028,create function,18,2.946
+create function create symlinks with fsx.stat as options.stat,0.048,create function,18,2.946
+create function create symlinks with fsx.statSync as options.stat,0.046,create function,18,2.946
+create function create clone,0.017,create function,18,2.946
+traverse function works with default `deep` and `level`,0.023,create function,18,2.946
+"traverse function only dig names end with ""B""",0.004,create function,18,2.946
+"traverse function does not dig names end with ""B""",0.012,create function,18,2.946
+traverse function works with provided `deep` and `level`,0.021,create function,18,2.946
+traverse function works with `fs.stat` as `stat`,0.021,create function,18,2.946
+traverse function works with `fs.lstat` as `stat`,0.013,create function,18,2.946
+traverse function works with `fs.statSync` as `stat`,0.02,create function,18,2.946
+traverse function works with `fs.lstatSync` as `stat`,0.012,create function,18,2.946
+create function creates files/directories that yet to exist,0.052,create function,18,2.831
+create function ignores already existed files/directories that is not mismatched,0.083,create function,18,2.831
+create function create symlinks with fsx.lstat as options.stat,0.031,create function,18,2.831
+create function create symlinks with fsx.lstatSync as options.stat,0.028,create function,18,2.831
+create function create symlinks with fsx.stat as options.stat,0.049,create function,18,2.831
+create function create symlinks with fsx.statSync as options.stat,0.048,create function,18,2.831
+create function create clone,0.017,create function,18,2.831
+traverse function works with default `deep` and `level`,0.023,create function,18,2.831
+"traverse function only dig names end with ""B""",0.004,create function,18,2.831
+"traverse function does not dig names end with ""B""",0.011,create function,18,2.831
+traverse function works with provided `deep` and `level`,0.023,create function,18,2.831
+traverse function works with `fs.stat` as `stat`,0.021,create function,18,2.831
+traverse function works with `fs.lstat` as `stat`,0.014,create function,18,2.831
+traverse function works with `fs.statSync` as `stat`,0.021,create function,18,2.831
+traverse function works with `fs.lstatSync` as `stat`,0.011,create function,18,2.831
+create function creates files/directories that yet to exist,0.049,create function,18,2.929
+create function ignores already existed files/directories that is not mismatched,0.081,create function,18,2.929
+create function create symlinks with fsx.lstat as options.stat,0.03,create function,18,2.929
+create function create symlinks with fsx.lstatSync as options.stat,0.028,create function,18,2.929
+create function create symlinks with fsx.stat as options.stat,0.048,create function,18,2.929
+create function create symlinks with fsx.statSync as options.stat,0.05,create function,18,2.929
+create function create clone,0.016,create function,18,2.929
+traverse function works with default `deep` and `level`,0.022,create function,18,2.929
+"traverse function only dig names end with ""B""",0.004,create function,18,2.929
+"traverse function does not dig names end with ""B""",0.011,create function,18,2.929
+traverse function works with provided `deep` and `level`,0.022,create function,18,2.929
+traverse function works with `fs.stat` as `stat`,0.02,create function,18,2.929
+traverse function works with `fs.lstat` as `stat`,0.013,create function,18,2.929
+traverse function works with `fs.statSync` as `stat`,0.02,create function,18,2.929
+traverse function works with `fs.lstatSync` as `stat`,0.012,create function,18,2.929
+create function creates files/directories that yet to exist,0.05,create function,18,2.837
+create function ignores already existed files/directories that is not mismatched,0.081,create function,18,2.837
+create function create symlinks with fsx.lstat as options.stat,0.03,create function,18,2.837
+create function create symlinks with fsx.lstatSync as options.stat,0.028,create function,18,2.837
+create function create symlinks with fsx.stat as options.stat,0.049,create function,18,2.837
+create function create symlinks with fsx.statSync as options.stat,0.045,create function,18,2.837
+create function create clone,0.016,create function,18,2.837
+traverse function works with default `deep` and `level`,0.022,create function,18,2.837
+"traverse function only dig names end with ""B""",0.004,create function,18,2.837
+"traverse function does not dig names end with ""B""",0.011,create function,18,2.837
+traverse function works with provided `deep` and `level`,0.022,create function,18,2.837
+traverse function works with `fs.stat` as `stat`,0.02,create function,18,2.837
+traverse function works with `fs.lstat` as `stat`,0.013,create function,18,2.837
+traverse function works with `fs.statSync` as `stat`,0.02,create function,18,2.837
+traverse function works with `fs.lstatSync` as `stat`,0.011,create function,18,2.837
+create function creates files/directories that yet to exist,0.049,create function,18,2.823
+create function ignores already existed files/directories that is not mismatched,0.081,create function,18,2.823
+create function create symlinks with fsx.lstat as options.stat,0.03,create function,18,2.823
+create function create symlinks with fsx.lstatSync as options.stat,0.028,create function,18,2.823
+create function create symlinks with fsx.stat as options.stat,0.046,create function,18,2.823
+create function create symlinks with fsx.statSync as options.stat,0.047,create function,18,2.823
+create function create clone,0.016,create function,18,2.823
+traverse function works with default `deep` and `level`,0.022,create function,18,2.823
+"traverse function only dig names end with ""B""",0.004,create function,18,2.823
+"traverse function does not dig names end with ""B""",0.011,create function,18,2.823
+traverse function works with provided `deep` and `level`,0.022,create function,18,2.823
+traverse function works with `fs.stat` as `stat`,0.021,create function,18,2.823
+traverse function works with `fs.lstat` as `stat`,0.014,create function,18,2.823
+traverse function works with `fs.statSync` as `stat`,0.02,create function,18,2.823
+traverse function works with `fs.lstatSync` as `stat`,0.012,create function,18,2.823
+create function creates files/directories that yet to exist,0.049,create function,18,2.859
+create function ignores already existed files/directories that is not mismatched,0.085,create function,18,2.859
+create function create symlinks with fsx.lstat as options.stat,0.031,create function,18,2.859
+create function create symlinks with fsx.lstatSync as options.stat,0.029,create function,18,2.859
+create function create symlinks with fsx.stat as options.stat,0.051,create function,18,2.859
+create function create symlinks with fsx.statSync as options.stat,0.051,create function,18,2.859
+create function create clone,0.016,create function,18,2.859
+traverse function works with default `deep` and `level`,0.023,create function,18,2.859
+"traverse function only dig names end with ""B""",0.004,create function,18,2.859
+"traverse function does not dig names end with ""B""",0.011,create function,18,2.859
+traverse function works with provided `deep` and `level`,0.022,create function,18,2.859
+traverse function works with `fs.stat` as `stat`,0.021,create function,18,2.859
+traverse function works with `fs.lstat` as `stat`,0.013,create function,18,2.859
+traverse function works with `fs.statSync` as `stat`,0.022,create function,18,2.859
+traverse function works with `fs.lstatSync` as `stat`,0.013,create function,18,2.859
+create function creates files/directories that yet to exist,0.048,create function,18,2.821
+create function ignores already existed files/directories that is not mismatched,0.081,create function,18,2.821
+create function create symlinks with fsx.lstat as options.stat,0.032,create function,18,2.821
+create function create symlinks with fsx.lstatSync as options.stat,0.028,create function,18,2.821
+create function create symlinks with fsx.stat as options.stat,0.047,create function,18,2.821
+create function create symlinks with fsx.statSync as options.stat,0.047,create function,18,2.821
+create function create clone,0.015,create function,18,2.821
+traverse function works with default `deep` and `level`,0.022,create function,18,2.821
+"traverse function only dig names end with ""B""",0.005,create function,18,2.821
+"traverse function does not dig names end with ""B""",0.011,create function,18,2.821
+traverse function works with provided `deep` and `level`,0.022,create function,18,2.821
+traverse function works with `fs.stat` as `stat`,0.021,create function,18,2.821
+traverse function works with `fs.lstat` as `stat`,0.013,create function,18,2.821
+traverse function works with `fs.statSync` as `stat`,0.02,create function,18,2.821
+traverse function works with `fs.lstatSync` as `stat`,0.012,create function,18,2.821
+create function creates files/directories that yet to exist,0.048,create function,18,2.855
+create function ignores already existed files/directories that is not mismatched,0.083,create function,18,2.855
+create function create symlinks with fsx.lstat as options.stat,0.03,create function,18,2.855
+create function create symlinks with fsx.lstatSync as options.stat,0.029,create function,18,2.855
+create function create symlinks with fsx.stat as options.stat,0.048,create function,18,2.855
+create function create symlinks with fsx.statSync as options.stat,0.047,create function,18,2.855
+create function create clone,0.016,create function,18,2.855
+traverse function works with default `deep` and `level`,0.022,create function,18,2.855
+"traverse function only dig names end with ""B""",0.004,create function,18,2.855
+"traverse function does not dig names end with ""B""",0.011,create function,18,2.855
+traverse function works with provided `deep` and `level`,0.022,create function,18,2.855
+traverse function works with `fs.stat` as `stat`,0.021,create function,18,2.855
+traverse function works with `fs.lstat` as `stat`,0.013,create function,18,2.855
+traverse function works with `fs.statSync` as `stat`,0.021,create function,18,2.855
+traverse function works with `fs.lstatSync` as `stat`,0.013,create function,18,2.855
+create function creates files/directories that yet to exist,0.048,create function,18,2.795
+create function ignores already existed files/directories that is not mismatched,0.081,create function,18,2.795
+reate function create symlinks with fsx.lstat as options.stat,0.031,create function,18,2.795
+create function create symlinks with fsx.lstatSync as options.stat,0.028,create function,18,2.795
+create function create symlinks with fsx.stat as options.stat,0.048,create function,18,2.795
+create function create symlinks with fsx.statSync as options.stat,0.046,create function,18,2.795
+create function create clone,0.017,create function,18,2.795
+traverse function works with default `deep` and `level`,0.022,create function,18,2.795
+"traverse function only dig names end with ""B""",0.004,create function,18,2.795
+"traverse function does not dig names end with ""B""",0.011,create function,18,2.795
+traverse function works with provided `deep` and `level`,0.022,create function,18,2.795
+traverse function works with `fs.stat` as `stat`,0.021,create function,18,2.795
+traverse function works with `fs.lstat` as `stat`,0.014,create function,18,2.795
+traverse function works with `fs.statSync` as `stat`,0.02,create function,18,2.795
+traverse function works with `fs.lstatSync` as `stat`,0.012,create function,18,2.795
+create function creates files/directories that yet to exist,0.049,create function,18,2.824
+create function ignores already existed files/directories that is not mismatched,0.082,create function,18,2.824
+create function create symlinks with fsx.lstat as options.stat,0.03,create function,18,2.824
+create function create symlinks with fsx.lstatSync as options.stat,0.028,create function,18,2.824
+create function create symlinks with fsx.stat as options.stat,0.049,create function,18,2.824
+create function create symlinks with fsx.statSync as options.stat,0.047,create function,18,2.824
+create function create clone,0.017,create function,18,2.824
+traverse function works with default `deep` and `level`,0.022,create function,18,2.824
+"traverse function only dig names end with ""B""",0.005,create function,18,2.824
+"traverse function does not dig names end with ""B""",0.01,create function,18,2.824
+traverse function works with provided `deep` and `level`,0.022,create function,18,2.824
+traverse function works with `fs.stat` as `stat`,0.021,create function,18,2.824
+traverse function works with `fs.lstat` as `stat`,0.013,create function,18,2.824
+traverse function works with `fs.statSync` as `stat`,0.02,create function,18,2.824
+traverse function works with `fs.lstatSync` as `stat`,0.013,create function,18,2.824
+create function creates files/directories that yet to exist,0.05,create function,18,2.915
+create function ignores already existed files/directories that is not mismatched,0.082,create function,18,2.915
+create function create symlinks with fsx.lstat as options.stat,0.033,create function,18,2.915
+create function create symlinks with fsx.lstatSync as options.stat,0.028,create function,18,2.915
+create function create symlinks with fsx.stat as options.stat,0.048,create function,18,2.915
+create function create symlinks with fsx.statSync as options.stat,0.047,create function,18,2.915
+create function create clone,0.016,create function,18,2.915
+traverse function works with default `deep` and `level`,0.022,create function,18,2.915
+"traverse function only dig names end with ""B""",0.005,create function,18,2.915
+"traverse function does not dig names end with ""B""",0.011,create function,18,2.915
+traverse function works with provided `deep` and `level`,0.022,create function,18,2.915
+traverse function works with `fs.stat` as `stat`,0.021,create function,18,2.915
+traverse function works with `fs.lstat` as `stat`,0.013,create function,18,2.915
+traverse function works with `fs.statSync` as `stat`,0.02,create function,18,2.915
+traverse function works with `fs.lstatSync` as `stat`,0.011,create function,18,2.915
+create function creates files/directories that yet to exist,0.049,create function,18,2.805
+create function ignores already existed files/directories that is not mismatched,0.081,create function,18,2.805
+create function create symlinks with fsx.lstat as options.stat,0.033,create function,18,2.805
+create function create symlinks with fsx.lstatSync as options.stat,0.027,create function,18,2.805
+create function create symlinks with fsx.stat as options.stat,0.048,create function,18,2.805
+create function create symlinks with fsx.statSync as options.stat,0.046,create function,18,2.805
+create function create clone,0.017,create function,18,2.805
+traverse function works with default `deep` and `level`,0.022,create function,18,2.805
+"traverse function only dig names end with ""B""",0.005,create function,18,2.805
+"traverse function does not dig names end with ""B""",0.011,create function,18,2.805
+traverse function works with provided `deep` and `level`,0.022,create function,18,2.805
+traverse function works with `fs.stat` as `stat`,0.021,create function,18,2.805
+traverse function works with `fs.lstat` as `stat`,0.013,create function,18,2.805
+traverse function works with `fs.statSync` as `stat`,0.02,create function,18,2.805
+traverse function works with `fs.lstatSync` as `stat`,0.012,create function,18,2.805
+create function creates files/directories that yet to exist,0.049,create function,18,2.951
+create function ignores already existed files/directories that is not mismatched,0.085,create function,18,2.951
+create function create symlinks with fsx.lstat as options.stat,0.032,create function,18,2.951
+create function create symlinks with fsx.lstatSync as options.stat,0.028,create function,18,2.951
+create function create symlinks with fsx.stat as options.stat,0.049,create function,18,2.951
+create function create symlinks with fsx.statSync as options.stat,0.049,create function,18,2.951
+create function create clone,0.017,create function,18,2.951
+traverse function works with default `deep` and `level`,0.023,create function,18,2.951
+"traverse function only dig names end with ""B""",0.005,create function,18,2.951
+"traverse function does not dig names end with ""B""",0.011,create function,18,2.951
+traverse function works with provided `deep` and `level`,0.023,create function,18,2.951
+traverse function works with `fs.stat` as `stat`,0.022,create function,18,2.951
+traverse function works with `fs.lstat` as `stat`,0.013,create function,18,2.951
+traverse function works with `fs.statSync` as `stat`,0.021,create function,18,2.951
+traverse function works with `fs.lstatSync` as `stat`,0.012,create function,18,2.951
+create function creates files/directories that yet to exist,0.049,create function,18,2.977
+create function ignores already existed files/directories that is not mismatched,0.08,create function,18,2.977
+create function create symlinks with fsx.lstat as options.stat,0.031,create function,18,2.977
+create function create symlinks with fsx.lstatSync as options.stat,0.027,create function,18,2.977
+create function create symlinks with fsx.stat as options.stat,0.047,create function,18,2.977
+create function create symlinks with fsx.statSync as options.stat,0.057,create function,18,2.977
+create function create clone,0.015,create function,18,2.977
+traverse function works with default `deep` and `level`,0.022,create function,18,2.977
+"traverse function only dig names end with ""B""",0.005,create function,18,2.977
+"traverse function does not dig names end with ""B""",0.011,create function,18,2.977
+traverse function works with provided `deep` and `level`,0.022,create function,18,2.977
+traverse function works with `fs.stat` as `stat`,0.021,create function,18,2.977
+traverse function works with `fs.lstat` as `stat`,0.013,create function,18,2.977
+traverse function works with `fs.statSync` as `stat`,0.02,create function,18,2.977
+traverse function works with `fs.lstatSync` as `stat`,0.011,create function,18,2.977
+create function creates files/directories that yet to exist,0.05,create function,18,2.863
+create function ignores already existed files/directories that is not mismatched,0.081,create function,18,2.863
+create function create symlinks with fsx.lstat as options.stat,0.03,create function,18,2.863
+create function create symlinks with fsx.lstatSync as options.stat,0.027,create function,18,2.863
+create function create symlinks with fsx.stat as options.stat,0.048,create function,18,2.863
+create function create symlinks with fsx.statSync as options.stat,0.046,create function,18,2.863
+create function create clone,0.017,create function,18,2.863
+traverse function works with default `deep` and `level`,0.022,create function,18,2.863
+"traverse function only dig names end with ""B""",0.005,create function,18,2.863
+"traverse function does not dig names end with ""B""",0.011,create function,18,2.863
+traverse function works with provided `deep` and `level`,0.021,create function,18,2.863
+traverse function works with `fs.stat` as `stat`,0.021,create function,18,2.863
+traverse function works with `fs.lstat` as `stat`,0.013,create function,18,2.863
+traverse function works with `fs.statSync` as `stat`,0.02,create function,18,2.863
+traverse function works with `fs.lstatSync` as `stat`,0.013,create function,18,2.863
+create function creates files/directories that yet to exist,0.049,create function,18,2.829
+create function ignores already existed files/directories that is not mismatched,0.085,create function,18,2.829
+create function create symlinks with fsx.lstat as options.stat,0.031,create function,18,2.829
+create function create symlinks with fsx.lstatSync as options.stat,0.028,create function,18,2.829
+create function create symlinks with fsx.stat as options.stat,0.049,create function,18,2.829
+create function create symlinks with fsx.statSync as options.stat,0.048,create function,18,2.829
+create function create clone,0.016,create function,18,2.829
+traverse function works with default `deep` and `level`,0.023,create function,18,2.829
+"traverse function only dig names end with ""B""",0.005,create function,18,2.829
+"traverse function does not dig names end with ""B""",0.011,create function,18,2.829
+traverse function works with provided `deep` and `level`,0.022,create function,18,2.829
+traverse function works with `fs.stat` as `stat`,0.021,create function,18,2.829
+traverse function works with `fs.lstat` as `stat`,0.014,create function,18,2.829
+traverse function works with `fs.statSync` as `stat`,0.02,create function,18,2.829
+traverse function works with `fs.lstatSync` as `stat`,0.012,create function,18,2.829
+create function creates files/directories that yet to exist,0.051,create function,18,2.86
+create function ignores already existed files/directories that is not mismatched,0.088,create function,18,2.86
+create function create symlinks with fsx.lstat as options.stat,0.032,create function,18,2.86
+create function create symlinks with fsx.lstatSync as options.stat,0.028,create function,18,2.86
+create function create symlinks with fsx.stat as options.stat,0.05,create function,18,2.86
+create function create symlinks with fsx.statSync as options.stat,0.049,create function,18,2.86
+create function create clone,0.016,create function,18,2.86
+traverse function works with default `deep` and `level`,0.022,create function,18,2.86
+"traverse function only dig names end with ""B""",0.005,create function,18,2.86
+"traverse function does not dig names end with ""B""",0.011,create function,18,2.86
+traverse function works with provided `deep` and `level`,0.022,create function,18,2.86
+traverse function works with `fs.stat` as `stat`,0.021,create function,18,2.86
+traverse function works with `fs.lstat` as `stat`,0.013,create function,18,2.86
+traverse function works with `fs.statSync` as `stat`,0.02,create function,18,2.86
+traverse function works with `fs.lstatSync` as `stat`,0.013,create function,18,2.86
+create function creates files/directories that yet to exist,0.049,create function,18,2.963
+create function ignores already existed files/directories that is not mismatched,0.085,create function,18,2.963
+create function create symlinks with fsx.lstat as options.stat,0.031,create function,18,2.963
+create function create symlinks with fsx.lstatSync as options.stat,0.028,create function,18,2.963
+create function create symlinks with fsx.stat as options.stat,0.049,create function,18,2.963
+create function create symlinks with fsx.statSync as options.stat,0.048,create function,18,2.963
+create function create clone,0.017,create function,18,2.963
+traverse function works with default `deep` and `level`,0.022,create function,18,2.963
+"traverse function only dig names end with ""B""",0.005,create function,18,2.963
+"traverse function does not dig names end with ""B""",0.011,create function,18,2.963
+traverse function works with provided `deep` and `level`,0.023,create function,18,2.963
+traverse function works with `fs.stat` as `stat`,0.021,create function,18,2.963
+traverse function works with `fs.lstat` as `stat`,0.014,create function,18,2.963
+traverse function works with `fs.statSync` as `stat`,0.021,create function,18,2.963
+traverse function works with `fs.lstatSync` as `stat`,0.012,create function,18,2.963
+create function creates files/directories that yet to exist,0.048,create function,18,3.004
+create function ignores already existed files/directories that is not mismatched,0.082,create function,18,3.004
+create function create symlinks with fsx.lstat as options.stat,0.029,create function,18,3.004
+create function create symlinks with fsx.lstatSync as options.stat,0.029,create function,18,3.004
+create function create symlinks with fsx.stat as options.stat,0.047,create function,18,3.004
+create function create symlinks with fsx.statSync as options.stat,0.046,create function,18,3.004
+create function create clone,0.016,create function,18,3.004
+traverse function works with default `deep` and `level`,0.022,create function,18,3.004
+"traverse function only dig names end with ""B""",0.005,create function,18,3.004
+"traverse function does not dig names end with ""B""",0.011,create function,18,3.004
+traverse function works with provided `deep` and `level`,0.022,create function,18,3.004
+traverse function works with `fs.stat` as `stat`,0.021,create function,18,3.004
+traverse function works with `fs.lstat` as `stat`,0.014,create function,18,3.004
+traverse function works with `fs.statSync` as `stat`,0.02,create function,18,3.004
+traverse function works with `fs.lstatSync` as `stat`,0.012,create function,18,3.004
+create function creates files/directories that yet to exist,0.048,create function,18,2.859
+create function ignores already existed files/directories that is not mismatched,0.08,create function,18,2.859
+create function create symlinks with fsx.lstat as options.stat,0.032,create function,18,2.859
+create function create symlinks with fsx.lstatSync as options.stat,0.028,create function,18,2.859
+create function create symlinks with fsx.stat as options.stat,0.048,create function,18,2.859
+create function create symlinks with fsx.statSync as options.stat,0.047,create function,18,2.859
+create function create clone,0.016,create function,18,2.859
+traverse function works with default `deep` and `level`,0.022,create function,18,2.859
+"traverse function only dig names end with ""B""",0.005,create function,18,2.859
+"traverse function does not dig names end with ""B""",0.01,create function,18,2.859
+traverse function works with provided `deep` and `level`,0.022,create function,18,2.859
+traverse function works with `fs.stat` as `stat`,0.02,create function,18,2.859
+traverse function works with `fs.lstat` as `stat`,0.013,create function,18,2.859
+traverse function works with `fs.statSync` as `stat`,0.02,create function,18,2.859
+traverse function works with `fs.lstatSync` as `stat`,0.011,create function,18,2.859
+create function creates files/directories that yet to exist,0.048,create function,18,2.804
+create function ignores already existed files/directories that is not mismatched,0.083,create function,18,2.804
+create function create symlinks with fsx.lstat as options.stat,0.03,create function,18,2.804
+create function create symlinks with fsx.lstatSync as options.stat,0.029,create function,18,2.804
+create function create symlinks with fsx.stat as options.stat,0.048,create function,18,2.804
+create function create symlinks with fsx.statSync as options.stat,0.046,create function,18,2.804
+create function create clone,0.016,create function,18,2.804
+traverse function works with default `deep` and `level`,0.022,create function,18,2.804
+"traverse function only dig names end with ""B""",0.004,create function,18,2.804
+"traverse function does not dig names end with ""B""",0.011,create function,18,2.804
+traverse function works with provided `deep` and `level`,0.022,create function,18,2.804
+traverse function works with `fs.stat` as `stat`,0.021,create function,18,2.804
+traverse function works with `fs.lstat` as `stat`,0.013,create function,18,2.804
+traverse function works with `fs.statSync` as `stat`,0.021,create function,18,2.804
+traverse function works with `fs.lstatSync` as `stat`,0.011,create function,18,2.804
+create function creates files/directories that yet to exist,0.048,create function,18,2.803
+create function ignores already existed files/directories that is not mismatched,0.082,create function,18,2.803
+create function create symlinks with fsx.lstat as options.stat,0.033,create function,18,2.803
+create function create symlinks with fsx.lstatSync as options.stat,0.028,create function,18,2.803
+create function create symlinks with fsx.stat as options.stat,0.048,create function,18,2.803
+create function create symlinks with fsx.statSync as options.stat,0.046,create function,18,2.803
+create function create clone,0.016,create function,18,2.803
+traverse function works with default `deep` and `level`,0.022,create function,18,2.803
+"traverse function only dig names end with ""B""",0.005,create function,18,2.803
+"traverse function does not dig names end with ""B""",0.011,create function,18,2.803
+traverse function works with provided `deep` and `level`,0.022,create function,18,2.803
+traverse function works with `fs.stat` as `stat`,0.02,create function,18,2.803
+traverse function works with `fs.lstat` as `stat`,0.013,create function,18,2.803
+traverse function works with `fs.statSync` as `stat`,0.021,create function,18,2.803
+traverse function works with `fs.lstatSync` as `stat`,0.011,create function,18,2.803
+create function creates files/directories that yet to exist,0.048,create function,18,2.959
+create function ignores already existed files/directories that is not mismatched,0.08,create function,18,2.959
+create function create symlinks with fsx.lstat as options.stat,0.031,create function,18,2.959
+create function create symlinks with fsx.lstatSync as options.stat,0.028,create function,18,2.959
+create function create symlinks with fsx.stat as options.stat,0.047,create function,18,2.959
+create function create symlinks with fsx.statSync as options.stat,0.047,create function,18,2.959
+create function create clone,0.016,create function,18,2.959
+traverse function works with default `deep` and `level`,0.023,create function,18,2.959
+"traverse function only dig names end with ""B""",0.004,create function,18,2.959
+"traverse function does not dig names end with ""B""",0.011,create function,18,2.959
+traverse function works with provided `deep` and `level`,0.023,create function,18,2.959
+traverse function works with `fs.stat` as `stat`,0.021,create function,18,2.959
+traverse function works with `fs.lstat` as `stat`,0.013,create function,18,2.959
+traverse function works with `fs.statSync` as `stat`,0.02,create function,18,2.959
+traverse function works with `fs.lstatSync` as `stat`,0.012,create function,18,2.959
+create function creates files/directories that yet to exist,0.05,create function,18,2.918
+create function ignores already existed files/directories that is not mismatched,0.08,create function,18,2.918
+create function create symlinks with fsx.lstat as options.stat,0.03,create function,18,2.918
+create function create symlinks with fsx.lstatSync as options.stat,0.027,create function,18,2.918
+create function create symlinks with fsx.stat as options.stat,0.048,create function,18,2.918
+create function create symlinks with fsx.statSync as options.stat,0.047,create function,18,2.918
+create function create clone,0.016,create function,18,2.918
+traverse function works with default `deep` and `level`,0.022,create function,18,2.918
+"traverse function only dig names end with ""B""",0.004,create function,18,2.918
+"traverse function does not dig names end with ""B""",0.011,create function,18,2.918
+traverse function works with provided `deep` and `level`,0.022,create function,18,2.918
+traverse function works with `fs.stat` as `stat`,0.021,create function,18,2.918
+traverse function works with `fs.lstat` as `stat`,0.013,create function,18,2.918
+traverse function works with `fs.statSync` as `stat`,0.02,create function,18,2.918
+traverse function works with `fs.lstatSync` as `stat`,0.012,create function,18,2.918
+create function creates files/directories that yet to exist,0.048,create function,18,2.888
+create function ignores already existed files/directories that is not mismatched,0.079,create function,18,2.888
+create function create symlinks with fsx.lstat as options.stat,0.03,create function,18,2.888
+create function create symlinks with fsx.lstatSync as options.stat,0.027,create function,18,2.888
+create function create symlinks with fsx.stat as options.stat,0.047,create function,18,2.888
+create function create symlinks with fsx.statSync as options.stat,0.047,create function,18,2.888
+create function create clone,0.015,create function,18,2.888
+traverse function works with default `deep` and `level`,0.023,create function,18,2.888
+"traverse function only dig names end with ""B""",0.004,create function,18,2.888
+"traverse function does not dig names end with ""B""",0.011,create function,18,2.888
+traverse function works with provided `deep` and `level`,0.023,create function,18,2.888
+traverse function works with `fs.stat` as `stat`,0.021,create function,18,2.888
+traverse function works with `fs.lstat` as `stat`,0.013,create function,18,2.888
+traverse function works with `fs.statSync` as `stat`,0.021,create function,18,2.888
+traverse function works with `fs.lstatSync` as `stat`,0.012,create function,18,2.888
+create function creates files/directories that yet to exist,0.053,create function,18,2.989
+create function ignores already existed files/directories that is not mismatched,0.083,create function,18,2.989
+create function create symlinks with fsx.lstat as options.stat,0.03,create function,18,2.989
+create function create symlinks with fsx.lstatSync as options.stat,0.028,create function,18,2.989
+create function create symlinks with fsx.stat as options.stat,0.048,create function,18,2.989
+create function create symlinks with fsx.statSync as options.stat,0.048,create function,18,2.989
+create function create clone,0.017,create function,18,2.989
+traverse function works with default `deep` and `level`,0.023,create function,18,2.989
+"traverse function only dig names end with ""B""",0.005,create function,18,2.989
+"traverse function does not dig names end with ""B""",0.011,create function,18,2.989
+traverse function works with provided `deep` and `level`,0.022,create function,18,2.989
+traverse function works with `fs.stat` as `stat`,0.022,create function,18,2.989
+traverse function works with `fs.lstat` as `stat`,0.014,create function,18,2.989
+traverse function works with `fs.statSync` as `stat`,0.021,create function,18,2.989
+traverse function works with `fs.lstatSync` as `stat`,0.013,create function,18,2.989
+create function creates files/directories that yet to exist,0.048,create function,18,2.844
+create function ignores already existed files/directories that is not mismatched,0.082,create function,18,2.844
+create function create symlinks with fsx.lstat as options.stat,0.031,create function,18,2.844
+create function create symlinks with fsx.lstatSync as options.stat,0.028,create function,18,2.844
+create function create symlinks with fsx.stat as options.stat,0.048,create function,18,2.844
+create function create symlinks with fsx.statSync as options.stat,0.047,create function,18,2.844
+create function create clone,0.016,create function,18,2.844
+traverse function works with default `deep` and `level`,0.023,create function,18,2.844
+"traverse function only dig names end with ""B""",0.004,create function,18,2.844
+"traverse function does not dig names end with ""B""",0.011,create function,18,2.844
+traverse function works with provided `deep` and `level`,0.022,create function,18,2.844
+traverse function works with `fs.stat` as `stat`,0.021,create function,18,2.844
+traverse function works with `fs.lstat` as `stat`,0.013,create function,18,2.844
+traverse function works with `fs.statSync` as `stat`,0.02,create function,18,2.844
+traverse function works with `fs.lstatSync` as `stat`,0.012,create function,18,2.844

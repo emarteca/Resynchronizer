@@ -1,0 +1,400 @@
+ConsumerComponent fromString() component with compiler should not crash and return a ConsumerComponent Object,0.0000,component with compiler,2,0.0000
+ConsumerComponent fromString() component with compiler should convert the compiler object to a Compiler instance,0.0000,component with compiler,2,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using plain javascript,3,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should set isEs6 to false as it does not have ImportSpecifiers,0.0000,using plain javascript,3,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is inside the component dir should generate two link files, one for the source and one for the dist",0.0010,when dist is inside the component dir,1,0.0010
+"DependencyFileLinkGenerator generate() using ES6 when dist is outside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is outside the component dir,1,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using sass files,2,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkContent that points to the main file inside the package,0.0000,using sass files,2,0.0000
+ConsumerComponent fromString() component with compiler should not crash and return a ConsumerComponent Object,0.0000,component with compiler,2,0.0000
+ConsumerComponent fromString() component with compiler should convert the compiler object to a Compiler instance,0.0000,component with compiler,2,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using plain javascript,3,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should set isEs6 to false as it does not have ImportSpecifiers,0.0000,using plain javascript,3,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is inside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is inside the component dir,1,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is outside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is outside the component dir,1,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using sass files,2,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkContent that points to the main file inside the package,0.0000,using sass files,2,0.0000
+ConsumerComponent fromString() component with compiler should not crash and return a ConsumerComponent Object,0.0000,component with compiler,2,0.0010
+ConsumerComponent fromString() component with compiler should convert the compiler object to a Compiler instance,0.0010,component with compiler,2,0.0010
+DependencyFileLinkGenerator generate() using plain javascript should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using plain javascript,3,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should set isEs6 to false as it does not have ImportSpecifiers,0.0000,using plain javascript,3,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is inside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is inside the component dir,1,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is outside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is outside the component dir,1,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using sass files,2,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkContent that points to the main file inside the package,0.0000,using sass files,2,0.0000
+ConsumerComponent fromString() component with compiler should not crash and return a ConsumerComponent Object,0.0010,component with compiler,2,0.0010
+ConsumerComponent fromString() component with compiler should convert the compiler object to a Compiler instance,0.0000,component with compiler,2,0.0010
+DependencyFileLinkGenerator generate() using plain javascript should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using plain javascript,3,0.0010
+DependencyFileLinkGenerator generate() using plain javascript should set isEs6 to false as it does not have ImportSpecifiers,0.0000,using plain javascript,3,0.0010
+"DependencyFileLinkGenerator generate() using ES6 when dist is inside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is inside the component dir,1,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is outside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is outside the component dir,1,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using sass files,2,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkContent that points to the main file inside the package,0.0000,using sass files,2,0.0000
+ConsumerComponent fromString() component with compiler should not crash and return a ConsumerComponent Object,0.0000,component with compiler,2,0.0000
+ConsumerComponent fromString() component with compiler should convert the compiler object to a Compiler instance,0.0000,component with compiler,2,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using plain javascript,3,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should set isEs6 to false as it does not have ImportSpecifiers,0.0000,using plain javascript,3,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is inside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is inside the component dir,1,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is outside the component dir should generate two link files, one for the source and one for the dist",0.0010,when dist is outside the component dir,1,0.0010
+DependencyFileLinkGenerator generate() using sass files should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using sass files,2,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkContent that points to the main file inside the package,0.0000,using sass files,2,0.0000
+ConsumerComponent fromString() component with compiler should not crash and return a ConsumerComponent Object,0.0000,component with compiler,2,0.0000
+ConsumerComponent fromString() component with compiler should convert the compiler object to a Compiler instance,0.0000,component with compiler,2,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using plain javascript,3,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should set isEs6 to false as it does not have ImportSpecifiers,0.0000,using plain javascript,3,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is inside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is inside the component dir,1,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is outside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is outside the component dir,1,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using sass files,2,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkContent that points to the main file inside the package,0.0000,using sass files,2,0.0000
+ConsumerComponent fromString() component with compiler should not crash and return a ConsumerComponent Object,0.0000,component with compiler,2,0.0000
+ConsumerComponent fromString() component with compiler should convert the compiler object to a Compiler instance,0.0000,component with compiler,2,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using plain javascript,3,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should set isEs6 to false as it does not have ImportSpecifiers,0.0000,using plain javascript,3,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is inside the component dir should generate two link files, one for the source and one for the dist",0.0010,when dist is inside the component dir,1,0.0010
+"DependencyFileLinkGenerator generate() using ES6 when dist is outside the component dir should generate two link files, one for the source and one for the dist",0.0010,when dist is outside the component dir,1,0.0010
+DependencyFileLinkGenerator generate() using sass files should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using sass files,2,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkContent that points to the main file inside the package,0.0000,using sass files,2,0.0000
+ConsumerComponent fromString() component with compiler should not crash and return a ConsumerComponent Object,0.0000,component with compiler,2,0.0000
+ConsumerComponent fromString() component with compiler should convert the compiler object to a Compiler instance,0.0000,component with compiler,2,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using plain javascript,3,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should set isEs6 to false as it does not have ImportSpecifiers,0.0000,using plain javascript,3,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is inside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is inside the component dir,1,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is outside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is outside the component dir,1,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using sass files,2,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkContent that points to the main file inside the package,0.0000,using sass files,2,0.0000
+ConsumerComponent fromString() component with compiler should not crash and return a ConsumerComponent Object,0.0000,component with compiler,2,0.0000
+ConsumerComponent fromString() component with compiler should convert the compiler object to a Compiler instance,0.0000,component with compiler,2,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using plain javascript,3,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should set isEs6 to false as it does not have ImportSpecifiers,0.0000,using plain javascript,3,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is inside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is inside the component dir,1,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is outside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is outside the component dir,1,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using sass files,2,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkContent that points to the main file inside the package,0.0000,using sass files,2,0.0000
+ConsumerComponent fromString() component with compiler should not crash and return a ConsumerComponent Object,0.0000,component with compiler,2,0.0000
+ConsumerComponent fromString() component with compiler should convert the compiler object to a Compiler instance,0.0000,component with compiler,2,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using plain javascript,3,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should set isEs6 to false as it does not have ImportSpecifiers,0.0000,using plain javascript,3,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is inside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is inside the component dir,1,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is outside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is outside the component dir,1,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using sass files,2,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkContent that points to the main file inside the package,0.0000,using sass files,2,0.0000
+ConsumerComponent fromString() component with compiler should not crash and return a ConsumerComponent Object,0.0000,component with compiler,2,0.0000
+ConsumerComponent fromString() component with compiler should convert the compiler object to a Compiler instance,0.0000,component with compiler,2,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using plain javascript,3,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should set isEs6 to false as it does not have ImportSpecifiers,0.0000,using plain javascript,3,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is inside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is inside the component dir,1,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is outside the component dir should generate two link files, one for the source and one for the dist",0.0010,when dist is outside the component dir,1,0.0010
+DependencyFileLinkGenerator generate() using sass files should generate linkPath that consist of component rootDir + sourceRelativePath,0.0010,using sass files,2,0.0010
+DependencyFileLinkGenerator generate() using sass files should generate linkContent that points to the main file inside the package,0.0000,using sass files,2,0.0010
+ConsumerComponent fromString() component with compiler should not crash and return a ConsumerComponent Object,0.0000,component with compiler,2,0.0000
+ConsumerComponent fromString() component with compiler should convert the compiler object to a Compiler instance,0.0000,component with compiler,2,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using plain javascript,3,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should set isEs6 to false as it does not have ImportSpecifiers,0.0000,using plain javascript,3,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is inside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is inside the component dir,1,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is outside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is outside the component dir,1,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using sass files,2,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkContent that points to the main file inside the package,0.0000,using sass files,2,0.0000
+ConsumerComponent fromString() component with compiler should not crash and return a ConsumerComponent Object,0.0000,component with compiler,2,0.0000
+ConsumerComponent fromString() component with compiler should convert the compiler object to a Compiler instance,0.0000,component with compiler,2,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using plain javascript,3,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should set isEs6 to false as it does not have ImportSpecifiers,0.0000,using plain javascript,3,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is inside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is inside the component dir,1,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is outside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is outside the component dir,1,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using sass files,2,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkContent that points to the main file inside the package,0.0000,using sass files,2,0.0000
+ConsumerComponent fromString() component with compiler should not crash and return a ConsumerComponent Object,0.0000,component with compiler,2,0.0000
+ConsumerComponent fromString() component with compiler should convert the compiler object to a Compiler instance,0.0000,component with compiler,2,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using plain javascript,3,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should set isEs6 to false as it does not have ImportSpecifiers,0.0000,using plain javascript,3,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is inside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is inside the component dir,1,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is outside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is outside the component dir,1,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using sass files,2,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkContent that points to the main file inside the package,0.0000,using sass files,2,0.0000
+ConsumerComponent fromString() component with compiler should not crash and return a ConsumerComponent Object,0.0000,component with compiler,2,0.0000
+ConsumerComponent fromString() component with compiler should convert the compiler object to a Compiler instance,0.0000,component with compiler,2,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using plain javascript,3,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should set isEs6 to false as it does not have ImportSpecifiers,0.0000,using plain javascript,3,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is inside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is inside the component dir,1,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is outside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is outside the component dir,1,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using sass files,2,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkContent that points to the main file inside the package,0.0000,using sass files,2,0.0000
+ConsumerComponent fromString() component with compiler should not crash and return a ConsumerComponent Object,0.0000,component with compiler,2,0.0000
+ConsumerComponent fromString() component with compiler should convert the compiler object to a Compiler instance,0.0000,component with compiler,2,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using plain javascript,3,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should set isEs6 to false as it does not have ImportSpecifiers,0.0000,using plain javascript,3,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is inside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is inside the component dir,1,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is outside the component dir should generate two link files, one for the source and one for the dist",0.0010,when dist is outside the component dir,1,0.0010
+DependencyFileLinkGenerator generate() using sass files should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using sass files,2,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkContent that points to the main file inside the package,0.0000,using sass files,2,0.0000
+ConsumerComponent fromString() component with compiler should not crash and return a ConsumerComponent Object,0.0000,component with compiler,2,0.0000
+ConsumerComponent fromString() component with compiler should convert the compiler object to a Compiler instance,0.0000,component with compiler,2,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using plain javascript,3,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should set isEs6 to false as it does not have ImportSpecifiers,0.0000,using plain javascript,3,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is inside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is inside the component dir,1,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is outside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is outside the component dir,1,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using sass files,2,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkContent that points to the main file inside the package,0.0000,using sass files,2,0.0000
+ConsumerComponent fromString() component with compiler should not crash and return a ConsumerComponent Object,0.0000,component with compiler,2,0.0000
+ConsumerComponent fromString() component with compiler should convert the compiler object to a Compiler instance,0.0000,component with compiler,2,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should generate linkPath that consist of component rootDir + sourceRelativePath,0.0010,using plain javascript,3,0.0010
+DependencyFileLinkGenerator generate() using plain javascript should set isEs6 to false as it does not have ImportSpecifiers,0.0000,using plain javascript,3,0.0010
+"DependencyFileLinkGenerator generate() using ES6 when dist is inside the component dir should generate two link files, one for the source and one for the dist",0.0010,when dist is inside the component dir,1,0.0010
+"DependencyFileLinkGenerator generate() using ES6 when dist is outside the component dir should generate two link files, one for the source and one for the dist",0.0010,when dist is outside the component dir,1,0.0010
+DependencyFileLinkGenerator generate() using sass files should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using sass files,2,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkContent that points to the main file inside the package,0.0000,using sass files,2,0.0000
+ConsumerComponent fromString() component with compiler should not crash and return a ConsumerComponent Object,0.0000,component with compiler,2,0.0000
+ConsumerComponent fromString() component with compiler should convert the compiler object to a Compiler instance,0.0000,component with compiler,2,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using plain javascript,3,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should set isEs6 to false as it does not have ImportSpecifiers,0.0000,using plain javascript,3,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is inside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is inside the component dir,1,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is outside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is outside the component dir,1,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using sass files,2,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkContent that points to the main file inside the package,0.0000,using sass files,2,0.0000
+ConsumerComponent fromString() component with compiler should not crash and return a ConsumerComponent Object,0.0000,component with compiler,2,0.0000
+ConsumerComponent fromString() component with compiler should convert the compiler object to a Compiler instance,0.0000,component with compiler,2,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using plain javascript,3,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should set isEs6 to false as it does not have ImportSpecifiers,0.0000,using plain javascript,3,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is inside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is inside the component dir,1,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is outside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is outside the component dir,1,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using sass files,2,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkContent that points to the main file inside the package,0.0000,using sass files,2,0.0000
+ConsumerComponent fromString() component with compiler should not crash and return a ConsumerComponent Object,0.0010,component with compiler,2,0.0010
+ConsumerComponent fromString() component with compiler should convert the compiler object to a Compiler instance,0.0000,component with compiler,2,0.0010
+DependencyFileLinkGenerator generate() using plain javascript should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using plain javascript,3,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should set isEs6 to false as it does not have ImportSpecifiers,0.0000,using plain javascript,3,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is inside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is inside the component dir,1,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is outside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is outside the component dir,1,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkPath that consist of component rootDir + sourceRelativePath,0.0010,using sass files,2,0.0010
+DependencyFileLinkGenerator generate() using sass files should generate linkContent that points to the main file inside the package,0.0000,using sass files,2,0.0010
+ConsumerComponent fromString() component with compiler should not crash and return a ConsumerComponent Object,0.0000,component with compiler,2,0.0000
+ConsumerComponent fromString() component with compiler should convert the compiler object to a Compiler instance,0.0000,component with compiler,2,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using plain javascript,3,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should set isEs6 to false as it does not have ImportSpecifiers,0.0000,using plain javascript,3,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is inside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is inside the component dir,1,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is outside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is outside the component dir,1,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using sass files,2,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkContent that points to the main file inside the package,0.0000,using sass files,2,0.0000
+ConsumerComponent fromString() component with compiler should not crash and return a ConsumerComponent Object,0.0000,component with compiler,2,0.0000
+ConsumerComponent fromString() component with compiler should convert the compiler object to a Compiler instance,0.0000,component with compiler,2,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should generate linkPath that consist of component rootDir + sourceRelativePath,0.0010,using plain javascript,3,0.0010
+DependencyFileLinkGenerator generate() using plain javascript should set isEs6 to false as it does not have ImportSpecifiers,0.0000,using plain javascript,3,0.0010
+"DependencyFileLinkGenerator generate() using ES6 when dist is inside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is inside the component dir,1,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is outside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is outside the component dir,1,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using sass files,2,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkContent that points to the main file inside the package,0.0000,using sass files,2,0.0000
+ConsumerComponent fromString() component with compiler should not crash and return a ConsumerComponent Object,0.0000,component with compiler,2,0.0000
+ConsumerComponent fromString() component with compiler should convert the compiler object to a Compiler instance,0.0000,component with compiler,2,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using plain javascript,3,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should set isEs6 to false as it does not have ImportSpecifiers,0.0000,using plain javascript,3,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is inside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is inside the component dir,1,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is outside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is outside the component dir,1,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using sass files,2,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkContent that points to the main file inside the package,0.0000,using sass files,2,0.0000
+ConsumerComponent fromString() component with compiler should not crash and return a ConsumerComponent Object,0.0000,component with compiler,2,0.0000
+ConsumerComponent fromString() component with compiler should convert the compiler object to a Compiler instance,0.0000,component with compiler,2,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using plain javascript,3,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should set isEs6 to false as it does not have ImportSpecifiers,0.0000,using plain javascript,3,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is inside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is inside the component dir,1,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is outside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is outside the component dir,1,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using sass files,2,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkContent that points to the main file inside the package,0.0000,using sass files,2,0.0000
+ConsumerComponent fromString() component with compiler should not crash and return a ConsumerComponent Object,0.0000,component with compiler,2,0.0010
+ConsumerComponent fromString() component with compiler should convert the compiler object to a Compiler instance,0.0010,component with compiler,2,0.0010
+DependencyFileLinkGenerator generate() using plain javascript should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using plain javascript,3,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should set isEs6 to false as it does not have ImportSpecifiers,0.0000,using plain javascript,3,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is inside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is inside the component dir,1,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is outside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is outside the component dir,1,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using sass files,2,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkContent that points to the main file inside the package,0.0000,using sass files,2,0.0000
+ConsumerComponent fromString() component with compiler should not crash and return a ConsumerComponent Object,0.0000,component with compiler,2,0.0000
+ConsumerComponent fromString() component with compiler should convert the compiler object to a Compiler instance,0.0000,component with compiler,2,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using plain javascript,3,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should set isEs6 to false as it does not have ImportSpecifiers,0.0000,using plain javascript,3,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is inside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is inside the component dir,1,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is outside the component dir should generate two link files, one for the source and one for the dist",0.0010,when dist is outside the component dir,1,0.0010
+DependencyFileLinkGenerator generate() using sass files should generate linkPath that consist of component rootDir + sourceRelativePath,0.0010,using sass files,2,0.0010
+DependencyFileLinkGenerator generate() using sass files should generate linkContent that points to the main file inside the package,0.0000,using sass files,2,0.0010
+ConsumerComponent fromString() component with compiler should not crash and return a ConsumerComponent Object,0.0000,component with compiler,2,0.0000
+ConsumerComponent fromString() component with compiler should convert the compiler object to a Compiler instance,0.0000,component with compiler,2,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using plain javascript,3,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should set isEs6 to false as it does not have ImportSpecifiers,0.0000,using plain javascript,3,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is inside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is inside the component dir,1,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is outside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is outside the component dir,1,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using sass files,2,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkContent that points to the main file inside the package,0.0000,using sass files,2,0.0000
+ConsumerComponent fromString() component with compiler should not crash and return a ConsumerComponent Object,0.0010,component with compiler,2,0.0010
+ConsumerComponent fromString() component with compiler should convert the compiler object to a Compiler instance,0.0000,component with compiler,2,0.0010
+DependencyFileLinkGenerator generate() using plain javascript should generate linkPath that consist of component rootDir + sourceRelativePath,0.0010,using plain javascript,3,0.0010
+DependencyFileLinkGenerator generate() using plain javascript should set isEs6 to false as it does not have ImportSpecifiers,0.0000,using plain javascript,3,0.0010
+"DependencyFileLinkGenerator generate() using ES6 when dist is inside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is inside the component dir,1,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is outside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is outside the component dir,1,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using sass files,2,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkContent that points to the main file inside the package,0.0000,using sass files,2,0.0000
+ConsumerComponent fromString() component with compiler should not crash and return a ConsumerComponent Object,0.0000,component with compiler,2,0.0000
+ConsumerComponent fromString() component with compiler should convert the compiler object to a Compiler instance,0.0000,component with compiler,2,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using plain javascript,3,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should set isEs6 to false as it does not have ImportSpecifiers,0.0000,using plain javascript,3,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is inside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is inside the component dir,1,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is outside the component dir should generate two link files, one for the source and one for the dist",0.0010,when dist is outside the component dir,1,0.0010
+DependencyFileLinkGenerator generate() using sass files should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using sass files,2,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkContent that points to the main file inside the package,0.0000,using sass files,2,0.0000
+ConsumerComponent fromString() component with compiler should not crash and return a ConsumerComponent Object,0.0000,component with compiler,2,0.0000
+ConsumerComponent fromString() component with compiler should convert the compiler object to a Compiler instance,0.0000,component with compiler,2,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using plain javascript,3,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should set isEs6 to false as it does not have ImportSpecifiers,0.0000,using plain javascript,3,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is inside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is inside the component dir,1,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is outside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is outside the component dir,1,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using sass files,2,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkContent that points to the main file inside the package,0.0000,using sass files,2,0.0000
+ConsumerComponent fromString() component with compiler should not crash and return a ConsumerComponent Object,0.0000,component with compiler,2,0.0000
+ConsumerComponent fromString() component with compiler should convert the compiler object to a Compiler instance,0.0000,component with compiler,2,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using plain javascript,3,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should set isEs6 to false as it does not have ImportSpecifiers,0.0000,using plain javascript,3,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is inside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is inside the component dir,1,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is outside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is outside the component dir,1,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using sass files,2,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkContent that points to the main file inside the package,0.0000,using sass files,2,0.0000
+ConsumerComponent fromString() component with compiler should not crash and return a ConsumerComponent Object,0.0000,component with compiler,2,0.0000
+ConsumerComponent fromString() component with compiler should convert the compiler object to a Compiler instance,0.0000,component with compiler,2,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using plain javascript,3,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should set isEs6 to false as it does not have ImportSpecifiers,0.0000,using plain javascript,3,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is inside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is inside the component dir,1,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is outside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is outside the component dir,1,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using sass files,2,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkContent that points to the main file inside the package,0.0000,using sass files,2,0.0000
+ConsumerComponent fromString() component with compiler should not crash and return a ConsumerComponent Object,0.0000,component with compiler,2,0.0000
+ConsumerComponent fromString() component with compiler should convert the compiler object to a Compiler instance,0.0000,component with compiler,2,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using plain javascript,3,0.0010
+DependencyFileLinkGenerator generate() using plain javascript should set isEs6 to false as it does not have ImportSpecifiers,0.0000,using plain javascript,3,0.0010
+"DependencyFileLinkGenerator generate() using ES6 when dist is inside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is inside the component dir,1,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is outside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is outside the component dir,1,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using sass files,2,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkContent that points to the main file inside the package,0.0000,using sass files,2,0.0000
+ConsumerComponent fromString() component with compiler should not crash and return a ConsumerComponent Object,0.0000,component with compiler,2,0.0000
+ConsumerComponent fromString() component with compiler should convert the compiler object to a Compiler instance,0.0000,component with compiler,2,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should generate linkPath that consist of component rootDir + sourceRelativePath,0.0010,using plain javascript,3,0.0010
+DependencyFileLinkGenerator generate() using plain javascript should set isEs6 to false as it does not have ImportSpecifiers,0.0000,using plain javascript,3,0.0010
+"DependencyFileLinkGenerator generate() using ES6 when dist is inside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is inside the component dir,1,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is outside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is outside the component dir,1,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using sass files,2,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkContent that points to the main file inside the package,0.0000,using sass files,2,0.0000
+ConsumerComponent fromString() component with compiler should not crash and return a ConsumerComponent Object,0.0000,component with compiler,2,0.0000
+ConsumerComponent fromString() component with compiler should convert the compiler object to a Compiler instance,0.0000,component with compiler,2,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using plain javascript,3,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should set isEs6 to false as it does not have ImportSpecifiers,0.0000,using plain javascript,3,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is inside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is inside the component dir,1,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is outside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is outside the component dir,1,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using sass files,2,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkContent that points to the main file inside the package,0.0000,using sass files,2,0.0000
+ConsumerComponent fromString() component with compiler should not crash and return a ConsumerComponent Object,0.0000,component with compiler,2,0.0000
+ConsumerComponent fromString() component with compiler should convert the compiler object to a Compiler instance,0.0000,component with compiler,2,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using plain javascript,3,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should set isEs6 to false as it does not have ImportSpecifiers,0.0000,using plain javascript,3,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is inside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is inside the component dir,1,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is outside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is outside the component dir,1,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using sass files,2,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkContent that points to the main file inside the package,0.0000,using sass files,2,0.0000
+ConsumerComponent fromString() component with compiler should not crash and return a ConsumerComponent Object,0.0000,component with compiler,2,0.0000
+ConsumerComponent fromString() component with compiler should convert the compiler object to a Compiler instance,0.0000,component with compiler,2,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using plain javascript,3,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should set isEs6 to false as it does not have ImportSpecifiers,0.0000,using plain javascript,3,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is inside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is inside the component dir,1,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is outside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is outside the component dir,1,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using sass files,2,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkContent that points to the main file inside the package,0.0000,using sass files,2,0.0000
+ConsumerComponent fromString() component with compiler should not crash and return a ConsumerComponent Object,0.0000,component with compiler,2,0.0000
+ConsumerComponent fromString() component with compiler should convert the compiler object to a Compiler instance,0.0000,component with compiler,2,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using plain javascript,3,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should set isEs6 to false as it does not have ImportSpecifiers,0.0000,using plain javascript,3,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is inside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is inside the component dir,1,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is outside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is outside the component dir,1,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using sass files,2,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkContent that points to the main file inside the package,0.0000,using sass files,2,0.0000
+ConsumerComponent fromString() component with compiler should not crash and return a ConsumerComponent Object,0.0010,component with compiler,2,0.0010
+ConsumerComponent fromString() component with compiler should convert the compiler object to a Compiler instance,0.0000,component with compiler,2,0.0010
+DependencyFileLinkGenerator generate() using plain javascript should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using plain javascript,3,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should set isEs6 to false as it does not have ImportSpecifiers,0.0000,using plain javascript,3,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is inside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is inside the component dir,1,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is outside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is outside the component dir,1,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using sass files,2,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkContent that points to the main file inside the package,0.0000,using sass files,2,0.0000
+ConsumerComponent fromString() component with compiler should not crash and return a ConsumerComponent Object,0.0000,component with compiler,2,0.0000
+ConsumerComponent fromString() component with compiler should convert the compiler object to a Compiler instance,0.0000,component with compiler,2,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using plain javascript,3,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should set isEs6 to false as it does not have ImportSpecifiers,0.0000,using plain javascript,3,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is inside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is inside the component dir,1,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is outside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is outside the component dir,1,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using sass files,2,0.0010
+DependencyFileLinkGenerator generate() using sass files should generate linkContent that points to the main file inside the package,0.0010,using sass files,2,0.0010
+ConsumerComponent fromString() component with compiler should not crash and return a ConsumerComponent Object,0.0000,component with compiler,2,0.0000
+ConsumerComponent fromString() component with compiler should convert the compiler object to a Compiler instance,0.0000,component with compiler,2,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using plain javascript,3,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should set isEs6 to false as it does not have ImportSpecifiers,0.0000,using plain javascript,3,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is inside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is inside the component dir,1,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is outside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is outside the component dir,1,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using sass files,2,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkContent that points to the main file inside the package,0.0000,using sass files,2,0.0000
+ConsumerComponent fromString() component with compiler should not crash and return a ConsumerComponent Object,0.0000,component with compiler,2,0.0000
+ConsumerComponent fromString() component with compiler should convert the compiler object to a Compiler instance,0.0000,component with compiler,2,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using plain javascript,3,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should set isEs6 to false as it does not have ImportSpecifiers,0.0000,using plain javascript,3,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is inside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is inside the component dir,1,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is outside the component dir should generate two link files, one for the source and one for the dist",0.0010,when dist is outside the component dir,1,0.0010
+DependencyFileLinkGenerator generate() using sass files should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using sass files,2,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkContent that points to the main file inside the package,0.0000,using sass files,2,0.0000
+ConsumerComponent fromString() component with compiler should not crash and return a ConsumerComponent Object,0.0000,component with compiler,2,0.0000
+ConsumerComponent fromString() component with compiler should convert the compiler object to a Compiler instance,0.0000,component with compiler,2,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using plain javascript,3,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should set isEs6 to false as it does not have ImportSpecifiers,0.0000,using plain javascript,3,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is inside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is inside the component dir,1,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is outside the component dir should generate two link files, one for the source and one for the dist",0.0010,when dist is outside the component dir,1,0.0010
+DependencyFileLinkGenerator generate() using sass files should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using sass files,2,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkContent that points to the main file inside the package,0.0000,using sass files,2,0.0000
+ConsumerComponent fromString() component with compiler should not crash and return a ConsumerComponent Object,0.0000,component with compiler,2,0.0000
+ConsumerComponent fromString() component with compiler should convert the compiler object to a Compiler instance,0.0000,component with compiler,2,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using plain javascript,3,0.0010
+DependencyFileLinkGenerator generate() using plain javascript should set isEs6 to false as it does not have ImportSpecifiers,0.0000,using plain javascript,3,0.0010
+"DependencyFileLinkGenerator generate() using ES6 when dist is inside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is inside the component dir,1,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is outside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is outside the component dir,1,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using sass files,2,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkContent that points to the main file inside the package,0.0000,using sass files,2,0.0000
+ConsumerComponent fromString() component with compiler should not crash and return a ConsumerComponent Object,0.0000,component with compiler,2,0.0000
+ConsumerComponent fromString() component with compiler should convert the compiler object to a Compiler instance,0.0000,component with compiler,2,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should generate linkPath that consist of component rootDir + sourceRelativePath,0.0010,using plain javascript,3,0.0010
+DependencyFileLinkGenerator generate() using plain javascript should set isEs6 to false as it does not have ImportSpecifiers,0.0000,using plain javascript,3,0.0010
+"DependencyFileLinkGenerator generate() using ES6 when dist is inside the component dir should generate two link files, one for the source and one for the dist",0.0010,when dist is inside the component dir,1,0.0010
+"DependencyFileLinkGenerator generate() using ES6 when dist is outside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is outside the component dir,1,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using sass files,2,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkContent that points to the main file inside the package,0.0000,using sass files,2,0.0000
+ConsumerComponent fromString() component with compiler should not crash and return a ConsumerComponent Object,0.0000,component with compiler,2,0.0000
+ConsumerComponent fromString() component with compiler should convert the compiler object to a Compiler instance,0.0000,component with compiler,2,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using plain javascript,3,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should set isEs6 to false as it does not have ImportSpecifiers,0.0000,using plain javascript,3,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is inside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is inside the component dir,1,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is outside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is outside the component dir,1,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using sass files,2,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkContent that points to the main file inside the package,0.0000,using sass files,2,0.0000
+ConsumerComponent fromString() component with compiler should not crash and return a ConsumerComponent Object,0.0000,component with compiler,2,0.0000
+ConsumerComponent fromString() component with compiler should convert the compiler object to a Compiler instance,0.0000,component with compiler,2,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using plain javascript,3,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should set isEs6 to false as it does not have ImportSpecifiers,0.0000,using plain javascript,3,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is inside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is inside the component dir,1,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is outside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is outside the component dir,1,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using sass files,2,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkContent that points to the main file inside the package,0.0000,using sass files,2,0.0000
+ConsumerComponent fromString() component with compiler should not crash and return a ConsumerComponent Object,0.0000,component with compiler,2,0.0000
+ConsumerComponent fromString() component with compiler should convert the compiler object to a Compiler instance,0.0000,component with compiler,2,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using plain javascript,3,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should set isEs6 to false as it does not have ImportSpecifiers,0.0000,using plain javascript,3,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is inside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is inside the component dir,1,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is outside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is outside the component dir,1,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using sass files,2,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkContent that points to the main file inside the package,0.0000,using sass files,2,0.0000
+ConsumerComponent fromString() component with compiler should not crash and return a ConsumerComponent Object,0.0000,component with compiler,2,0.0000
+ConsumerComponent fromString() component with compiler should convert the compiler object to a Compiler instance,0.0000,component with compiler,2,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using plain javascript,3,0.0000
+DependencyFileLinkGenerator generate() using plain javascript should set isEs6 to false as it does not have ImportSpecifiers,0.0000,using plain javascript,3,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is inside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is inside the component dir,1,0.0000
+"DependencyFileLinkGenerator generate() using ES6 when dist is outside the component dir should generate two link files, one for the source and one for the dist",0.0000,when dist is outside the component dir,1,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkPath that consist of component rootDir + sourceRelativePath,0.0000,using sass files,2,0.0000
+DependencyFileLinkGenerator generate() using sass files should generate linkContent that points to the main file inside the package,0.0000,using sass files,2,0.0000

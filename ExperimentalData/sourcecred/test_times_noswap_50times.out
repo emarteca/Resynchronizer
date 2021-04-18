@@ -1,0 +1,1450 @@
+cli/load 'load' command wrapper calls load with a single repo,0.002,cli/load,11,0.824
+cli/load 'load' command wrapper calls load with multiple repos,0.002,cli/load,11,0.824
+"cli/load 'load' command wrapper loads the weights, if provided",0.004,cli/load,11,0.824
+cli/load 'load' command wrapper errors if the weights file does not exist,0.007,cli/load,11,0.824
+cli/load 'load' command wrapper errors if the weights file is invalid,0.001,cli/load,11,0.824
+cli/load 'load' command wrapper errors if the repo identifier is invalid,0.004,cli/load,11,0.824
+cli/load 'load' command wrapper errors if the SOURCECRED_GITHUB_TOKEN is unset,0.001,cli/load,11,0.824
+plugins/initiatives/initiativesDirectory _readFiles should throw when directory is not a directory,0.016,plugins/initiatives/initiativesDirectory,18,0.282
+plugins/initiatives/initiativesDirectory loadDirectory should handle an example smoke test,0.016,plugins/initiatives/initiativesDirectory,18,0.282
+plugins/initiatives/initiativesDirectory loadDirectory should perform localPath testing,0.004,plugins/initiatives/initiativesDirectory,18,0.282
+plugins/initiatives/initiativesDirectory loadDirectory should use validated URL to create mappings and addresses,0.006,plugins/initiatives/initiativesDirectory,18,0.282
+src/backend/dataDirectory DataDirectory DataDirectory.database should create SQLite DB in the cache directory,0.004,src/backend/dataDirectory,8,0.16
+src/backend/dataDirectory DataDirectory DataDirectory.database should work when sourcecredDirectory doesn't exist,0.002,src/backend/dataDirectory,8,0.16
+src/backend/dataDirectory DataDirectory DataDirectory.database should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.16
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should populate a project directory,0.013,src/backend/dataDirectory,8,0.16
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should work when sourcecredDirectory doesn't exist,0.013,src/backend/dataDirectory,8,0.16
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should fail when sourcecredDirectory is a file,0.004,src/backend/dataDirectory,8,0.16
+plugins/github/graphqlTypes is up to date,0.119,plugins/github/graphqlTypes,1,0.291
+plugins/initiatives/loader loadDirectory should report correct tasks,0.006,plugins/initiatives/loader,2,0.105
+core/project_io setupProjectDirectory results in a loadable project,0.008,core/project_io,11,0.148
+core/project_io setupProjectDirectory twice results in two loadable projects,0.01,core/project_io,11,0.148
+core/project_io getProjectIds returns no projects if none were setup,0.001,core/project_io,11,0.148
+core/project_io setupProjectDirectory returns the right directory,0.003,core/project_io,11,0.148
+core/project_io projects can be accessed using the encoded ID,0.004,core/project_io,11,0.148
+core/project_io getProjectIds ignores non-project subdirectories,0.003,core/project_io,11,0.148
+core/project_io getProjectIds ignores non-project file entries,0.003,core/project_io,11,0.148
+core/project_io loadProject throws an error on inconsistent id,0.003,core/project_io,11,0.148
+core/project_io loadProject throws an error on bad compat,0.004,core/project_io,11,0.148
+core/project_io loadProject fails when a different project was saved,0.004,core/project_io,11,0.148
+plugins/initiatives/initiativesDirectory _readFiles should throw when directory is not a directory,0.008,plugins/initiatives/initiativesDirectory,18,1.838
+plugins/initiatives/initiativesDirectory loadDirectory should handle an example smoke test,0.012,plugins/initiatives/initiativesDirectory,18,1.838
+plugins/initiatives/initiativesDirectory loadDirectory should perform localPath testing,0.005,plugins/initiatives/initiativesDirectory,18,1.838
+plugins/initiatives/initiativesDirectory loadDirectory should use validated URL to create mappings and addresses,0.005,plugins/initiatives/initiativesDirectory,18,1.838
+src/backend/dataDirectory DataDirectory DataDirectory.database should create SQLite DB in the cache directory,0.005,src/backend/dataDirectory,8,0.394
+src/backend/dataDirectory DataDirectory DataDirectory.database should work when sourcecredDirectory doesn't exist,0.003,src/backend/dataDirectory,8,0.394
+src/backend/dataDirectory DataDirectory DataDirectory.database should fail when sourcecredDirectory is a file,0.004,src/backend/dataDirectory,8,0.394
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should populate a project directory,0.012,src/backend/dataDirectory,8,0.394
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should work when sourcecredDirectory doesn't exist,0.016,src/backend/dataDirectory,8,0.394
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.394
+core/project_io setupProjectDirectory results in a loadable project,0.005,core/project_io,11,0.206
+core/project_io setupProjectDirectory twice results in two loadable projects,0.01,core/project_io,11,0.206
+core/project_io getProjectIds returns no projects if none were setup,0.001,core/project_io,11,0.206
+core/project_io setupProjectDirectory returns the right directory,0.002,core/project_io,11,0.206
+core/project_io projects can be accessed using the encoded ID,0.004,core/project_io,11,0.206
+core/project_io getProjectIds ignores non-project subdirectories,0.003,core/project_io,11,0.206
+core/project_io getProjectIds ignores non-project file entries,0.003,core/project_io,11,0.206
+core/project_io loadProject throws an error on inconsistent id,0.004,core/project_io,11,0.206
+core/project_io loadProject throws an error on bad compat,0.003,core/project_io,11,0.206
+core/project_io loadProject fails when a different project was saved,0.003,core/project_io,11,0.206
+cli/load 'load' command wrapper calls load with a single repo,0.002,cli/load,11,1.114
+cli/load 'load' command wrapper calls load with multiple repos,0.002,cli/load,11,1.114
+"cli/load 'load' command wrapper loads the weights, if provided",0.003,cli/load,11,1.114
+cli/load 'load' command wrapper errors if the weights file does not exist,0.007,cli/load,11,1.114
+cli/load 'load' command wrapper errors if the weights file is invalid,0.001,cli/load,11,1.114
+cli/load 'load' command wrapper errors if the repo identifier is invalid,0.006,cli/load,11,1.114
+cli/load 'load' command wrapper errors if the SOURCECRED_GITHUB_TOKEN is unset,0.001,cli/load,11,1.114
+plugins/initiatives/loader loadDirectory should report correct tasks,0.007,plugins/initiatives/loader,2,0.194
+plugins/github/graphqlTypes is up to date,0.16,plugins/github/graphqlTypes,1,0.411
+plugins/initiatives/initiativesDirectory _readFiles should throw when directory is not a directory,0.009,plugins/initiatives/initiativesDirectory,18,1.899
+plugins/initiatives/initiativesDirectory loadDirectory should handle an example smoke test,0.013,plugins/initiatives/initiativesDirectory,18,1.899
+plugins/initiatives/initiativesDirectory loadDirectory should perform localPath testing,0.004,plugins/initiatives/initiativesDirectory,18,1.899
+plugins/initiatives/initiativesDirectory loadDirectory should use validated URL to create mappings and addresses,0.005,plugins/initiatives/initiativesDirectory,18,1.899
+src/backend/dataDirectory DataDirectory DataDirectory.database should create SQLite DB in the cache directory,0.005,src/backend/dataDirectory,8,0.42
+src/backend/dataDirectory DataDirectory DataDirectory.database should work when sourcecredDirectory doesn't exist,0.003,src/backend/dataDirectory,8,0.42
+src/backend/dataDirectory DataDirectory DataDirectory.database should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.42
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should populate a project directory,0.015,src/backend/dataDirectory,8,0.42
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should work when sourcecredDirectory doesn't exist,0.016,src/backend/dataDirectory,8,0.42
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.42
+core/project_io setupProjectDirectory results in a loadable project,0.005,core/project_io,11,0.222
+core/project_io setupProjectDirectory twice results in two loadable projects,0.007,core/project_io,11,0.222
+core/project_io getProjectIds returns no projects if none were setup,0.004,core/project_io,11,0.222
+core/project_io setupProjectDirectory returns the right directory,0.003,core/project_io,11,0.222
+core/project_io projects can be accessed using the encoded ID,0.003,core/project_io,11,0.222
+core/project_io getProjectIds ignores non-project subdirectories,0.004,core/project_io,11,0.222
+core/project_io getProjectIds ignores non-project file entries,0.003,core/project_io,11,0.222
+core/project_io loadProject throws an error on inconsistent id,0.004,core/project_io,11,0.222
+core/project_io loadProject throws an error on bad compat,0.003,core/project_io,11,0.222
+core/project_io loadProject fails when a different project was saved,0.002,core/project_io,11,0.222
+cli/load 'load' command wrapper calls load with a single repo,0.002,cli/load,11,1.126
+cli/load 'load' command wrapper calls load with multiple repos,0.001,cli/load,11,1.126
+"cli/load 'load' command wrapper loads the weights, if provided",0.003,cli/load,11,1.126
+cli/load 'load' command wrapper errors if the weights file does not exist,0.006,cli/load,11,1.126
+cli/load 'load' command wrapper errors if the weights file is invalid,0.002,cli/load,11,1.126
+cli/load 'load' command wrapper errors if the repo identifier is invalid,0.004,cli/load,11,1.126
+cli/load 'load' command wrapper errors if the SOURCECRED_GITHUB_TOKEN is unset,0,cli/load,11,1.126
+plugins/initiatives/loader loadDirectory should report correct tasks,0.006,plugins/initiatives/loader,2,0.189
+plugins/github/graphqlTypes is up to date,0.155,plugins/github/graphqlTypes,1,0.415
+plugins/initiatives/initiativesDirectory _readFiles should throw when directory is not a directory,0.008,plugins/initiatives/initiativesDirectory,18,1.834
+plugins/initiatives/initiativesDirectory loadDirectory should handle an example smoke test,0.013,plugins/initiatives/initiativesDirectory,18,1.834
+plugins/initiatives/initiativesDirectory loadDirectory should perform localPath testing,0.005,plugins/initiatives/initiativesDirectory,18,1.834
+plugins/initiatives/initiativesDirectory loadDirectory should use validated URL to create mappings and addresses,0.005,plugins/initiatives/initiativesDirectory,18,1.834
+src/backend/dataDirectory DataDirectory DataDirectory.database should create SQLite DB in the cache directory,0.005,src/backend/dataDirectory,8,0.391
+src/backend/dataDirectory DataDirectory DataDirectory.database should work when sourcecredDirectory doesn't exist,0.003,src/backend/dataDirectory,8,0.391
+src/backend/dataDirectory DataDirectory DataDirectory.database should fail when sourcecredDirectory is a file,0.004,src/backend/dataDirectory,8,0.391
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should populate a project directory,0.012,src/backend/dataDirectory,8,0.391
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should work when sourcecredDirectory doesn't exist,0.016,src/backend/dataDirectory,8,0.391
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should fail when sourcecredDirectory is a file,0.004,src/backend/dataDirectory,8,0.391
+core/project_io setupProjectDirectory results in a loadable project,0.005,core/project_io,11,0.224
+core/project_io setupProjectDirectory twice results in two loadable projects,0.012,core/project_io,11,0.224
+core/project_io getProjectIds returns no projects if none were setup,0,core/project_io,11,0.224
+core/project_io setupProjectDirectory returns the right directory,0.004,core/project_io,11,0.224
+core/project_io projects can be accessed using the encoded ID,0.004,core/project_io,11,0.224
+core/project_io getProjectIds ignores non-project subdirectories,0.003,core/project_io,11,0.224
+core/project_io getProjectIds ignores non-project file entries,0.003,core/project_io,11,0.224
+core/project_io loadProject throws an error on inconsistent id,0.005,core/project_io,11,0.224
+core/project_io loadProject throws an error on bad compat,0.003,core/project_io,11,0.224
+core/project_io loadProject fails when a different project was saved,0.003,core/project_io,11,0.224
+cli/load 'load' command wrapper calls load with a single repo,0.003,cli/load,11,1.218
+cli/load 'load' command wrapper calls load with multiple repos,0.001,cli/load,11,1.218
+"cli/load 'load' command wrapper loads the weights, if provided",0.003,cli/load,11,1.218
+cli/load 'load' command wrapper errors if the weights file does not exist,0.006,cli/load,11,1.218
+cli/load 'load' command wrapper errors if the weights file is invalid,0.001,cli/load,11,1.218
+cli/load 'load' command wrapper errors if the repo identifier is invalid,0.006,cli/load,11,1.218
+cli/load 'load' command wrapper errors if the SOURCECRED_GITHUB_TOKEN is unset,0.001,cli/load,11,1.218
+plugins/initiatives/loader loadDirectory should report correct tasks,0.007,plugins/initiatives/loader,2,0.195
+plugins/github/graphqlTypes is up to date,0.163,plugins/github/graphqlTypes,1,0.413
+plugins/initiatives/initiativesDirectory _readFiles should throw when directory is not a directory,0.013,plugins/initiatives/initiativesDirectory,18,1.925
+plugins/initiatives/initiativesDirectory loadDirectory should handle an example smoke test,0.012,plugins/initiatives/initiativesDirectory,18,1.925
+plugins/initiatives/initiativesDirectory loadDirectory should perform localPath testing,0.006,plugins/initiatives/initiativesDirectory,18,1.925
+plugins/initiatives/initiativesDirectory loadDirectory should use validated URL to create mappings and addresses,0.006,plugins/initiatives/initiativesDirectory,18,1.925
+src/backend/dataDirectory DataDirectory DataDirectory.database should create SQLite DB in the cache directory,0.004,src/backend/dataDirectory,8,0.416
+src/backend/dataDirectory DataDirectory DataDirectory.database should work when sourcecredDirectory doesn't exist,0.003,src/backend/dataDirectory,8,0.416
+src/backend/dataDirectory DataDirectory DataDirectory.database should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.416
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should populate a project directory,0.015,src/backend/dataDirectory,8,0.416
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should work when sourcecredDirectory doesn't exist,0.018,src/backend/dataDirectory,8,0.416
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.416
+core/project_io setupProjectDirectory results in a loadable project,0.006,core/project_io,11,0.223
+core/project_io setupProjectDirectory twice results in two loadable projects,0.011,core/project_io,11,0.223
+core/project_io getProjectIds returns no projects if none were setup,0,core/project_io,11,0.223
+core/project_io setupProjectDirectory returns the right directory,0.003,core/project_io,11,0.223
+core/project_io projects can be accessed using the encoded ID,0.004,core/project_io,11,0.223
+core/project_io getProjectIds ignores non-project subdirectories,0.003,core/project_io,11,0.223
+core/project_io getProjectIds ignores non-project file entries,0.005,core/project_io,11,0.223
+core/project_io loadProject throws an error on inconsistent id,0.004,core/project_io,11,0.223
+core/project_io loadProject throws an error on bad compat,0.003,core/project_io,11,0.223
+core/project_io loadProject fails when a different project was saved,0.003,core/project_io,11,0.223
+cli/load 'load' command wrapper calls load with a single repo,0.002,cli/load,11,1.14
+cli/load 'load' command wrapper calls load with multiple repos,0.002,cli/load,11,1.14
+"cli/load 'load' command wrapper loads the weights, if provided",0.002,cli/load,11,1.14
+cli/load 'load' command wrapper errors if the weights file does not exist,0.007,cli/load,11,1.14
+cli/load 'load' command wrapper errors if the weights file is invalid,0.001,cli/load,11,1.14
+cli/load 'load' command wrapper errors if the repo identifier is invalid,0.004,cli/load,11,1.14
+cli/load 'load' command wrapper errors if the SOURCECRED_GITHUB_TOKEN is unset,0,cli/load,11,1.14
+plugins/initiatives/loader loadDirectory should report correct tasks,0.006,plugins/initiatives/loader,2,0.182
+plugins/github/graphqlTypes is up to date,0.152,plugins/github/graphqlTypes,1,0.409
+plugins/initiatives/initiativesDirectory _readFiles should throw when directory is not a directory,0.012,plugins/initiatives/initiativesDirectory,18,1.851
+plugins/initiatives/initiativesDirectory loadDirectory should handle an example smoke test,0.016,plugins/initiatives/initiativesDirectory,18,1.851
+plugins/initiatives/initiativesDirectory loadDirectory should perform localPath testing,0.008,plugins/initiatives/initiativesDirectory,18,1.851
+plugins/initiatives/initiativesDirectory loadDirectory should use validated URL to create mappings and addresses,0.005,plugins/initiatives/initiativesDirectory,18,1.851
+src/backend/dataDirectory DataDirectory DataDirectory.database should create SQLite DB in the cache directory,0.004,src/backend/dataDirectory,8,0.415
+src/backend/dataDirectory DataDirectory DataDirectory.database should work when sourcecredDirectory doesn't exist,0.003,src/backend/dataDirectory,8,0.415
+src/backend/dataDirectory DataDirectory DataDirectory.database should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.415
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should populate a project directory,0.015,src/backend/dataDirectory,8,0.415
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should work when sourcecredDirectory doesn't exist,0.017,src/backend/dataDirectory,8,0.415
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.415
+core/project_io setupProjectDirectory results in a loadable project,0.006,core/project_io,11,0.232
+core/project_io setupProjectDirectory twice results in two loadable projects,0.007,core/project_io,11,0.232
+core/project_io getProjectIds returns no projects if none were setup,0.004,core/project_io,11,0.232
+core/project_io setupProjectDirectory returns the right directory,0.004,core/project_io,11,0.232
+core/project_io projects can be accessed using the encoded ID,0.004,core/project_io,11,0.232
+core/project_io getProjectIds ignores non-project subdirectories,0.002,core/project_io,11,0.232
+core/project_io getProjectIds ignores non-project file entries,0.003,core/project_io,11,0.232
+core/project_io loadProject throws an error on inconsistent id,0.005,core/project_io,11,0.232
+core/project_io loadProject throws an error on bad compat,0.003,core/project_io,11,0.232
+core/project_io loadProject fails when a different project was saved,0.003,core/project_io,11,0.232
+cli/load 'load' command wrapper calls load with a single repo,0.003,cli/load,11,1.179
+cli/load 'load' command wrapper calls load with multiple repos,0.001,cli/load,11,1.179
+"cli/load 'load' command wrapper loads the weights, if provided",0.003,cli/load,11,1.179
+cli/load 'load' command wrapper errors if the weights file does not exist,0.008,cli/load,11,1.179
+cli/load 'load' command wrapper errors if the weights file is invalid,0.002,cli/load,11,1.179
+cli/load 'load' command wrapper errors if the repo identifier is invalid,0.004,cli/load,11,1.179
+cli/load 'load' command wrapper errors if the SOURCECRED_GITHUB_TOKEN is unset,0.001,cli/load,11,1.179
+plugins/initiatives/loader loadDirectory should report correct tasks,0.006,plugins/initiatives/loader,2,0.194
+plugins/github/graphqlTypes is up to date,0.158,plugins/github/graphqlTypes,1,0.412
+plugins/initiatives/initiativesDirectory _readFiles should throw when directory is not a directory,0.009,plugins/initiatives/initiativesDirectory,18,1.973
+plugins/initiatives/initiativesDirectory loadDirectory should handle an example smoke test,0.013,plugins/initiatives/initiativesDirectory,18,1.973
+plugins/initiatives/initiativesDirectory loadDirectory should perform localPath testing,0.004,plugins/initiatives/initiativesDirectory,18,1.973
+plugins/initiatives/initiativesDirectory loadDirectory should use validated URL to create mappings and addresses,0.006,plugins/initiatives/initiativesDirectory,18,1.973
+src/backend/dataDirectory DataDirectory DataDirectory.database should create SQLite DB in the cache directory,0.004,src/backend/dataDirectory,8,0.416
+src/backend/dataDirectory DataDirectory DataDirectory.database should work when sourcecredDirectory doesn't exist,0.003,src/backend/dataDirectory,8,0.416
+src/backend/dataDirectory DataDirectory DataDirectory.database should fail when sourcecredDirectory is a file,0.004,src/backend/dataDirectory,8,0.416
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should populate a project directory,0.013,src/backend/dataDirectory,8,0.416
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should work when sourcecredDirectory doesn't exist,0.017,src/backend/dataDirectory,8,0.416
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.416
+core/project_io setupProjectDirectory results in a loadable project,0.006,core/project_io,11,0.22
+core/project_io setupProjectDirectory twice results in two loadable projects,0.011,core/project_io,11,0.22
+core/project_io getProjectIds returns no projects if none were setup,0,core/project_io,11,0.22
+core/project_io setupProjectDirectory returns the right directory,0.003,core/project_io,11,0.22
+core/project_io projects can be accessed using the encoded ID,0.004,core/project_io,11,0.22
+core/project_io getProjectIds ignores non-project subdirectories,0.003,core/project_io,11,0.22
+core/project_io getProjectIds ignores non-project file entries,0.003,core/project_io,11,0.22
+core/project_io loadProject throws an error on inconsistent id,0.004,core/project_io,11,0.22
+core/project_io loadProject throws an error on bad compat,0.003,core/project_io,11,0.22
+core/project_io loadProject fails when a different project was saved,0.002,core/project_io,11,0.22
+cli/load 'load' command wrapper calls load with a single repo,0.002,cli/load,11,1.189
+cli/load 'load' command wrapper calls load with multiple repos,0.002,cli/load,11,1.189
+"cli/load 'load' command wrapper loads the weights, if provided",0.002,cli/load,11,1.189
+cli/load 'load' command wrapper errors if the weights file does not exist,0.008,cli/load,11,1.189
+cli/load 'load' command wrapper errors if the weights file is invalid,0.002,cli/load,11,1.189
+cli/load 'load' command wrapper errors if the repo identifier is invalid,0.006,cli/load,11,1.189
+cli/load 'load' command wrapper errors if the SOURCECRED_GITHUB_TOKEN is unset,0.001,cli/load,11,1.189
+plugins/initiatives/loader loadDirectory should report correct tasks,0.006,plugins/initiatives/loader,2,0.193
+plugins/github/graphqlTypes is up to date,0.143,plugins/github/graphqlTypes,1,0.396
+plugins/initiatives/initiativesDirectory _readFiles should throw when directory is not a directory,0.009,plugins/initiatives/initiativesDirectory,18,1.866
+plugins/initiatives/initiativesDirectory loadDirectory should handle an example smoke test,0.012,plugins/initiatives/initiativesDirectory,18,1.866
+plugins/initiatives/initiativesDirectory loadDirectory should perform localPath testing,0.004,plugins/initiatives/initiativesDirectory,18,1.866
+plugins/initiatives/initiativesDirectory loadDirectory should use validated URL to create mappings and addresses,0.006,plugins/initiatives/initiativesDirectory,18,1.866
+src/backend/dataDirectory DataDirectory DataDirectory.database should create SQLite DB in the cache directory,0.004,src/backend/dataDirectory,8,0.413
+src/backend/dataDirectory DataDirectory DataDirectory.database should work when sourcecredDirectory doesn't exist,0.003,src/backend/dataDirectory,8,0.413
+src/backend/dataDirectory DataDirectory DataDirectory.database should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.413
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should populate a project directory,0.013,src/backend/dataDirectory,8,0.413
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should work when sourcecredDirectory doesn't exist,0.017,src/backend/dataDirectory,8,0.413
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.413
+core/project_io setupProjectDirectory results in a loadable project,0.005,core/project_io,11,0.213
+core/project_io setupProjectDirectory twice results in two loadable projects,0.011,core/project_io,11,0.213
+core/project_io getProjectIds returns no projects if none were setup,0,core/project_io,11,0.213
+core/project_io setupProjectDirectory returns the right directory,0.003,core/project_io,11,0.213
+core/project_io projects can be accessed using the encoded ID,0.003,core/project_io,11,0.213
+core/project_io getProjectIds ignores non-project subdirectories,0.003,core/project_io,11,0.213
+core/project_io getProjectIds ignores non-project file entries,0.003,core/project_io,11,0.213
+core/project_io loadProject throws an error on inconsistent id,0.003,core/project_io,11,0.213
+core/project_io loadProject throws an error on bad compat,0.003,core/project_io,11,0.213
+core/project_io loadProject fails when a different project was saved,0.003,core/project_io,11,0.213
+cli/load 'load' command wrapper calls load with a single repo,0.002,cli/load,11,1.109
+cli/load 'load' command wrapper calls load with multiple repos,0.003,cli/load,11,1.109
+"cli/load 'load' command wrapper loads the weights, if provided",0.003,cli/load,11,1.109
+cli/load 'load' command wrapper errors if the weights file does not exist,0.005,cli/load,11,1.109
+cli/load 'load' command wrapper errors if the weights file is invalid,0.002,cli/load,11,1.109
+cli/load 'load' command wrapper errors if the repo identifier is invalid,0.004,cli/load,11,1.109
+cli/load 'load' command wrapper errors if the SOURCECRED_GITHUB_TOKEN is unset,0.001,cli/load,11,1.109
+plugins/initiatives/loader loadDirectory should report correct tasks,0.006,plugins/initiatives/loader,2,0.182
+plugins/github/graphqlTypes is up to date,0.151,plugins/github/graphqlTypes,1,0.396
+plugins/initiatives/initiativesDirectory _readFiles should throw when directory is not a directory,0.008,plugins/initiatives/initiativesDirectory,18,1.881
+plugins/initiatives/initiativesDirectory loadDirectory should handle an example smoke test,0.011,plugins/initiatives/initiativesDirectory,18,1.881
+plugins/initiatives/initiativesDirectory loadDirectory should perform localPath testing,0.005,plugins/initiatives/initiativesDirectory,18,1.881
+plugins/initiatives/initiativesDirectory loadDirectory should use validated URL to create mappings and addresses,0.005,plugins/initiatives/initiativesDirectory,18,1.881
+src/backend/dataDirectory DataDirectory DataDirectory.database should create SQLite DB in the cache directory,0.005,src/backend/dataDirectory,8,0.414
+src/backend/dataDirectory DataDirectory DataDirectory.database should work when sourcecredDirectory doesn't exist,0.003,src/backend/dataDirectory,8,0.414
+src/backend/dataDirectory DataDirectory DataDirectory.database should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.414
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should populate a project directory,0.014,src/backend/dataDirectory,8,0.414
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should work when sourcecredDirectory doesn't exist,0.016,src/backend/dataDirectory,8,0.414
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.414
+core/project_io setupProjectDirectory results in a loadable project,0.006,core/project_io,11,0.215
+core/project_io setupProjectDirectory twice results in two loadable projects,0.012,core/project_io,11,0.215
+core/project_io getProjectIds returns no projects if none were setup,0,core/project_io,11,0.215
+core/project_io setupProjectDirectory returns the right directory,0.003,core/project_io,11,0.215
+core/project_io projects can be accessed using the encoded ID,0.004,core/project_io,11,0.215
+core/project_io getProjectIds ignores non-project subdirectories,0.003,core/project_io,11,0.215
+core/project_io getProjectIds ignores non-project file entries,0.003,core/project_io,11,0.215
+core/project_io loadProject throws an error on inconsistent id,0.004,core/project_io,11,0.215
+core/project_io loadProject throws an error on bad compat,0.003,core/project_io,11,0.215
+core/project_io loadProject fails when a different project was saved,0.003,core/project_io,11,0.215
+cli/load 'load' command wrapper calls load with a single repo,0.002,cli/load,11,1.098
+cli/load 'load' command wrapper calls load with multiple repos,0.002,cli/load,11,1.098
+"cli/load 'load' command wrapper loads the weights, if provided",0.002,cli/load,11,1.098
+cli/load 'load' command wrapper errors if the weights file does not exist,0.005,cli/load,11,1.098
+cli/load 'load' command wrapper errors if the weights file is invalid,0.001,cli/load,11,1.098
+cli/load 'load' command wrapper errors if the repo identifier is invalid,0.005,cli/load,11,1.098
+cli/load 'load' command wrapper errors if the SOURCECRED_GITHUB_TOKEN is unset,0.001,cli/load,11,1.098
+plugins/initiatives/loader loadDirectory should report correct tasks,0.006,plugins/initiatives/loader,2,0.189
+plugins/github/graphqlTypes is up to date,0.147,plugins/github/graphqlTypes,1,0.394
+plugins/initiatives/initiativesDirectory _readFiles should throw when directory is not a directory,0.009,plugins/initiatives/initiativesDirectory,18,1.923
+plugins/initiatives/initiativesDirectory loadDirectory should handle an example smoke test,0.014,plugins/initiatives/initiativesDirectory,18,1.923
+plugins/initiatives/initiativesDirectory loadDirectory should perform localPath testing,0.004,plugins/initiatives/initiativesDirectory,18,1.923
+plugins/initiatives/initiativesDirectory loadDirectory should use validated URL to create mappings and addresses,0.005,plugins/initiatives/initiativesDirectory,18,1.923
+src/backend/dataDirectory DataDirectory DataDirectory.database should create SQLite DB in the cache directory,0.004,src/backend/dataDirectory,8,0.435
+src/backend/dataDirectory DataDirectory DataDirectory.database should work when sourcecredDirectory doesn't exist,0.002,src/backend/dataDirectory,8,0.435
+src/backend/dataDirectory DataDirectory DataDirectory.database should fail when sourcecredDirectory is a file,0.004,src/backend/dataDirectory,8,0.435
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should populate a project directory,0.015,src/backend/dataDirectory,8,0.435
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should work when sourcecredDirectory doesn't exist,0.016,src/backend/dataDirectory,8,0.435
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should fail when sourcecredDirectory is a file,0.004,src/backend/dataDirectory,8,0.435
+core/project_io setupProjectDirectory results in a loadable project,0.008,core/project_io,11,0.216
+core/project_io setupProjectDirectory twice results in two loadable projects,0.012,core/project_io,11,0.216
+core/project_io getProjectIds returns no projects if none were setup,0.001,core/project_io,11,0.216
+core/project_io setupProjectDirectory returns the right directory,0.003,core/project_io,11,0.216
+core/project_io projects can be accessed using the encoded ID,0.005,core/project_io,11,0.216
+core/project_io getProjectIds ignores non-project subdirectories,0.003,core/project_io,11,0.216
+core/project_io getProjectIds ignores non-project file entries,0.003,core/project_io,11,0.216
+core/project_io loadProject throws an error on inconsistent id,0.004,core/project_io,11,0.216
+core/project_io loadProject throws an error on bad compat,0.004,core/project_io,11,0.216
+core/project_io loadProject fails when a different project was saved,0.003,core/project_io,11,0.216
+cli/load 'load' command wrapper calls load with a single repo,0.003,cli/load,11,1.143
+cli/load 'load' command wrapper calls load with multiple repos,0.001,cli/load,11,1.143
+"cli/load 'load' command wrapper loads the weights, if provided",0.003,cli/load,11,1.143
+cli/load 'load' command wrapper errors if the weights file does not exist,0.007,cli/load,11,1.143
+cli/load 'load' command wrapper errors if the weights file is invalid,0.002,cli/load,11,1.143
+cli/load 'load' command wrapper errors if the repo identifier is invalid,0.005,cli/load,11,1.143
+cli/load 'load' command wrapper errors if the SOURCECRED_GITHUB_TOKEN is unset,0.001,cli/load,11,1.143
+plugins/initiatives/loader loadDirectory should report correct tasks,0.006,plugins/initiatives/loader,2,0.2
+plugins/github/graphqlTypes is up to date,0.152,plugins/github/graphqlTypes,1,0.403
+plugins/initiatives/initiativesDirectory _readFiles should throw when directory is not a directory,0.009,plugins/initiatives/initiativesDirectory,18,1.831
+plugins/initiatives/initiativesDirectory loadDirectory should handle an example smoke test,0.012,plugins/initiatives/initiativesDirectory,18,1.831
+plugins/initiatives/initiativesDirectory loadDirectory should perform localPath testing,0.005,plugins/initiatives/initiativesDirectory,18,1.831
+plugins/initiatives/initiativesDirectory loadDirectory should use validated URL to create mappings and addresses,0.005,plugins/initiatives/initiativesDirectory,18,1.831
+src/backend/dataDirectory DataDirectory DataDirectory.database should create SQLite DB in the cache directory,0.004,src/backend/dataDirectory,8,0.426
+src/backend/dataDirectory DataDirectory DataDirectory.database should work when sourcecredDirectory doesn't exist,0.003,src/backend/dataDirectory,8,0.426
+src/backend/dataDirectory DataDirectory DataDirectory.database should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.426
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should populate a project directory,0.013,src/backend/dataDirectory,8,0.426
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should work when sourcecredDirectory doesn't exist,0.017,src/backend/dataDirectory,8,0.426
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.426
+core/project_io setupProjectDirectory results in a loadable project,0.005,core/project_io,11,0.208
+core/project_io setupProjectDirectory twice results in two loadable projects,0.01,core/project_io,11,0.208
+core/project_io getProjectIds returns no projects if none were setup,0.001,core/project_io,11,0.208
+core/project_io setupProjectDirectory returns the right directory,0.002,core/project_io,11,0.208
+core/project_io projects can be accessed using the encoded ID,0.005,core/project_io,11,0.208
+core/project_io getProjectIds ignores non-project subdirectories,0.004,core/project_io,11,0.208
+core/project_io getProjectIds ignores non-project file entries,0.003,core/project_io,11,0.208
+core/project_io loadProject throws an error on inconsistent id,0.003,core/project_io,11,0.208
+core/project_io loadProject throws an error on bad compat,0.003,core/project_io,11,0.208
+core/project_io loadProject fails when a different project was saved,0.003,core/project_io,11,0.208
+cli/load 'load' command wrapper calls load with a single repo,0.003,cli/load,11,1.098
+cli/load 'load' command wrapper calls load with multiple repos,0.001,cli/load,11,1.098
+"cli/load 'load' command wrapper loads the weights, if provided",0.003,cli/load,11,1.098
+cli/load 'load' command wrapper errors if the weights file does not exist,0.009,cli/load,11,1.098
+cli/load 'load' command wrapper errors if the weights file is invalid,0.001,cli/load,11,1.098
+cli/load 'load' command wrapper errors if the repo identifier is invalid,0.004,cli/load,11,1.098
+cli/load 'load' command wrapper errors if the SOURCECRED_GITHUB_TOKEN is unset,0.001,cli/load,11,1.098
+plugins/initiatives/loader loadDirectory should report correct tasks,0.006,plugins/initiatives/loader,2,0.19
+plugins/github/graphqlTypes is up to date,0.154,plugins/github/graphqlTypes,1,0.392
+plugins/initiatives/initiativesDirectory _readFiles should throw when directory is not a directory,0.009,plugins/initiatives/initiativesDirectory,18,1.945
+plugins/initiatives/initiativesDirectory loadDirectory should handle an example smoke test,0.013,plugins/initiatives/initiativesDirectory,18,1.945
+plugins/initiatives/initiativesDirectory loadDirectory should perform localPath testing,0.005,plugins/initiatives/initiativesDirectory,18,1.945
+plugins/initiatives/initiativesDirectory loadDirectory should use validated URL to create mappings and addresses,0.007,plugins/initiatives/initiativesDirectory,18,1.945
+src/backend/dataDirectory DataDirectory DataDirectory.database should create SQLite DB in the cache directory,0.004,src/backend/dataDirectory,8,0.423
+src/backend/dataDirectory DataDirectory DataDirectory.database should work when sourcecredDirectory doesn't exist,0.003,src/backend/dataDirectory,8,0.423
+src/backend/dataDirectory DataDirectory DataDirectory.database should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.423
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should populate a project directory,0.014,src/backend/dataDirectory,8,0.423
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should work when sourcecredDirectory doesn't exist,0.017,src/backend/dataDirectory,8,0.423
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should fail when sourcecredDirectory is a file,0.004,src/backend/dataDirectory,8,0.423
+core/project_io setupProjectDirectory results in a loadable project,0.007,core/project_io,11,0.22
+core/project_io setupProjectDirectory twice results in two loadable projects,0.011,core/project_io,11,0.22
+core/project_io getProjectIds returns no projects if none were setup,0.001,core/project_io,11,0.22
+core/project_io setupProjectDirectory returns the right directory,0.003,core/project_io,11,0.22
+core/project_io projects can be accessed using the encoded ID,0.004,core/project_io,11,0.22
+core/project_io getProjectIds ignores non-project subdirectories,0.003,core/project_io,11,0.22
+core/project_io getProjectIds ignores non-project file entries,0.003,core/project_io,11,0.22
+core/project_io loadProject throws an error on inconsistent id,0.005,core/project_io,11,0.22
+core/project_io loadProject throws an error on bad compat,0.003,core/project_io,11,0.22
+core/project_io loadProject fails when a different project was saved,0.003,core/project_io,11,0.22
+cli/load 'load' command wrapper calls load with a single repo,0.002,cli/load,11,1.158
+cli/load 'load' command wrapper calls load with multiple repos,0.001,cli/load,11,1.158
+"cli/load 'load' command wrapper loads the weights, if provided",0.003,cli/load,11,1.158
+cli/load 'load' command wrapper errors if the weights file does not exist,0.008,cli/load,11,1.158
+cli/load 'load' command wrapper errors if the weights file is invalid,0.002,cli/load,11,1.158
+cli/load 'load' command wrapper errors if the repo identifier is invalid,0.004,cli/load,11,1.158
+cli/load 'load' command wrapper errors if the SOURCECRED_GITHUB_TOKEN is unset,0.001,cli/load,11,1.158
+plugins/initiatives/loader loadDirectory should report correct tasks,0.007,plugins/initiatives/loader,2,0.198
+plugins/github/graphqlTypes is up to date,0.148,plugins/github/graphqlTypes,1,0.405
+plugins/initiatives/initiativesDirectory _readFiles should throw when directory is not a directory,0.009,plugins/initiatives/initiativesDirectory,18,1.836
+plugins/initiatives/initiativesDirectory loadDirectory should handle an example smoke test,0.012,plugins/initiatives/initiativesDirectory,18,1.836
+plugins/initiatives/initiativesDirectory loadDirectory should perform localPath testing,0.007,plugins/initiatives/initiativesDirectory,18,1.836
+plugins/initiatives/initiativesDirectory loadDirectory should use validated URL to create mappings and addresses,0.005,plugins/initiatives/initiativesDirectory,18,1.836
+src/backend/dataDirectory DataDirectory DataDirectory.database should create SQLite DB in the cache directory,0.004,src/backend/dataDirectory,8,0.423
+src/backend/dataDirectory DataDirectory DataDirectory.database should work when sourcecredDirectory doesn't exist,0.003,src/backend/dataDirectory,8,0.423
+src/backend/dataDirectory DataDirectory DataDirectory.database should fail when sourcecredDirectory is a file,0.004,src/backend/dataDirectory,8,0.423
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should populate a project directory,0.014,src/backend/dataDirectory,8,0.423
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should work when sourcecredDirectory doesn't exist,0.015,src/backend/dataDirectory,8,0.423
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.423
+core/project_io setupProjectDirectory results in a loadable project,0.005,core/project_io,11,0.22
+core/project_io setupProjectDirectory twice results in two loadable projects,0.01,core/project_io,11,0.22
+core/project_io getProjectIds returns no projects if none were setup,0.001,core/project_io,11,0.22
+core/project_io setupProjectDirectory returns the right directory,0.003,core/project_io,11,0.22
+core/project_io projects can be accessed using the encoded ID,0.005,core/project_io,11,0.22
+core/project_io getProjectIds ignores non-project subdirectories,0.004,core/project_io,11,0.22
+core/project_io getProjectIds ignores non-project file entries,0.004,core/project_io,11,0.22
+core/project_io loadProject throws an error on inconsistent id,0.005,core/project_io,11,0.22
+core/project_io loadProject throws an error on bad compat,0.003,core/project_io,11,0.22
+core/project_io loadProject fails when a different project was saved,0.002,core/project_io,11,0.22
+cli/load 'load' command wrapper calls load with a single repo,0.002,cli/load,11,1.161
+cli/load 'load' command wrapper calls load with multiple repos,0.002,cli/load,11,1.161
+"cli/load 'load' command wrapper loads the weights, if provided",0.003,cli/load,11,1.161
+cli/load 'load' command wrapper errors if the weights file does not exist,0.007,cli/load,11,1.161
+cli/load 'load' command wrapper errors if the weights file is invalid,0.001,cli/load,11,1.161
+cli/load 'load' command wrapper errors if the repo identifier is invalid,0.004,cli/load,11,1.161
+cli/load 'load' command wrapper errors if the SOURCECRED_GITHUB_TOKEN is unset,0.001,cli/load,11,1.161
+plugins/initiatives/loader loadDirectory should report correct tasks,0.006,plugins/initiatives/loader,2,0.192
+plugins/github/graphqlTypes is up to date,0.149,plugins/github/graphqlTypes,1,0.395
+plugins/initiatives/initiativesDirectory _readFiles should throw when directory is not a directory,0.008,plugins/initiatives/initiativesDirectory,18,1.82
+plugins/initiatives/initiativesDirectory loadDirectory should handle an example smoke test,0.013,plugins/initiatives/initiativesDirectory,18,1.82
+plugins/initiatives/initiativesDirectory loadDirectory should perform localPath testing,0.004,plugins/initiatives/initiativesDirectory,18,1.82
+plugins/initiatives/initiativesDirectory loadDirectory should use validated URL to create mappings and addresses,0.006,plugins/initiatives/initiativesDirectory,18,1.82
+src/backend/dataDirectory DataDirectory DataDirectory.database should create SQLite DB in the cache directory,0.004,src/backend/dataDirectory,8,0.398
+src/backend/dataDirectory DataDirectory DataDirectory.database should work when sourcecredDirectory doesn't exist,0.002,src/backend/dataDirectory,8,0.398
+src/backend/dataDirectory DataDirectory DataDirectory.database should fail when sourcecredDirectory is a file,0.004,src/backend/dataDirectory,8,0.398
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should populate a project directory,0.012,src/backend/dataDirectory,8,0.398
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should work when sourcecredDirectory doesn't exist,0.017,src/backend/dataDirectory,8,0.398
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should fail when sourcecredDirectory is a file,0.004,src/backend/dataDirectory,8,0.398
+core/project_io setupProjectDirectory results in a loadable project,0.005,core/project_io,11,0.211
+core/project_io setupProjectDirectory twice results in two loadable projects,0.006,core/project_io,11,0.211
+core/project_io getProjectIds returns no projects if none were setup,0.001,core/project_io,11,0.211
+core/project_io setupProjectDirectory returns the right directory,0.007,core/project_io,11,0.211
+core/project_io projects can be accessed using the encoded ID,0.005,core/project_io,11,0.211
+core/project_io getProjectIds ignores non-project subdirectories,0.003,core/project_io,11,0.211
+core/project_io getProjectIds ignores non-project file entries,0.002,core/project_io,11,0.211
+core/project_io loadProject throws an error on inconsistent id,0.004,core/project_io,11,0.211
+core/project_io loadProject throws an error on bad compat,0.003,core/project_io,11,0.211
+core/project_io loadProject fails when a different project was saved,0.002,core/project_io,11,0.211
+cli/load 'load' command wrapper calls load with a single repo,0.002,cli/load,11,1.381
+cli/load 'load' command wrapper calls load with multiple repos,0.003,cli/load,11,1.381
+"cli/load 'load' command wrapper loads the weights, if provided",0.003,cli/load,11,1.381
+cli/load 'load' command wrapper errors if the weights file does not exist,0.01,cli/load,11,1.381
+cli/load 'load' command wrapper errors if the weights file is invalid,0.003,cli/load,11,1.381
+cli/load 'load' command wrapper errors if the repo identifier is invalid,0.007,cli/load,11,1.381
+cli/load 'load' command wrapper errors if the SOURCECRED_GITHUB_TOKEN is unset,0.001,cli/load,11,1.381
+plugins/initiatives/loader loadDirectory should report correct tasks,0.009,plugins/initiatives/loader,2,0.256
+plugins/github/graphqlTypes is up to date,0.182,plugins/github/graphqlTypes,1,0.496
+plugins/initiatives/initiativesDirectory _readFiles should throw when directory is not a directory,0.012,plugins/initiatives/initiativesDirectory,18,1.96
+plugins/initiatives/initiativesDirectory loadDirectory should handle an example smoke test,0.014,plugins/initiatives/initiativesDirectory,18,1.96
+plugins/initiatives/initiativesDirectory loadDirectory should perform localPath testing,0.007,plugins/initiatives/initiativesDirectory,18,1.96
+plugins/initiatives/initiativesDirectory loadDirectory should use validated URL to create mappings and addresses,0.006,plugins/initiatives/initiativesDirectory,18,1.96
+src/backend/dataDirectory DataDirectory DataDirectory.database should create SQLite DB in the cache directory,0.006,src/backend/dataDirectory,8,0.523
+src/backend/dataDirectory DataDirectory DataDirectory.database should work when sourcecredDirectory doesn't exist,0.003,src/backend/dataDirectory,8,0.523
+src/backend/dataDirectory DataDirectory DataDirectory.database should fail when sourcecredDirectory is a file,0.005,src/backend/dataDirectory,8,0.523
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should populate a project directory,0.014,src/backend/dataDirectory,8,0.523
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should work when sourcecredDirectory doesn't exist,0.021,src/backend/dataDirectory,8,0.523
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should fail when sourcecredDirectory is a file,0.005,src/backend/dataDirectory,8,0.523
+core/project_io setupProjectDirectory results in a loadable project,0.008,core/project_io,11,0.288
+core/project_io setupProjectDirectory twice results in two loadable projects,0.015,core/project_io,11,0.288
+core/project_io getProjectIds returns no projects if none were setup,0,core/project_io,11,0.288
+core/project_io setupProjectDirectory returns the right directory,0.004,core/project_io,11,0.288
+core/project_io projects can be accessed using the encoded ID,0.006,core/project_io,11,0.288
+core/project_io getProjectIds ignores non-project subdirectories,0.006,core/project_io,11,0.288
+core/project_io getProjectIds ignores non-project file entries,0.003,core/project_io,11,0.288
+core/project_io loadProject throws an error on inconsistent id,0.005,core/project_io,11,0.288
+core/project_io loadProject throws an error on bad compat,0.005,core/project_io,11,0.288
+core/project_io loadProject fails when a different project was saved,0.003,core/project_io,11,0.288
+cli/load 'load' command wrapper calls load with a single repo,0.002,cli/load,11,1.277
+cli/load 'load' command wrapper calls load with multiple repos,0.002,cli/load,11,1.277
+"cli/load 'load' command wrapper loads the weights, if provided",0.005,cli/load,11,1.277
+cli/load 'load' command wrapper errors if the weights file does not exist,0.008,cli/load,11,1.277
+cli/load 'load' command wrapper errors if the weights file is invalid,0.001,cli/load,11,1.277
+cli/load 'load' command wrapper errors if the repo identifier is invalid,0.005,cli/load,11,1.277
+cli/load 'load' command wrapper errors if the SOURCECRED_GITHUB_TOKEN is unset,0.001,cli/load,11,1.277
+plugins/initiatives/loader loadDirectory should report correct tasks,0.007,plugins/initiatives/loader,2,0.2
+plugins/github/graphqlTypes is up to date,0.157,plugins/github/graphqlTypes,1,0.426
+plugins/initiatives/initiativesDirectory _readFiles should throw when directory is not a directory,0.008,plugins/initiatives/initiativesDirectory,18,1.583
+plugins/initiatives/initiativesDirectory loadDirectory should handle an example smoke test,0.011,plugins/initiatives/initiativesDirectory,18,1.583
+plugins/initiatives/initiativesDirectory loadDirectory should perform localPath testing,0.004,plugins/initiatives/initiativesDirectory,18,1.583
+plugins/initiatives/initiativesDirectory loadDirectory should use validated URL to create mappings and addresses,0.005,plugins/initiatives/initiativesDirectory,18,1.583
+src/backend/dataDirectory DataDirectory DataDirectory.database should create SQLite DB in the cache directory,0.004,src/backend/dataDirectory,8,0.385
+src/backend/dataDirectory DataDirectory DataDirectory.database should work when sourcecredDirectory doesn't exist,0.002,src/backend/dataDirectory,8,0.385
+src/backend/dataDirectory DataDirectory DataDirectory.database should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.385
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should populate a project directory,0.012,src/backend/dataDirectory,8,0.385
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should work when sourcecredDirectory doesn't exist,0.017,src/backend/dataDirectory,8,0.385
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.385
+core/project_io setupProjectDirectory results in a loadable project,0.005,core/project_io,11,0.21
+core/project_io setupProjectDirectory twice results in two loadable projects,0.01,core/project_io,11,0.21
+core/project_io getProjectIds returns no projects if none were setup,0.001,core/project_io,11,0.21
+core/project_io setupProjectDirectory returns the right directory,0.003,core/project_io,11,0.21
+core/project_io projects can be accessed using the encoded ID,0.003,core/project_io,11,0.21
+core/project_io getProjectIds ignores non-project subdirectories,0.003,core/project_io,11,0.21
+core/project_io getProjectIds ignores non-project file entries,0.004,core/project_io,11,0.21
+core/project_io loadProject throws an error on inconsistent id,0.004,core/project_io,11,0.21
+core/project_io loadProject throws an error on bad compat,0.004,core/project_io,11,0.21
+core/project_io loadProject fails when a different project was saved,0.003,core/project_io,11,0.21
+cli/load 'load' command wrapper calls load with a single repo,0.002,cli/load,11,1.045
+cli/load 'load' command wrapper calls load with multiple repos,0.002,cli/load,11,1.045
+"cli/load 'load' command wrapper loads the weights, if provided",0.002,cli/load,11,1.045
+cli/load 'load' command wrapper errors if the weights file does not exist,0.005,cli/load,11,1.045
+cli/load 'load' command wrapper errors if the weights file is invalid,0.002,cli/load,11,1.045
+cli/load 'load' command wrapper errors if the repo identifier is invalid,0.004,cli/load,11,1.045
+cli/load 'load' command wrapper errors if the SOURCECRED_GITHUB_TOKEN is unset,0.001,cli/load,11,1.045
+plugins/initiatives/loader loadDirectory should report correct tasks,0.006,plugins/initiatives/loader,2,0.173
+plugins/github/graphqlTypes is up to date,0.128,plugins/github/graphqlTypes,1,0.342
+plugins/initiatives/initiativesDirectory _readFiles should throw when directory is not a directory,0.007,plugins/initiatives/initiativesDirectory,18,1.594
+plugins/initiatives/initiativesDirectory loadDirectory should handle an example smoke test,0.01,plugins/initiatives/initiativesDirectory,18,1.594
+plugins/initiatives/initiativesDirectory loadDirectory should perform localPath testing,0.004,plugins/initiatives/initiativesDirectory,18,1.594
+plugins/initiatives/initiativesDirectory loadDirectory should use validated URL to create mappings and addresses,0.005,plugins/initiatives/initiativesDirectory,18,1.594
+src/backend/dataDirectory DataDirectory DataDirectory.database should create SQLite DB in the cache directory,0.004,src/backend/dataDirectory,8,0.352
+src/backend/dataDirectory DataDirectory DataDirectory.database should work when sourcecredDirectory doesn't exist,0.002,src/backend/dataDirectory,8,0.352
+src/backend/dataDirectory DataDirectory DataDirectory.database should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.352
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should populate a project directory,0.012,src/backend/dataDirectory,8,0.352
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should work when sourcecredDirectory doesn't exist,0.014,src/backend/dataDirectory,8,0.352
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.352
+core/project_io setupProjectDirectory results in a loadable project,0.005,core/project_io,11,0.186
+core/project_io setupProjectDirectory twice results in two loadable projects,0.01,core/project_io,11,0.186
+core/project_io getProjectIds returns no projects if none were setup,0,core/project_io,11,0.186
+core/project_io setupProjectDirectory returns the right directory,0.003,core/project_io,11,0.186
+core/project_io projects can be accessed using the encoded ID,0.003,core/project_io,11,0.186
+core/project_io getProjectIds ignores non-project subdirectories,0.003,core/project_io,11,0.186
+core/project_io getProjectIds ignores non-project file entries,0.002,core/project_io,11,0.186
+core/project_io loadProject throws an error on inconsistent id,0.003,core/project_io,11,0.186
+core/project_io loadProject throws an error on bad compat,0.003,core/project_io,11,0.186
+core/project_io loadProject fails when a different project was saved,0.004,core/project_io,11,0.186
+cli/load 'load' command wrapper calls load with a single repo,0.002,cli/load,11,0.956
+cli/load 'load' command wrapper calls load with multiple repos,0.001,cli/load,11,0.956
+"cli/load 'load' command wrapper loads the weights, if provided",0.003,cli/load,11,0.956
+cli/load 'load' command wrapper errors if the weights file does not exist,0.005,cli/load,11,0.956
+cli/load 'load' command wrapper errors if the weights file is invalid,0.001,cli/load,11,0.956
+cli/load 'load' command wrapper errors if the repo identifier is invalid,0.003,cli/load,11,0.956
+cli/load 'load' command wrapper errors if the SOURCECRED_GITHUB_TOKEN is unset,0.001,cli/load,11,0.956
+plugins/initiatives/loader loadDirectory should report correct tasks,0.005,plugins/initiatives/loader,2,0.165
+plugins/github/graphqlTypes is up to date,0.127,plugins/github/graphqlTypes,1,0.345
+plugins/initiatives/initiativesDirectory _readFiles should throw when directory is not a directory,0.007,plugins/initiatives/initiativesDirectory,18,1.592
+plugins/initiatives/initiativesDirectory loadDirectory should handle an example smoke test,0.01,plugins/initiatives/initiativesDirectory,18,1.592
+plugins/initiatives/initiativesDirectory loadDirectory should perform localPath testing,0.004,plugins/initiatives/initiativesDirectory,18,1.592
+plugins/initiatives/initiativesDirectory loadDirectory should use validated URL to create mappings and addresses,0.004,plugins/initiatives/initiativesDirectory,18,1.592
+src/backend/dataDirectory DataDirectory DataDirectory.database should create SQLite DB in the cache directory,0.004,src/backend/dataDirectory,8,0.349
+src/backend/dataDirectory DataDirectory DataDirectory.database should work when sourcecredDirectory doesn't exist,0.002,src/backend/dataDirectory,8,0.349
+src/backend/dataDirectory DataDirectory DataDirectory.database should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.349
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should populate a project directory,0.011,src/backend/dataDirectory,8,0.349
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should work when sourcecredDirectory doesn't exist,0.015,src/backend/dataDirectory,8,0.349
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.349
+core/project_io setupProjectDirectory results in a loadable project,0.005,core/project_io,11,0.192
+core/project_io setupProjectDirectory twice results in two loadable projects,0.009,core/project_io,11,0.192
+core/project_io getProjectIds returns no projects if none were setup,0,core/project_io,11,0.192
+core/project_io setupProjectDirectory returns the right directory,0.003,core/project_io,11,0.192
+core/project_io projects can be accessed using the encoded ID,0.003,core/project_io,11,0.192
+core/project_io getProjectIds ignores non-project subdirectories,0.003,core/project_io,11,0.192
+core/project_io getProjectIds ignores non-project file entries,0.002,core/project_io,11,0.192
+core/project_io loadProject throws an error on inconsistent id,0.003,core/project_io,11,0.192
+core/project_io loadProject throws an error on bad compat,0.003,core/project_io,11,0.192
+core/project_io loadProject fails when a different project was saved,0.003,core/project_io,11,0.192
+cli/load 'load' command wrapper calls load with a single repo,0.002,cli/load,11,0.993
+cli/load 'load' command wrapper calls load with multiple repos,0.001,cli/load,11,0.993
+"cli/load 'load' command wrapper loads the weights, if provided",0.003,cli/load,11,0.993
+cli/load 'load' command wrapper errors if the weights file does not exist,0.005,cli/load,11,0.993
+cli/load 'load' command wrapper errors if the weights file is invalid,0.002,cli/load,11,0.993
+cli/load 'load' command wrapper errors if the repo identifier is invalid,0.004,cli/load,11,0.993
+cli/load 'load' command wrapper errors if the SOURCECRED_GITHUB_TOKEN is unset,0,cli/load,11,0.993
+plugins/initiatives/loader loadDirectory should report correct tasks,0.006,plugins/initiatives/loader,2,0.17
+plugins/github/graphqlTypes is up to date,0.127,plugins/github/graphqlTypes,1,0.335
+plugins/initiatives/initiativesDirectory _readFiles should throw when directory is not a directory,0.007,plugins/initiatives/initiativesDirectory,18,1.574
+plugins/initiatives/initiativesDirectory loadDirectory should handle an example smoke test,0.011,plugins/initiatives/initiativesDirectory,18,1.574
+plugins/initiatives/initiativesDirectory loadDirectory should perform localPath testing,0.004,plugins/initiatives/initiativesDirectory,18,1.574
+plugins/initiatives/initiativesDirectory loadDirectory should use validated URL to create mappings and addresses,0.004,plugins/initiatives/initiativesDirectory,18,1.574
+src/backend/dataDirectory DataDirectory DataDirectory.database should create SQLite DB in the cache directory,0.003,src/backend/dataDirectory,8,0.343
+src/backend/dataDirectory DataDirectory DataDirectory.database should work when sourcecredDirectory doesn't exist,0.003,src/backend/dataDirectory,8,0.343
+src/backend/dataDirectory DataDirectory DataDirectory.database should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.343
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should populate a project directory,0.011,src/backend/dataDirectory,8,0.343
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should work when sourcecredDirectory doesn't exist,0.014,src/backend/dataDirectory,8,0.343
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should fail when sourcecredDirectory is a file,0.004,src/backend/dataDirectory,8,0.343
+core/project_io setupProjectDirectory results in a loadable project,0.005,core/project_io,11,0.19
+core/project_io setupProjectDirectory twice results in two loadable projects,0.009,core/project_io,11,0.19
+core/project_io getProjectIds returns no projects if none were setup,0,core/project_io,11,0.19
+core/project_io setupProjectDirectory returns the right directory,0.003,core/project_io,11,0.19
+core/project_io projects can be accessed using the encoded ID,0.003,core/project_io,11,0.19
+core/project_io getProjectIds ignores non-project subdirectories,0.002,core/project_io,11,0.19
+core/project_io getProjectIds ignores non-project file entries,0.003,core/project_io,11,0.19
+core/project_io loadProject throws an error on inconsistent id,0.003,core/project_io,11,0.19
+core/project_io loadProject throws an error on bad compat,0.003,core/project_io,11,0.19
+core/project_io loadProject fails when a different project was saved,0.003,core/project_io,11,0.19
+cli/load 'load' command wrapper calls load with a single repo,0.002,cli/load,11,0.992
+cli/load 'load' command wrapper calls load with multiple repos,0.001,cli/load,11,0.992
+"cli/load 'load' command wrapper loads the weights, if provided",0.003,cli/load,11,0.992
+cli/load 'load' command wrapper errors if the weights file does not exist,0.006,cli/load,11,0.992
+cli/load 'load' command wrapper errors if the weights file is invalid,0.001,cli/load,11,0.992
+cli/load 'load' command wrapper errors if the repo identifier is invalid,0.004,cli/load,11,0.992
+cli/load 'load' command wrapper errors if the SOURCECRED_GITHUB_TOKEN is unset,0.001,cli/load,11,0.992
+plugins/initiatives/loader loadDirectory should report correct tasks,0.006,plugins/initiatives/loader,2,0.163
+plugins/github/graphqlTypes is up to date,0.13,plugins/github/graphqlTypes,1,0.345
+plugins/initiatives/initiativesDirectory _readFiles should throw when directory is not a directory,0.007,plugins/initiatives/initiativesDirectory,18,1.574
+plugins/initiatives/initiativesDirectory loadDirectory should handle an example smoke test,0.01,plugins/initiatives/initiativesDirectory,18,1.574
+plugins/initiatives/initiativesDirectory loadDirectory should perform localPath testing,0.004,plugins/initiatives/initiativesDirectory,18,1.574
+plugins/initiatives/initiativesDirectory loadDirectory should use validated URL to create mappings and addresses,0.005,plugins/initiatives/initiativesDirectory,18,1.574
+src/backend/dataDirectory DataDirectory DataDirectory.database should create SQLite DB in the cache directory,0.003,src/backend/dataDirectory,8,0.363
+src/backend/dataDirectory DataDirectory DataDirectory.database should work when sourcecredDirectory doesn't exist,0.003,src/backend/dataDirectory,8,0.363
+src/backend/dataDirectory DataDirectory DataDirectory.database should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.363
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should populate a project directory,0.011,src/backend/dataDirectory,8,0.363
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should work when sourcecredDirectory doesn't exist,0.016,src/backend/dataDirectory,8,0.363
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should fail when sourcecredDirectory is a file,0.002,src/backend/dataDirectory,8,0.363
+core/project_io setupProjectDirectory results in a loadable project,0.005,core/project_io,11,0.181
+core/project_io setupProjectDirectory twice results in two loadable projects,0.009,core/project_io,11,0.181
+core/project_io getProjectIds returns no projects if none were setup,0,core/project_io,11,0.181
+core/project_io setupProjectDirectory returns the right directory,0.003,core/project_io,11,0.181
+core/project_io projects can be accessed using the encoded ID,0.003,core/project_io,11,0.181
+core/project_io getProjectIds ignores non-project subdirectories,0.002,core/project_io,11,0.181
+core/project_io getProjectIds ignores non-project file entries,0.002,core/project_io,11,0.181
+core/project_io loadProject throws an error on inconsistent id,0.003,core/project_io,11,0.181
+core/project_io loadProject throws an error on bad compat,0.003,core/project_io,11,0.181
+core/project_io loadProject fails when a different project was saved,0.003,core/project_io,11,0.181
+cli/load 'load' command wrapper calls load with a single repo,0.002,cli/load,11,0.962
+cli/load 'load' command wrapper calls load with multiple repos,0.001,cli/load,11,0.962
+"cli/load 'load' command wrapper loads the weights, if provided",0.003,cli/load,11,0.962
+cli/load 'load' command wrapper errors if the weights file does not exist,0.005,cli/load,11,0.962
+cli/load 'load' command wrapper errors if the weights file is invalid,0.001,cli/load,11,0.962
+cli/load 'load' command wrapper errors if the repo identifier is invalid,0.004,cli/load,11,0.962
+cli/load 'load' command wrapper errors if the SOURCECRED_GITHUB_TOKEN is unset,0.004,cli/load,11,0.962
+plugins/initiatives/loader loadDirectory should report correct tasks,0.005,plugins/initiatives/loader,2,0.167
+plugins/github/graphqlTypes is up to date,0.128,plugins/github/graphqlTypes,1,0.349
+plugins/initiatives/initiativesDirectory _readFiles should throw when directory is not a directory,0.008,plugins/initiatives/initiativesDirectory,18,1.593
+plugins/initiatives/initiativesDirectory loadDirectory should handle an example smoke test,0.01,plugins/initiatives/initiativesDirectory,18,1.593
+plugins/initiatives/initiativesDirectory loadDirectory should perform localPath testing,0.003,plugins/initiatives/initiativesDirectory,18,1.593
+plugins/initiatives/initiativesDirectory loadDirectory should use validated URL to create mappings and addresses,0.005,plugins/initiatives/initiativesDirectory,18,1.593
+src/backend/dataDirectory DataDirectory DataDirectory.database should create SQLite DB in the cache directory,0.003,src/backend/dataDirectory,8,0.353
+src/backend/dataDirectory DataDirectory DataDirectory.database should work when sourcecredDirectory doesn't exist,0.003,src/backend/dataDirectory,8,0.353
+src/backend/dataDirectory DataDirectory DataDirectory.database should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.353
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should populate a project directory,0.011,src/backend/dataDirectory,8,0.353
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should work when sourcecredDirectory doesn't exist,0.014,src/backend/dataDirectory,8,0.353
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should fail when sourcecredDirectory is a file,0.004,src/backend/dataDirectory,8,0.353
+core/project_io setupProjectDirectory results in a loadable project,0.005,core/project_io,11,0.183
+core/project_io setupProjectDirectory twice results in two loadable projects,0.005,core/project_io,11,0.183
+core/project_io getProjectIds returns no projects if none were setup,0.004,core/project_io,11,0.183
+core/project_io setupProjectDirectory returns the right directory,0.003,core/project_io,11,0.183
+core/project_io projects can be accessed using the encoded ID,0.003,core/project_io,11,0.183
+core/project_io getProjectIds ignores non-project subdirectories,0.003,core/project_io,11,0.183
+core/project_io getProjectIds ignores non-project file entries,0.002,core/project_io,11,0.183
+core/project_io loadProject throws an error on inconsistent id,0.003,core/project_io,11,0.183
+core/project_io loadProject throws an error on bad compat,0.003,core/project_io,11,0.183
+core/project_io loadProject fails when a different project was saved,0.004,core/project_io,11,0.183
+cli/load 'load' command wrapper calls load with a single repo,0.002,cli/load,11,0.949
+cli/load 'load' command wrapper calls load with multiple repos,0.002,cli/load,11,0.949
+"cli/load 'load' command wrapper loads the weights, if provided",0.002,cli/load,11,0.949
+cli/load 'load' command wrapper errors if the weights file does not exist,0.007,cli/load,11,0.949
+cli/load 'load' command wrapper errors if the weights file is invalid,0.001,cli/load,11,0.949
+cli/load 'load' command wrapper errors if the repo identifier is invalid,0.003,cli/load,11,0.949
+cli/load 'load' command wrapper errors if the SOURCECRED_GITHUB_TOKEN is unset,0,cli/load,11,0.949
+plugins/initiatives/loader loadDirectory should report correct tasks,0.006,plugins/initiatives/loader,2,0.159
+plugins/github/graphqlTypes is up to date,0.122,plugins/github/graphqlTypes,1,0.331
+plugins/initiatives/initiativesDirectory _readFiles should throw when directory is not a directory,0.008,plugins/initiatives/initiativesDirectory,18,1.543
+plugins/initiatives/initiativesDirectory loadDirectory should handle an example smoke test,0.011,plugins/initiatives/initiativesDirectory,18,1.543
+plugins/initiatives/initiativesDirectory loadDirectory should perform localPath testing,0.004,plugins/initiatives/initiativesDirectory,18,1.543
+plugins/initiatives/initiativesDirectory loadDirectory should use validated URL to create mappings and addresses,0.004,plugins/initiatives/initiativesDirectory,18,1.543
+src/backend/dataDirectory DataDirectory DataDirectory.database should create SQLite DB in the cache directory,0.003,src/backend/dataDirectory,8,0.358
+src/backend/dataDirectory DataDirectory DataDirectory.database should work when sourcecredDirectory doesn't exist,0.002,src/backend/dataDirectory,8,0.358
+src/backend/dataDirectory DataDirectory DataDirectory.database should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.358
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should populate a project directory,0.012,src/backend/dataDirectory,8,0.358
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should work when sourcecredDirectory doesn't exist,0.014,src/backend/dataDirectory,8,0.358
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.358
+core/project_io setupProjectDirectory results in a loadable project,0.005,core/project_io,11,0.188
+core/project_io setupProjectDirectory twice results in two loadable projects,0.01,core/project_io,11,0.188
+core/project_io getProjectIds returns no projects if none were setup,0,core/project_io,11,0.188
+core/project_io setupProjectDirectory returns the right directory,0.003,core/project_io,11,0.188
+core/project_io projects can be accessed using the encoded ID,0.003,core/project_io,11,0.188
+core/project_io getProjectIds ignores non-project subdirectories,0.002,core/project_io,11,0.188
+core/project_io getProjectIds ignores non-project file entries,0.003,core/project_io,11,0.188
+core/project_io loadProject throws an error on inconsistent id,0.003,core/project_io,11,0.188
+core/project_io loadProject throws an error on bad compat,0.003,core/project_io,11,0.188
+core/project_io loadProject fails when a different project was saved,0.004,core/project_io,11,0.188
+cli/load 'load' command wrapper calls load with a single repo,0.002,cli/load,11,0.98
+cli/load 'load' command wrapper calls load with multiple repos,0.001,cli/load,11,0.98
+"cli/load 'load' command wrapper loads the weights, if provided",0.002,cli/load,11,0.98
+cli/load 'load' command wrapper errors if the weights file does not exist,0.006,cli/load,11,0.98
+cli/load 'load' command wrapper errors if the weights file is invalid,0.001,cli/load,11,0.98
+cli/load 'load' command wrapper errors if the repo identifier is invalid,0.008,cli/load,11,0.98
+cli/load 'load' command wrapper errors if the SOURCECRED_GITHUB_TOKEN is unset,0.001,cli/load,11,0.98
+plugins/initiatives/loader loadDirectory should report correct tasks,0.007,plugins/initiatives/loader,2,0.176
+plugins/github/graphqlTypes is up to date,0.133,plugins/github/graphqlTypes,1,0.345
+plugins/initiatives/initiativesDirectory _readFiles should throw when directory is not a directory,0.008,plugins/initiatives/initiativesDirectory,18,1.561
+plugins/initiatives/initiativesDirectory loadDirectory should handle an example smoke test,0.011,plugins/initiatives/initiativesDirectory,18,1.561
+plugins/initiatives/initiativesDirectory loadDirectory should perform localPath testing,0.004,plugins/initiatives/initiativesDirectory,18,1.561
+plugins/initiatives/initiativesDirectory loadDirectory should use validated URL to create mappings and addresses,0.004,plugins/initiatives/initiativesDirectory,18,1.561
+src/backend/dataDirectory DataDirectory DataDirectory.database should create SQLite DB in the cache directory,0.004,src/backend/dataDirectory,8,0.34
+src/backend/dataDirectory DataDirectory DataDirectory.database should work when sourcecredDirectory doesn't exist,0.002,src/backend/dataDirectory,8,0.34
+src/backend/dataDirectory DataDirectory DataDirectory.database should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.34
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should populate a project directory,0.011,src/backend/dataDirectory,8,0.34
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should work when sourcecredDirectory doesn't exist,0.016,src/backend/dataDirectory,8,0.34
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.34
+core/project_io setupProjectDirectory results in a loadable project,0.005,core/project_io,11,0.181
+core/project_io setupProjectDirectory twice results in two loadable projects,0.008,core/project_io,11,0.181
+core/project_io getProjectIds returns no projects if none were setup,0,core/project_io,11,0.181
+core/project_io setupProjectDirectory returns the right directory,0.002,core/project_io,11,0.181
+core/project_io projects can be accessed using the encoded ID,0.003,core/project_io,11,0.181
+core/project_io getProjectIds ignores non-project subdirectories,0.003,core/project_io,11,0.181
+core/project_io getProjectIds ignores non-project file entries,0.003,core/project_io,11,0.181
+core/project_io loadProject throws an error on inconsistent id,0.002,core/project_io,11,0.181
+core/project_io loadProject throws an error on bad compat,0.003,core/project_io,11,0.181
+core/project_io loadProject fails when a different project was saved,0.002,core/project_io,11,0.181
+cli/load 'load' command wrapper calls load with a single repo,0.002,cli/load,11,0.94
+cli/load 'load' command wrapper calls load with multiple repos,0.001,cli/load,11,0.94
+"cli/load 'load' command wrapper loads the weights, if provided",0.002,cli/load,11,0.94
+cli/load 'load' command wrapper errors if the weights file does not exist,0.007,cli/load,11,0.94
+cli/load 'load' command wrapper errors if the weights file is invalid,0.001,cli/load,11,0.94
+cli/load 'load' command wrapper errors if the repo identifier is invalid,0.004,cli/load,11,0.94
+cli/load 'load' command wrapper errors if the SOURCECRED_GITHUB_TOKEN is unset,0,cli/load,11,0.94
+plugins/initiatives/loader loadDirectory should report correct tasks,0.005,plugins/initiatives/loader,2,0.159
+plugins/github/graphqlTypes is up to date,0.134,plugins/github/graphqlTypes,1,0.341
+plugins/initiatives/initiativesDirectory _readFiles should throw when directory is not a directory,0.007,plugins/initiatives/initiativesDirectory,18,1.562
+plugins/initiatives/initiativesDirectory loadDirectory should handle an example smoke test,0.012,plugins/initiatives/initiativesDirectory,18,1.562
+plugins/initiatives/initiativesDirectory loadDirectory should perform localPath testing,0.003,plugins/initiatives/initiativesDirectory,18,1.562
+plugins/initiatives/initiativesDirectory loadDirectory should use validated URL to create mappings and addresses,0.005,plugins/initiatives/initiativesDirectory,18,1.562
+src/backend/dataDirectory DataDirectory DataDirectory.database should create SQLite DB in the cache directory,0.003,src/backend/dataDirectory,8,0.363
+src/backend/dataDirectory DataDirectory DataDirectory.database should work when sourcecredDirectory doesn't exist,0.002,src/backend/dataDirectory,8,0.363
+src/backend/dataDirectory DataDirectory DataDirectory.database should fail when sourcecredDirectory is a file,0.004,src/backend/dataDirectory,8,0.363
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should populate a project directory,0.011,src/backend/dataDirectory,8,0.363
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should work when sourcecredDirectory doesn't exist,0.015,src/backend/dataDirectory,8,0.363
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.363
+core/project_io setupProjectDirectory results in a loadable project,0.005,core/project_io,11,0.181
+core/project_io setupProjectDirectory twice results in two loadable projects,0.009,core/project_io,11,0.181
+core/project_io getProjectIds returns no projects if none were setup,0,core/project_io,11,0.181
+core/project_io setupProjectDirectory returns the right directory,0.003,core/project_io,11,0.181
+core/project_io projects can be accessed using the encoded ID,0.003,core/project_io,11,0.181
+core/project_io getProjectIds ignores non-project subdirectories,0.003,core/project_io,11,0.181
+core/project_io getProjectIds ignores non-project file entries,0.002,core/project_io,11,0.181
+core/project_io loadProject throws an error on inconsistent id,0.003,core/project_io,11,0.181
+core/project_io loadProject throws an error on bad compat,0.003,core/project_io,11,0.181
+core/project_io loadProject fails when a different project was saved,0.003,core/project_io,11,0.181
+cli/load 'load' command wrapper calls load with a single repo,0.002,cli/load,11,0.939
+cli/load 'load' command wrapper calls load with multiple repos,0.002,cli/load,11,0.939
+"cli/load 'load' command wrapper loads the weights, if provided",0.002,cli/load,11,0.939
+cli/load 'load' command wrapper errors if the weights file does not exist,0.005,cli/load,11,0.939
+cli/load 'load' command wrapper errors if the weights file is invalid,0.002,cli/load,11,0.939
+cli/load 'load' command wrapper errors if the repo identifier is invalid,0.003,cli/load,11,0.939
+cli/load 'load' command wrapper errors if the SOURCECRED_GITHUB_TOKEN is unset,0.001,cli/load,11,0.939
+plugins/initiatives/loader loadDirectory should report correct tasks,0.005,plugins/initiatives/loader,2,0.168
+plugins/github/graphqlTypes is up to date,0.124,plugins/github/graphqlTypes,1,0.336
+plugins/initiatives/initiativesDirectory _readFiles should throw when directory is not a directory,0.008,plugins/initiatives/initiativesDirectory,18,1.531
+plugins/initiatives/initiativesDirectory loadDirectory should handle an example smoke test,0.011,plugins/initiatives/initiativesDirectory,18,1.531
+plugins/initiatives/initiativesDirectory loadDirectory should perform localPath testing,0.003,plugins/initiatives/initiativesDirectory,18,1.531
+plugins/initiatives/initiativesDirectory loadDirectory should use validated URL to create mappings and addresses,0.005,plugins/initiatives/initiativesDirectory,18,1.531
+src/backend/dataDirectory DataDirectory DataDirectory.database should create SQLite DB in the cache directory,0.004,src/backend/dataDirectory,8,0.344
+src/backend/dataDirectory DataDirectory DataDirectory.database should work when sourcecredDirectory doesn't exist,0.002,src/backend/dataDirectory,8,0.344
+src/backend/dataDirectory DataDirectory DataDirectory.database should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.344
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should populate a project directory,0.012,src/backend/dataDirectory,8,0.344
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should work when sourcecredDirectory doesn't exist,0.014,src/backend/dataDirectory,8,0.344
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.344
+core/project_io setupProjectDirectory results in a loadable project,0.005,core/project_io,11,0.182
+core/project_io setupProjectDirectory twice results in two loadable projects,0.009,core/project_io,11,0.182
+core/project_io getProjectIds returns no projects if none were setup,0.001,core/project_io,11,0.182
+core/project_io setupProjectDirectory returns the right directory,0.002,core/project_io,11,0.182
+core/project_io projects can be accessed using the encoded ID,0.004,core/project_io,11,0.182
+core/project_io getProjectIds ignores non-project subdirectories,0.002,core/project_io,11,0.182
+core/project_io getProjectIds ignores non-project file entries,0.003,core/project_io,11,0.182
+core/project_io loadProject throws an error on inconsistent id,0.002,core/project_io,11,0.182
+core/project_io loadProject throws an error on bad compat,0.002,core/project_io,11,0.182
+core/project_io loadProject fails when a different project was saved,0.003,core/project_io,11,0.182
+cli/load 'load' command wrapper calls load with a single repo,0.002,cli/load,11,0.943
+cli/load 'load' command wrapper calls load with multiple repos,0.001,cli/load,11,0.943
+"cli/load 'load' command wrapper loads the weights, if provided",0.002,cli/load,11,0.943
+cli/load 'load' command wrapper errors if the weights file does not exist,0.005,cli/load,11,0.943
+cli/load 'load' command wrapper errors if the weights file is invalid,0.001,cli/load,11,0.943
+cli/load 'load' command wrapper errors if the repo identifier is invalid,0.003,cli/load,11,0.943
+cli/load 'load' command wrapper errors if the SOURCECRED_GITHUB_TOKEN is unset,0.001,cli/load,11,0.943
+plugins/initiatives/loader loadDirectory should report correct tasks,0.012,plugins/initiatives/loader,2,0.187
+plugins/github/graphqlTypes is up to date,0.131,plugins/github/graphqlTypes,1,0.341
+plugins/initiatives/initiativesDirectory _readFiles should throw when directory is not a directory,0.008,plugins/initiatives/initiativesDirectory,18,1.507
+plugins/initiatives/initiativesDirectory loadDirectory should handle an example smoke test,0.011,plugins/initiatives/initiativesDirectory,18,1.507
+plugins/initiatives/initiativesDirectory loadDirectory should perform localPath testing,0.004,plugins/initiatives/initiativesDirectory,18,1.507
+plugins/initiatives/initiativesDirectory loadDirectory should use validated URL to create mappings and addresses,0.005,plugins/initiatives/initiativesDirectory,18,1.507
+src/backend/dataDirectory DataDirectory DataDirectory.database should create SQLite DB in the cache directory,0.003,src/backend/dataDirectory,8,0.343
+src/backend/dataDirectory DataDirectory DataDirectory.database should work when sourcecredDirectory doesn't exist,0.003,src/backend/dataDirectory,8,0.343
+src/backend/dataDirectory DataDirectory DataDirectory.database should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.343
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should populate a project directory,0.011,src/backend/dataDirectory,8,0.343
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should work when sourcecredDirectory doesn't exist,0.015,src/backend/dataDirectory,8,0.343
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.343
+core/project_io setupProjectDirectory results in a loadable project,0.005,core/project_io,11,0.178
+core/project_io setupProjectDirectory twice results in two loadable projects,0.006,core/project_io,11,0.178
+core/project_io getProjectIds returns no projects if none were setup,0.004,core/project_io,11,0.178
+core/project_io setupProjectDirectory returns the right directory,0.002,core/project_io,11,0.178
+core/project_io projects can be accessed using the encoded ID,0.003,core/project_io,11,0.178
+core/project_io getProjectIds ignores non-project subdirectories,0.003,core/project_io,11,0.178
+core/project_io getProjectIds ignores non-project file entries,0.002,core/project_io,11,0.178
+core/project_io loadProject throws an error on inconsistent id,0.003,core/project_io,11,0.178
+core/project_io loadProject throws an error on bad compat,0.003,core/project_io,11,0.178
+core/project_io loadProject fails when a different project was saved,0.003,core/project_io,11,0.178
+cli/load 'load' command wrapper calls load with a single repo,0.002,cli/load,11,0.938
+cli/load 'load' command wrapper calls load with multiple repos,0.001,cli/load,11,0.938
+"cli/load 'load' command wrapper loads the weights, if provided",0.003,cli/load,11,0.938
+cli/load 'load' command wrapper errors if the weights file does not exist,0.005,cli/load,11,0.938
+cli/load 'load' command wrapper errors if the weights file is invalid,0.002,cli/load,11,0.938
+cli/load 'load' command wrapper errors if the repo identifier is invalid,0.003,cli/load,11,0.938
+cli/load 'load' command wrapper errors if the SOURCECRED_GITHUB_TOKEN is unset,0.001,cli/load,11,0.938
+plugins/initiatives/loader loadDirectory should report correct tasks,0.005,plugins/initiatives/loader,2,0.161
+plugins/github/graphqlTypes is up to date,0.124,plugins/github/graphqlTypes,1,0.336
+plugins/initiatives/initiativesDirectory _readFiles should throw when directory is not a directory,0.008,plugins/initiatives/initiativesDirectory,18,1.535
+plugins/initiatives/initiativesDirectory loadDirectory should handle an example smoke test,0.011,plugins/initiatives/initiativesDirectory,18,1.535
+plugins/initiatives/initiativesDirectory loadDirectory should perform localPath testing,0.004,plugins/initiatives/initiativesDirectory,18,1.535
+plugins/initiatives/initiativesDirectory loadDirectory should use validated URL to create mappings and addresses,0.004,plugins/initiatives/initiativesDirectory,18,1.535
+src/backend/dataDirectory DataDirectory DataDirectory.database should create SQLite DB in the cache directory,0.003,src/backend/dataDirectory,8,0.352
+src/backend/dataDirectory DataDirectory DataDirectory.database should work when sourcecredDirectory doesn't exist,0.002,src/backend/dataDirectory,8,0.352
+src/backend/dataDirectory DataDirectory DataDirectory.database should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.352
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should populate a project directory,0.012,src/backend/dataDirectory,8,0.352
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should work when sourcecredDirectory doesn't exist,0.015,src/backend/dataDirectory,8,0.352
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.352
+core/project_io setupProjectDirectory results in a loadable project,0.005,core/project_io,11,0.184
+core/project_io setupProjectDirectory twice results in two loadable projects,0.009,core/project_io,11,0.184
+core/project_io getProjectIds returns no projects if none were setup,0.001,core/project_io,11,0.184
+core/project_io setupProjectDirectory returns the right directory,0.003,core/project_io,11,0.184
+core/project_io projects can be accessed using the encoded ID,0.003,core/project_io,11,0.184
+core/project_io getProjectIds ignores non-project subdirectories,0.003,core/project_io,11,0.184
+core/project_io getProjectIds ignores non-project file entries,0.002,core/project_io,11,0.184
+core/project_io loadProject throws an error on inconsistent id,0.003,core/project_io,11,0.184
+core/project_io loadProject throws an error on bad compat,0.003,core/project_io,11,0.184
+core/project_io loadProject fails when a different project was saved,0.004,core/project_io,11,0.184
+cli/load 'load' command wrapper calls load with a single repo,0.002,cli/load,11,0.939
+cli/load 'load' command wrapper calls load with multiple repos,0.001,cli/load,11,0.939
+"cli/load 'load' command wrapper loads the weights, if provided",0.003,cli/load,11,0.939
+cli/load 'load' command wrapper errors if the weights file does not exist,0.006,cli/load,11,0.939
+cli/load 'load' command wrapper errors if the weights file is invalid,0.001,cli/load,11,0.939
+cli/load 'load' command wrapper errors if the repo identifier is invalid,0.003,cli/load,11,0.939
+cli/load 'load' command wrapper errors if the SOURCECRED_GITHUB_TOKEN is unset,0,cli/load,11,0.939
+plugins/initiatives/loader loadDirectory should report correct tasks,0.006,plugins/initiatives/loader,2,0.16
+plugins/github/graphqlTypes is up to date,0.135,plugins/github/graphqlTypes,1,0.343
+plugins/initiatives/initiativesDirectory _readFiles should throw when directory is not a directory,0.007,plugins/initiatives/initiativesDirectory,18,1.578
+plugins/initiatives/initiativesDirectory loadDirectory should handle an example smoke test,0.01,plugins/initiatives/initiativesDirectory,18,1.578
+plugins/initiatives/initiativesDirectory loadDirectory should perform localPath testing,0.004,plugins/initiatives/initiativesDirectory,18,1.578
+plugins/initiatives/initiativesDirectory loadDirectory should use validated URL to create mappings and addresses,0.005,plugins/initiatives/initiativesDirectory,18,1.578
+src/backend/dataDirectory DataDirectory DataDirectory.database should create SQLite DB in the cache directory,0.004,src/backend/dataDirectory,8,0.344
+src/backend/dataDirectory DataDirectory DataDirectory.database should work when sourcecredDirectory doesn't exist,0.002,src/backend/dataDirectory,8,0.344
+src/backend/dataDirectory DataDirectory DataDirectory.database should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.344
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should populate a project directory,0.012,src/backend/dataDirectory,8,0.344
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should work when sourcecredDirectory doesn't exist,0.015,src/backend/dataDirectory,8,0.344
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.344
+core/project_io setupProjectDirectory results in a loadable project,0.005,core/project_io,11,0.183
+core/project_io setupProjectDirectory twice results in two loadable projects,0.01,core/project_io,11,0.183
+core/project_io getProjectIds returns no projects if none were setup,0,core/project_io,11,0.183
+core/project_io setupProjectDirectory returns the right directory,0.003,core/project_io,11,0.183
+core/project_io projects can be accessed using the encoded ID,0.003,core/project_io,11,0.183
+core/project_io getProjectIds ignores non-project subdirectories,0.002,core/project_io,11,0.183
+core/project_io getProjectIds ignores non-project file entries,0.003,core/project_io,11,0.183
+core/project_io loadProject throws an error on inconsistent id,0.003,core/project_io,11,0.183
+core/project_io loadProject throws an error on bad compat,0.003,core/project_io,11,0.183
+core/project_io loadProject fails when a different project was saved,0.004,core/project_io,11,0.183
+cli/load 'load' command wrapper calls load with a single repo,0.002,cli/load,11,0.955
+cli/load 'load' command wrapper calls load with multiple repos,0.002,cli/load,11,0.955
+"cli/load 'load' command wrapper loads the weights, if provided",0.002,cli/load,11,0.955
+cli/load 'load' command wrapper errors if the weights file does not exist,0.006,cli/load,11,0.955
+cli/load 'load' command wrapper errors if the weights file is invalid,0.001,cli/load,11,0.955
+cli/load 'load' command wrapper errors if the repo identifier is invalid,0.003,cli/load,11,0.955
+cli/load 'load' command wrapper errors if the SOURCECRED_GITHUB_TOKEN is unset,0,cli/load,11,0.955
+plugins/initiatives/loader loadDirectory should report correct tasks,0.005,plugins/initiatives/loader,2,0.164
+plugins/github/graphqlTypes is up to date,0.125,plugins/github/graphqlTypes,1,0.335
+plugins/initiatives/initiativesDirectory _readFiles should throw when directory is not a directory,0.008,plugins/initiatives/initiativesDirectory,18,1.583
+plugins/initiatives/initiativesDirectory loadDirectory should handle an example smoke test,0.01,plugins/initiatives/initiativesDirectory,18,1.583
+plugins/initiatives/initiativesDirectory loadDirectory should perform localPath testing,0.004,plugins/initiatives/initiativesDirectory,18,1.583
+plugins/initiatives/initiativesDirectory loadDirectory should use validated URL to create mappings and addresses,0.005,plugins/initiatives/initiativesDirectory,18,1.583
+src/backend/dataDirectory DataDirectory DataDirectory.database should create SQLite DB in the cache directory,0.003,src/backend/dataDirectory,8,0.339
+src/backend/dataDirectory DataDirectory DataDirectory.database should work when sourcecredDirectory doesn't exist,0.002,src/backend/dataDirectory,8,0.339
+src/backend/dataDirectory DataDirectory DataDirectory.database should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.339
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should populate a project directory,0.011,src/backend/dataDirectory,8,0.339
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should work when sourcecredDirectory doesn't exist,0.017,src/backend/dataDirectory,8,0.339
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.339
+core/project_io setupProjectDirectory results in a loadable project,0.005,core/project_io,11,0.181
+core/project_io setupProjectDirectory twice results in two loadable projects,0.01,core/project_io,11,0.181
+core/project_io getProjectIds returns no projects if none were setup,0.001,core/project_io,11,0.181
+core/project_io setupProjectDirectory returns the right directory,0.002,core/project_io,11,0.181
+core/project_io projects can be accessed using the encoded ID,0.003,core/project_io,11,0.181
+core/project_io getProjectIds ignores non-project subdirectories,0.003,core/project_io,11,0.181
+core/project_io getProjectIds ignores non-project file entries,0.002,core/project_io,11,0.181
+core/project_io loadProject throws an error on inconsistent id,0.003,core/project_io,11,0.181
+core/project_io loadProject throws an error on bad compat,0.003,core/project_io,11,0.181
+core/project_io loadProject fails when a different project was saved,0.003,core/project_io,11,0.181
+cli/load 'load' command wrapper calls load with a single repo,0.002,cli/load,11,0.94
+cli/load 'load' command wrapper calls load with multiple repos,0.001,cli/load,11,0.94
+"cli/load 'load' command wrapper loads the weights, if provided",0.003,cli/load,11,0.94
+cli/load 'load' command wrapper errors if the weights file does not exist,0.005,cli/load,11,0.94
+cli/load 'load' command wrapper errors if the weights file is invalid,0.001,cli/load,11,0.94
+cli/load 'load' command wrapper errors if the repo identifier is invalid,0.004,cli/load,11,0.94
+cli/load 'load' command wrapper errors if the SOURCECRED_GITHUB_TOKEN is unset,0,cli/load,11,0.94
+plugins/initiatives/loader loadDirectory should report correct tasks,0.005,plugins/initiatives/loader,2,0.167
+plugins/github/graphqlTypes is up to date,0.125,plugins/github/graphqlTypes,1,0.347
+plugins/initiatives/initiativesDirectory _readFiles should throw when directory is not a directory,0.008,plugins/initiatives/initiativesDirectory,18,1.534
+plugins/initiatives/initiativesDirectory loadDirectory should handle an example smoke test,0.013,plugins/initiatives/initiativesDirectory,18,1.534
+plugins/initiatives/initiativesDirectory loadDirectory should perform localPath testing,0.006,plugins/initiatives/initiativesDirectory,18,1.534
+plugins/initiatives/initiativesDirectory loadDirectory should use validated URL to create mappings and addresses,0.004,plugins/initiatives/initiativesDirectory,18,1.534
+src/backend/dataDirectory DataDirectory DataDirectory.database should create SQLite DB in the cache directory,0.004,src/backend/dataDirectory,8,0.353
+src/backend/dataDirectory DataDirectory DataDirectory.database should work when sourcecredDirectory doesn't exist,0.002,src/backend/dataDirectory,8,0.353
+src/backend/dataDirectory DataDirectory DataDirectory.database should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.353
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should populate a project directory,0.011,src/backend/dataDirectory,8,0.353
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should work when sourcecredDirectory doesn't exist,0.013,src/backend/dataDirectory,8,0.353
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.353
+core/project_io setupProjectDirectory results in a loadable project,0.006,core/project_io,11,0.18
+core/project_io setupProjectDirectory twice results in two loadable projects,0.009,core/project_io,11,0.18
+core/project_io getProjectIds returns no projects if none were setup,0.001,core/project_io,11,0.18
+core/project_io setupProjectDirectory returns the right directory,0.002,core/project_io,11,0.18
+core/project_io projects can be accessed using the encoded ID,0.003,core/project_io,11,0.18
+core/project_io getProjectIds ignores non-project subdirectories,0.003,core/project_io,11,0.18
+core/project_io getProjectIds ignores non-project file entries,0.003,core/project_io,11,0.18
+core/project_io loadProject throws an error on inconsistent id,0.002,core/project_io,11,0.18
+core/project_io loadProject throws an error on bad compat,0.003,core/project_io,11,0.18
+core/project_io loadProject fails when a different project was saved,0.003,core/project_io,11,0.18
+cli/load 'load' command wrapper calls load with a single repo,0.002,cli/load,11,0.962
+cli/load 'load' command wrapper calls load with multiple repos,0.002,cli/load,11,0.962
+"cli/load 'load' command wrapper loads the weights, if provided",0.002,cli/load,11,0.962
+cli/load 'load' command wrapper errors if the weights file does not exist,0.005,cli/load,11,0.962
+cli/load 'load' command wrapper errors if the weights file is invalid,0.002,cli/load,11,0.962
+cli/load 'load' command wrapper errors if the repo identifier is invalid,0.003,cli/load,11,0.962
+cli/load 'load' command wrapper errors if the SOURCECRED_GITHUB_TOKEN is unset,0.001,cli/load,11,0.962
+plugins/initiatives/loader loadDirectory should report correct tasks,0.005,plugins/initiatives/loader,2,0.159
+plugins/github/graphqlTypes is up to date,0.131,plugins/github/graphqlTypes,1,0.34
+plugins/initiatives/initiativesDirectory _readFiles should throw when directory is not a directory,0.008,plugins/initiatives/initiativesDirectory,18,1.578
+plugins/initiatives/initiativesDirectory loadDirectory should handle an example smoke test,0.011,plugins/initiatives/initiativesDirectory,18,1.578
+plugins/initiatives/initiativesDirectory loadDirectory should perform localPath testing,0.004,plugins/initiatives/initiativesDirectory,18,1.578
+plugins/initiatives/initiativesDirectory loadDirectory should use validated URL to create mappings and addresses,0.004,plugins/initiatives/initiativesDirectory,18,1.578
+src/backend/dataDirectory DataDirectory DataDirectory.database should create SQLite DB in the cache directory,0.003,src/backend/dataDirectory,8,0.346
+src/backend/dataDirectory DataDirectory DataDirectory.database should work when sourcecredDirectory doesn't exist,0.003,src/backend/dataDirectory,8,0.346
+src/backend/dataDirectory DataDirectory DataDirectory.database should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.346
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should populate a project directory,0.011,src/backend/dataDirectory,8,0.346
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should work when sourcecredDirectory doesn't exist,0.015,src/backend/dataDirectory,8,0.346
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.346
+core/project_io setupProjectDirectory results in a loadable project,0.005,core/project_io,11,0.179
+core/project_io setupProjectDirectory twice results in two loadable projects,0.006,core/project_io,11,0.179
+core/project_io getProjectIds returns no projects if none were setup,0.004,core/project_io,11,0.179
+core/project_io setupProjectDirectory returns the right directory,0.002,core/project_io,11,0.179
+core/project_io projects can be accessed using the encoded ID,0.004,core/project_io,11,0.179
+core/project_io getProjectIds ignores non-project subdirectories,0.002,core/project_io,11,0.179
+core/project_io getProjectIds ignores non-project file entries,0.003,core/project_io,11,0.179
+core/project_io loadProject throws an error on inconsistent id,0.003,core/project_io,11,0.179
+core/project_io loadProject throws an error on bad compat,0.002,core/project_io,11,0.179
+core/project_io loadProject fails when a different project was saved,0.003,core/project_io,11,0.179
+cli/load 'load' command wrapper calls load with a single repo,0.002,cli/load,11,0.981
+cli/load 'load' command wrapper calls load with multiple repos,0.001,cli/load,11,0.981
+"cli/load 'load' command wrapper loads the weights, if provided",0.003,cli/load,11,0.981
+cli/load 'load' command wrapper errors if the weights file does not exist,0.006,cli/load,11,0.981
+cli/load 'load' command wrapper errors if the weights file is invalid,0.001,cli/load,11,0.981
+cli/load 'load' command wrapper errors if the repo identifier is invalid,0.004,cli/load,11,0.981
+cli/load 'load' command wrapper errors if the SOURCECRED_GITHUB_TOKEN is unset,0,cli/load,11,0.981
+plugins/initiatives/loader loadDirectory should report correct tasks,0.007,plugins/initiatives/loader,2,0.166
+plugins/github/graphqlTypes is up to date,0.13,plugins/github/graphqlTypes,1,0.346
+plugins/initiatives/initiativesDirectory _readFiles should throw when directory is not a directory,0.009,plugins/initiatives/initiativesDirectory,18,1.572
+plugins/initiatives/initiativesDirectory loadDirectory should handle an example smoke test,0.013,plugins/initiatives/initiativesDirectory,18,1.572
+plugins/initiatives/initiativesDirectory loadDirectory should perform localPath testing,0.007,plugins/initiatives/initiativesDirectory,18,1.572
+plugins/initiatives/initiativesDirectory loadDirectory should use validated URL to create mappings and addresses,0.004,plugins/initiatives/initiativesDirectory,18,1.572
+src/backend/dataDirectory DataDirectory DataDirectory.database should create SQLite DB in the cache directory,0.004,src/backend/dataDirectory,8,0.338
+src/backend/dataDirectory DataDirectory DataDirectory.database should work when sourcecredDirectory doesn't exist,0.002,src/backend/dataDirectory,8,0.338
+src/backend/dataDirectory DataDirectory DataDirectory.database should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.338
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should populate a project directory,0.011,src/backend/dataDirectory,8,0.338
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should work when sourcecredDirectory doesn't exist,0.015,src/backend/dataDirectory,8,0.338
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should fail when sourcecredDirectory is a file,0.004,src/backend/dataDirectory,8,0.338
+core/project_io setupProjectDirectory results in a loadable project,0.005,core/project_io,11,0.188
+core/project_io setupProjectDirectory twice results in two loadable projects,0.009,core/project_io,11,0.188
+core/project_io getProjectIds returns no projects if none were setup,0,core/project_io,11,0.188
+core/project_io setupProjectDirectory returns the right directory,0.003,core/project_io,11,0.188
+core/project_io projects can be accessed using the encoded ID,0.003,core/project_io,11,0.188
+core/project_io getProjectIds ignores non-project subdirectories,0.002,core/project_io,11,0.188
+core/project_io getProjectIds ignores non-project file entries,0.003,core/project_io,11,0.188
+core/project_io loadProject throws an error on inconsistent id,0.003,core/project_io,11,0.188
+core/project_io loadProject throws an error on bad compat,0.003,core/project_io,11,0.188
+core/project_io loadProject fails when a different project was saved,0.004,core/project_io,11,0.188
+cli/load 'load' command wrapper calls load with a single repo,0.002,cli/load,11,0.94
+cli/load 'load' command wrapper calls load with multiple repos,0.001,cli/load,11,0.94
+"cli/load 'load' command wrapper loads the weights, if provided",0.002,cli/load,11,0.94
+cli/load 'load' command wrapper errors if the weights file does not exist,0.007,cli/load,11,0.94
+cli/load 'load' command wrapper errors if the weights file is invalid,0.001,cli/load,11,0.94
+cli/load 'load' command wrapper errors if the repo identifier is invalid,0.003,cli/load,11,0.94
+cli/load 'load' command wrapper errors if the SOURCECRED_GITHUB_TOKEN is unset,0.001,cli/load,11,0.94
+plugins/initiatives/loader loadDirectory should report correct tasks,0.005,plugins/initiatives/loader,2,0.163
+plugins/github/graphqlTypes is up to date,0.122,plugins/github/graphqlTypes,1,0.329
+plugins/initiatives/initiativesDirectory _readFiles should throw when directory is not a directory,0.007,plugins/initiatives/initiativesDirectory,18,1.548
+plugins/initiatives/initiativesDirectory loadDirectory should handle an example smoke test,0.012,plugins/initiatives/initiativesDirectory,18,1.548
+plugins/initiatives/initiativesDirectory loadDirectory should perform localPath testing,0.004,plugins/initiatives/initiativesDirectory,18,1.548
+plugins/initiatives/initiativesDirectory loadDirectory should use validated URL to create mappings and addresses,0.004,plugins/initiatives/initiativesDirectory,18,1.548
+src/backend/dataDirectory DataDirectory DataDirectory.database should create SQLite DB in the cache directory,0.004,src/backend/dataDirectory,8,0.375
+src/backend/dataDirectory DataDirectory DataDirectory.database should work when sourcecredDirectory doesn't exist,0.002,src/backend/dataDirectory,8,0.375
+src/backend/dataDirectory DataDirectory DataDirectory.database should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.375
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should populate a project directory,0.011,src/backend/dataDirectory,8,0.375
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should work when sourcecredDirectory doesn't exist,0.015,src/backend/dataDirectory,8,0.375
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.375
+core/project_io setupProjectDirectory results in a loadable project,0.005,core/project_io,11,0.187
+core/project_io setupProjectDirectory twice results in two loadable projects,0.009,core/project_io,11,0.187
+core/project_io getProjectIds returns no projects if none were setup,0.001,core/project_io,11,0.187
+core/project_io setupProjectDirectory returns the right directory,0.002,core/project_io,11,0.187
+core/project_io projects can be accessed using the encoded ID,0.004,core/project_io,11,0.187
+core/project_io getProjectIds ignores non-project subdirectories,0.002,core/project_io,11,0.187
+core/project_io getProjectIds ignores non-project file entries,0.003,core/project_io,11,0.187
+core/project_io loadProject throws an error on inconsistent id,0.003,core/project_io,11,0.187
+core/project_io loadProject throws an error on bad compat,0.003,core/project_io,11,0.187
+core/project_io loadProject fails when a different project was saved,0.004,core/project_io,11,0.187
+cli/load 'load' command wrapper calls load with a single repo,0.002,cli/load,11,0.978
+cli/load 'load' command wrapper calls load with multiple repos,0.001,cli/load,11,0.978
+"cli/load 'load' command wrapper loads the weights, if provided",0.003,cli/load,11,0.978
+cli/load 'load' command wrapper errors if the weights file does not exist,0.004,cli/load,11,0.978
+cli/load 'load' command wrapper errors if the weights file is invalid,0.002,cli/load,11,0.978
+cli/load 'load' command wrapper errors if the repo identifier is invalid,0.004,cli/load,11,0.978
+cli/load 'load' command wrapper errors if the SOURCECRED_GITHUB_TOKEN is unset,0.001,cli/load,11,0.978
+plugins/initiatives/loader loadDirectory should report correct tasks,0.005,plugins/initiatives/loader,2,0.172
+plugins/github/graphqlTypes is up to date,0.13,plugins/github/graphqlTypes,1,0.339
+plugins/initiatives/initiativesDirectory _readFiles should throw when directory is not a directory,0.007,plugins/initiatives/initiativesDirectory,18,1.571
+plugins/initiatives/initiativesDirectory loadDirectory should handle an example smoke test,0.011,plugins/initiatives/initiativesDirectory,18,1.571
+plugins/initiatives/initiativesDirectory loadDirectory should perform localPath testing,0.004,plugins/initiatives/initiativesDirectory,18,1.571
+plugins/initiatives/initiativesDirectory loadDirectory should use validated URL to create mappings and addresses,0.005,plugins/initiatives/initiativesDirectory,18,1.571
+src/backend/dataDirectory DataDirectory DataDirectory.database should create SQLite DB in the cache directory,0.004,src/backend/dataDirectory,8,0.338
+src/backend/dataDirectory DataDirectory DataDirectory.database should work when sourcecredDirectory doesn't exist,0.002,src/backend/dataDirectory,8,0.338
+src/backend/dataDirectory DataDirectory DataDirectory.database should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.338
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should populate a project directory,0.011,src/backend/dataDirectory,8,0.338
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should work when sourcecredDirectory doesn't exist,0.015,src/backend/dataDirectory,8,0.338
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.338
+core/project_io setupProjectDirectory results in a loadable project,0.005,core/project_io,11,0.182
+core/project_io setupProjectDirectory twice results in two loadable projects,0.009,core/project_io,11,0.182
+core/project_io getProjectIds returns no projects if none were setup,0.001,core/project_io,11,0.182
+core/project_io setupProjectDirectory returns the right directory,0.003,core/project_io,11,0.182
+core/project_io projects can be accessed using the encoded ID,0.003,core/project_io,11,0.182
+core/project_io getProjectIds ignores non-project subdirectories,0.002,core/project_io,11,0.182
+core/project_io getProjectIds ignores non-project file entries,0.003,core/project_io,11,0.182
+core/project_io loadProject throws an error on inconsistent id,0.002,core/project_io,11,0.182
+core/project_io loadProject throws an error on bad compat,0.003,core/project_io,11,0.182
+core/project_io loadProject fails when a different project was saved,0.003,core/project_io,11,0.182
+cli/load 'load' command wrapper calls load with a single repo,0.002,cli/load,11,0.938
+cli/load 'load' command wrapper calls load with multiple repos,0.002,cli/load,11,0.938
+"cli/load 'load' command wrapper loads the weights, if provided",0.002,cli/load,11,0.938
+cli/load 'load' command wrapper errors if the weights file does not exist,0.006,cli/load,11,0.938
+cli/load 'load' command wrapper errors if the weights file is invalid,0.001,cli/load,11,0.938
+cli/load 'load' command wrapper errors if the repo identifier is invalid,0.004,cli/load,11,0.938
+cli/load 'load' command wrapper errors if the SOURCECRED_GITHUB_TOKEN is unset,0,cli/load,11,0.938
+plugins/initiatives/loader loadDirectory should report correct tasks,0.005,plugins/initiatives/loader,2,0.161
+plugins/github/graphqlTypes is up to date,0.125,plugins/github/graphqlTypes,1,0.332
+plugins/initiatives/initiativesDirectory _readFiles should throw when directory is not a directory,0.009,plugins/initiatives/initiativesDirectory,18,1.529
+plugins/initiatives/initiativesDirectory loadDirectory should handle an example smoke test,0.011,plugins/initiatives/initiativesDirectory,18,1.529
+plugins/initiatives/initiativesDirectory loadDirectory should perform localPath testing,0.004,plugins/initiatives/initiativesDirectory,18,1.529
+plugins/initiatives/initiativesDirectory loadDirectory should use validated URL to create mappings and addresses,0.005,plugins/initiatives/initiativesDirectory,18,1.529
+src/backend/dataDirectory DataDirectory DataDirectory.database should create SQLite DB in the cache directory,0.004,src/backend/dataDirectory,8,0.346
+src/backend/dataDirectory DataDirectory DataDirectory.database should work when sourcecredDirectory doesn't exist,0.002,src/backend/dataDirectory,8,0.346
+src/backend/dataDirectory DataDirectory DataDirectory.database should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.346
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should populate a project directory,0.011,src/backend/dataDirectory,8,0.346
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should work when sourcecredDirectory doesn't exist,0.016,src/backend/dataDirectory,8,0.346
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.346
+core/project_io setupProjectDirectory results in a loadable project,0.005,core/project_io,11,0.184
+core/project_io setupProjectDirectory twice results in two loadable projects,0.009,core/project_io,11,0.184
+core/project_io getProjectIds returns no projects if none were setup,0.001,core/project_io,11,0.184
+core/project_io setupProjectDirectory returns the right directory,0.002,core/project_io,11,0.184
+core/project_io projects can be accessed using the encoded ID,0.004,core/project_io,11,0.184
+core/project_io getProjectIds ignores non-project subdirectories,0.002,core/project_io,11,0.184
+core/project_io getProjectIds ignores non-project file entries,0.003,core/project_io,11,0.184
+core/project_io loadProject throws an error on inconsistent id,0.003,core/project_io,11,0.184
+core/project_io loadProject throws an error on bad compat,0.003,core/project_io,11,0.184
+core/project_io loadProject fails when a different project was saved,0.003,core/project_io,11,0.184
+cli/load 'load' command wrapper calls load with a single repo,0.002,cli/load,11,0.989
+cli/load 'load' command wrapper calls load with multiple repos,0.001,cli/load,11,0.989
+"cli/load 'load' command wrapper loads the weights, if provided",0.003,cli/load,11,0.989
+cli/load 'load' command wrapper errors if the weights file does not exist,0.007,cli/load,11,0.989
+cli/load 'load' command wrapper errors if the weights file is invalid,0.001,cli/load,11,0.989
+cli/load 'load' command wrapper errors if the repo identifier is invalid,0.003,cli/load,11,0.989
+cli/load 'load' command wrapper errors if the SOURCECRED_GITHUB_TOKEN is unset,0.001,cli/load,11,0.989
+plugins/initiatives/loader loadDirectory should report correct tasks,0.006,plugins/initiatives/loader,2,0.161
+plugins/github/graphqlTypes is up to date,0.121,plugins/github/graphqlTypes,1,0.341
+plugins/initiatives/initiativesDirectory _readFiles should throw when directory is not a directory,0.008,plugins/initiatives/initiativesDirectory,18,1.58
+plugins/initiatives/initiativesDirectory loadDirectory should handle an example smoke test,0.011,plugins/initiatives/initiativesDirectory,18,1.58
+plugins/initiatives/initiativesDirectory loadDirectory should perform localPath testing,0.003,plugins/initiatives/initiativesDirectory,18,1.58
+plugins/initiatives/initiativesDirectory loadDirectory should use validated URL to create mappings and addresses,0.005,plugins/initiatives/initiativesDirectory,18,1.58
+src/backend/dataDirectory DataDirectory DataDirectory.database should create SQLite DB in the cache directory,0.004,src/backend/dataDirectory,8,0.352
+src/backend/dataDirectory DataDirectory DataDirectory.database should work when sourcecredDirectory doesn't exist,0.002,src/backend/dataDirectory,8,0.352
+src/backend/dataDirectory DataDirectory DataDirectory.database should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.352
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should populate a project directory,0.011,src/backend/dataDirectory,8,0.352
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should work when sourcecredDirectory doesn't exist,0.014,src/backend/dataDirectory,8,0.352
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should fail when sourcecredDirectory is a file,0.004,src/backend/dataDirectory,8,0.352
+core/project_io setupProjectDirectory results in a loadable project,0.005,core/project_io,11,0.183
+core/project_io setupProjectDirectory twice results in two loadable projects,0.009,core/project_io,11,0.183
+core/project_io getProjectIds returns no projects if none were setup,0.001,core/project_io,11,0.183
+core/project_io setupProjectDirectory returns the right directory,0.002,core/project_io,11,0.183
+core/project_io projects can be accessed using the encoded ID,0.004,core/project_io,11,0.183
+core/project_io getProjectIds ignores non-project subdirectories,0.002,core/project_io,11,0.183
+core/project_io getProjectIds ignores non-project file entries,0.003,core/project_io,11,0.183
+core/project_io loadProject throws an error on inconsistent id,0.002,core/project_io,11,0.183
+core/project_io loadProject throws an error on bad compat,0.003,core/project_io,11,0.183
+core/project_io loadProject fails when a different project was saved,0.003,core/project_io,11,0.183
+cli/load 'load' command wrapper calls load with a single repo,0.002,cli/load,11,0.99
+cli/load 'load' command wrapper calls load with multiple repos,0.001,cli/load,11,0.99
+"cli/load 'load' command wrapper loads the weights, if provided",0.003,cli/load,11,0.99
+cli/load 'load' command wrapper errors if the weights file does not exist,0.006,cli/load,11,0.99
+cli/load 'load' command wrapper errors if the weights file is invalid,0.001,cli/load,11,0.99
+cli/load 'load' command wrapper errors if the repo identifier is invalid,0.005,cli/load,11,0.99
+cli/load 'load' command wrapper errors if the SOURCECRED_GITHUB_TOKEN is unset,0,cli/load,11,0.99
+plugins/initiatives/loader loadDirectory should report correct tasks,0.006,plugins/initiatives/loader,2,0.158
+plugins/github/graphqlTypes is up to date,0.13,plugins/github/graphqlTypes,1,0.352
+plugins/initiatives/initiativesDirectory _readFiles should throw when directory is not a directory,0.008,plugins/initiatives/initiativesDirectory,18,1.566
+plugins/initiatives/initiativesDirectory loadDirectory should handle an example smoke test,0.011,plugins/initiatives/initiativesDirectory,18,1.566
+plugins/initiatives/initiativesDirectory loadDirectory should perform localPath testing,0.004,plugins/initiatives/initiativesDirectory,18,1.566
+plugins/initiatives/initiativesDirectory loadDirectory should use validated URL to create mappings and addresses,0.004,plugins/initiatives/initiativesDirectory,18,1.566
+src/backend/dataDirectory DataDirectory DataDirectory.database should create SQLite DB in the cache directory,0.004,src/backend/dataDirectory,8,0.352
+src/backend/dataDirectory DataDirectory DataDirectory.database should work when sourcecredDirectory doesn't exist,0.002,src/backend/dataDirectory,8,0.352
+src/backend/dataDirectory DataDirectory DataDirectory.database should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.352
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should populate a project directory,0.011,src/backend/dataDirectory,8,0.352
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should work when sourcecredDirectory doesn't exist,0.015,src/backend/dataDirectory,8,0.352
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.352
+core/project_io setupProjectDirectory results in a loadable project,0.005,core/project_io,11,0.19
+core/project_io setupProjectDirectory twice results in two loadable projects,0.01,core/project_io,11,0.19
+core/project_io getProjectIds returns no projects if none were setup,0.001,core/project_io,11,0.19
+core/project_io setupProjectDirectory returns the right directory,0.002,core/project_io,11,0.19
+core/project_io projects can be accessed using the encoded ID,0.003,core/project_io,11,0.19
+core/project_io getProjectIds ignores non-project subdirectories,0.003,core/project_io,11,0.19
+core/project_io getProjectIds ignores non-project file entries,0.003,core/project_io,11,0.19
+core/project_io loadProject throws an error on inconsistent id,0.003,core/project_io,11,0.19
+core/project_io loadProject throws an error on bad compat,0.003,core/project_io,11,0.19
+core/project_io loadProject fails when a different project was saved,0.004,core/project_io,11,0.19
+cli/load 'load' command wrapper calls load with a single repo,0.002,cli/load,11,0.964
+cli/load 'load' command wrapper calls load with multiple repos,0.001,cli/load,11,0.964
+"cli/load 'load' command wrapper loads the weights, if provided",0.003,cli/load,11,0.964
+cli/load 'load' command wrapper errors if the weights file does not exist,0.007,cli/load,11,0.964
+cli/load 'load' command wrapper errors if the weights file is invalid,0.001,cli/load,11,0.964
+cli/load 'load' command wrapper errors if the repo identifier is invalid,0.004,cli/load,11,0.964
+cli/load 'load' command wrapper errors if the SOURCECRED_GITHUB_TOKEN is unset,0,cli/load,11,0.964
+plugins/initiatives/loader loadDirectory should report correct tasks,0.005,plugins/initiatives/loader,2,0.166
+plugins/github/graphqlTypes is up to date,0.122,plugins/github/graphqlTypes,1,0.331
+plugins/initiatives/initiativesDirectory _readFiles should throw when directory is not a directory,0.008,plugins/initiatives/initiativesDirectory,18,1.571
+plugins/initiatives/initiativesDirectory loadDirectory should handle an example smoke test,0.011,plugins/initiatives/initiativesDirectory,18,1.571
+plugins/initiatives/initiativesDirectory loadDirectory should perform localPath testing,0.004,plugins/initiatives/initiativesDirectory,18,1.571
+plugins/initiatives/initiativesDirectory loadDirectory should use validated URL to create mappings and addresses,0.005,plugins/initiatives/initiativesDirectory,18,1.571
+src/backend/dataDirectory DataDirectory DataDirectory.database should create SQLite DB in the cache directory,0.003,src/backend/dataDirectory,8,0.356
+src/backend/dataDirectory DataDirectory DataDirectory.database should work when sourcecredDirectory doesn't exist,0.003,src/backend/dataDirectory,8,0.356
+src/backend/dataDirectory DataDirectory DataDirectory.database should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.356
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should populate a project directory,0.011,src/backend/dataDirectory,8,0.356
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should work when sourcecredDirectory doesn't exist,0.014,src/backend/dataDirectory,8,0.356
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.356
+core/project_io setupProjectDirectory results in a loadable project,0.005,core/project_io,11,0.188
+core/project_io setupProjectDirectory twice results in two loadable projects,0.009,core/project_io,11,0.188
+core/project_io getProjectIds returns no projects if none were setup,0,core/project_io,11,0.188
+core/project_io setupProjectDirectory returns the right directory,0.002,core/project_io,11,0.188
+core/project_io projects can be accessed using the encoded ID,0.003,core/project_io,11,0.188
+core/project_io getProjectIds ignores non-project subdirectories,0.002,core/project_io,11,0.188
+core/project_io getProjectIds ignores non-project file entries,0.003,core/project_io,11,0.188
+core/project_io loadProject throws an error on inconsistent id,0.003,core/project_io,11,0.188
+core/project_io loadProject throws an error on bad compat,0.002,core/project_io,11,0.188
+core/project_io loadProject fails when a different project was saved,0.002,core/project_io,11,0.188
+cli/load 'load' command wrapper calls load with a single repo,0.002,cli/load,11,0.953
+cli/load 'load' command wrapper calls load with multiple repos,0.002,cli/load,11,0.953
+"cli/load 'load' command wrapper loads the weights, if provided",0.002,cli/load,11,0.953
+cli/load 'load' command wrapper errors if the weights file does not exist,0.005,cli/load,11,0.953
+cli/load 'load' command wrapper errors if the weights file is invalid,0.001,cli/load,11,0.953
+cli/load 'load' command wrapper errors if the repo identifier is invalid,0.003,cli/load,11,0.953
+cli/load 'load' command wrapper errors if the SOURCECRED_GITHUB_TOKEN is unset,0,cli/load,11,0.953
+plugins/initiatives/loader loadDirectory should report correct tasks,0.006,plugins/initiatives/loader,2,0.162
+plugins/github/graphqlTypes is up to date,0.13,plugins/github/graphqlTypes,1,0.337
+plugins/initiatives/initiativesDirectory _readFiles should throw when directory is not a directory,0.007,plugins/initiatives/initiativesDirectory,18,1.614
+plugins/initiatives/initiativesDirectory loadDirectory should handle an example smoke test,0.013,plugins/initiatives/initiativesDirectory,18,1.614
+plugins/initiatives/initiativesDirectory loadDirectory should perform localPath testing,0.007,plugins/initiatives/initiativesDirectory,18,1.614
+plugins/initiatives/initiativesDirectory loadDirectory should use validated URL to create mappings and addresses,0.005,plugins/initiatives/initiativesDirectory,18,1.614
+src/backend/dataDirectory DataDirectory DataDirectory.database should create SQLite DB in the cache directory,0.003,src/backend/dataDirectory,8,0.345
+src/backend/dataDirectory DataDirectory DataDirectory.database should work when sourcecredDirectory doesn't exist,0.002,src/backend/dataDirectory,8,0.345
+src/backend/dataDirectory DataDirectory DataDirectory.database should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.345
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should populate a project directory,0.011,src/backend/dataDirectory,8,0.345
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should work when sourcecredDirectory doesn't exist,0.015,src/backend/dataDirectory,8,0.345
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.345
+core/project_io setupProjectDirectory results in a loadable project,0.005,core/project_io,11,0.179
+core/project_io setupProjectDirectory twice results in two loadable projects,0.01,core/project_io,11,0.179
+core/project_io getProjectIds returns no projects if none were setup,0,core/project_io,11,0.179
+core/project_io setupProjectDirectory returns the right directory,0.003,core/project_io,11,0.179
+core/project_io projects can be accessed using the encoded ID,0.003,core/project_io,11,0.179
+core/project_io getProjectIds ignores non-project subdirectories,0.002,core/project_io,11,0.179
+core/project_io getProjectIds ignores non-project file entries,0.003,core/project_io,11,0.179
+core/project_io loadProject throws an error on inconsistent id,0.002,core/project_io,11,0.179
+core/project_io loadProject throws an error on bad compat,0.003,core/project_io,11,0.179
+core/project_io loadProject fails when a different project was saved,0.003,core/project_io,11,0.179
+cli/load 'load' command wrapper calls load with a single repo,0.002,cli/load,11,0.976
+cli/load 'load' command wrapper calls load with multiple repos,0.001,cli/load,11,0.976
+"cli/load 'load' command wrapper loads the weights, if provided",0.003,cli/load,11,0.976
+cli/load 'load' command wrapper errors if the weights file does not exist,0.005,cli/load,11,0.976
+cli/load 'load' command wrapper errors if the weights file is invalid,0.001,cli/load,11,0.976
+cli/load 'load' command wrapper errors if the repo identifier is invalid,0.004,cli/load,11,0.976
+cli/load 'load' command wrapper errors if the SOURCECRED_GITHUB_TOKEN is unset,0,cli/load,11,0.976
+plugins/initiatives/loader loadDirectory should report correct tasks,0.006,plugins/initiatives/loader,2,0.161
+plugins/github/graphqlTypes is up to date,0.124,plugins/github/graphqlTypes,1,0.341
+plugins/initiatives/initiativesDirectory _readFiles should throw when directory is not a directory,0.01,plugins/initiatives/initiativesDirectory,18,1.53
+plugins/initiatives/initiativesDirectory loadDirectory should handle an example smoke test,0.011,plugins/initiatives/initiativesDirectory,18,1.53
+plugins/initiatives/initiativesDirectory loadDirectory should perform localPath testing,0.004,plugins/initiatives/initiativesDirectory,18,1.53
+plugins/initiatives/initiativesDirectory loadDirectory should use validated URL to create mappings and addresses,0.005,plugins/initiatives/initiativesDirectory,18,1.53
+src/backend/dataDirectory DataDirectory DataDirectory.database should create SQLite DB in the cache directory,0.003,src/backend/dataDirectory,8,0.35
+src/backend/dataDirectory DataDirectory DataDirectory.database should work when sourcecredDirectory doesn't exist,0.003,src/backend/dataDirectory,8,0.35
+src/backend/dataDirectory DataDirectory DataDirectory.database should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.35
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should populate a project directory,0.011,src/backend/dataDirectory,8,0.35
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should work when sourcecredDirectory doesn't exist,0.015,src/backend/dataDirectory,8,0.35
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.35
+core/project_io setupProjectDirectory results in a loadable project,0.005,core/project_io,11,0.18
+core/project_io setupProjectDirectory twice results in two loadable projects,0.009,core/project_io,11,0.18
+core/project_io getProjectIds returns no projects if none were setup,0,core/project_io,11,0.18
+core/project_io setupProjectDirectory returns the right directory,0.003,core/project_io,11,0.18
+core/project_io projects can be accessed using the encoded ID,0.003,core/project_io,11,0.18
+core/project_io getProjectIds ignores non-project subdirectories,0.002,core/project_io,11,0.18
+core/project_io getProjectIds ignores non-project file entries,0.003,core/project_io,11,0.18
+core/project_io loadProject throws an error on inconsistent id,0.003,core/project_io,11,0.18
+core/project_io loadProject throws an error on bad compat,0.003,core/project_io,11,0.18
+core/project_io loadProject fails when a different project was saved,0.003,core/project_io,11,0.18
+cli/load 'load' command wrapper calls load with a single repo,0.002,cli/load,11,0.946
+cli/load 'load' command wrapper calls load with multiple repos,0.002,cli/load,11,0.946
+"cli/load 'load' command wrapper loads the weights, if provided",0.002,cli/load,11,0.946
+cli/load 'load' command wrapper errors if the weights file does not exist,0.007,cli/load,11,0.946
+cli/load 'load' command wrapper errors if the weights file is invalid,0.001,cli/load,11,0.946
+cli/load 'load' command wrapper errors if the repo identifier is invalid,0.003,cli/load,11,0.946
+cli/load 'load' command wrapper errors if the SOURCECRED_GITHUB_TOKEN is unset,0.001,cli/load,11,0.946
+plugins/initiatives/loader loadDirectory should report correct tasks,0.005,plugins/initiatives/loader,2,0.164
+plugins/github/graphqlTypes is up to date,0.132,plugins/github/graphqlTypes,1,0.34
+plugins/initiatives/initiativesDirectory _readFiles should throw when directory is not a directory,0.008,plugins/initiatives/initiativesDirectory,18,1.589
+plugins/initiatives/initiativesDirectory loadDirectory should handle an example smoke test,0.01,plugins/initiatives/initiativesDirectory,18,1.589
+plugins/initiatives/initiativesDirectory loadDirectory should perform localPath testing,0.004,plugins/initiatives/initiativesDirectory,18,1.589
+plugins/initiatives/initiativesDirectory loadDirectory should use validated URL to create mappings and addresses,0.005,plugins/initiatives/initiativesDirectory,18,1.589
+src/backend/dataDirectory DataDirectory DataDirectory.database should create SQLite DB in the cache directory,0.004,src/backend/dataDirectory,8,0.343
+src/backend/dataDirectory DataDirectory DataDirectory.database should work when sourcecredDirectory doesn't exist,0.003,src/backend/dataDirectory,8,0.343
+src/backend/dataDirectory DataDirectory DataDirectory.database should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.343
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should populate a project directory,0.012,src/backend/dataDirectory,8,0.343
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should work when sourcecredDirectory doesn't exist,0.015,src/backend/dataDirectory,8,0.343
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.343
+core/project_io setupProjectDirectory results in a loadable project,0.005,core/project_io,11,0.183
+core/project_io setupProjectDirectory twice results in two loadable projects,0.01,core/project_io,11,0.183
+core/project_io getProjectIds returns no projects if none were setup,0,core/project_io,11,0.183
+core/project_io setupProjectDirectory returns the right directory,0.003,core/project_io,11,0.183
+core/project_io projects can be accessed using the encoded ID,0.003,core/project_io,11,0.183
+core/project_io getProjectIds ignores non-project subdirectories,0.002,core/project_io,11,0.183
+core/project_io getProjectIds ignores non-project file entries,0.003,core/project_io,11,0.183
+core/project_io loadProject throws an error on inconsistent id,0.003,core/project_io,11,0.183
+core/project_io loadProject throws an error on bad compat,0.003,core/project_io,11,0.183
+core/project_io loadProject fails when a different project was saved,0.004,core/project_io,11,0.183
+cli/load 'load' command wrapper calls load with a single repo,0.002,cli/load,11,0.954
+cli/load 'load' command wrapper calls load with multiple repos,0.002,cli/load,11,0.954
+"cli/load 'load' command wrapper loads the weights, if provided",0.002,cli/load,11,0.954
+cli/load 'load' command wrapper errors if the weights file does not exist,0.006,cli/load,11,0.954
+cli/load 'load' command wrapper errors if the weights file is invalid,0.001,cli/load,11,0.954
+cli/load 'load' command wrapper errors if the repo identifier is invalid,0.005,cli/load,11,0.954
+cli/load 'load' command wrapper errors if the SOURCECRED_GITHUB_TOKEN is unset,0.001,cli/load,11,0.954
+plugins/initiatives/loader loadDirectory should report correct tasks,0.005,plugins/initiatives/loader,2,0.165
+plugins/github/graphqlTypes is up to date,0.136,plugins/github/graphqlTypes,1,0.348
+plugins/initiatives/initiativesDirectory _readFiles should throw when directory is not a directory,0.007,plugins/initiatives/initiativesDirectory,18,1.521
+plugins/initiatives/initiativesDirectory loadDirectory should handle an example smoke test,0.012,plugins/initiatives/initiativesDirectory,18,1.521
+plugins/initiatives/initiativesDirectory loadDirectory should perform localPath testing,0.003,plugins/initiatives/initiativesDirectory,18,1.521
+plugins/initiatives/initiativesDirectory loadDirectory should use validated URL to create mappings and addresses,0.005,plugins/initiatives/initiativesDirectory,18,1.521
+src/backend/dataDirectory DataDirectory DataDirectory.database should create SQLite DB in the cache directory,0.003,src/backend/dataDirectory,8,0.358
+src/backend/dataDirectory DataDirectory DataDirectory.database should work when sourcecredDirectory doesn't exist,0.002,src/backend/dataDirectory,8,0.358
+src/backend/dataDirectory DataDirectory DataDirectory.database should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.358
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should populate a project directory,0.011,src/backend/dataDirectory,8,0.358
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should work when sourcecredDirectory doesn't exist,0.015,src/backend/dataDirectory,8,0.358
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.358
+core/project_io setupProjectDirectory results in a loadable project,0.005,core/project_io,11,0.184
+core/project_io setupProjectDirectory twice results in two loadable projects,0.006,core/project_io,11,0.184
+core/project_io getProjectIds returns no projects if none were setup,0.004,core/project_io,11,0.184
+core/project_io setupProjectDirectory returns the right directory,0.002,core/project_io,11,0.184
+core/project_io projects can be accessed using the encoded ID,0.003,core/project_io,11,0.184
+core/project_io getProjectIds ignores non-project subdirectories,0.003,core/project_io,11,0.184
+core/project_io getProjectIds ignores non-project file entries,0.002,core/project_io,11,0.184
+core/project_io loadProject throws an error on inconsistent id,0.003,core/project_io,11,0.184
+core/project_io loadProject throws an error on bad compat,0.003,core/project_io,11,0.184
+core/project_io loadProject fails when a different project was saved,0.003,core/project_io,11,0.184
+cli/load 'load' command wrapper calls load with a single repo,0.002,cli/load,11,0.957
+cli/load 'load' command wrapper calls load with multiple repos,0.001,cli/load,11,0.957
+"cli/load 'load' command wrapper loads the weights, if provided",0.003,cli/load,11,0.957
+cli/load 'load' command wrapper errors if the weights file does not exist,0.005,cli/load,11,0.957
+cli/load 'load' command wrapper errors if the weights file is invalid,0.001,cli/load,11,0.957
+cli/load 'load' command wrapper errors if the repo identifier is invalid,0.004,cli/load,11,0.957
+cli/load 'load' command wrapper errors if the SOURCECRED_GITHUB_TOKEN is unset,0.001,cli/load,11,0.957
+plugins/initiatives/loader loadDirectory should report correct tasks,0.006,plugins/initiatives/loader,2,0.16
+plugins/github/graphqlTypes is up to date,0.13,plugins/github/graphqlTypes,1,0.337
+plugins/initiatives/initiativesDirectory _readFiles should throw when directory is not a directory,0.008,plugins/initiatives/initiativesDirectory,18,1.566
+plugins/initiatives/initiativesDirectory loadDirectory should handle an example smoke test,0.011,plugins/initiatives/initiativesDirectory,18,1.566
+plugins/initiatives/initiativesDirectory loadDirectory should perform localPath testing,0.004,plugins/initiatives/initiativesDirectory,18,1.566
+plugins/initiatives/initiativesDirectory loadDirectory should use validated URL to create mappings and addresses,0.005,plugins/initiatives/initiativesDirectory,18,1.566
+src/backend/dataDirectory DataDirectory DataDirectory.database should create SQLite DB in the cache directory,0.004,src/backend/dataDirectory,8,0.347
+src/backend/dataDirectory DataDirectory DataDirectory.database should work when sourcecredDirectory doesn't exist,0.002,src/backend/dataDirectory,8,0.347
+src/backend/dataDirectory DataDirectory DataDirectory.database should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.347
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should populate a project directory,0.011,src/backend/dataDirectory,8,0.347
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should work when sourcecredDirectory doesn't exist,0.015,src/backend/dataDirectory,8,0.347
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.347
+core/project_io setupProjectDirectory results in a loadable project,0.004,core/project_io,11,0.194
+core/project_io setupProjectDirectory twice results in two loadable projects,0.005,core/project_io,11,0.194
+core/project_io getProjectIds returns no projects if none were setup,0.004,core/project_io,11,0.194
+core/project_io setupProjectDirectory returns the right directory,0.003,core/project_io,11,0.194
+core/project_io projects can be accessed using the encoded ID,0.003,core/project_io,11,0.194
+core/project_io getProjectIds ignores non-project subdirectories,0.002,core/project_io,11,0.194
+core/project_io getProjectIds ignores non-project file entries,0.003,core/project_io,11,0.194
+core/project_io loadProject throws an error on inconsistent id,0.003,core/project_io,11,0.194
+core/project_io loadProject throws an error on bad compat,0.003,core/project_io,11,0.194
+core/project_io loadProject fails when a different project was saved,0.004,core/project_io,11,0.194
+cli/load 'load' command wrapper calls load with a single repo,0.001,cli/load,11,0.94
+cli/load 'load' command wrapper calls load with multiple repos,0.002,cli/load,11,0.94
+"cli/load 'load' command wrapper loads the weights, if provided",0.002,cli/load,11,0.94
+cli/load 'load' command wrapper errors if the weights file does not exist,0.005,cli/load,11,0.94
+cli/load 'load' command wrapper errors if the weights file is invalid,0.002,cli/load,11,0.94
+cli/load 'load' command wrapper errors if the repo identifier is invalid,0.003,cli/load,11,0.94
+cli/load 'load' command wrapper errors if the SOURCECRED_GITHUB_TOKEN is unset,0.001,cli/load,11,0.94
+plugins/initiatives/loader loadDirectory should report correct tasks,0.006,plugins/initiatives/loader,2,0.171
+plugins/github/graphqlTypes is up to date,0.123,plugins/github/graphqlTypes,1,0.335
+plugins/initiatives/initiativesDirectory _readFiles should throw when directory is not a directory,0.01,plugins/initiatives/initiativesDirectory,18,1.579
+plugins/initiatives/initiativesDirectory loadDirectory should handle an example smoke test,0.015,plugins/initiatives/initiativesDirectory,18,1.579
+plugins/initiatives/initiativesDirectory loadDirectory should perform localPath testing,0.007,plugins/initiatives/initiativesDirectory,18,1.579
+plugins/initiatives/initiativesDirectory loadDirectory should use validated URL to create mappings and addresses,0.005,plugins/initiatives/initiativesDirectory,18,1.579
+src/backend/dataDirectory DataDirectory DataDirectory.database should create SQLite DB in the cache directory,0.004,src/backend/dataDirectory,8,0.409
+src/backend/dataDirectory DataDirectory DataDirectory.database should work when sourcecredDirectory doesn't exist,0.002,src/backend/dataDirectory,8,0.409
+src/backend/dataDirectory DataDirectory DataDirectory.database should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.409
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should populate a project directory,0.012,src/backend/dataDirectory,8,0.409
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should work when sourcecredDirectory doesn't exist,0.016,src/backend/dataDirectory,8,0.409
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.409
+core/project_io setupProjectDirectory results in a loadable project,0.005,core/project_io,11,0.215
+core/project_io setupProjectDirectory twice results in two loadable projects,0.006,core/project_io,11,0.215
+core/project_io getProjectIds returns no projects if none were setup,0.004,core/project_io,11,0.215
+core/project_io setupProjectDirectory returns the right directory,0.003,core/project_io,11,0.215
+core/project_io projects can be accessed using the encoded ID,0.003,core/project_io,11,0.215
+core/project_io getProjectIds ignores non-project subdirectories,0.003,core/project_io,11,0.215
+core/project_io getProjectIds ignores non-project file entries,0.003,core/project_io,11,0.215
+core/project_io loadProject throws an error on inconsistent id,0.004,core/project_io,11,0.215
+core/project_io loadProject throws an error on bad compat,0.004,core/project_io,11,0.215
+core/project_io loadProject fails when a different project was saved,0.002,core/project_io,11,0.215
+cli/load 'load' command wrapper calls load with a single repo,0.002,cli/load,11,1.132
+cli/load 'load' command wrapper calls load with multiple repos,0.002,cli/load,11,1.132
+"cli/load 'load' command wrapper loads the weights, if provided",0.002,cli/load,11,1.132
+cli/load 'load' command wrapper errors if the weights file does not exist,0.008,cli/load,11,1.132
+cli/load 'load' command wrapper errors if the weights file is invalid,0.001,cli/load,11,1.132
+cli/load 'load' command wrapper errors if the repo identifier is invalid,0.004,cli/load,11,1.132
+cli/load 'load' command wrapper errors if the SOURCECRED_GITHUB_TOKEN is unset,0,cli/load,11,1.132
+plugins/initiatives/loader loadDirectory should report correct tasks,0.005,plugins/initiatives/loader,2,0.171
+plugins/github/graphqlTypes is up to date,0.123,plugins/github/graphqlTypes,1,0.35
+plugins/initiatives/initiativesDirectory _readFiles should throw when directory is not a directory,0.008,plugins/initiatives/initiativesDirectory,18,1.719
+plugins/initiatives/initiativesDirectory loadDirectory should handle an example smoke test,0.011,plugins/initiatives/initiativesDirectory,18,1.719
+plugins/initiatives/initiativesDirectory loadDirectory should perform localPath testing,0.004,plugins/initiatives/initiativesDirectory,18,1.719
+plugins/initiatives/initiativesDirectory loadDirectory should use validated URL to create mappings and addresses,0.005,plugins/initiatives/initiativesDirectory,18,1.719
+src/backend/dataDirectory DataDirectory DataDirectory.database should create SQLite DB in the cache directory,0.004,src/backend/dataDirectory,8,0.368
+src/backend/dataDirectory DataDirectory DataDirectory.database should work when sourcecredDirectory doesn't exist,0.002,src/backend/dataDirectory,8,0.368
+src/backend/dataDirectory DataDirectory DataDirectory.database should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.368
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should populate a project directory,0.012,src/backend/dataDirectory,8,0.368
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should work when sourcecredDirectory doesn't exist,0.014,src/backend/dataDirectory,8,0.368
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should fail when sourcecredDirectory is a file,0.004,src/backend/dataDirectory,8,0.368
+core/project_io setupProjectDirectory results in a loadable project,0.005,core/project_io,11,0.195
+core/project_io setupProjectDirectory twice results in two loadable projects,0.01,core/project_io,11,0.195
+core/project_io getProjectIds returns no projects if none were setup,0,core/project_io,11,0.195
+core/project_io setupProjectDirectory returns the right directory,0.003,core/project_io,11,0.195
+core/project_io projects can be accessed using the encoded ID,0.003,core/project_io,11,0.195
+core/project_io getProjectIds ignores non-project subdirectories,0.003,core/project_io,11,0.195
+core/project_io getProjectIds ignores non-project file entries,0.002,core/project_io,11,0.195
+core/project_io loadProject throws an error on inconsistent id,0.003,core/project_io,11,0.195
+core/project_io loadProject throws an error on bad compat,0.003,core/project_io,11,0.195
+core/project_io loadProject fails when a different project was saved,0.003,core/project_io,11,0.195
+cli/load 'load' command wrapper calls load with a single repo,0.002,cli/load,11,0.988
+cli/load 'load' command wrapper calls load with multiple repos,0.001,cli/load,11,0.988
+"cli/load 'load' command wrapper loads the weights, if provided",0.003,cli/load,11,0.988
+cli/load 'load' command wrapper errors if the weights file does not exist,0.005,cli/load,11,0.988
+cli/load 'load' command wrapper errors if the weights file is invalid,0.001,cli/load,11,0.988
+cli/load 'load' command wrapper errors if the repo identifier is invalid,0.004,cli/load,11,0.988
+cli/load 'load' command wrapper errors if the SOURCECRED_GITHUB_TOKEN is unset,0,cli/load,11,0.988
+plugins/initiatives/loader loadDirectory should report correct tasks,0.006,plugins/initiatives/loader,2,0.164
+plugins/github/graphqlTypes is up to date,0.125,plugins/github/graphqlTypes,1,0.342
+plugins/initiatives/initiativesDirectory _readFiles should throw when directory is not a directory,0.007,plugins/initiatives/initiativesDirectory,18,1.536
+plugins/initiatives/initiativesDirectory loadDirectory should handle an example smoke test,0.01,plugins/initiatives/initiativesDirectory,18,1.536
+plugins/initiatives/initiativesDirectory loadDirectory should perform localPath testing,0.004,plugins/initiatives/initiativesDirectory,18,1.536
+plugins/initiatives/initiativesDirectory loadDirectory should use validated URL to create mappings and addresses,0.005,plugins/initiatives/initiativesDirectory,18,1.536
+src/backend/dataDirectory DataDirectory DataDirectory.database should create SQLite DB in the cache directory,0.004,src/backend/dataDirectory,8,0.351
+src/backend/dataDirectory DataDirectory DataDirectory.database should work when sourcecredDirectory doesn't exist,0.002,src/backend/dataDirectory,8,0.351
+src/backend/dataDirectory DataDirectory DataDirectory.database should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.351
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should populate a project directory,0.012,src/backend/dataDirectory,8,0.351
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should work when sourcecredDirectory doesn't exist,0.016,src/backend/dataDirectory,8,0.351
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.351
+core/project_io setupProjectDirectory results in a loadable project,0.004,core/project_io,11,0.182
+core/project_io setupProjectDirectory twice results in two loadable projects,0.01,core/project_io,11,0.182
+core/project_io getProjectIds returns no projects if none were setup,0.001,core/project_io,11,0.182
+core/project_io setupProjectDirectory returns the right directory,0.002,core/project_io,11,0.182
+core/project_io projects can be accessed using the encoded ID,0.003,core/project_io,11,0.182
+core/project_io getProjectIds ignores non-project subdirectories,0.003,core/project_io,11,0.182
+core/project_io getProjectIds ignores non-project file entries,0.002,core/project_io,11,0.182
+core/project_io loadProject throws an error on inconsistent id,0.003,core/project_io,11,0.182
+core/project_io loadProject throws an error on bad compat,0.003,core/project_io,11,0.182
+core/project_io loadProject fails when a different project was saved,0.004,core/project_io,11,0.182
+cli/load 'load' command wrapper calls load with a single repo,0.002,cli/load,11,0.991
+cli/load 'load' command wrapper calls load with multiple repos,0.002,cli/load,11,0.991
+"cli/load 'load' command wrapper loads the weights, if provided",0.002,cli/load,11,0.991
+cli/load 'load' command wrapper errors if the weights file does not exist,0.005,cli/load,11,0.991
+cli/load 'load' command wrapper errors if the weights file is invalid,0.002,cli/load,11,0.991
+cli/load 'load' command wrapper errors if the repo identifier is invalid,0.003,cli/load,11,0.991
+cli/load 'load' command wrapper errors if the SOURCECRED_GITHUB_TOKEN is unset,0.001,cli/load,11,0.991
+plugins/initiatives/loader loadDirectory should report correct tasks,0.005,plugins/initiatives/loader,2,0.162
+plugins/github/graphqlTypes is up to date,0.124,plugins/github/graphqlTypes,1,0.333
+plugins/initiatives/initiativesDirectory _readFiles should throw when directory is not a directory,0.008,plugins/initiatives/initiativesDirectory,18,1.539
+plugins/initiatives/initiativesDirectory loadDirectory should handle an example smoke test,0.011,plugins/initiatives/initiativesDirectory,18,1.539
+plugins/initiatives/initiativesDirectory loadDirectory should perform localPath testing,0.004,plugins/initiatives/initiativesDirectory,18,1.539
+plugins/initiatives/initiativesDirectory loadDirectory should use validated URL to create mappings and addresses,0.004,plugins/initiatives/initiativesDirectory,18,1.539
+src/backend/dataDirectory DataDirectory DataDirectory.database should create SQLite DB in the cache directory,0.003,src/backend/dataDirectory,8,0.343
+src/backend/dataDirectory DataDirectory DataDirectory.database should work when sourcecredDirectory doesn't exist,0.003,src/backend/dataDirectory,8,0.343
+src/backend/dataDirectory DataDirectory DataDirectory.database should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.343
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should populate a project directory,0.011,src/backend/dataDirectory,8,0.343
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should work when sourcecredDirectory doesn't exist,0.014,src/backend/dataDirectory,8,0.343
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.343
+core/project_io setupProjectDirectory results in a loadable project,0.004,core/project_io,11,0.181
+core/project_io setupProjectDirectory twice results in two loadable projects,0.01,core/project_io,11,0.181
+core/project_io getProjectIds returns no projects if none were setup,0,core/project_io,11,0.181
+core/project_io setupProjectDirectory returns the right directory,0.002,core/project_io,11,0.181
+core/project_io projects can be accessed using the encoded ID,0.003,core/project_io,11,0.181
+core/project_io getProjectIds ignores non-project subdirectories,0.002,core/project_io,11,0.181
+core/project_io getProjectIds ignores non-project file entries,0.002,core/project_io,11,0.181
+core/project_io loadProject throws an error on inconsistent id,0.003,core/project_io,11,0.181
+core/project_io loadProject throws an error on bad compat,0.003,core/project_io,11,0.181
+core/project_io loadProject fails when a different project was saved,0.003,core/project_io,11,0.181
+cli/load 'load' command wrapper calls load with a single repo,0.002,cli/load,11,1.002
+cli/load 'load' command wrapper calls load with multiple repos,0.002,cli/load,11,1.002
+"cli/load 'load' command wrapper loads the weights, if provided",0.002,cli/load,11,1.002
+cli/load 'load' command wrapper errors if the weights file does not exist,0.006,cli/load,11,1.002
+cli/load 'load' command wrapper errors if the weights file is invalid,0.001,cli/load,11,1.002
+cli/load 'load' command wrapper errors if the repo identifier is invalid,0.003,cli/load,11,1.002
+cli/load 'load' command wrapper errors if the SOURCECRED_GITHUB_TOKEN is unset,0.001,cli/load,11,1.002
+plugins/initiatives/loader loadDirectory should report correct tasks,0.005,plugins/initiatives/loader,2,0.163
+plugins/github/graphqlTypes is up to date,0.12,plugins/github/graphqlTypes,1,0.342
+plugins/initiatives/initiativesDirectory _readFiles should throw when directory is not a directory,0.008,plugins/initiatives/initiativesDirectory,18,1.619
+plugins/initiatives/initiativesDirectory loadDirectory should handle an example smoke test,0.01,plugins/initiatives/initiativesDirectory,18,1.619
+plugins/initiatives/initiativesDirectory loadDirectory should perform localPath testing,0.004,plugins/initiatives/initiativesDirectory,18,1.619
+plugins/initiatives/initiativesDirectory loadDirectory should use validated URL to create mappings and addresses,0.004,plugins/initiatives/initiativesDirectory,18,1.619
+src/backend/dataDirectory DataDirectory DataDirectory.database should create SQLite DB in the cache directory,0.004,src/backend/dataDirectory,8,0.343
+src/backend/dataDirectory DataDirectory DataDirectory.database should work when sourcecredDirectory doesn't exist,0.002,src/backend/dataDirectory,8,0.343
+src/backend/dataDirectory DataDirectory DataDirectory.database should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.343
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should populate a project directory,0.011,src/backend/dataDirectory,8,0.343
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should work when sourcecredDirectory doesn't exist,0.016,src/backend/dataDirectory,8,0.343
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.343
+core/project_io setupProjectDirectory results in a loadable project,0.005,core/project_io,11,0.183
+core/project_io setupProjectDirectory twice results in two loadable projects,0.009,core/project_io,11,0.183
+core/project_io getProjectIds returns no projects if none were setup,0.001,core/project_io,11,0.183
+core/project_io setupProjectDirectory returns the right directory,0.002,core/project_io,11,0.183
+core/project_io projects can be accessed using the encoded ID,0.003,core/project_io,11,0.183
+core/project_io getProjectIds ignores non-project subdirectories,0.003,core/project_io,11,0.183
+core/project_io getProjectIds ignores non-project file entries,0.002,core/project_io,11,0.183
+core/project_io loadProject throws an error on inconsistent id,0.003,core/project_io,11,0.183
+core/project_io loadProject throws an error on bad compat,0.003,core/project_io,11,0.183
+core/project_io loadProject fails when a different project was saved,0.004,core/project_io,11,0.183
+cli/load 'load' command wrapper calls load with a single repo,0.002,cli/load,11,0.934
+cli/load 'load' command wrapper calls load with multiple repos,0.002,cli/load,11,0.934
+"cli/load 'load' command wrapper loads the weights, if provided",0.002,cli/load,11,0.934
+cli/load 'load' command wrapper errors if the weights file does not exist,0.005,cli/load,11,0.934
+cli/load 'load' command wrapper errors if the weights file is invalid,0.002,cli/load,11,0.934
+cli/load 'load' command wrapper errors if the repo identifier is invalid,0.004,cli/load,11,0.934
+cli/load 'load' command wrapper errors if the SOURCECRED_GITHUB_TOKEN is unset,0,cli/load,11,0.934
+plugins/initiatives/loader loadDirectory should report correct tasks,0.005,plugins/initiatives/loader,2,0.161
+plugins/github/graphqlTypes is up to date,0.123,plugins/github/graphqlTypes,1,0.338
+plugins/initiatives/initiativesDirectory _readFiles should throw when directory is not a directory,0.007,plugins/initiatives/initiativesDirectory,18,1.586
+plugins/initiatives/initiativesDirectory loadDirectory should handle an example smoke test,0.013,plugins/initiatives/initiativesDirectory,18,1.586
+plugins/initiatives/initiativesDirectory loadDirectory should perform localPath testing,0.007,plugins/initiatives/initiativesDirectory,18,1.586
+plugins/initiatives/initiativesDirectory loadDirectory should use validated URL to create mappings and addresses,0.005,plugins/initiatives/initiativesDirectory,18,1.586
+src/backend/dataDirectory DataDirectory DataDirectory.database should create SQLite DB in the cache directory,0.003,src/backend/dataDirectory,8,0.35
+src/backend/dataDirectory DataDirectory DataDirectory.database should work when sourcecredDirectory doesn't exist,0.003,src/backend/dataDirectory,8,0.35
+src/backend/dataDirectory DataDirectory DataDirectory.database should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.35
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should populate a project directory,0.011,src/backend/dataDirectory,8,0.35
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should work when sourcecredDirectory doesn't exist,0.014,src/backend/dataDirectory,8,0.35
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.35
+core/project_io setupProjectDirectory results in a loadable project,0.005,core/project_io,11,0.181
+core/project_io setupProjectDirectory twice results in two loadable projects,0.009,core/project_io,11,0.181
+core/project_io getProjectIds returns no projects if none were setup,0.001,core/project_io,11,0.181
+core/project_io setupProjectDirectory returns the right directory,0.002,core/project_io,11,0.181
+core/project_io projects can be accessed using the encoded ID,0.003,core/project_io,11,0.181
+core/project_io getProjectIds ignores non-project subdirectories,0.003,core/project_io,11,0.181
+core/project_io getProjectIds ignores non-project file entries,0.002,core/project_io,11,0.181
+core/project_io loadProject throws an error on inconsistent id,0.003,core/project_io,11,0.181
+core/project_io loadProject throws an error on bad compat,0.002,core/project_io,11,0.181
+core/project_io loadProject fails when a different project was saved,0.002,core/project_io,11,0.181
+cli/load 'load' command wrapper calls load with a single repo,0.001,cli/load,11,0.942
+cli/load 'load' command wrapper calls load with multiple repos,0.001,cli/load,11,0.942
+"cli/load 'load' command wrapper loads the weights, if provided",0.002,cli/load,11,0.942
+cli/load 'load' command wrapper errors if the weights file does not exist,0.005,cli/load,11,0.942
+cli/load 'load' command wrapper errors if the weights file is invalid,0.002,cli/load,11,0.942
+cli/load 'load' command wrapper errors if the repo identifier is invalid,0.003,cli/load,11,0.942
+cli/load 'load' command wrapper errors if the SOURCECRED_GITHUB_TOKEN is unset,0.001,cli/load,11,0.942
+plugins/initiatives/loader loadDirectory should report correct tasks,0.006,plugins/initiatives/loader,2,0.167
+plugins/github/graphqlTypes is up to date,0.125,plugins/github/graphqlTypes,1,0.347
+plugins/initiatives/initiativesDirectory _readFiles should throw when directory is not a directory,0.007,plugins/initiatives/initiativesDirectory,18,1.518
+plugins/initiatives/initiativesDirectory loadDirectory should handle an example smoke test,0.011,plugins/initiatives/initiativesDirectory,18,1.518
+plugins/initiatives/initiativesDirectory loadDirectory should perform localPath testing,0.004,plugins/initiatives/initiativesDirectory,18,1.518
+plugins/initiatives/initiativesDirectory loadDirectory should use validated URL to create mappings and addresses,0.004,plugins/initiatives/initiativesDirectory,18,1.518
+src/backend/dataDirectory DataDirectory DataDirectory.database should create SQLite DB in the cache directory,0.004,src/backend/dataDirectory,8,0.349
+src/backend/dataDirectory DataDirectory DataDirectory.database should work when sourcecredDirectory doesn't exist,0.002,src/backend/dataDirectory,8,0.349
+src/backend/dataDirectory DataDirectory DataDirectory.database should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.349
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should populate a project directory,0.011,src/backend/dataDirectory,8,0.349
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should work when sourcecredDirectory doesn't exist,0.015,src/backend/dataDirectory,8,0.349
+src/backend/dataDirectory DataDirectory DataDirectory.storeProject should fail when sourcecredDirectory is a file,0.003,src/backend/dataDirectory,8,0.349
+core/project_io setupProjectDirectory results in a loadable project,0.005,core/project_io,11,0.186
+core/project_io setupProjectDirectory twice results in two loadable projects,0.009,core/project_io,11,0.186
+core/project_io getProjectIds returns no projects if none were setup,0.001,core/project_io,11,0.186
+core/project_io setupProjectDirectory returns the right directory,0.002,core/project_io,11,0.186
+core/project_io projects can be accessed using the encoded ID,0.003,core/project_io,11,0.186
+core/project_io getProjectIds ignores non-project subdirectories,0.003,core/project_io,11,0.186
+core/project_io getProjectIds ignores non-project file entries,0.002,core/project_io,11,0.186
+core/project_io loadProject throws an error on inconsistent id,0.003,core/project_io,11,0.186
+core/project_io loadProject throws an error on bad compat,0.004,core/project_io,11,0.186
+core/project_io loadProject fails when a different project was saved,0.004,core/project_io,11,0.186
+cli/load 'load' command wrapper calls load with a single repo,0.001,cli/load,11,0.923
+cli/load 'load' command wrapper calls load with multiple repos,0.001,cli/load,11,0.923
+"cli/load 'load' command wrapper loads the weights, if provided",0.002,cli/load,11,0.923
+cli/load 'load' command wrapper errors if the weights file does not exist,0.006,cli/load,11,0.923
+cli/load 'load' command wrapper errors if the weights file is invalid,0.001,cli/load,11,0.923
+cli/load 'load' command wrapper errors if the repo identifier is invalid,0.004,cli/load,11,0.923
+cli/load 'load' command wrapper errors if the SOURCECRED_GITHUB_TOKEN is unset,0,cli/load,11,0.923
+plugins/initiatives/loader loadDirectory should report correct tasks,0.005,plugins/initiatives/loader,2,0.162
+plugins/github/graphqlTypes is up to date,0.132,plugins/github/graphqlTypes,1,0.34

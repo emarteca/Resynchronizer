@@ -1,0 +1,1850 @@
+Validate the fileReader tests reading the cities sample,0.009,Validate the fileReader,9,0.599
+Validate the fileReader tests streamFileLineByLineAsync,0.013,Validate the fileReader,9,0.599
+Validate the fileReader tests streamFileLineByLineAsync 2,0.003,Validate the fileReader,9,0.599
+Validate the writer tests writing data and reading it back.,0.03,Validate the writer,4,0.149
+Validate the writer tests writing data and reading it back. gz,0.039,Validate the writer,4,0.149
+Validate the writer tests writeToFile,0.002,Validate the writer,4,0.149
+Validate the writer tests writeToFile zip,0.003,Validate the writer,4,0.149
+Validate the wordListCompiler test reading and normalizing a file,0.011,Validate the wordListCompiler,10,1.83
+Validate the wordListCompiler test compiling to a file without split,0.011,Validate the wordListCompiler,10,1.83
+Validate the wordListCompiler test reading and normalizing to a trie file,0.019,Validate the wordListCompiler,10,1.83
+Validate the wordListCompiler test reading and normalizing to a trie gz file,0.019,Validate the wordListCompiler,10,1.83
+Validate the wordListCompiler test a simple hunspell dictionary depth 0,0.013,Validate the wordListCompiler,10,1.83
+Validate the wordListCompiler test a simple hunspell dictionary depth 1,0.003,Validate the wordListCompiler,10,1.83
+Validate the application test app compile-trie,0.009,Validate the application,12,0.145
+Validate the application test app compile-trie compress,0.005,Validate the application,12,0.145
+Validate the application test app compile-trie -o,0.004,Validate the application,12,0.145
+Validate the application test app compile,0.002,Validate the application,12,0.145
+Validate the application test app compile-trie max depth,0.004,Validate the application,12,0.145
+Validate the application test app compile-trie compound,0.006,Validate the application,12,0.145
+Validate the application test app compile compound,0.002,Validate the application,12,0.145
+Validate the application test app compile with compression,0.002,Validate the application,12,0.145
+Validate the application test app compile merge,0.007,Validate the application,12,0.145
+Import/Export tests serialize / deserialize small sample,0.007,Import/Export,6,0.629
+Import/Export tests serialize / deserialize specialCharacters,0.004,Import/Export,6,0.629
+Import/Export tests serialize / deserialize,0.012,Import/Export,6,0.629
+Import/Export tests serialize / deserialize,0.003,Import/Export,6,0.629
+Import/Export tests serialize / deserialize small sample,0.003,Import/Export,6,0.107
+Import/Export tests serialize / deserialize specialCharacters,0.001,Import/Export,6,0.107
+Import/Export tests serialize / deserialize,0.007,Import/Export,6,0.107
+Import/Export tests serialize / deserialize,0.003,Import/Export,6,0.107
+Import/Export tests serialize / deserialize,0.005,Import/Export,2,0.074
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.074
+Import/Export tests serialize / deserialize,0.004,Import/Export,2,0.062
+Import/Export tests serialize / deserialize,0.005,Import/Export,2,0.062
+Import/Export tests serialize / deserialize,0.009,Import/Export,1,0.052
+Import/Export tests serialize / deserialize,0.009,Import/Export,1,0.048
+Validate the Application Tests checkText,0.116,Validate the Application,21,2.14
+Validate the fileReader tests reading the cities sample,0.007,Validate the fileReader,9,2.35
+Validate the fileReader tests streamFileLineByLineAsync,0.01,Validate the fileReader,9,2.35
+Validate the fileReader tests streamFileLineByLineAsync 2,0.004,Validate the fileReader,9,2.35
+Validate the writer tests writing data and reading it back.,0.035,Validate the writer,4,0.236
+Validate the writer tests writing data and reading it back. gz,0.044,Validate the writer,4,0.236
+Validate the writer tests writeToFile,0.003,Validate the writer,4,0.236
+Validate the writer tests writeToFile zip,0.002,Validate the writer,4,0.236
+Validate the wordListCompiler test reading and normalizing a file,0.011,Validate the wordListCompiler,10,3.037
+Validate the wordListCompiler test compiling to a file without split,0.01,Validate the wordListCompiler,10,3.037
+Validate the wordListCompiler test reading and normalizing to a trie file,0.02,Validate the wordListCompiler,10,3.037
+Validate the wordListCompiler test reading and normalizing to a trie gz file,0.02,Validate the wordListCompiler,10,3.037
+Validate the wordListCompiler test a simple hunspell dictionary depth 0,0.012,Validate the wordListCompiler,10,3.037
+Validate the wordListCompiler test a simple hunspell dictionary depth 1,0.004,Validate the wordListCompiler,10,3.037
+Validate the application test app compile-trie,0.009,Validate the application,12,0.251
+Validate the application test app compile-trie compress,0.006,Validate the application,12,0.251
+Validate the application test app compile-trie -o,0.007,Validate the application,12,0.251
+Validate the application test app compile,0.002,Validate the application,12,0.251
+Validate the application test app compile-trie max depth,0.004,Validate the application,12,0.251
+Validate the application test app compile-trie compound,0.003,Validate the application,12,0.251
+Validate the application test app compile compound,0.002,Validate the application,12,0.251
+Validate the application test app compile with compression,0.002,Validate the application,12,0.251
+Validate the application test app compile merge,0.007,Validate the application,12,0.251
+Import/Export tests serialize / deserialize small sample,0.006,Import/Export,6,3.105
+Import/Export tests serialize / deserialize specialCharacters,0.002,Import/Export,6,3.105
+Import/Export tests serialize / deserialize,0.01,Import/Export,6,3.105
+Import/Export tests serialize / deserialize,0.003,Import/Export,6,3.105
+Import/Export tests serialize / deserialize small sample,0.002,Import/Export,6,0.094
+Import/Export tests serialize / deserialize specialCharacters,0.002,Import/Export,6,0.094
+Import/Export tests serialize / deserialize,0.006,Import/Export,6,0.094
+Import/Export tests serialize / deserialize,0.004,Import/Export,6,0.094
+Import/Export tests serialize / deserialize,0.004,Import/Export,2,0.073
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.073
+Import/Export tests serialize / deserialize,0.003,Import/Export,2,0.053
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.053
+Import/Export tests serialize / deserialize,0.007,Import/Export,1,0.077
+Import/Export tests serialize / deserialize,0.005,Import/Export,1,0.057
+Validate the Application Tests checkText,0.116,Validate the Application,21,4.042
+Validate the fileReader tests reading the cities sample,0.007,Validate the fileReader,9,2.356
+Validate the fileReader tests streamFileLineByLineAsync,0.008,Validate the fileReader,9,2.356
+Validate the fileReader tests streamFileLineByLineAsync 2,0.004,Validate the fileReader,9,2.356
+Validate the writer tests writing data and reading it back.,0.033,Validate the writer,4,0.23
+Validate the writer tests writing data and reading it back. gz,0.042,Validate the writer,4,0.23
+Validate the writer tests writeToFile,0.002,Validate the writer,4,0.23
+Validate the writer tests writeToFile zip,0.002,Validate the writer,4,0.23
+Validate the wordListCompiler test reading and normalizing a file,0.01,Validate the wordListCompiler,10,3.002
+Validate the wordListCompiler test compiling to a file without split,0.011,Validate the wordListCompiler,10,3.002
+Validate the wordListCompiler test reading and normalizing to a trie file,0.02,Validate the wordListCompiler,10,3.002
+Validate the wordListCompiler test reading and normalizing to a trie gz file,0.021,Validate the wordListCompiler,10,3.002
+Validate the wordListCompiler test a simple hunspell dictionary depth 0,0.012,Validate the wordListCompiler,10,3.002
+Validate the wordListCompiler test a simple hunspell dictionary depth 1,0.003,Validate the wordListCompiler,10,3.002
+Validate the application test app compile-trie,0.009,Validate the application,12,0.252
+Validate the application test app compile-trie compress,0.005,Validate the application,12,0.252
+Validate the application test app compile-trie -o,0.008,Validate the application,12,0.252
+Validate the application test app compile,0.002,Validate the application,12,0.252
+Validate the application test app compile-trie max depth,0.004,Validate the application,12,0.252
+Validate the application test app compile-trie compound,0.003,Validate the application,12,0.252
+Validate the application test app compile compound,0.002,Validate the application,12,0.252
+Validate the application test app compile with compression,0.004,Validate the application,12,0.252
+Validate the application test app compile merge,0.007,Validate the application,12,0.252
+Import/Export tests serialize / deserialize small sample,0.006,Import/Export,6,3.08
+Import/Export tests serialize / deserialize specialCharacters,0.001,Import/Export,6,3.08
+Import/Export tests serialize / deserialize,0.01,Import/Export,6,3.08
+Import/Export tests serialize / deserialize,0.003,Import/Export,6,3.08
+Import/Export tests serialize / deserialize small sample,0.002,Import/Export,6,0.089
+Import/Export tests serialize / deserialize specialCharacters,0.002,Import/Export,6,0.089
+Import/Export tests serialize / deserialize,0.008,Import/Export,6,0.089
+Import/Export tests serialize / deserialize,0.006,Import/Export,6,0.089
+Import/Export tests serialize / deserialize,0.005,Import/Export,2,0.075
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.075
+Import/Export tests serialize / deserialize,0.005,Import/Export,2,0.056
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.056
+Import/Export tests serialize / deserialize,0.008,Import/Export,1,0.068
+Import/Export tests serialize / deserialize,0.009,Import/Export,1,0.078
+Validate the Application Tests checkText,0.117,Validate the Application,21,4.075
+Validate the fileReader tests reading the cities sample,0.008,Validate the fileReader,9,2.477
+Validate the fileReader tests streamFileLineByLineAsync,0.013,Validate the fileReader,9,2.477
+Validate the fileReader tests streamFileLineByLineAsync 2,0.005,Validate the fileReader,9,2.477
+Validate the writer tests writing data and reading it back.,0.04,Validate the writer,4,0.236
+Validate the writer tests writing data and reading it back. gz,0.045,Validate the writer,4,0.236
+Validate the writer tests writeToFile,0.002,Validate the writer,4,0.236
+Validate the writer tests writeToFile zip,0.003,Validate the writer,4,0.236
+Validate the wordListCompiler test reading and normalizing a file,0.01,Validate the wordListCompiler,10,3.129
+Validate the wordListCompiler test compiling to a file without split,0.011,Validate the wordListCompiler,10,3.129
+Validate the wordListCompiler test reading and normalizing to a trie file,0.019,Validate the wordListCompiler,10,3.129
+Validate the wordListCompiler test reading and normalizing to a trie gz file,0.02,Validate the wordListCompiler,10,3.129
+Validate the wordListCompiler test a simple hunspell dictionary depth 0,0.012,Validate the wordListCompiler,10,3.129
+Validate the wordListCompiler test a simple hunspell dictionary depth 1,0.003,Validate the wordListCompiler,10,3.129
+Validate the application test app compile-trie,0.009,Validate the application,12,0.251
+Validate the application test app compile-trie compress,0.005,Validate the application,12,0.251
+Validate the application test app compile-trie -o,0.007,Validate the application,12,0.251
+Validate the application test app compile,0.002,Validate the application,12,0.251
+Validate the application test app compile-trie max depth,0.004,Validate the application,12,0.251
+Validate the application test app compile-trie compound,0.003,Validate the application,12,0.251
+Validate the application test app compile compound,0.001,Validate the application,12,0.251
+Validate the application test app compile with compression,0.002,Validate the application,12,0.251
+Validate the application test app compile merge,0.006,Validate the application,12,0.251
+Import/Export tests serialize / deserialize small sample,0.008,Import/Export,6,3.142
+Import/Export tests serialize / deserialize specialCharacters,0.002,Import/Export,6,3.142
+Import/Export tests serialize / deserialize,0.011,Import/Export,6,3.142
+Import/Export tests serialize / deserialize,0.003,Import/Export,6,3.142
+Import/Export tests serialize / deserialize small sample,0.003,Import/Export,6,0.103
+Import/Export tests serialize / deserialize specialCharacters,0.001,Import/Export,6,0.103
+Import/Export tests serialize / deserialize,0.008,Import/Export,6,0.103
+Import/Export tests serialize / deserialize,0.006,Import/Export,6,0.103
+Import/Export tests serialize / deserialize,0.005,Import/Export,2,0.072
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.072
+Import/Export tests serialize / deserialize,0.006,Import/Export,2,0.061
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.061
+Import/Export tests serialize / deserialize,0.011,Import/Export,1,0.081
+Import/Export tests serialize / deserialize,0.006,Import/Export,1,0.071
+Validate the Application Tests checkText,0.118,Validate the Application,21,4.164
+Validate the fileReader tests reading the cities sample,0.007,Validate the fileReader,9,2.519
+Validate the fileReader tests streamFileLineByLineAsync,0.015,Validate the fileReader,9,2.519
+Validate the fileReader tests streamFileLineByLineAsync 2,0.003,Validate the fileReader,9,2.519
+Validate the writer tests writing data and reading it back.,0.031,Validate the writer,4,0.234
+Validate the writer tests writing data and reading it back. gz,0.043,Validate the writer,4,0.234
+Validate the writer tests writeToFile,0.003,Validate the writer,4,0.234
+Validate the writer tests writeToFile zip,0.003,Validate the writer,4,0.234
+Validate the wordListCompiler test reading and normalizing a file,0.011,Validate the wordListCompiler,10,3.259
+Validate the wordListCompiler test compiling to a file without split,0.01,Validate the wordListCompiler,10,3.259
+Validate the wordListCompiler test reading and normalizing to a trie file,0.019,Validate the wordListCompiler,10,3.259
+Validate the wordListCompiler test reading and normalizing to a trie gz file,0.02,Validate the wordListCompiler,10,3.259
+Validate the wordListCompiler test a simple hunspell dictionary depth 0,0.012,Validate the wordListCompiler,10,3.259
+Validate the wordListCompiler test a simple hunspell dictionary depth 1,0.003,Validate the wordListCompiler,10,3.259
+Validate the application test app compile-trie,0.009,Validate the application,12,0.26
+Validate the application test app compile-trie compress,0.006,Validate the application,12,0.26
+Validate the application test app compile-trie -o,0.007,Validate the application,12,0.26
+Validate the application test app compile,0.002,Validate the application,12,0.26
+Validate the application test app compile-trie max depth,0.004,Validate the application,12,0.26
+Validate the application test app compile-trie compound,0.004,Validate the application,12,0.26
+Validate the application test app compile compound,0.002,Validate the application,12,0.26
+Validate the application test app compile with compression,0.002,Validate the application,12,0.26
+Validate the application test app compile merge,0.007,Validate the application,12,0.26
+Import/Export tests serialize / deserialize small sample,0.006,Import/Export,6,3.148
+Import/Export tests serialize / deserialize specialCharacters,0.002,Import/Export,6,3.148
+Import/Export tests serialize / deserialize,0.011,Import/Export,6,3.148
+Import/Export tests serialize / deserialize,0.003,Import/Export,6,3.148
+Import/Export tests serialize / deserialize small sample,0.003,Import/Export,6,0.094
+Import/Export tests serialize / deserialize specialCharacters,0.001,Import/Export,6,0.094
+Import/Export tests serialize / deserialize,0.007,Import/Export,6,0.094
+Import/Export tests serialize / deserialize,0.008,Import/Export,6,0.094
+Import/Export tests serialize / deserialize,0.006,Import/Export,2,0.082
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.082
+Import/Export tests serialize / deserialize,0.003,Import/Export,2,0.053
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.053
+Import/Export tests serialize / deserialize,0.006,Import/Export,1,0.062
+Import/Export tests serialize / deserialize,0.01,Import/Export,1,0.078
+Validate the Application Tests checkText,0.125,Validate the Application,21,4.159
+Validate the fileReader tests reading the cities sample,0.007,Validate the fileReader,9,2.396
+Validate the fileReader tests streamFileLineByLineAsync,0.015,Validate the fileReader,9,2.396
+Validate the fileReader tests streamFileLineByLineAsync 2,0.003,Validate the fileReader,9,2.396
+Validate the writer tests writing data and reading it back.,0.033,Validate the writer,4,0.22
+Validate the writer tests writing data and reading it back. gz,0.045,Validate the writer,4,0.22
+Validate the writer tests writeToFile,0.002,Validate the writer,4,0.22
+Validate the writer tests writeToFile zip,0.003,Validate the writer,4,0.22
+Validate the wordListCompiler test reading and normalizing a file,0.011,Validate the wordListCompiler,10,3.055
+Validate the wordListCompiler test compiling to a file without split,0.011,Validate the wordListCompiler,10,3.055
+Validate the wordListCompiler test reading and normalizing to a trie file,0.02,Validate the wordListCompiler,10,3.055
+Validate the wordListCompiler test reading and normalizing to a trie gz file,0.02,Validate the wordListCompiler,10,3.055
+Validate the wordListCompiler test a simple hunspell dictionary depth 0,0.012,Validate the wordListCompiler,10,3.055
+Validate the wordListCompiler test a simple hunspell dictionary depth 1,0.004,Validate the wordListCompiler,10,3.055
+Validate the application test app compile-trie,0.008,Validate the application,12,0.246
+Validate the application test app compile-trie compress,0.005,Validate the application,12,0.246
+Validate the application test app compile-trie -o,0.007,Validate the application,12,0.246
+Validate the application test app compile,0.002,Validate the application,12,0.246
+Validate the application test app compile-trie max depth,0.003,Validate the application,12,0.246
+Validate the application test app compile-trie compound,0.004,Validate the application,12,0.246
+Validate the application test app compile compound,0.001,Validate the application,12,0.246
+Validate the application test app compile with compression,0.002,Validate the application,12,0.246
+Validate the application test app compile merge,0.007,Validate the application,12,0.246
+Import/Export tests serialize / deserialize small sample,0.006,Import/Export,6,3.115
+Import/Export tests serialize / deserialize specialCharacters,0.002,Import/Export,6,3.115
+Import/Export tests serialize / deserialize,0.012,Import/Export,6,3.115
+Import/Export tests serialize / deserialize,0.003,Import/Export,6,3.115
+Import/Export tests serialize / deserialize small sample,0.003,Import/Export,6,0.099
+Import/Export tests serialize / deserialize specialCharacters,0.002,Import/Export,6,0.099
+Import/Export tests serialize / deserialize,0.008,Import/Export,6,0.099
+Import/Export tests serialize / deserialize,0.007,Import/Export,6,0.099
+Import/Export tests serialize / deserialize,0.005,Import/Export,2,0.077
+Import/Export tests serialize / deserialize,0.003,Import/Export,2,0.077
+Import/Export tests serialize / deserialize,0.004,Import/Export,2,0.056
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.056
+Import/Export tests serialize / deserialize,0.007,Import/Export,1,0.067
+Import/Export tests serialize / deserialize,0.006,Import/Export,1,0.061
+Validate the Application Tests checkText,0.136,Validate the Application,21,4.162
+Validate the fileReader tests reading the cities sample,0.007,Validate the fileReader,9,2.426
+Validate the fileReader tests streamFileLineByLineAsync,0.013,Validate the fileReader,9,2.426
+Validate the fileReader tests streamFileLineByLineAsync 2,0.004,Validate the fileReader,9,2.426
+Validate the writer tests writing data and reading it back.,0.036,Validate the writer,4,0.233
+Validate the writer tests writing data and reading it back. gz,0.039,Validate the writer,4,0.233
+Validate the writer tests writeToFile,0.002,Validate the writer,4,0.233
+Validate the writer tests writeToFile zip,0.002,Validate the writer,4,0.233
+Validate the wordListCompiler test reading and normalizing a file,0.011,Validate the wordListCompiler,10,3.241
+Validate the wordListCompiler test compiling to a file without split,0.011,Validate the wordListCompiler,10,3.241
+Validate the wordListCompiler test reading and normalizing to a trie file,0.02,Validate the wordListCompiler,10,3.241
+Validate the wordListCompiler test reading and normalizing to a trie gz file,0.021,Validate the wordListCompiler,10,3.241
+Validate the wordListCompiler test a simple hunspell dictionary depth 0,0.012,Validate the wordListCompiler,10,3.241
+Validate the wordListCompiler test a simple hunspell dictionary depth 1,0.003,Validate the wordListCompiler,10,3.241
+Validate the application test app compile-trie,0.009,Validate the application,12,0.264
+Validate the application test app compile-trie compress,0.004,Validate the application,12,0.264
+Validate the application test app compile-trie -o,0.008,Validate the application,12,0.264
+Validate the application test app compile,0.002,Validate the application,12,0.264
+Validate the application test app compile-trie max depth,0.004,Validate the application,12,0.264
+Validate the application test app compile-trie compound,0.003,Validate the application,12,0.264
+Validate the application test app compile compound,0.002,Validate the application,12,0.264
+Validate the application test app compile with compression,0.001,Validate the application,12,0.264
+Validate the application test app compile merge,0.007,Validate the application,12,0.264
+Import/Export tests serialize / deserialize small sample,0.007,Import/Export,6,3.133
+Import/Export tests serialize / deserialize specialCharacters,0.002,Import/Export,6,3.133
+Import/Export tests serialize / deserialize,0.011,Import/Export,6,3.133
+Import/Export tests serialize / deserialize,0.003,Import/Export,6,3.133
+Import/Export tests serialize / deserialize small sample,0.003,Import/Export,6,0.101
+Import/Export tests serialize / deserialize specialCharacters,0.001,Import/Export,6,0.101
+Import/Export tests serialize / deserialize,0.008,Import/Export,6,0.101
+Import/Export tests serialize / deserialize,0.003,Import/Export,6,0.101
+Import/Export tests serialize / deserialize,0.004,Import/Export,2,0.075
+Import/Export tests serialize / deserialize,0.003,Import/Export,2,0.075
+Import/Export tests serialize / deserialize,0.004,Import/Export,2,0.056
+Import/Export tests serialize / deserialize,0.001,Import/Export,2,0.056
+Import/Export tests serialize / deserialize,0.006,Import/Export,1,0.066
+Import/Export tests serialize / deserialize,0.006,Import/Export,1,0.057
+Validate the Application Tests checkText,0.125,Validate the Application,21,4.184
+Validate the fileReader tests reading the cities sample,0.01,Validate the fileReader,9,2.363
+Validate the fileReader tests streamFileLineByLineAsync,0.009,Validate the fileReader,9,2.363
+Validate the fileReader tests streamFileLineByLineAsync 2,0.004,Validate the fileReader,9,2.363
+Validate the writer tests writing data and reading it back.,0.036,Validate the writer,4,0.25
+Validate the writer tests writing data and reading it back. gz,0.058,Validate the writer,4,0.25
+Validate the writer tests writeToFile,0.002,Validate the writer,4,0.25
+Validate the writer tests writeToFile zip,0.004,Validate the writer,4,0.25
+Validate the wordListCompiler test reading and normalizing a file,0.011,Validate the wordListCompiler,10,3.236
+Validate the wordListCompiler test compiling to a file without split,0.011,Validate the wordListCompiler,10,3.236
+Validate the wordListCompiler test reading and normalizing to a trie file,0.019,Validate the wordListCompiler,10,3.236
+Validate the wordListCompiler test reading and normalizing to a trie gz file,0.021,Validate the wordListCompiler,10,3.236
+Validate the wordListCompiler test a simple hunspell dictionary depth 0,0.012,Validate the wordListCompiler,10,3.236
+Validate the wordListCompiler test a simple hunspell dictionary depth 1,0.004,Validate the wordListCompiler,10,3.236
+Validate the application test app compile-trie,0.009,Validate the application,12,0.259
+Validate the application test app compile-trie compress,0.005,Validate the application,12,0.259
+Validate the application test app compile-trie -o,0.007,Validate the application,12,0.259
+Validate the application test app compile,0.002,Validate the application,12,0.259
+Validate the application test app compile-trie max depth,0.004,Validate the application,12,0.259
+Validate the application test app compile-trie compound,0.003,Validate the application,12,0.259
+Validate the application test app compile compound,0.002,Validate the application,12,0.259
+Validate the application test app compile with compression,0.002,Validate the application,12,0.259
+Validate the application test app compile merge,0.007,Validate the application,12,0.259
+Import/Export tests serialize / deserialize small sample,0.009,Import/Export,6,3.21
+Import/Export tests serialize / deserialize specialCharacters,0.002,Import/Export,6,3.21
+Import/Export tests serialize / deserialize,0.012,Import/Export,6,3.21
+Import/Export tests serialize / deserialize,0.003,Import/Export,6,3.21
+Import/Export tests serialize / deserialize small sample,0.003,Import/Export,6,0.099
+Import/Export tests serialize / deserialize specialCharacters,0.001,Import/Export,6,0.099
+Import/Export tests serialize / deserialize,0.009,Import/Export,6,0.099
+Import/Export tests serialize / deserialize,0.007,Import/Export,6,0.099
+Import/Export tests serialize / deserialize,0.006,Import/Export,2,0.082
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.082
+Import/Export tests serialize / deserialize,0.003,Import/Export,2,0.055
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.055
+Import/Export tests serialize / deserialize,0.012,Import/Export,1,0.086
+Import/Export tests serialize / deserialize,0.006,Import/Export,1,0.074
+Validate the Application Tests checkText,0.118,Validate the Application,21,4.209
+Validate the fileReader tests reading the cities sample,0.006,Validate the fileReader,9,2.43
+Validate the fileReader tests streamFileLineByLineAsync,0.008,Validate the fileReader,9,2.43
+Validate the fileReader tests streamFileLineByLineAsync 2,0.004,Validate the fileReader,9,2.43
+Validate the writer tests writing data and reading it back.,0.033,Validate the writer,4,0.235
+Validate the writer tests writing data and reading it back. gz,0.047,Validate the writer,4,0.235
+Validate the writer tests writeToFile,0.004,Validate the writer,4,0.235
+Validate the writer tests writeToFile zip,0.004,Validate the writer,4,0.235
+Validate the wordListCompiler test reading and normalizing a file,0.011,Validate the wordListCompiler,10,3.108
+Validate the wordListCompiler test compiling to a file without split,0.011,Validate the wordListCompiler,10,3.108
+Validate the wordListCompiler test reading and normalizing to a trie file,0.021,Validate the wordListCompiler,10,3.108
+Validate the wordListCompiler test reading and normalizing to a trie gz file,0.021,Validate the wordListCompiler,10,3.108
+Validate the wordListCompiler test a simple hunspell dictionary depth 0,0.012,Validate the wordListCompiler,10,3.108
+Validate the wordListCompiler test a simple hunspell dictionary depth 1,0.004,Validate the wordListCompiler,10,3.108
+Validate the application test app compile-trie,0.009,Validate the application,12,0.251
+Validate the application test app compile-trie compress,0.005,Validate the application,12,0.251
+Validate the application test app compile-trie -o,0.003,Validate the application,12,0.251
+Validate the application test app compile,0.006,Validate the application,12,0.251
+Validate the application test app compile-trie max depth,0.004,Validate the application,12,0.251
+Validate the application test app compile-trie compound,0.003,Validate the application,12,0.251
+Validate the application test app compile compound,0.002,Validate the application,12,0.251
+Validate the application test app compile with compression,0.002,Validate the application,12,0.251
+Validate the application test app compile merge,0.007,Validate the application,12,0.251
+Import/Export tests serialize / deserialize small sample,0.006,Import/Export,6,3.194
+Import/Export tests serialize / deserialize specialCharacters,0.002,Import/Export,6,3.194
+Import/Export tests serialize / deserialize,0.012,Import/Export,6,3.194
+Import/Export tests serialize / deserialize,0.007,Import/Export,6,3.194
+Import/Export tests serialize / deserialize small sample,0.002,Import/Export,6,0.091
+Import/Export tests serialize / deserialize specialCharacters,0.001,Import/Export,6,0.091
+Import/Export tests serialize / deserialize,0.008,Import/Export,6,0.091
+Import/Export tests serialize / deserialize,0.006,Import/Export,6,0.091
+Import/Export tests serialize / deserialize,0.006,Import/Export,2,0.08
+Import/Export tests serialize / deserialize,0.003,Import/Export,2,0.08
+Import/Export tests serialize / deserialize,0.004,Import/Export,2,0.06
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.06
+Import/Export tests serialize / deserialize,0.007,Import/Export,1,0.079
+Import/Export tests serialize / deserialize,0.004,Import/Export,1,0.049
+Validate the Application Tests checkText,0.115,Validate the Application,21,4.144
+Validate the fileReader tests reading the cities sample,0.009,Validate the fileReader,9,2.393
+Validate the fileReader tests streamFileLineByLineAsync,0.009,Validate the fileReader,9,2.393
+Validate the fileReader tests streamFileLineByLineAsync 2,0.004,Validate the fileReader,9,2.393
+Validate the writer tests writing data and reading it back.,0.034,Validate the writer,4,0.232
+Validate the writer tests writing data and reading it back. gz,0.036,Validate the writer,4,0.232
+Validate the writer tests writeToFile,0.002,Validate the writer,4,0.232
+Validate the writer tests writeToFile zip,0.003,Validate the writer,4,0.232
+Validate the wordListCompiler test reading and normalizing a file,0.012,Validate the wordListCompiler,10,3.289
+Validate the wordListCompiler test compiling to a file without split,0.011,Validate the wordListCompiler,10,3.289
+Validate the wordListCompiler test reading and normalizing to a trie file,0.02,Validate the wordListCompiler,10,3.289
+Validate the wordListCompiler test reading and normalizing to a trie gz file,0.021,Validate the wordListCompiler,10,3.289
+Validate the wordListCompiler test a simple hunspell dictionary depth 0,0.013,Validate the wordListCompiler,10,3.289
+Validate the wordListCompiler test a simple hunspell dictionary depth 1,0.003,Validate the wordListCompiler,10,3.289
+Validate the application test app compile-trie,0.012,Validate the application,12,0.308
+Validate the application test app compile-trie compress,0.007,Validate the application,12,0.308
+Validate the application test app compile-trie -o,0.011,Validate the application,12,0.308
+Validate the application test app compile,0.003,Validate the application,12,0.308
+Validate the application test app compile-trie max depth,0.007,Validate the application,12,0.308
+Validate the application test app compile-trie compound,0.006,Validate the application,12,0.308
+Validate the application test app compile compound,0.003,Validate the application,12,0.308
+Validate the application test app compile with compression,0.003,Validate the application,12,0.308
+Validate the application test app compile merge,0.01,Validate the application,12,0.308
+Import/Export tests serialize / deserialize small sample,0.006,Import/Export,6,3.15
+Import/Export tests serialize / deserialize specialCharacters,0.002,Import/Export,6,3.15
+Import/Export tests serialize / deserialize,0.011,Import/Export,6,3.15
+Import/Export tests serialize / deserialize,0.003,Import/Export,6,3.15
+Import/Export tests serialize / deserialize small sample,0.002,Import/Export,6,0.098
+Import/Export tests serialize / deserialize specialCharacters,0.001,Import/Export,6,0.098
+Import/Export tests serialize / deserialize,0.01,Import/Export,6,0.098
+Import/Export tests serialize / deserialize,0.003,Import/Export,6,0.098
+Import/Export tests serialize / deserialize,0.006,Import/Export,2,0.084
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.084
+Import/Export tests serialize / deserialize,0.006,Import/Export,2,0.063
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.063
+Import/Export tests serialize / deserialize,0.008,Import/Export,1,0.079
+Import/Export tests serialize / deserialize,0.005,Import/Export,1,0.063
+Validate the Application Tests checkText,0.124,Validate the Application,21,4.178
+Validate the fileReader tests reading the cities sample,0.008,Validate the fileReader,9,2.482
+Validate the fileReader tests streamFileLineByLineAsync,0.008,Validate the fileReader,9,2.482
+Validate the fileReader tests streamFileLineByLineAsync 2,0.005,Validate the fileReader,9,2.482
+Validate the writer tests writing data and reading it back.,0.032,Validate the writer,4,0.235
+Validate the writer tests writing data and reading it back. gz,0.05,Validate the writer,4,0.235
+Validate the writer tests writeToFile,0.003,Validate the writer,4,0.235
+Validate the writer tests writeToFile zip,0.004,Validate the writer,4,0.235
+Validate the wordListCompiler test reading and normalizing a file,0.011,Validate the wordListCompiler,10,3.194
+Validate the wordListCompiler test compiling to a file without split,0.01,Validate the wordListCompiler,10,3.194
+Validate the wordListCompiler test reading and normalizing to a trie file,0.019,Validate the wordListCompiler,10,3.194
+Validate the wordListCompiler test reading and normalizing to a trie gz file,0.02,Validate the wordListCompiler,10,3.194
+Validate the wordListCompiler test a simple hunspell dictionary depth 0,0.012,Validate the wordListCompiler,10,3.194
+Validate the wordListCompiler test a simple hunspell dictionary depth 1,0.003,Validate the wordListCompiler,10,3.194
+Validate the application test app compile-trie,0.009,Validate the application,12,0.246
+Validate the application test app compile-trie compress,0.004,Validate the application,12,0.246
+Validate the application test app compile-trie -o,0.008,Validate the application,12,0.246
+Validate the application test app compile,0.001,Validate the application,12,0.246
+Validate the application test app compile-trie max depth,0.004,Validate the application,12,0.246
+Validate the application test app compile-trie compound,0.003,Validate the application,12,0.246
+Validate the application test app compile compound,0.002,Validate the application,12,0.246
+Validate the application test app compile with compression,0.002,Validate the application,12,0.246
+Validate the application test app compile merge,0.007,Validate the application,12,0.246
+Import/Export tests serialize / deserialize small sample,0.007,Import/Export,6,3.315
+Import/Export tests serialize / deserialize specialCharacters,0.002,Import/Export,6,3.315
+Import/Export tests serialize / deserialize,0.01,Import/Export,6,3.315
+Import/Export tests serialize / deserialize,0.006,Import/Export,6,3.315
+Import/Export tests serialize / deserialize small sample,0.003,Import/Export,6,0.107
+Import/Export tests serialize / deserialize specialCharacters,0.001,Import/Export,6,0.107
+Import/Export tests serialize / deserialize,0.01,Import/Export,6,0.107
+Import/Export tests serialize / deserialize,0.007,Import/Export,6,0.107
+Import/Export tests serialize / deserialize,0.008,Import/Export,2,0.085
+Import/Export tests serialize / deserialize,0.004,Import/Export,2,0.085
+Import/Export tests serialize / deserialize,0.004,Import/Export,2,0.056
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.056
+Import/Export tests serialize / deserialize,0.007,Import/Export,1,0.072
+Import/Export tests serialize / deserialize,0.007,Import/Export,1,0.062
+Validate the Application Tests checkText,0.127,Validate the Application,21,4.372
+Validate the fileReader tests reading the cities sample,0.007,Validate the fileReader,9,2.418
+Validate the fileReader tests streamFileLineByLineAsync,0.011,Validate the fileReader,9,2.418
+Validate the fileReader tests streamFileLineByLineAsync 2,0.004,Validate the fileReader,9,2.418
+Validate the writer tests writing data and reading it back.,0.035,Validate the writer,4,0.237
+Validate the writer tests writing data and reading it back. gz,0.04,Validate the writer,4,0.237
+Validate the writer tests writeToFile,0.002,Validate the writer,4,0.237
+Validate the writer tests writeToFile zip,0.003,Validate the writer,4,0.237
+Validate the wordListCompiler test reading and normalizing a file,0.011,Validate the wordListCompiler,10,3.056
+Validate the wordListCompiler test compiling to a file without split,0.01,Validate the wordListCompiler,10,3.056
+Validate the wordListCompiler test reading and normalizing to a trie file,0.019,Validate the wordListCompiler,10,3.056
+Validate the wordListCompiler test reading and normalizing to a trie gz file,0.021,Validate the wordListCompiler,10,3.056
+Validate the wordListCompiler test a simple hunspell dictionary depth 0,0.012,Validate the wordListCompiler,10,3.056
+Validate the wordListCompiler test a simple hunspell dictionary depth 1,0.003,Validate the wordListCompiler,10,3.056
+Validate the application test app compile-trie,0.008,Validate the application,12,0.242
+Validate the application test app compile-trie compress,0.006,Validate the application,12,0.242
+Validate the application test app compile-trie -o,0.007,Validate the application,12,0.242
+Validate the application test app compile,0.002,Validate the application,12,0.242
+Validate the application test app compile-trie max depth,0.003,Validate the application,12,0.242
+Validate the application test app compile-trie compound,0.004,Validate the application,12,0.242
+Validate the application test app compile compound,0.001,Validate the application,12,0.242
+Validate the application test app compile with compression,0.003,Validate the application,12,0.242
+Validate the application test app compile merge,0.006,Validate the application,12,0.242
+Import/Export tests serialize / deserialize small sample,0.007,Import/Export,6,3.098
+Import/Export tests serialize / deserialize specialCharacters,0.001,Import/Export,6,3.098
+Import/Export tests serialize / deserialize,0.011,Import/Export,6,3.098
+Import/Export tests serialize / deserialize,0.003,Import/Export,6,3.098
+Import/Export tests serialize / deserialize small sample,0.003,Import/Export,6,0.097
+Import/Export tests serialize / deserialize specialCharacters,0.001,Import/Export,6,0.097
+Import/Export tests serialize / deserialize,0.009,Import/Export,6,0.097
+Import/Export tests serialize / deserialize,0.004,Import/Export,6,0.097
+Import/Export tests serialize / deserialize,0.01,Import/Export,2,0.082
+Import/Export tests serialize / deserialize,0.003,Import/Export,2,0.082
+Import/Export tests serialize / deserialize,0.004,Import/Export,2,0.057
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.057
+Import/Export tests serialize / deserialize,0.007,Import/Export,1,0.074
+Import/Export tests serialize / deserialize,0.009,Import/Export,1,0.07
+Validate the Application Tests checkText,0.131,Validate the Application,21,4.191
+Validate the fileReader tests reading the cities sample,0.008,Validate the fileReader,9,2.388
+Validate the fileReader tests streamFileLineByLineAsync,0.008,Validate the fileReader,9,2.388
+Validate the fileReader tests streamFileLineByLineAsync 2,0.004,Validate the fileReader,9,2.388
+Validate the writer tests writing data and reading it back.,0.037,Validate the writer,4,0.231
+Validate the writer tests writing data and reading it back. gz,0.039,Validate the writer,4,0.231
+Validate the writer tests writeToFile,0.003,Validate the writer,4,0.231
+Validate the writer tests writeToFile zip,0.003,Validate the writer,4,0.231
+Validate the wordListCompiler test reading and normalizing a file,0.012,Validate the wordListCompiler,10,3.179
+Validate the wordListCompiler test compiling to a file without split,0.011,Validate the wordListCompiler,10,3.179
+Validate the wordListCompiler test reading and normalizing to a trie file,0.021,Validate the wordListCompiler,10,3.179
+Validate the wordListCompiler test reading and normalizing to a trie gz file,0.021,Validate the wordListCompiler,10,3.179
+Validate the wordListCompiler test a simple hunspell dictionary depth 0,0.013,Validate the wordListCompiler,10,3.179
+Validate the wordListCompiler test a simple hunspell dictionary depth 1,0.003,Validate the wordListCompiler,10,3.179
+Validate the application test app compile-trie,0.009,Validate the application,12,0.25
+Validate the application test app compile-trie compress,0.005,Validate the application,12,0.25
+Validate the application test app compile-trie -o,0.004,Validate the application,12,0.25
+Validate the application test app compile,0.005,Validate the application,12,0.25
+Validate the application test app compile-trie max depth,0.004,Validate the application,12,0.25
+Validate the application test app compile-trie compound,0.004,Validate the application,12,0.25
+Validate the application test app compile compound,0.002,Validate the application,12,0.25
+Validate the application test app compile with compression,0.002,Validate the application,12,0.25
+Validate the application test app compile merge,0.007,Validate the application,12,0.25
+Import/Export tests serialize / deserialize small sample,0.006,Import/Export,6,3.147
+Import/Export tests serialize / deserialize specialCharacters,0.001,Import/Export,6,3.147
+Import/Export tests serialize / deserialize,0.009,Import/Export,6,3.147
+Import/Export tests serialize / deserialize,0.003,Import/Export,6,3.147
+Import/Export tests serialize / deserialize small sample,0.003,Import/Export,6,0.094
+Import/Export tests serialize / deserialize specialCharacters,0.001,Import/Export,6,0.094
+Import/Export tests serialize / deserialize,0.01,Import/Export,6,0.094
+Import/Export tests serialize / deserialize,0.006,Import/Export,6,0.094
+Import/Export tests serialize / deserialize,0.005,Import/Export,2,0.08
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.08
+Import/Export tests serialize / deserialize,0.004,Import/Export,2,0.056
+Import/Export tests serialize / deserialize,0.001,Import/Export,2,0.056
+Import/Export tests serialize / deserialize,0.007,Import/Export,1,0.073
+Import/Export tests serialize / deserialize,0.009,Import/Export,1,0.069
+Validate the Application Tests checkText,0.13,Validate the Application,21,4.152
+Validate the fileReader tests reading the cities sample,0.011,Validate the fileReader,9,2.994
+Validate the fileReader tests streamFileLineByLineAsync,0.014,Validate the fileReader,9,2.994
+Validate the fileReader tests streamFileLineByLineAsync 2,0.003,Validate the fileReader,9,2.994
+Validate the writer tests writing data and reading it back.,0.049,Validate the writer,4,0.336
+Validate the writer tests writing data and reading it back. gz,0.099,Validate the writer,4,0.336
+Validate the writer tests writeToFile,0.004,Validate the writer,4,0.336
+Validate the writer tests writeToFile zip,0.003,Validate the writer,4,0.336
+Validate the wordListCompiler test reading and normalizing a file,0.012,Validate the wordListCompiler,10,3.541
+Validate the wordListCompiler test compiling to a file without split,0.011,Validate the wordListCompiler,10,3.541
+Validate the wordListCompiler test reading and normalizing to a trie file,0.022,Validate the wordListCompiler,10,3.541
+Validate the wordListCompiler test reading and normalizing to a trie gz file,0.022,Validate the wordListCompiler,10,3.541
+Validate the wordListCompiler test a simple hunspell dictionary depth 0,0.013,Validate the wordListCompiler,10,3.541
+Validate the wordListCompiler test a simple hunspell dictionary depth 1,0.003,Validate the wordListCompiler,10,3.541
+Validate the application test app compile-trie,0.009,Validate the application,12,0.251
+Validate the application test app compile-trie compress,0.004,Validate the application,12,0.251
+Validate the application test app compile-trie -o,0.007,Validate the application,12,0.251
+Validate the application test app compile,0.002,Validate the application,12,0.251
+Validate the application test app compile-trie max depth,0.004,Validate the application,12,0.251
+Validate the application test app compile-trie compound,0.003,Validate the application,12,0.251
+Validate the application test app compile compound,0.002,Validate the application,12,0.251
+Validate the application test app compile with compression,0.002,Validate the application,12,0.251
+Validate the application test app compile merge,0.007,Validate the application,12,0.251
+Import/Export tests serialize / deserialize small sample,0.01,Import/Export,6,4.156
+Import/Export tests serialize / deserialize specialCharacters,0.002,Import/Export,6,4.156
+Import/Export tests serialize / deserialize,0.018,Import/Export,6,4.156
+Import/Export tests serialize / deserialize,0.005,Import/Export,6,4.156
+Import/Export tests serialize / deserialize small sample,0.003,Import/Export,6,0.121
+Import/Export tests serialize / deserialize specialCharacters,0.002,Import/Export,6,0.121
+Import/Export tests serialize / deserialize,0.01,Import/Export,6,0.121
+Import/Export tests serialize / deserialize,0.01,Import/Export,6,0.121
+Import/Export tests serialize / deserialize,0.007,Import/Export,2,0.137
+Import/Export tests serialize / deserialize,0.004,Import/Export,2,0.137
+Import/Export tests serialize / deserialize,0.004,Import/Export,2,0.078
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.078
+Import/Export tests serialize / deserialize,0.012,Import/Export,1,0.096
+Import/Export tests serialize / deserialize,0.011,Import/Export,1,0.096
+Validate the Application Tests checkText,0.127,Validate the Application,21,5.567
+Validate the fileReader tests reading the cities sample,0.008,Validate the fileReader,9,2.495
+Validate the fileReader tests streamFileLineByLineAsync,0.009,Validate the fileReader,9,2.495
+Validate the fileReader tests streamFileLineByLineAsync 2,0.004,Validate the fileReader,9,2.495
+Validate the writer tests writing data and reading it back.,0.045,Validate the writer,4,0.288
+Validate the writer tests writing data and reading it back. gz,0.034,Validate the writer,4,0.288
+Validate the writer tests writeToFile,0.002,Validate the writer,4,0.288
+Validate the writer tests writeToFile zip,0.003,Validate the writer,4,0.288
+Validate the wordListCompiler test reading and normalizing a file,0.013,Validate the wordListCompiler,10,3.434
+Validate the wordListCompiler test compiling to a file without split,0.011,Validate the wordListCompiler,10,3.434
+Validate the wordListCompiler test reading and normalizing to a trie file,0.023,Validate the wordListCompiler,10,3.434
+Validate the wordListCompiler test reading and normalizing to a trie gz file,0.022,Validate the wordListCompiler,10,3.434
+Validate the wordListCompiler test a simple hunspell dictionary depth 0,0.013,Validate the wordListCompiler,10,3.434
+Validate the wordListCompiler test a simple hunspell dictionary depth 1,0.003,Validate the wordListCompiler,10,3.434
+Validate the application test app compile-trie,0.01,Validate the application,12,0.267
+Validate the application test app compile-trie compress,0.006,Validate the application,12,0.267
+Validate the application test app compile-trie -o,0.003,Validate the application,12,0.267
+Validate the application test app compile,0.006,Validate the application,12,0.267
+Validate the application test app compile-trie max depth,0.005,Validate the application,12,0.267
+Validate the application test app compile-trie compound,0.004,Validate the application,12,0.267
+Validate the application test app compile compound,0.003,Validate the application,12,0.267
+Validate the application test app compile with compression,0.002,Validate the application,12,0.267
+Validate the application test app compile merge,0.008,Validate the application,12,0.267
+Import/Export tests serialize / deserialize small sample,0.009,Import/Export,6,3.416
+Import/Export tests serialize / deserialize specialCharacters,0.002,Import/Export,6,3.416
+Import/Export tests serialize / deserialize,0.011,Import/Export,6,3.416
+Import/Export tests serialize / deserialize,0.002,Import/Export,6,3.416
+Import/Export tests serialize / deserialize small sample,0.002,Import/Export,6,0.1
+Import/Export tests serialize / deserialize specialCharacters,0.002,Import/Export,6,0.1
+Import/Export tests serialize / deserialize,0.008,Import/Export,6,0.1
+Import/Export tests serialize / deserialize,0.008,Import/Export,6,0.1
+Import/Export tests serialize / deserialize,0.006,Import/Export,2,0.084
+Import/Export tests serialize / deserialize,0.003,Import/Export,2,0.084
+Import/Export tests serialize / deserialize,0.004,Import/Export,2,0.057
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.057
+Import/Export tests serialize / deserialize,0.008,Import/Export,1,0.071
+Import/Export tests serialize / deserialize,0.007,Import/Export,1,0.087
+Validate the Application Tests checkText,0.131,Validate the Application,21,4.476
+Validate the fileReader tests reading the cities sample,0.008,Validate the fileReader,9,2.664
+Validate the fileReader tests streamFileLineByLineAsync,0.009,Validate the fileReader,9,2.664
+Validate the fileReader tests streamFileLineByLineAsync 2,0.004,Validate the fileReader,9,2.664
+Validate the writer tests writing data and reading it back.,0.041,Validate the writer,4,0.242
+Validate the writer tests writing data and reading it back. gz,0.039,Validate the writer,4,0.242
+Validate the writer tests writeToFile,0.002,Validate the writer,4,0.242
+Validate the writer tests writeToFile zip,0.003,Validate the writer,4,0.242
+Validate the wordListCompiler test reading and normalizing a file,0.012,Validate the wordListCompiler,10,3.294
+Validate the wordListCompiler test compiling to a file without split,0.012,Validate the wordListCompiler,10,3.294
+Validate the wordListCompiler test reading and normalizing to a trie file,0.021,Validate the wordListCompiler,10,3.294
+Validate the wordListCompiler test reading and normalizing to a trie gz file,0.022,Validate the wordListCompiler,10,3.294
+Validate the wordListCompiler test a simple hunspell dictionary depth 0,0.013,Validate the wordListCompiler,10,3.294
+Validate the wordListCompiler test a simple hunspell dictionary depth 1,0.003,Validate the wordListCompiler,10,3.294
+Validate the application test app compile-trie,0.011,Validate the application,12,0.266
+Validate the application test app compile-trie compress,0.005,Validate the application,12,0.266
+Validate the application test app compile-trie -o,0.007,Validate the application,12,0.266
+Validate the application test app compile,0.002,Validate the application,12,0.266
+Validate the application test app compile-trie max depth,0.004,Validate the application,12,0.266
+Validate the application test app compile-trie compound,0.004,Validate the application,12,0.266
+Validate the application test app compile compound,0.001,Validate the application,12,0.266
+Validate the application test app compile with compression,0.003,Validate the application,12,0.266
+Validate the application test app compile merge,0.007,Validate the application,12,0.266
+Import/Export tests serialize / deserialize small sample,0.008,Import/Export,6,3.439
+Import/Export tests serialize / deserialize specialCharacters,0.002,Import/Export,6,3.439
+Import/Export tests serialize / deserialize,0.012,Import/Export,6,3.439
+Import/Export tests serialize / deserialize,0.003,Import/Export,6,3.439
+Import/Export tests serialize / deserialize small sample,0.003,Import/Export,6,0.1
+Import/Export tests serialize / deserialize specialCharacters,0.001,Import/Export,6,0.1
+Import/Export tests serialize / deserialize,0.009,Import/Export,6,0.1
+Import/Export tests serialize / deserialize,0.006,Import/Export,6,0.1
+Import/Export tests serialize / deserialize,0.006,Import/Export,2,0.085
+Import/Export tests serialize / deserialize,0.003,Import/Export,2,0.085
+Import/Export tests serialize / deserialize,0.004,Import/Export,2,0.069
+Import/Export tests serialize / deserialize,0.003,Import/Export,2,0.069
+Import/Export tests serialize / deserialize,0.007,Import/Export,1,0.075
+Import/Export tests serialize / deserialize,0.005,Import/Export,1,0.059
+Validate the Application Tests checkText,0.134,Validate the Application,21,4.399
+Validate the fileReader tests reading the cities sample,0.006,Validate the fileReader,9,2.633
+Validate the fileReader tests streamFileLineByLineAsync,0.014,Validate the fileReader,9,2.633
+Validate the fileReader tests streamFileLineByLineAsync 2,0.003,Validate the fileReader,9,2.633
+Validate the writer tests writing data and reading it back.,0.037,Validate the writer,4,0.248
+Validate the writer tests writing data and reading it back. gz,0.045,Validate the writer,4,0.248
+Validate the writer tests writeToFile,0.002,Validate the writer,4,0.248
+Validate the writer tests writeToFile zip,0.004,Validate the writer,4,0.248
+Validate the wordListCompiler test reading and normalizing a file,0.012,Validate the wordListCompiler,10,3.328
+Validate the wordListCompiler test compiling to a file without split,0.011,Validate the wordListCompiler,10,3.328
+Validate the wordListCompiler test reading and normalizing to a trie file,0.022,Validate the wordListCompiler,10,3.328
+Validate the wordListCompiler test reading and normalizing to a trie gz file,0.024,Validate the wordListCompiler,10,3.328
+Validate the wordListCompiler test a simple hunspell dictionary depth 0,0.012,Validate the wordListCompiler,10,3.328
+Validate the wordListCompiler test a simple hunspell dictionary depth 1,0.004,Validate the wordListCompiler,10,3.328
+Validate the application test app compile-trie,0.009,Validate the application,12,0.262
+Validate the application test app compile-trie compress,0.005,Validate the application,12,0.262
+Validate the application test app compile-trie -o,0.007,Validate the application,12,0.262
+Validate the application test app compile,0.002,Validate the application,12,0.262
+Validate the application test app compile-trie max depth,0.005,Validate the application,12,0.262
+Validate the application test app compile-trie compound,0.004,Validate the application,12,0.262
+Validate the application test app compile compound,0.002,Validate the application,12,0.262
+Validate the application test app compile with compression,0.002,Validate the application,12,0.262
+Validate the application test app compile merge,0.009,Validate the application,12,0.262
+Import/Export tests serialize / deserialize small sample,0.007,Import/Export,6,3.191
+Import/Export tests serialize / deserialize specialCharacters,0.002,Import/Export,6,3.191
+Import/Export tests serialize / deserialize,0.012,Import/Export,6,3.191
+Import/Export tests serialize / deserialize,0.003,Import/Export,6,3.191
+Import/Export tests serialize / deserialize small sample,0.002,Import/Export,6,0.098
+Import/Export tests serialize / deserialize specialCharacters,0.002,Import/Export,6,0.098
+Import/Export tests serialize / deserialize,0.008,Import/Export,6,0.098
+Import/Export tests serialize / deserialize,0.006,Import/Export,6,0.098
+Import/Export tests serialize / deserialize,0.005,Import/Export,2,0.077
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.077
+Import/Export tests serialize / deserialize,0.003,Import/Export,2,0.057
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.057
+Import/Export tests serialize / deserialize,0.007,Import/Export,1,0.072
+Import/Export tests serialize / deserialize,0.005,Import/Export,1,0.064
+Validate the Application Tests checkText,0.137,Validate the Application,21,4.548
+Validate the fileReader tests reading the cities sample,0.009,Validate the fileReader,9,2.494
+Validate the fileReader tests streamFileLineByLineAsync,0.008,Validate the fileReader,9,2.494
+Validate the fileReader tests streamFileLineByLineAsync 2,0.004,Validate the fileReader,9,2.494
+Validate the writer tests writing data and reading it back.,0.037,Validate the writer,4,0.235
+Validate the writer tests writing data and reading it back. gz,0.041,Validate the writer,4,0.235
+Validate the writer tests writeToFile,0.002,Validate the writer,4,0.235
+Validate the writer tests writeToFile zip,0.003,Validate the writer,4,0.235
+Validate the wordListCompiler test reading and normalizing a file,0.012,Validate the wordListCompiler,10,3.468
+Validate the wordListCompiler test compiling to a file without split,0.011,Validate the wordListCompiler,10,3.468
+Validate the wordListCompiler test reading and normalizing to a trie file,0.022,Validate the wordListCompiler,10,3.468
+Validate the wordListCompiler test reading and normalizing to a trie gz file,0.022,Validate the wordListCompiler,10,3.468
+Validate the wordListCompiler test a simple hunspell dictionary depth 0,0.012,Validate the wordListCompiler,10,3.468
+Validate the wordListCompiler test a simple hunspell dictionary depth 1,0.004,Validate the wordListCompiler,10,3.468
+Validate the application test app compile-trie,0.009,Validate the application,12,0.277
+Validate the application test app compile-trie compress,0.005,Validate the application,12,0.277
+Validate the application test app compile-trie -o,0.007,Validate the application,12,0.277
+Validate the application test app compile,0.002,Validate the application,12,0.277
+Validate the application test app compile-trie max depth,0.004,Validate the application,12,0.277
+Validate the application test app compile-trie compound,0.003,Validate the application,12,0.277
+Validate the application test app compile compound,0.002,Validate the application,12,0.277
+Validate the application test app compile with compression,0.002,Validate the application,12,0.277
+Validate the application test app compile merge,0.007,Validate the application,12,0.277
+Import/Export tests serialize / deserialize small sample,0.006,Import/Export,6,3.329
+Import/Export tests serialize / deserialize specialCharacters,0.001,Import/Export,6,3.329
+Import/Export tests serialize / deserialize,0.011,Import/Export,6,3.329
+Import/Export tests serialize / deserialize,0.004,Import/Export,6,3.329
+Import/Export tests serialize / deserialize small sample,0.003,Import/Export,6,0.107
+Import/Export tests serialize / deserialize specialCharacters,0.001,Import/Export,6,0.107
+Import/Export tests serialize / deserialize,0.01,Import/Export,6,0.107
+Import/Export tests serialize / deserialize,0.005,Import/Export,6,0.107
+Import/Export tests serialize / deserialize,0.007,Import/Export,2,0.084
+Import/Export tests serialize / deserialize,0.003,Import/Export,2,0.084
+Import/Export tests serialize / deserialize,0.004,Import/Export,2,0.06
+Import/Export tests serialize / deserialize,0.003,Import/Export,2,0.06
+Import/Export tests serialize / deserialize,0.007,Import/Export,1,0.104
+Import/Export tests serialize / deserialize,0.007,Import/Export,1,0.056
+Validate the Application Tests checkText,0.136,Validate the Application,21,4.33
+Validate the fileReader tests reading the cities sample,0.008,Validate the fileReader,9,2.549
+Validate the fileReader tests streamFileLineByLineAsync,0.014,Validate the fileReader,9,2.549
+Validate the fileReader tests streamFileLineByLineAsync 2,0.005,Validate the fileReader,9,2.549
+Validate the writer tests writing data and reading it back.,0.037,Validate the writer,4,0.254
+Validate the writer tests writing data and reading it back. gz,0.042,Validate the writer,4,0.254
+Validate the writer tests writeToFile,0.002,Validate the writer,4,0.254
+Validate the writer tests writeToFile zip,0.003,Validate the writer,4,0.254
+Validate the wordListCompiler test reading and normalizing a file,0.011,Validate the wordListCompiler,10,3.299
+Validate the wordListCompiler test compiling to a file without split,0.01,Validate the wordListCompiler,10,3.299
+Validate the wordListCompiler test reading and normalizing to a trie file,0.021,Validate the wordListCompiler,10,3.299
+Validate the wordListCompiler test reading and normalizing to a trie gz file,0.021,Validate the wordListCompiler,10,3.299
+Validate the wordListCompiler test a simple hunspell dictionary depth 0,0.012,Validate the wordListCompiler,10,3.299
+Validate the wordListCompiler test a simple hunspell dictionary depth 1,0.004,Validate the wordListCompiler,10,3.299
+Validate the application test app compile-trie,0.009,Validate the application,12,0.247
+Validate the application test app compile-trie compress,0.006,Validate the application,12,0.247
+Validate the application test app compile-trie -o,0.007,Validate the application,12,0.247
+Validate the application test app compile,0.002,Validate the application,12,0.247
+Validate the application test app compile-trie max depth,0.004,Validate the application,12,0.247
+Validate the application test app compile-trie compound,0.003,Validate the application,12,0.247
+Validate the application test app compile compound,0.002,Validate the application,12,0.247
+Validate the application test app compile with compression,0.002,Validate the application,12,0.247
+Validate the application test app compile merge,0.007,Validate the application,12,0.247
+Import/Export tests serialize / deserialize small sample,0.007,Import/Export,6,3.364
+Import/Export tests serialize / deserialize specialCharacters,0.001,Import/Export,6,3.364
+Import/Export tests serialize / deserialize,0.012,Import/Export,6,3.364
+Import/Export tests serialize / deserialize,0.003,Import/Export,6,3.364
+Import/Export tests serialize / deserialize small sample,0.002,Import/Export,6,0.099
+Import/Export tests serialize / deserialize specialCharacters,0.001,Import/Export,6,0.099
+Import/Export tests serialize / deserialize,0.01,Import/Export,6,0.099
+Import/Export tests serialize / deserialize,0.007,Import/Export,6,0.099
+Import/Export tests serialize / deserialize,0.007,Import/Export,2,0.111
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.111
+Import/Export tests serialize / deserialize,0.003,Import/Export,2,0.058
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.058
+Import/Export tests serialize / deserialize,0.009,Import/Export,1,0.081
+Import/Export tests serialize / deserialize,0.007,Import/Export,1,0.087
+Validate the Application Tests checkText,0.126,Validate the Application,21,4.433
+Validate the fileReader tests reading the cities sample,0.009,Validate the fileReader,9,2.566
+Validate the fileReader tests streamFileLineByLineAsync,0.008,Validate the fileReader,9,2.566
+Validate the fileReader tests streamFileLineByLineAsync 2,0.004,Validate the fileReader,9,2.566
+Validate the writer tests writing data and reading it back.,0.04,Validate the writer,4,0.237
+Validate the writer tests writing data and reading it back. gz,0.038,Validate the writer,4,0.237
+Validate the writer tests writeToFile,0.003,Validate the writer,4,0.237
+Validate the writer tests writeToFile zip,0.002,Validate the writer,4,0.237
+Validate the wordListCompiler test reading and normalizing a file,0.013,Validate the wordListCompiler,10,3.402
+Validate the wordListCompiler test compiling to a file without split,0.011,Validate the wordListCompiler,10,3.402
+Validate the wordListCompiler test reading and normalizing to a trie file,0.022,Validate the wordListCompiler,10,3.402
+Validate the wordListCompiler test reading and normalizing to a trie gz file,0.021,Validate the wordListCompiler,10,3.402
+Validate the wordListCompiler test a simple hunspell dictionary depth 0,0.012,Validate the wordListCompiler,10,3.402
+Validate the wordListCompiler test a simple hunspell dictionary depth 1,0.003,Validate the wordListCompiler,10,3.402
+Validate the application test app compile-trie,0.009,Validate the application,12,0.262
+Validate the application test app compile-trie compress,0.006,Validate the application,12,0.262
+Validate the application test app compile-trie -o,0.004,Validate the application,12,0.262
+Validate the application test app compile,0.005,Validate the application,12,0.262
+Validate the application test app compile-trie max depth,0.003,Validate the application,12,0.262
+Validate the application test app compile-trie compound,0.003,Validate the application,12,0.262
+Validate the application test app compile compound,0.002,Validate the application,12,0.262
+Validate the application test app compile with compression,0.002,Validate the application,12,0.262
+Validate the application test app compile merge,0.006,Validate the application,12,0.262
+Import/Export tests serialize / deserialize small sample,0.007,Import/Export,6,3.313
+Import/Export tests serialize / deserialize specialCharacters,0.002,Import/Export,6,3.313
+Import/Export tests serialize / deserialize,0.012,Import/Export,6,3.313
+Import/Export tests serialize / deserialize,0.005,Import/Export,6,3.313
+Import/Export tests serialize / deserialize small sample,0.005,Import/Export,6,0.108
+Import/Export tests serialize / deserialize specialCharacters,0.003,Import/Export,6,0.108
+Import/Export tests serialize / deserialize,0.012,Import/Export,6,0.108
+Import/Export tests serialize / deserialize,0.009,Import/Export,6,0.108
+Import/Export tests serialize / deserialize,0.007,Import/Export,2,0.089
+Import/Export tests serialize / deserialize,0.003,Import/Export,2,0.089
+Import/Export tests serialize / deserialize,0.004,Import/Export,2,0.061
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.061
+Import/Export tests serialize / deserialize,0.007,Import/Export,1,0.074
+Import/Export tests serialize / deserialize,0.01,Import/Export,1,0.069
+Validate the Application Tests checkText,0.136,Validate the Application,21,4.435
+Validate the fileReader tests reading the cities sample,0.008,Validate the fileReader,9,2.502
+Validate the fileReader tests streamFileLineByLineAsync,0.009,Validate the fileReader,9,2.502
+Validate the fileReader tests streamFileLineByLineAsync 2,0.005,Validate the fileReader,9,2.502
+Validate the writer tests writing data and reading it back.,0.04,Validate the writer,4,0.248
+Validate the writer tests writing data and reading it back. gz,0.043,Validate the writer,4,0.248
+Validate the writer tests writeToFile,0.004,Validate the writer,4,0.248
+Validate the writer tests writeToFile zip,0.003,Validate the writer,4,0.248
+Validate the wordListCompiler test reading and normalizing a file,0.011,Validate the wordListCompiler,10,3.289
+Validate the wordListCompiler test compiling to a file without split,0.012,Validate the wordListCompiler,10,3.289
+Validate the wordListCompiler test reading and normalizing to a trie file,0.021,Validate the wordListCompiler,10,3.289
+Validate the wordListCompiler test reading and normalizing to a trie gz file,0.021,Validate the wordListCompiler,10,3.289
+Validate the wordListCompiler test a simple hunspell dictionary depth 0,0.014,Validate the wordListCompiler,10,3.289
+Validate the wordListCompiler test a simple hunspell dictionary depth 1,0.004,Validate the wordListCompiler,10,3.289
+Validate the application test app compile-trie,0.01,Validate the application,12,0.268
+Validate the application test app compile-trie compress,0.004,Validate the application,12,0.268
+Validate the application test app compile-trie -o,0.008,Validate the application,12,0.268
+Validate the application test app compile,0.002,Validate the application,12,0.268
+Validate the application test app compile-trie max depth,0.003,Validate the application,12,0.268
+Validate the application test app compile-trie compound,0.004,Validate the application,12,0.268
+Validate the application test app compile compound,0.002,Validate the application,12,0.268
+Validate the application test app compile with compression,0.002,Validate the application,12,0.268
+Validate the application test app compile merge,0.006,Validate the application,12,0.268
+Import/Export tests serialize / deserialize small sample,0.006,Import/Export,6,3.293
+Import/Export tests serialize / deserialize specialCharacters,0.002,Import/Export,6,3.293
+Import/Export tests serialize / deserialize,0.01,Import/Export,6,3.293
+Import/Export tests serialize / deserialize,0.003,Import/Export,6,3.293
+Import/Export tests serialize / deserialize small sample,0.003,Import/Export,6,0.097
+Import/Export tests serialize / deserialize specialCharacters,0.001,Import/Export,6,0.097
+Import/Export tests serialize / deserialize,0.01,Import/Export,6,0.097
+Import/Export tests serialize / deserialize,0.005,Import/Export,6,0.097
+Import/Export tests serialize / deserialize,0.005,Import/Export,2,0.086
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.086
+Import/Export tests serialize / deserialize,0.003,Import/Export,2,0.059
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.059
+Import/Export tests serialize / deserialize,0.008,Import/Export,1,0.072
+Import/Export tests serialize / deserialize,0.007,Import/Export,1,0.06
+Validate the Application Tests checkText,0.136,Validate the Application,21,4.408
+Validate the fileReader tests reading the cities sample,0.008,Validate the fileReader,9,2.557
+Validate the fileReader tests streamFileLineByLineAsync,0.014,Validate the fileReader,9,2.557
+Validate the fileReader tests streamFileLineByLineAsync 2,0.005,Validate the fileReader,9,2.557
+Validate the writer tests writing data and reading it back.,0.038,Validate the writer,4,0.244
+Validate the writer tests writing data and reading it back. gz,0.041,Validate the writer,4,0.244
+Validate the writer tests writeToFile,0.003,Validate the writer,4,0.244
+Validate the writer tests writeToFile zip,0.003,Validate the writer,4,0.244
+Validate the wordListCompiler test reading and normalizing a file,0.012,Validate the wordListCompiler,10,3.284
+Validate the wordListCompiler test compiling to a file without split,0.012,Validate the wordListCompiler,10,3.284
+Validate the wordListCompiler test reading and normalizing to a trie file,0.025,Validate the wordListCompiler,10,3.284
+Validate the wordListCompiler test reading and normalizing to a trie gz file,0.023,Validate the wordListCompiler,10,3.284
+Validate the wordListCompiler test a simple hunspell dictionary depth 0,0.014,Validate the wordListCompiler,10,3.284
+Validate the wordListCompiler test a simple hunspell dictionary depth 1,0.003,Validate the wordListCompiler,10,3.284
+Validate the application test app compile-trie,0.009,Validate the application,12,0.241
+Validate the application test app compile-trie compress,0.004,Validate the application,12,0.241
+Validate the application test app compile-trie -o,0.007,Validate the application,12,0.241
+Validate the application test app compile,0.002,Validate the application,12,0.241
+Validate the application test app compile-trie max depth,0.004,Validate the application,12,0.241
+Validate the application test app compile-trie compound,0.003,Validate the application,12,0.241
+Validate the application test app compile compound,0.002,Validate the application,12,0.241
+Validate the application test app compile with compression,0.002,Validate the application,12,0.241
+Validate the application test app compile merge,0.007,Validate the application,12,0.241
+Import/Export tests serialize / deserialize small sample,0.01,Import/Export,6,3.303
+Import/Export tests serialize / deserialize specialCharacters,0.002,Import/Export,6,3.303
+Import/Export tests serialize / deserialize,0.011,Import/Export,6,3.303
+Import/Export tests serialize / deserialize,0.003,Import/Export,6,3.303
+Import/Export tests serialize / deserialize small sample,0.002,Import/Export,6,0.101
+Import/Export tests serialize / deserialize specialCharacters,0.002,Import/Export,6,0.101
+Import/Export tests serialize / deserialize,0.01,Import/Export,6,0.101
+Import/Export tests serialize / deserialize,0.006,Import/Export,6,0.101
+Import/Export tests serialize / deserialize,0.006,Import/Export,2,0.084
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.084
+Import/Export tests serialize / deserialize,0.004,Import/Export,2,0.06
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.06
+Import/Export tests serialize / deserialize,0.013,Import/Export,1,0.094
+Import/Export tests serialize / deserialize,0.005,Import/Export,1,0.076
+Validate the Application Tests checkText,0.129,Validate the Application,21,4.325
+Validate the fileReader tests reading the cities sample,0.007,Validate the fileReader,9,2.468
+Validate the fileReader tests streamFileLineByLineAsync,0.014,Validate the fileReader,9,2.468
+Validate the fileReader tests streamFileLineByLineAsync 2,0.005,Validate the fileReader,9,2.468
+Validate the writer tests writing data and reading it back.,0.039,Validate the writer,4,0.256
+Validate the writer tests writing data and reading it back. gz,0.049,Validate the writer,4,0.256
+Validate the writer tests writeToFile,0.004,Validate the writer,4,0.256
+Validate the writer tests writeToFile zip,0.004,Validate the writer,4,0.256
+Validate the wordListCompiler test reading and normalizing a file,0.011,Validate the wordListCompiler,10,3.285
+Validate the wordListCompiler test compiling to a file without split,0.01,Validate the wordListCompiler,10,3.285
+Validate the wordListCompiler test reading and normalizing to a trie file,0.021,Validate the wordListCompiler,10,3.285
+Validate the wordListCompiler test reading and normalizing to a trie gz file,0.02,Validate the wordListCompiler,10,3.285
+Validate the wordListCompiler test a simple hunspell dictionary depth 0,0.012,Validate the wordListCompiler,10,3.285
+Validate the wordListCompiler test a simple hunspell dictionary depth 1,0.003,Validate the wordListCompiler,10,3.285
+Validate the application test app compile-trie,0.009,Validate the application,12,0.258
+Validate the application test app compile-trie compress,0.005,Validate the application,12,0.258
+Validate the application test app compile-trie -o,0.01,Validate the application,12,0.258
+Validate the application test app compile,0.003,Validate the application,12,0.258
+Validate the application test app compile-trie max depth,0.005,Validate the application,12,0.258
+Validate the application test app compile-trie compound,0.005,Validate the application,12,0.258
+Validate the application test app compile compound,0.002,Validate the application,12,0.258
+Validate the application test app compile with compression,0.002,Validate the application,12,0.258
+Validate the application test app compile merge,0.008,Validate the application,12,0.258
+Import/Export tests serialize / deserialize small sample,0.007,Import/Export,6,3.299
+Import/Export tests serialize / deserialize specialCharacters,0.002,Import/Export,6,3.299
+Import/Export tests serialize / deserialize,0.01,Import/Export,6,3.299
+Import/Export tests serialize / deserialize,0.003,Import/Export,6,3.299
+Import/Export tests serialize / deserialize small sample,0.002,Import/Export,6,0.105
+Import/Export tests serialize / deserialize specialCharacters,0.002,Import/Export,6,0.105
+Import/Export tests serialize / deserialize,0.01,Import/Export,6,0.105
+Import/Export tests serialize / deserialize,0.006,Import/Export,6,0.105
+Import/Export tests serialize / deserialize,0.006,Import/Export,2,0.093
+Import/Export tests serialize / deserialize,0.005,Import/Export,2,0.093
+Import/Export tests serialize / deserialize,0.004,Import/Export,2,0.062
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.062
+Import/Export tests serialize / deserialize,0.007,Import/Export,1,0.079
+Import/Export tests serialize / deserialize,0.009,Import/Export,1,0.09
+Validate the Application Tests checkText,0.13,Validate the Application,21,4.402
+Validate the fileReader tests reading the cities sample,0.007,Validate the fileReader,9,2.527
+Validate the fileReader tests streamFileLineByLineAsync,0.012,Validate the fileReader,9,2.527
+Validate the fileReader tests streamFileLineByLineAsync 2,0.004,Validate the fileReader,9,2.527
+Validate the writer tests writing data and reading it back.,0.039,Validate the writer,4,0.241
+Validate the writer tests writing data and reading it back. gz,0.041,Validate the writer,4,0.241
+Validate the writer tests writeToFile,0.002,Validate the writer,4,0.241
+Validate the writer tests writeToFile zip,0.003,Validate the writer,4,0.241
+Validate the wordListCompiler test reading and normalizing a file,0.012,Validate the wordListCompiler,10,3.37
+Validate the wordListCompiler test compiling to a file without split,0.011,Validate the wordListCompiler,10,3.37
+Validate the wordListCompiler test reading and normalizing to a trie file,0.023,Validate the wordListCompiler,10,3.37
+Validate the wordListCompiler test reading and normalizing to a trie gz file,0.022,Validate the wordListCompiler,10,3.37
+Validate the wordListCompiler test a simple hunspell dictionary depth 0,0.012,Validate the wordListCompiler,10,3.37
+Validate the wordListCompiler test a simple hunspell dictionary depth 1,0.004,Validate the wordListCompiler,10,3.37
+Validate the application test app compile-trie,0.011,Validate the application,12,0.266
+Validate the application test app compile-trie compress,0.005,Validate the application,12,0.266
+Validate the application test app compile-trie -o,0.008,Validate the application,12,0.266
+Validate the application test app compile,0.002,Validate the application,12,0.266
+Validate the application test app compile-trie max depth,0.004,Validate the application,12,0.266
+Validate the application test app compile-trie compound,0.003,Validate the application,12,0.266
+Validate the application test app compile compound,0.002,Validate the application,12,0.266
+Validate the application test app compile with compression,0.002,Validate the application,12,0.266
+Validate the application test app compile merge,0.007,Validate the application,12,0.266
+Import/Export tests serialize / deserialize small sample,0.007,Import/Export,6,3.32
+Import/Export tests serialize / deserialize specialCharacters,0.002,Import/Export,6,3.32
+Import/Export tests serialize / deserialize,0.011,Import/Export,6,3.32
+Import/Export tests serialize / deserialize,0.004,Import/Export,6,3.32
+Import/Export tests serialize / deserialize small sample,0.003,Import/Export,6,0.11
+Import/Export tests serialize / deserialize specialCharacters,0.002,Import/Export,6,0.11
+Import/Export tests serialize / deserialize,0.01,Import/Export,6,0.11
+Import/Export tests serialize / deserialize,0.007,Import/Export,6,0.11
+Import/Export tests serialize / deserialize,0.007,Import/Export,2,0.096
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.096
+Import/Export tests serialize / deserialize,0.004,Import/Export,2,0.062
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.062
+Import/Export tests serialize / deserialize,0.007,Import/Export,1,0.071
+Import/Export tests serialize / deserialize,0.006,Import/Export,1,0.064
+Validate the Application Tests checkText,0.134,Validate the Application,21,4.434
+Validate the fileReader tests reading the cities sample,0.007,Validate the fileReader,9,2.62
+Validate the fileReader tests streamFileLineByLineAsync,0.011,Validate the fileReader,9,2.62
+Validate the fileReader tests streamFileLineByLineAsync 2,0.004,Validate the fileReader,9,2.62
+Validate the writer tests writing data and reading it back.,0.037,Validate the writer,4,0.253
+Validate the writer tests writing data and reading it back. gz,0.044,Validate the writer,4,0.253
+Validate the writer tests writeToFile,0.003,Validate the writer,4,0.253
+Validate the writer tests writeToFile zip,0.003,Validate the writer,4,0.253
+Validate the wordListCompiler test reading and normalizing a file,0.011,Validate the wordListCompiler,10,3.407
+Validate the wordListCompiler test compiling to a file without split,0.011,Validate the wordListCompiler,10,3.407
+Validate the wordListCompiler test reading and normalizing to a trie file,0.019,Validate the wordListCompiler,10,3.407
+Validate the wordListCompiler test reading and normalizing to a trie gz file,0.021,Validate the wordListCompiler,10,3.407
+Validate the wordListCompiler test a simple hunspell dictionary depth 0,0.013,Validate the wordListCompiler,10,3.407
+Validate the wordListCompiler test a simple hunspell dictionary depth 1,0.004,Validate the wordListCompiler,10,3.407
+Validate the application test app compile-trie,0.009,Validate the application,12,0.254
+Validate the application test app compile-trie compress,0.009,Validate the application,12,0.254
+Validate the application test app compile-trie -o,0.003,Validate the application,12,0.254
+Validate the application test app compile,0.002,Validate the application,12,0.254
+Validate the application test app compile-trie max depth,0.003,Validate the application,12,0.254
+Validate the application test app compile-trie compound,0.004,Validate the application,12,0.254
+Validate the application test app compile compound,0.002,Validate the application,12,0.254
+Validate the application test app compile with compression,0.002,Validate the application,12,0.254
+Validate the application test app compile merge,0.007,Validate the application,12,0.254
+Import/Export tests serialize / deserialize small sample,0.007,Import/Export,6,3.325
+Import/Export tests serialize / deserialize specialCharacters,0.002,Import/Export,6,3.325
+Import/Export tests serialize / deserialize,0.011,Import/Export,6,3.325
+Import/Export tests serialize / deserialize,0.004,Import/Export,6,3.325
+Import/Export tests serialize / deserialize small sample,0.003,Import/Export,6,0.108
+Import/Export tests serialize / deserialize specialCharacters,0.001,Import/Export,6,0.108
+Import/Export tests serialize / deserialize,0.009,Import/Export,6,0.108
+Import/Export tests serialize / deserialize,0.007,Import/Export,6,0.108
+Import/Export tests serialize / deserialize,0.006,Import/Export,2,0.083
+Import/Export tests serialize / deserialize,0.004,Import/Export,2,0.083
+Import/Export tests serialize / deserialize,0.004,Import/Export,2,0.062
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.062
+Import/Export tests serialize / deserialize,0.012,Import/Export,1,0.103
+Import/Export tests serialize / deserialize,0.005,Import/Export,1,0.059
+Validate the Application Tests checkText,0.136,Validate the Application,21,4.423
+Validate the fileReader tests reading the cities sample,0.008,Validate the fileReader,9,2.585
+Validate the fileReader tests streamFileLineByLineAsync,0.016,Validate the fileReader,9,2.585
+Validate the fileReader tests streamFileLineByLineAsync 2,0.003,Validate the fileReader,9,2.585
+Validate the writer tests writing data and reading it back.,0.037,Validate the writer,4,0.236
+Validate the writer tests writing data and reading it back. gz,0.047,Validate the writer,4,0.236
+Validate the writer tests writeToFile,0.003,Validate the writer,4,0.236
+Validate the writer tests writeToFile zip,0.003,Validate the writer,4,0.236
+Validate the wordListCompiler test reading and normalizing a file,0.012,Validate the wordListCompiler,10,3.447
+Validate the wordListCompiler test compiling to a file without split,0.011,Validate the wordListCompiler,10,3.447
+Validate the wordListCompiler test reading and normalizing to a trie file,0.023,Validate the wordListCompiler,10,3.447
+Validate the wordListCompiler test reading and normalizing to a trie gz file,0.022,Validate the wordListCompiler,10,3.447
+Validate the wordListCompiler test a simple hunspell dictionary depth 0,0.012,Validate the wordListCompiler,10,3.447
+Validate the wordListCompiler test a simple hunspell dictionary depth 1,0.003,Validate the wordListCompiler,10,3.447
+Validate the application test app compile-trie,0.009,Validate the application,12,0.256
+Validate the application test app compile-trie compress,0.005,Validate the application,12,0.256
+Validate the application test app compile-trie -o,0.007,Validate the application,12,0.256
+Validate the application test app compile,0.002,Validate the application,12,0.256
+Validate the application test app compile-trie max depth,0.004,Validate the application,12,0.256
+Validate the application test app compile-trie compound,0.003,Validate the application,12,0.256
+Validate the application test app compile compound,0.002,Validate the application,12,0.256
+Validate the application test app compile with compression,0.002,Validate the application,12,0.256
+Validate the application test app compile merge,0.007,Validate the application,12,0.256
+Import/Export tests serialize / deserialize small sample,0.007,Import/Export,6,3.337
+Import/Export tests serialize / deserialize specialCharacters,0.002,Import/Export,6,3.337
+Import/Export tests serialize / deserialize,0.013,Import/Export,6,3.337
+Import/Export tests serialize / deserialize,0.005,Import/Export,6,3.337
+Import/Export tests serialize / deserialize small sample,0.002,Import/Export,6,0.101
+Import/Export tests serialize / deserialize specialCharacters,0.001,Import/Export,6,0.101
+Import/Export tests serialize / deserialize,0.008,Import/Export,6,0.101
+Import/Export tests serialize / deserialize,0.006,Import/Export,6,0.101
+Import/Export tests serialize / deserialize,0.007,Import/Export,2,0.081
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.081
+Import/Export tests serialize / deserialize,0.004,Import/Export,2,0.061
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.061
+Import/Export tests serialize / deserialize,0.01,Import/Export,1,0.078
+Import/Export tests serialize / deserialize,0.008,Import/Export,1,0.09
+Validate the Application Tests checkText,0.137,Validate the Application,21,4.43
+Validate the fileReader tests reading the cities sample,0.007,Validate the fileReader,9,2.57
+Validate the fileReader tests streamFileLineByLineAsync,0.01,Validate the fileReader,9,2.57
+Validate the fileReader tests streamFileLineByLineAsync 2,0.003,Validate the fileReader,9,2.57
+Validate the writer tests writing data and reading it back.,0.031,Validate the writer,4,0.236
+Validate the writer tests writing data and reading it back. gz,0.045,Validate the writer,4,0.236
+Validate the writer tests writeToFile,0.004,Validate the writer,4,0.236
+Validate the writer tests writeToFile zip,0.003,Validate the writer,4,0.236
+Validate the wordListCompiler test reading and normalizing a file,0.012,Validate the wordListCompiler,10,3.324
+Validate the wordListCompiler test compiling to a file without split,0.013,Validate the wordListCompiler,10,3.324
+Validate the wordListCompiler test reading and normalizing to a trie file,0.023,Validate the wordListCompiler,10,3.324
+Validate the wordListCompiler test reading and normalizing to a trie gz file,0.023,Validate the wordListCompiler,10,3.324
+Validate the wordListCompiler test a simple hunspell dictionary depth 0,0.014,Validate the wordListCompiler,10,3.324
+Validate the wordListCompiler test a simple hunspell dictionary depth 1,0.004,Validate the wordListCompiler,10,3.324
+Validate the application test app compile-trie,0.009,Validate the application,12,0.267
+Validate the application test app compile-trie compress,0.005,Validate the application,12,0.267
+Validate the application test app compile-trie -o,0.003,Validate the application,12,0.267
+Validate the application test app compile,0.007,Validate the application,12,0.267
+Validate the application test app compile-trie max depth,0.005,Validate the application,12,0.267
+Validate the application test app compile-trie compound,0.004,Validate the application,12,0.267
+Validate the application test app compile compound,0.002,Validate the application,12,0.267
+Validate the application test app compile with compression,0.002,Validate the application,12,0.267
+Validate the application test app compile merge,0.007,Validate the application,12,0.267
+Import/Export tests serialize / deserialize small sample,0.007,Import/Export,6,3.283
+Import/Export tests serialize / deserialize specialCharacters,0.003,Import/Export,6,3.283
+Import/Export tests serialize / deserialize,0.015,Import/Export,6,3.283
+Import/Export tests serialize / deserialize,0.003,Import/Export,6,3.283
+Import/Export tests serialize / deserialize small sample,0.002,Import/Export,6,0.099
+Import/Export tests serialize / deserialize specialCharacters,0.002,Import/Export,6,0.099
+Import/Export tests serialize / deserialize,0.009,Import/Export,6,0.099
+Import/Export tests serialize / deserialize,0.006,Import/Export,6,0.099
+Import/Export tests serialize / deserialize,0.005,Import/Export,2,0.08
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.08
+Import/Export tests serialize / deserialize,0.004,Import/Export,2,0.057
+Import/Export tests serialize / deserialize,0.001,Import/Export,2,0.057
+Import/Export tests serialize / deserialize,0.011,Import/Export,1,0.085
+Import/Export tests serialize / deserialize,0.006,Import/Export,1,0.072
+Validate the Application Tests checkText,0.131,Validate the Application,21,4.395
+Validate the fileReader tests reading the cities sample,0.006,Validate the fileReader,9,2.675
+Validate the fileReader tests streamFileLineByLineAsync,0.009,Validate the fileReader,9,2.675
+Validate the fileReader tests streamFileLineByLineAsync 2,0.003,Validate the fileReader,9,2.675
+Validate the writer tests writing data and reading it back.,0.039,Validate the writer,4,0.249
+Validate the writer tests writing data and reading it back. gz,0.046,Validate the writer,4,0.249
+Validate the writer tests writeToFile,0.003,Validate the writer,4,0.249
+Validate the writer tests writeToFile zip,0.003,Validate the writer,4,0.249
+Validate the wordListCompiler test reading and normalizing a file,0.012,Validate the wordListCompiler,10,3.287
+Validate the wordListCompiler test compiling to a file without split,0.01,Validate the wordListCompiler,10,3.287
+Validate the wordListCompiler test reading and normalizing to a trie file,0.02,Validate the wordListCompiler,10,3.287
+Validate the wordListCompiler test reading and normalizing to a trie gz file,0.02,Validate the wordListCompiler,10,3.287
+Validate the wordListCompiler test a simple hunspell dictionary depth 0,0.012,Validate the wordListCompiler,10,3.287
+Validate the wordListCompiler test a simple hunspell dictionary depth 1,0.003,Validate the wordListCompiler,10,3.287
+Validate the application test app compile-trie,0.008,Validate the application,12,0.256
+Validate the application test app compile-trie compress,0.006,Validate the application,12,0.256
+Validate the application test app compile-trie -o,0.007,Validate the application,12,0.256
+Validate the application test app compile,0.002,Validate the application,12,0.256
+Validate the application test app compile-trie max depth,0.003,Validate the application,12,0.256
+Validate the application test app compile-trie compound,0.004,Validate the application,12,0.256
+Validate the application test app compile compound,0.002,Validate the application,12,0.256
+Validate the application test app compile with compression,0.002,Validate the application,12,0.256
+Validate the application test app compile merge,0.007,Validate the application,12,0.256
+Import/Export tests serialize / deserialize small sample,0.007,Import/Export,6,3.404
+Import/Export tests serialize / deserialize specialCharacters,0.002,Import/Export,6,3.404
+Import/Export tests serialize / deserialize,0.015,Import/Export,6,3.404
+Import/Export tests serialize / deserialize,0.004,Import/Export,6,3.404
+Import/Export tests serialize / deserialize small sample,0.003,Import/Export,6,0.102
+Import/Export tests serialize / deserialize specialCharacters,0.001,Import/Export,6,0.102
+Import/Export tests serialize / deserialize,0.009,Import/Export,6,0.102
+Import/Export tests serialize / deserialize,0.006,Import/Export,6,0.102
+Import/Export tests serialize / deserialize,0.007,Import/Export,2,0.09
+Import/Export tests serialize / deserialize,0.003,Import/Export,2,0.09
+Import/Export tests serialize / deserialize,0.004,Import/Export,2,0.059
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.059
+Import/Export tests serialize / deserialize,0.009,Import/Export,1,0.102
+Import/Export tests serialize / deserialize,0.005,Import/Export,1,0.051
+Validate the Application Tests checkText,0.133,Validate the Application,21,4.382
+Validate the fileReader tests reading the cities sample,0.007,Validate the fileReader,9,2.561
+Validate the fileReader tests streamFileLineByLineAsync,0.008,Validate the fileReader,9,2.561
+Validate the fileReader tests streamFileLineByLineAsync 2,0.004,Validate the fileReader,9,2.561
+Validate the writer tests writing data and reading it back.,0.039,Validate the writer,4,0.256
+Validate the writer tests writing data and reading it back. gz,0.048,Validate the writer,4,0.256
+Validate the writer tests writeToFile,0.003,Validate the writer,4,0.256
+Validate the writer tests writeToFile zip,0.002,Validate the writer,4,0.256
+Validate the wordListCompiler test reading and normalizing a file,0.012,Validate the wordListCompiler,10,3.316
+Validate the wordListCompiler test compiling to a file without split,0.011,Validate the wordListCompiler,10,3.316
+Validate the wordListCompiler test reading and normalizing to a trie file,0.021,Validate the wordListCompiler,10,3.316
+Validate the wordListCompiler test reading and normalizing to a trie gz file,0.019,Validate the wordListCompiler,10,3.316
+Validate the wordListCompiler test a simple hunspell dictionary depth 0,0.012,Validate the wordListCompiler,10,3.316
+Validate the wordListCompiler test a simple hunspell dictionary depth 1,0.003,Validate the wordListCompiler,10,3.316
+Validate the application test app compile-trie,0.008,Validate the application,12,0.24
+Validate the application test app compile-trie compress,0.005,Validate the application,12,0.24
+Validate the application test app compile-trie -o,0.007,Validate the application,12,0.24
+Validate the application test app compile,0.002,Validate the application,12,0.24
+Validate the application test app compile-trie max depth,0.004,Validate the application,12,0.24
+Validate the application test app compile-trie compound,0.003,Validate the application,12,0.24
+Validate the application test app compile compound,0.002,Validate the application,12,0.24
+Validate the application test app compile with compression,0.002,Validate the application,12,0.24
+Validate the application test app compile merge,0.007,Validate the application,12,0.24
+Import/Export tests serialize / deserialize small sample,0.007,Import/Export,6,3.397
+Import/Export tests serialize / deserialize specialCharacters,0.002,Import/Export,6,3.397
+Import/Export tests serialize / deserialize,0.011,Import/Export,6,3.397
+Import/Export tests serialize / deserialize,0.003,Import/Export,6,3.397
+Import/Export tests serialize / deserialize small sample,0.003,Import/Export,6,0.107
+Import/Export tests serialize / deserialize specialCharacters,0.001,Import/Export,6,0.107
+Import/Export tests serialize / deserialize,0.011,Import/Export,6,0.107
+Import/Export tests serialize / deserialize,0.01,Import/Export,6,0.107
+Import/Export tests serialize / deserialize,0.005,Import/Export,2,0.08
+Import/Export tests serialize / deserialize,0.003,Import/Export,2,0.08
+Import/Export tests serialize / deserialize,0.004,Import/Export,2,0.073
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.073
+Import/Export tests serialize / deserialize,0.011,Import/Export,1,0.083
+Import/Export tests serialize / deserialize,0.006,Import/Export,1,0.079
+Validate the Application Tests checkText,0.132,Validate the Application,21,4.471
+Validate the fileReader tests reading the cities sample,0.008,Validate the fileReader,9,2.55
+Validate the fileReader tests streamFileLineByLineAsync,0.013,Validate the fileReader,9,2.55
+Validate the fileReader tests streamFileLineByLineAsync 2,0.003,Validate the fileReader,9,2.55
+Validate the writer tests writing data and reading it back.,0.034,Validate the writer,4,0.239
+Validate the writer tests writing data and reading it back. gz,0.045,Validate the writer,4,0.239
+Validate the writer tests writeToFile,0.002,Validate the writer,4,0.239
+Validate the writer tests writeToFile zip,0.003,Validate the writer,4,0.239
+Validate the wordListCompiler test reading and normalizing a file,0.014,Validate the wordListCompiler,10,3.391
+Validate the wordListCompiler test compiling to a file without split,0.011,Validate the wordListCompiler,10,3.391
+Validate the wordListCompiler test reading and normalizing to a trie file,0.021,Validate the wordListCompiler,10,3.391
+Validate the wordListCompiler test reading and normalizing to a trie gz file,0.02,Validate the wordListCompiler,10,3.391
+Validate the wordListCompiler test a simple hunspell dictionary depth 0,0.013,Validate the wordListCompiler,10,3.391
+Validate the wordListCompiler test a simple hunspell dictionary depth 1,0.003,Validate the wordListCompiler,10,3.391
+Validate the application test app compile-trie,0.009,Validate the application,12,0.274
+Validate the application test app compile-trie compress,0.005,Validate the application,12,0.274
+Validate the application test app compile-trie -o,0.007,Validate the application,12,0.274
+Validate the application test app compile,0.003,Validate the application,12,0.274
+Validate the application test app compile-trie max depth,0.003,Validate the application,12,0.274
+Validate the application test app compile-trie compound,0.004,Validate the application,12,0.274
+Validate the application test app compile compound,0.002,Validate the application,12,0.274
+Validate the application test app compile with compression,0.002,Validate the application,12,0.274
+Validate the application test app compile merge,0.007,Validate the application,12,0.274
+Import/Export tests serialize / deserialize small sample,0.007,Import/Export,6,3.324
+Import/Export tests serialize / deserialize specialCharacters,0.002,Import/Export,6,3.324
+Import/Export tests serialize / deserialize,0.012,Import/Export,6,3.324
+Import/Export tests serialize / deserialize,0.004,Import/Export,6,3.324
+Import/Export tests serialize / deserialize small sample,0.002,Import/Export,6,0.097
+Import/Export tests serialize / deserialize specialCharacters,0.001,Import/Export,6,0.097
+Import/Export tests serialize / deserialize,0.008,Import/Export,6,0.097
+Import/Export tests serialize / deserialize,0.008,Import/Export,6,0.097
+Import/Export tests serialize / deserialize,0.007,Import/Export,2,0.083
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.083
+Import/Export tests serialize / deserialize,0.003,Import/Export,2,0.059
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.059
+Import/Export tests serialize / deserialize,0.007,Import/Export,1,0.069
+Import/Export tests serialize / deserialize,0.009,Import/Export,1,0.067
+Validate the Application Tests checkText,0.131,Validate the Application,21,4.421
+Validate the fileReader tests reading the cities sample,0.009,Validate the fileReader,9,2.545
+Validate the fileReader tests streamFileLineByLineAsync,0.012,Validate the fileReader,9,2.545
+Validate the fileReader tests streamFileLineByLineAsync 2,0.004,Validate the fileReader,9,2.545
+Validate the writer tests writing data and reading it back.,0.042,Validate the writer,4,0.253
+Validate the writer tests writing data and reading it back. gz,0.04,Validate the writer,4,0.253
+Validate the writer tests writeToFile,0.002,Validate the writer,4,0.253
+Validate the writer tests writeToFile zip,0.003,Validate the writer,4,0.253
+Validate the wordListCompiler test reading and normalizing a file,0.012,Validate the wordListCompiler,10,3.346
+Validate the wordListCompiler test compiling to a file without split,0.011,Validate the wordListCompiler,10,3.346
+Validate the wordListCompiler test reading and normalizing to a trie file,0.021,Validate the wordListCompiler,10,3.346
+Validate the wordListCompiler test reading and normalizing to a trie gz file,0.021,Validate the wordListCompiler,10,3.346
+Validate the wordListCompiler test a simple hunspell dictionary depth 0,0.013,Validate the wordListCompiler,10,3.346
+Validate the wordListCompiler test a simple hunspell dictionary depth 1,0.003,Validate the wordListCompiler,10,3.346
+Validate the application test app compile-trie,0.01,Validate the application,12,0.266
+Validate the application test app compile-trie compress,0.005,Validate the application,12,0.266
+Validate the application test app compile-trie -o,0.007,Validate the application,12,0.266
+Validate the application test app compile,0.002,Validate the application,12,0.266
+Validate the application test app compile-trie max depth,0.004,Validate the application,12,0.266
+Validate the application test app compile-trie compound,0.003,Validate the application,12,0.266
+Validate the application test app compile compound,0.002,Validate the application,12,0.266
+Validate the application test app compile with compression,0.002,Validate the application,12,0.266
+Validate the application test app compile merge,0.007,Validate the application,12,0.266
+Import/Export tests serialize / deserialize small sample,0.008,Import/Export,6,3.291
+Import/Export tests serialize / deserialize specialCharacters,0.002,Import/Export,6,3.291
+Import/Export tests serialize / deserialize,0.012,Import/Export,6,3.291
+Import/Export tests serialize / deserialize,0.003,Import/Export,6,3.291
+Import/Export tests serialize / deserialize small sample,0.004,Import/Export,6,0.126
+Import/Export tests serialize / deserialize specialCharacters,0.001,Import/Export,6,0.126
+Import/Export tests serialize / deserialize,0.014,Import/Export,6,0.126
+Import/Export tests serialize / deserialize,0.004,Import/Export,6,0.126
+Import/Export tests serialize / deserialize,0.005,Import/Export,2,0.083
+Import/Export tests serialize / deserialize,0.003,Import/Export,2,0.083
+Import/Export tests serialize / deserialize,0.004,Import/Export,2,0.065
+Import/Export tests serialize / deserialize,0.003,Import/Export,2,0.065
+Import/Export tests serialize / deserialize,0.006,Import/Export,1,0.07
+Import/Export tests serialize / deserialize,0.007,Import/Export,1,0.059
+Validate the Application Tests checkText,0.129,Validate the Application,21,4.473
+Validate the fileReader tests reading the cities sample,0.007,Validate the fileReader,9,2.571
+Validate the fileReader tests streamFileLineByLineAsync,0.014,Validate the fileReader,9,2.571
+Validate the fileReader tests streamFileLineByLineAsync 2,0.003,Validate the fileReader,9,2.571
+Validate the writer tests writing data and reading it back.,0.048,Validate the writer,4,0.321
+Validate the writer tests writing data and reading it back. gz,0.052,Validate the writer,4,0.321
+Validate the writer tests writeToFile,0.004,Validate the writer,4,0.321
+Validate the writer tests writeToFile zip,0.004,Validate the writer,4,0.321
+Validate the wordListCompiler test reading and normalizing a file,0.012,Validate the wordListCompiler,10,3.26
+Validate the wordListCompiler test compiling to a file without split,0.011,Validate the wordListCompiler,10,3.26
+Validate the wordListCompiler test reading and normalizing to a trie file,0.021,Validate the wordListCompiler,10,3.26
+Validate the wordListCompiler test reading and normalizing to a trie gz file,0.022,Validate the wordListCompiler,10,3.26
+Validate the wordListCompiler test a simple hunspell dictionary depth 0,0.014,Validate the wordListCompiler,10,3.26
+Validate the wordListCompiler test a simple hunspell dictionary depth 1,0.004,Validate the wordListCompiler,10,3.26
+Validate the application test app compile-trie,0.008,Validate the application,12,0.261
+Validate the application test app compile-trie compress,0.005,Validate the application,12,0.261
+Validate the application test app compile-trie -o,0.008,Validate the application,12,0.261
+Validate the application test app compile,0.002,Validate the application,12,0.261
+Validate the application test app compile-trie max depth,0.004,Validate the application,12,0.261
+Validate the application test app compile-trie compound,0.004,Validate the application,12,0.261
+Validate the application test app compile compound,0.002,Validate the application,12,0.261
+Validate the application test app compile with compression,0.002,Validate the application,12,0.261
+Validate the application test app compile merge,0.008,Validate the application,12,0.261
+Import/Export tests serialize / deserialize small sample,0.007,Import/Export,6,3.301
+Import/Export tests serialize / deserialize specialCharacters,0.002,Import/Export,6,3.301
+Import/Export tests serialize / deserialize,0.012,Import/Export,6,3.301
+Import/Export tests serialize / deserialize,0.003,Import/Export,6,3.301
+Import/Export tests serialize / deserialize small sample,0.003,Import/Export,6,0.101
+Import/Export tests serialize / deserialize specialCharacters,0.001,Import/Export,6,0.101
+Import/Export tests serialize / deserialize,0.01,Import/Export,6,0.101
+Import/Export tests serialize / deserialize,0.009,Import/Export,6,0.101
+Import/Export tests serialize / deserialize,0.005,Import/Export,2,0.08
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.08
+Import/Export tests serialize / deserialize,0.005,Import/Export,2,0.062
+Import/Export tests serialize / deserialize,0.004,Import/Export,2,0.062
+Import/Export tests serialize / deserialize,0.007,Import/Export,1,0.076
+Import/Export tests serialize / deserialize,0.008,Import/Export,1,0.073
+Validate the Application Tests checkText,0.131,Validate the Application,21,4.467
+Validate the fileReader tests reading the cities sample,0.008,Validate the fileReader,9,2.648
+Validate the fileReader tests streamFileLineByLineAsync,0.011,Validate the fileReader,9,2.648
+Validate the fileReader tests streamFileLineByLineAsync 2,0.004,Validate the fileReader,9,2.648
+Validate the writer tests writing data and reading it back.,0.037,Validate the writer,4,0.257
+Validate the writer tests writing data and reading it back. gz,0.05,Validate the writer,4,0.257
+Validate the writer tests writeToFile,0.005,Validate the writer,4,0.257
+Validate the writer tests writeToFile zip,0.003,Validate the writer,4,0.257
+Validate the wordListCompiler test reading and normalizing a file,0.014,Validate the wordListCompiler,10,3.483
+Validate the wordListCompiler test compiling to a file without split,0.013,Validate the wordListCompiler,10,3.483
+Validate the wordListCompiler test reading and normalizing to a trie file,0.023,Validate the wordListCompiler,10,3.483
+Validate the wordListCompiler test reading and normalizing to a trie gz file,0.024,Validate the wordListCompiler,10,3.483
+Validate the wordListCompiler test a simple hunspell dictionary depth 0,0.015,Validate the wordListCompiler,10,3.483
+Validate the wordListCompiler test a simple hunspell dictionary depth 1,0.003,Validate the wordListCompiler,10,3.483
+Validate the application test app compile-trie,0.009,Validate the application,12,0.261
+Validate the application test app compile-trie compress,0.005,Validate the application,12,0.261
+Validate the application test app compile-trie -o,0.007,Validate the application,12,0.261
+Validate the application test app compile,0.003,Validate the application,12,0.261
+Validate the application test app compile-trie max depth,0.005,Validate the application,12,0.261
+Validate the application test app compile-trie compound,0.004,Validate the application,12,0.261
+Validate the application test app compile compound,0.001,Validate the application,12,0.261
+Validate the application test app compile with compression,0.003,Validate the application,12,0.261
+Validate the application test app compile merge,0.008,Validate the application,12,0.261
+Import/Export tests serialize / deserialize small sample,0.006,Import/Export,6,3.366
+Import/Export tests serialize / deserialize specialCharacters,0.002,Import/Export,6,3.366
+Import/Export tests serialize / deserialize,0.013,Import/Export,6,3.366
+Import/Export tests serialize / deserialize,0.003,Import/Export,6,3.366
+Import/Export tests serialize / deserialize small sample,0.003,Import/Export,6,0.1
+Import/Export tests serialize / deserialize specialCharacters,0.002,Import/Export,6,0.1
+Import/Export tests serialize / deserialize,0.01,Import/Export,6,0.1
+Import/Export tests serialize / deserialize,0.008,Import/Export,6,0.1
+Import/Export tests serialize / deserialize,0.005,Import/Export,2,0.078
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.078
+Import/Export tests serialize / deserialize,0.003,Import/Export,2,0.057
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.057
+Import/Export tests serialize / deserialize,0.007,Import/Export,1,0.07
+Import/Export tests serialize / deserialize,0.01,Import/Export,1,0.087
+Validate the Application Tests checkText,0.131,Validate the Application,21,4.407
+Validate the fileReader tests reading the cities sample,0.007,Validate the fileReader,9,2.584
+Validate the fileReader tests streamFileLineByLineAsync,0.012,Validate the fileReader,9,2.584
+Validate the fileReader tests streamFileLineByLineAsync 2,0.004,Validate the fileReader,9,2.584
+Validate the writer tests writing data and reading it back.,0.036,Validate the writer,4,0.254
+Validate the writer tests writing data and reading it back. gz,0.04,Validate the writer,4,0.254
+Validate the writer tests writeToFile,0.003,Validate the writer,4,0.254
+Validate the writer tests writeToFile zip,0.003,Validate the writer,4,0.254
+Validate the wordListCompiler test reading and normalizing a file,0.012,Validate the wordListCompiler,10,3.559
+Validate the wordListCompiler test compiling to a file without split,0.011,Validate the wordListCompiler,10,3.559
+Validate the wordListCompiler test reading and normalizing to a trie file,0.021,Validate the wordListCompiler,10,3.559
+Validate the wordListCompiler test reading and normalizing to a trie gz file,0.023,Validate the wordListCompiler,10,3.559
+Validate the wordListCompiler test a simple hunspell dictionary depth 0,0.016,Validate the wordListCompiler,10,3.559
+Validate the wordListCompiler test a simple hunspell dictionary depth 1,0.003,Validate the wordListCompiler,10,3.559
+Validate the application test app compile-trie,0.009,Validate the application,12,0.284
+Validate the application test app compile-trie compress,0.005,Validate the application,12,0.284
+Validate the application test app compile-trie -o,0.008,Validate the application,12,0.284
+Validate the application test app compile,0.002,Validate the application,12,0.284
+Validate the application test app compile-trie max depth,0.004,Validate the application,12,0.284
+Validate the application test app compile-trie compound,0.003,Validate the application,12,0.284
+Validate the application test app compile compound,0.002,Validate the application,12,0.284
+Validate the application test app compile with compression,0.002,Validate the application,12,0.284
+Validate the application test app compile merge,0.008,Validate the application,12,0.284
+Import/Export tests serialize / deserialize small sample,0.007,Import/Export,6,3.261
+Import/Export tests serialize / deserialize specialCharacters,0.002,Import/Export,6,3.261
+Import/Export tests serialize / deserialize,0.012,Import/Export,6,3.261
+Import/Export tests serialize / deserialize,0.004,Import/Export,6,3.261
+Import/Export tests serialize / deserialize small sample,0.002,Import/Export,6,0.105
+Import/Export tests serialize / deserialize specialCharacters,0.002,Import/Export,6,0.105
+Import/Export tests serialize / deserialize,0.009,Import/Export,6,0.105
+Import/Export tests serialize / deserialize,0.007,Import/Export,6,0.105
+Import/Export tests serialize / deserialize,0.007,Import/Export,2,0.087
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.087
+Import/Export tests serialize / deserialize,0.004,Import/Export,2,0.059
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.059
+Import/Export tests serialize / deserialize,0.009,Import/Export,1,0.071
+Import/Export tests serialize / deserialize,0.009,Import/Export,1,0.085
+Validate the Application Tests checkText,0.129,Validate the Application,21,4.41
+Validate the fileReader tests reading the cities sample,0.007,Validate the fileReader,9,2.492
+Validate the fileReader tests streamFileLineByLineAsync,0.012,Validate the fileReader,9,2.492
+Validate the fileReader tests streamFileLineByLineAsync 2,0.003,Validate the fileReader,9,2.492
+Validate the writer tests writing data and reading it back.,0.044,Validate the writer,4,0.243
+Validate the writer tests writing data and reading it back. gz,0.039,Validate the writer,4,0.243
+Validate the writer tests writeToFile,0.002,Validate the writer,4,0.243
+Validate the writer tests writeToFile zip,0.003,Validate the writer,4,0.243
+Validate the wordListCompiler test reading and normalizing a file,0.012,Validate the wordListCompiler,10,3.346
+Validate the wordListCompiler test compiling to a file without split,0.011,Validate the wordListCompiler,10,3.346
+Validate the wordListCompiler test reading and normalizing to a trie file,0.025,Validate the wordListCompiler,10,3.346
+Validate the wordListCompiler test reading and normalizing to a trie gz file,0.021,Validate the wordListCompiler,10,3.346
+Validate the wordListCompiler test a simple hunspell dictionary depth 0,0.013,Validate the wordListCompiler,10,3.346
+Validate the wordListCompiler test a simple hunspell dictionary depth 1,0.004,Validate the wordListCompiler,10,3.346
+Validate the application test app compile-trie,0.013,Validate the application,12,0.268
+Validate the application test app compile-trie compress,0.004,Validate the application,12,0.268
+Validate the application test app compile-trie -o,0.007,Validate the application,12,0.268
+Validate the application test app compile,0.003,Validate the application,12,0.268
+Validate the application test app compile-trie max depth,0.004,Validate the application,12,0.268
+Validate the application test app compile-trie compound,0.003,Validate the application,12,0.268
+Validate the application test app compile compound,0.002,Validate the application,12,0.268
+Validate the application test app compile with compression,0.003,Validate the application,12,0.268
+Validate the application test app compile merge,0.009,Validate the application,12,0.268
+Import/Export tests serialize / deserialize small sample,0.007,Import/Export,6,3.38
+Import/Export tests serialize / deserialize specialCharacters,0.002,Import/Export,6,3.38
+Import/Export tests serialize / deserialize,0.012,Import/Export,6,3.38
+Import/Export tests serialize / deserialize,0.003,Import/Export,6,3.38
+Import/Export tests serialize / deserialize small sample,0.003,Import/Export,6,0.109
+Import/Export tests serialize / deserialize specialCharacters,0.001,Import/Export,6,0.109
+Import/Export tests serialize / deserialize,0.01,Import/Export,6,0.109
+Import/Export tests serialize / deserialize,0.006,Import/Export,6,0.109
+Import/Export tests serialize / deserialize,0.007,Import/Export,2,0.084
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.084
+Import/Export tests serialize / deserialize,0.004,Import/Export,2,0.059
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.059
+Import/Export tests serialize / deserialize,0.007,Import/Export,1,0.071
+Import/Export tests serialize / deserialize,0.01,Import/Export,1,0.082
+Validate the Application Tests checkText,0.128,Validate the Application,21,4.442
+Validate the fileReader tests reading the cities sample,0.007,Validate the fileReader,9,2.602
+Validate the fileReader tests streamFileLineByLineAsync,0.012,Validate the fileReader,9,2.602
+Validate the fileReader tests streamFileLineByLineAsync 2,0.006,Validate the fileReader,9,2.602
+Validate the writer tests writing data and reading it back.,0.037,Validate the writer,4,0.237
+Validate the writer tests writing data and reading it back. gz,0.043,Validate the writer,4,0.237
+Validate the writer tests writeToFile,0.004,Validate the writer,4,0.237
+Validate the writer tests writeToFile zip,0.004,Validate the writer,4,0.237
+Validate the wordListCompiler test reading and normalizing a file,0.012,Validate the wordListCompiler,10,3.329
+Validate the wordListCompiler test compiling to a file without split,0.012,Validate the wordListCompiler,10,3.329
+Validate the wordListCompiler test reading and normalizing to a trie file,0.021,Validate the wordListCompiler,10,3.329
+Validate the wordListCompiler test reading and normalizing to a trie gz file,0.023,Validate the wordListCompiler,10,3.329
+Validate the wordListCompiler test a simple hunspell dictionary depth 0,0.014,Validate the wordListCompiler,10,3.329
+Validate the wordListCompiler test a simple hunspell dictionary depth 1,0.003,Validate the wordListCompiler,10,3.329
+Validate the application test app compile-trie,0.01,Validate the application,12,0.279
+Validate the application test app compile-trie compress,0.006,Validate the application,12,0.279
+Validate the application test app compile-trie -o,0.007,Validate the application,12,0.279
+Validate the application test app compile,0.003,Validate the application,12,0.279
+Validate the application test app compile-trie max depth,0.003,Validate the application,12,0.279
+Validate the application test app compile-trie compound,0.004,Validate the application,12,0.279
+Validate the application test app compile compound,0.001,Validate the application,12,0.279
+Validate the application test app compile with compression,0.003,Validate the application,12,0.279
+Validate the application test app compile merge,0.007,Validate the application,12,0.279
+Import/Export tests serialize / deserialize small sample,0.007,Import/Export,6,3.327
+Import/Export tests serialize / deserialize specialCharacters,0.003,Import/Export,6,3.327
+Import/Export tests serialize / deserialize,0.013,Import/Export,6,3.327
+Import/Export tests serialize / deserialize,0.003,Import/Export,6,3.327
+Import/Export tests serialize / deserialize small sample,0.003,Import/Export,6,0.111
+Import/Export tests serialize / deserialize specialCharacters,0.001,Import/Export,6,0.111
+Import/Export tests serialize / deserialize,0.01,Import/Export,6,0.111
+Import/Export tests serialize / deserialize,0.008,Import/Export,6,0.111
+Import/Export tests serialize / deserialize,0.007,Import/Export,2,0.086
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.086
+Import/Export tests serialize / deserialize,0.003,Import/Export,2,0.061
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.061
+Import/Export tests serialize / deserialize,0.008,Import/Export,1,0.075
+Import/Export tests serialize / deserialize,0.009,Import/Export,1,0.068
+Validate the Application Tests checkText,0.135,Validate the Application,21,4.456
+Validate the fileReader tests reading the cities sample,0.006,Validate the fileReader,9,2.559
+Validate the fileReader tests streamFileLineByLineAsync,0.012,Validate the fileReader,9,2.559
+Validate the fileReader tests streamFileLineByLineAsync 2,0.005,Validate the fileReader,9,2.559
+Validate the writer tests writing data and reading it back.,0.034,Validate the writer,4,0.265
+Validate the writer tests writing data and reading it back. gz,0.047,Validate the writer,4,0.265
+Validate the writer tests writeToFile,0.003,Validate the writer,4,0.265
+Validate the writer tests writeToFile zip,0.004,Validate the writer,4,0.265
+Validate the wordListCompiler test reading and normalizing a file,0.012,Validate the wordListCompiler,10,3.365
+Validate the wordListCompiler test compiling to a file without split,0.014,Validate the wordListCompiler,10,3.365
+Validate the wordListCompiler test reading and normalizing to a trie file,0.022,Validate the wordListCompiler,10,3.365
+Validate the wordListCompiler test reading and normalizing to a trie gz file,0.022,Validate the wordListCompiler,10,3.365
+Validate the wordListCompiler test a simple hunspell dictionary depth 0,0.012,Validate the wordListCompiler,10,3.365
+Validate the wordListCompiler test a simple hunspell dictionary depth 1,0.004,Validate the wordListCompiler,10,3.365
+Validate the application test app compile-trie,0.009,Validate the application,12,0.278
+Validate the application test app compile-trie compress,0.006,Validate the application,12,0.278
+Validate the application test app compile-trie -o,0.007,Validate the application,12,0.278
+Validate the application test app compile,0.004,Validate the application,12,0.278
+Validate the application test app compile-trie max depth,0.004,Validate the application,12,0.278
+Validate the application test app compile-trie compound,0.004,Validate the application,12,0.278
+Validate the application test app compile compound,0.002,Validate the application,12,0.278
+Validate the application test app compile with compression,0.002,Validate the application,12,0.278
+Validate the application test app compile merge,0.008,Validate the application,12,0.278
+Import/Export tests serialize / deserialize small sample,0.007,Import/Export,6,3.391
+Import/Export tests serialize / deserialize specialCharacters,0.002,Import/Export,6,3.391
+Import/Export tests serialize / deserialize,0.012,Import/Export,6,3.391
+Import/Export tests serialize / deserialize,0.004,Import/Export,6,3.391
+Import/Export tests serialize / deserialize small sample,0.004,Import/Export,6,0.106
+Import/Export tests serialize / deserialize specialCharacters,0.002,Import/Export,6,0.106
+Import/Export tests serialize / deserialize,0.01,Import/Export,6,0.106
+Import/Export tests serialize / deserialize,0.006,Import/Export,6,0.106
+Import/Export tests serialize / deserialize,0.007,Import/Export,2,0.084
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.084
+Import/Export tests serialize / deserialize,0.003,Import/Export,2,0.056
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.056
+Import/Export tests serialize / deserialize,0.006,Import/Export,1,0.069
+Import/Export tests serialize / deserialize,0.01,Import/Export,1,0.061
+Validate the Application Tests checkText,0.134,Validate the Application,21,4.529
+Validate the fileReader tests reading the cities sample,0.007,Validate the fileReader,9,2.601
+Validate the fileReader tests streamFileLineByLineAsync,0.009,Validate the fileReader,9,2.601
+Validate the fileReader tests streamFileLineByLineAsync 2,0.005,Validate the fileReader,9,2.601
+Validate the writer tests writing data and reading it back.,0.032,Validate the writer,4,0.265
+Validate the writer tests writing data and reading it back. gz,0.04,Validate the writer,4,0.265
+Validate the writer tests writeToFile,0.002,Validate the writer,4,0.265
+Validate the writer tests writeToFile zip,0.003,Validate the writer,4,0.265
+Validate the wordListCompiler test reading and normalizing a file,0.011,Validate the wordListCompiler,10,3.37
+Validate the wordListCompiler test compiling to a file without split,0.01,Validate the wordListCompiler,10,3.37
+Validate the wordListCompiler test reading and normalizing to a trie file,0.02,Validate the wordListCompiler,10,3.37
+Validate the wordListCompiler test reading and normalizing to a trie gz file,0.023,Validate the wordListCompiler,10,3.37
+Validate the wordListCompiler test a simple hunspell dictionary depth 0,0.013,Validate the wordListCompiler,10,3.37
+Validate the wordListCompiler test a simple hunspell dictionary depth 1,0.003,Validate the wordListCompiler,10,3.37
+Validate the application test app compile-trie,0.01,Validate the application,12,0.259
+Validate the application test app compile-trie compress,0.004,Validate the application,12,0.259
+Validate the application test app compile-trie -o,0.003,Validate the application,12,0.259
+Validate the application test app compile,0.006,Validate the application,12,0.259
+Validate the application test app compile-trie max depth,0.003,Validate the application,12,0.259
+Validate the application test app compile-trie compound,0.004,Validate the application,12,0.259
+Validate the application test app compile compound,0.002,Validate the application,12,0.259
+Validate the application test app compile with compression,0.002,Validate the application,12,0.259
+Validate the application test app compile merge,0.008,Validate the application,12,0.259
+Import/Export tests serialize / deserialize small sample,0.007,Import/Export,6,3.464
+Import/Export tests serialize / deserialize specialCharacters,0.001,Import/Export,6,3.464
+Import/Export tests serialize / deserialize,0.013,Import/Export,6,3.464
+Import/Export tests serialize / deserialize,0.003,Import/Export,6,3.464
+Import/Export tests serialize / deserialize small sample,0.003,Import/Export,6,0.1
+Import/Export tests serialize / deserialize specialCharacters,0.001,Import/Export,6,0.1
+Import/Export tests serialize / deserialize,0.009,Import/Export,6,0.1
+Import/Export tests serialize / deserialize,0.007,Import/Export,6,0.1
+Import/Export tests serialize / deserialize,0.006,Import/Export,2,0.082
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.082
+Import/Export tests serialize / deserialize,0.004,Import/Export,2,0.07
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.07
+Import/Export tests serialize / deserialize,0.009,Import/Export,1,0.076
+Import/Export tests serialize / deserialize,0.01,Import/Export,1,0.066
+Validate the Application Tests checkText,0.13,Validate the Application,21,4.482
+Validate the fileReader tests reading the cities sample,0.009,Validate the fileReader,9,2.628
+Validate the fileReader tests streamFileLineByLineAsync,0.009,Validate the fileReader,9,2.628
+Validate the fileReader tests streamFileLineByLineAsync 2,0.005,Validate the fileReader,9,2.628
+Validate the writer tests writing data and reading it back.,0.038,Validate the writer,4,0.255
+Validate the writer tests writing data and reading it back. gz,0.047,Validate the writer,4,0.255
+Validate the writer tests writeToFile,0.005,Validate the writer,4,0.255
+Validate the writer tests writeToFile zip,0.005,Validate the writer,4,0.255
+Validate the wordListCompiler test reading and normalizing a file,0.011,Validate the wordListCompiler,10,3.334
+Validate the wordListCompiler test compiling to a file without split,0.01,Validate the wordListCompiler,10,3.334
+Validate the wordListCompiler test reading and normalizing to a trie file,0.021,Validate the wordListCompiler,10,3.334
+Validate the wordListCompiler test reading and normalizing to a trie gz file,0.021,Validate the wordListCompiler,10,3.334
+Validate the wordListCompiler test a simple hunspell dictionary depth 0,0.012,Validate the wordListCompiler,10,3.334
+Validate the wordListCompiler test a simple hunspell dictionary depth 1,0.003,Validate the wordListCompiler,10,3.334
+Validate the application test app compile-trie,0.01,Validate the application,12,0.269
+Validate the application test app compile-trie compress,0.006,Validate the application,12,0.269
+Validate the application test app compile-trie -o,0.007,Validate the application,12,0.269
+Validate the application test app compile,0.002,Validate the application,12,0.269
+Validate the application test app compile-trie max depth,0.004,Validate the application,12,0.269
+Validate the application test app compile-trie compound,0.003,Validate the application,12,0.269
+Validate the application test app compile compound,0.002,Validate the application,12,0.269
+Validate the application test app compile with compression,0.002,Validate the application,12,0.269
+Validate the application test app compile merge,0.007,Validate the application,12,0.269
+Import/Export tests serialize / deserialize small sample,0.006,Import/Export,6,3.334
+Import/Export tests serialize / deserialize specialCharacters,0.002,Import/Export,6,3.334
+Import/Export tests serialize / deserialize,0.014,Import/Export,6,3.334
+Import/Export tests serialize / deserialize,0.003,Import/Export,6,3.334
+Import/Export tests serialize / deserialize small sample,0.002,Import/Export,6,0.097
+Import/Export tests serialize / deserialize specialCharacters,0.002,Import/Export,6,0.097
+Import/Export tests serialize / deserialize,0.008,Import/Export,6,0.097
+Import/Export tests serialize / deserialize,0.006,Import/Export,6,0.097
+Import/Export tests serialize / deserialize,0.005,Import/Export,2,0.085
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.085
+Import/Export tests serialize / deserialize,0.004,Import/Export,2,0.057
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.057
+Import/Export tests serialize / deserialize,0.007,Import/Export,1,0.077
+Import/Export tests serialize / deserialize,0.007,Import/Export,1,0.061
+Validate the Application Tests checkText,0.133,Validate the Application,21,4.405
+Validate the fileReader tests reading the cities sample,0.008,Validate the fileReader,9,2.509
+Validate the fileReader tests streamFileLineByLineAsync,0.01,Validate the fileReader,9,2.509
+Validate the fileReader tests streamFileLineByLineAsync 2,0.004,Validate the fileReader,9,2.509
+Validate the writer tests writing data and reading it back.,0.036,Validate the writer,4,0.238
+Validate the writer tests writing data and reading it back. gz,0.035,Validate the writer,4,0.238
+Validate the writer tests writeToFile,0.002,Validate the writer,4,0.238
+Validate the writer tests writeToFile zip,0.003,Validate the writer,4,0.238
+Validate the wordListCompiler test reading and normalizing a file,0.012,Validate the wordListCompiler,10,3.436
+Validate the wordListCompiler test compiling to a file without split,0.013,Validate the wordListCompiler,10,3.436
+Validate the wordListCompiler test reading and normalizing to a trie file,0.022,Validate the wordListCompiler,10,3.436
+Validate the wordListCompiler test reading and normalizing to a trie gz file,0.021,Validate the wordListCompiler,10,3.436
+Validate the wordListCompiler test a simple hunspell dictionary depth 0,0.014,Validate the wordListCompiler,10,3.436
+Validate the wordListCompiler test a simple hunspell dictionary depth 1,0.004,Validate the wordListCompiler,10,3.436
+Validate the application test app compile-trie,0.01,Validate the application,12,0.269
+Validate the application test app compile-trie compress,0.004,Validate the application,12,0.269
+Validate the application test app compile-trie -o,0.008,Validate the application,12,0.269
+Validate the application test app compile,0.002,Validate the application,12,0.269
+Validate the application test app compile-trie max depth,0.003,Validate the application,12,0.269
+Validate the application test app compile-trie compound,0.004,Validate the application,12,0.269
+Validate the application test app compile compound,0.002,Validate the application,12,0.269
+Validate the application test app compile with compression,0.003,Validate the application,12,0.269
+Validate the application test app compile merge,0.008,Validate the application,12,0.269
+Import/Export tests serialize / deserialize small sample,0.007,Import/Export,6,3.369
+Import/Export tests serialize / deserialize specialCharacters,0.002,Import/Export,6,3.369
+Import/Export tests serialize / deserialize,0.011,Import/Export,6,3.369
+Import/Export tests serialize / deserialize,0.003,Import/Export,6,3.369
+Import/Export tests serialize / deserialize small sample,0.003,Import/Export,6,0.096
+Import/Export tests serialize / deserialize specialCharacters,0.001,Import/Export,6,0.096
+Import/Export tests serialize / deserialize,0.009,Import/Export,6,0.096
+Import/Export tests serialize / deserialize,0.006,Import/Export,6,0.096
+Import/Export tests serialize / deserialize,0.008,Import/Export,2,0.086
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.086
+Import/Export tests serialize / deserialize,0.005,Import/Export,2,0.056
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.056
+Import/Export tests serialize / deserialize,0.008,Import/Export,1,0.076
+Import/Export tests serialize / deserialize,0.006,Import/Export,1,0.061
+Validate the Application Tests checkText,0.128,Validate the Application,21,4.472
+Validate the fileReader tests reading the cities sample,0.009,Validate the fileReader,9,2.646
+Validate the fileReader tests streamFileLineByLineAsync,0.014,Validate the fileReader,9,2.646
+Validate the fileReader tests streamFileLineByLineAsync 2,0.005,Validate the fileReader,9,2.646
+Validate the writer tests writing data and reading it back.,0.034,Validate the writer,4,0.242
+Validate the writer tests writing data and reading it back. gz,0.038,Validate the writer,4,0.242
+Validate the writer tests writeToFile,0.002,Validate the writer,4,0.242
+Validate the writer tests writeToFile zip,0.003,Validate the writer,4,0.242
+Validate the wordListCompiler test reading and normalizing a file,0.012,Validate the wordListCompiler,10,3.273
+Validate the wordListCompiler test compiling to a file without split,0.012,Validate the wordListCompiler,10,3.273
+Validate the wordListCompiler test reading and normalizing to a trie file,0.021,Validate the wordListCompiler,10,3.273
+Validate the wordListCompiler test reading and normalizing to a trie gz file,0.022,Validate the wordListCompiler,10,3.273
+Validate the wordListCompiler test a simple hunspell dictionary depth 0,0.013,Validate the wordListCompiler,10,3.273
+Validate the wordListCompiler test a simple hunspell dictionary depth 1,0.004,Validate the wordListCompiler,10,3.273
+Validate the application test app compile-trie,0.01,Validate the application,12,0.267
+Validate the application test app compile-trie compress,0.005,Validate the application,12,0.267
+Validate the application test app compile-trie -o,0.003,Validate the application,12,0.267
+Validate the application test app compile,0.006,Validate the application,12,0.267
+Validate the application test app compile-trie max depth,0.004,Validate the application,12,0.267
+Validate the application test app compile-trie compound,0.004,Validate the application,12,0.267
+Validate the application test app compile compound,0.002,Validate the application,12,0.267
+Validate the application test app compile with compression,0.002,Validate the application,12,0.267
+Validate the application test app compile merge,0.007,Validate the application,12,0.267
+Import/Export tests serialize / deserialize small sample,0.007,Import/Export,6,3.368
+Import/Export tests serialize / deserialize specialCharacters,0.002,Import/Export,6,3.368
+Import/Export tests serialize / deserialize,0.014,Import/Export,6,3.368
+Import/Export tests serialize / deserialize,0.004,Import/Export,6,3.368
+Import/Export tests serialize / deserialize small sample,0.002,Import/Export,6,0.108
+Import/Export tests serialize / deserialize specialCharacters,0.002,Import/Export,6,0.108
+Import/Export tests serialize / deserialize,0.009,Import/Export,6,0.108
+Import/Export tests serialize / deserialize,0.008,Import/Export,6,0.108
+Import/Export tests serialize / deserialize,0.007,Import/Export,2,0.087
+Import/Export tests serialize / deserialize,0.003,Import/Export,2,0.087
+Import/Export tests serialize / deserialize,0.004,Import/Export,2,0.065
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.065
+Import/Export tests serialize / deserialize,0.013,Import/Export,1,0.103
+Import/Export tests serialize / deserialize,0.006,Import/Export,1,0.06
+Validate the Application Tests checkText,0.143,Validate the Application,21,4.605
+Validate the fileReader tests reading the cities sample,0.007,Validate the fileReader,9,2.548
+Validate the fileReader tests streamFileLineByLineAsync,0.012,Validate the fileReader,9,2.548
+Validate the fileReader tests streamFileLineByLineAsync 2,0.007,Validate the fileReader,9,2.548
+Validate the writer tests writing data and reading it back.,0.042,Validate the writer,4,0.251
+Validate the writer tests writing data and reading it back. gz,0.044,Validate the writer,4,0.251
+Validate the writer tests writeToFile,0.002,Validate the writer,4,0.251
+Validate the writer tests writeToFile zip,0.003,Validate the writer,4,0.251
+Validate the wordListCompiler test reading and normalizing a file,0.013,Validate the wordListCompiler,10,3.228
+Validate the wordListCompiler test compiling to a file without split,0.013,Validate the wordListCompiler,10,3.228
+Validate the wordListCompiler test reading and normalizing to a trie file,0.021,Validate the wordListCompiler,10,3.228
+Validate the wordListCompiler test reading and normalizing to a trie gz file,0.022,Validate the wordListCompiler,10,3.228
+Validate the wordListCompiler test a simple hunspell dictionary depth 0,0.013,Validate the wordListCompiler,10,3.228
+Validate the wordListCompiler test a simple hunspell dictionary depth 1,0.003,Validate the wordListCompiler,10,3.228
+Validate the application test app compile-trie,0.009,Validate the application,12,0.253
+Validate the application test app compile-trie compress,0.005,Validate the application,12,0.253
+Validate the application test app compile-trie -o,0.004,Validate the application,12,0.253
+Validate the application test app compile,0.005,Validate the application,12,0.253
+Validate the application test app compile-trie max depth,0.004,Validate the application,12,0.253
+Validate the application test app compile-trie compound,0.003,Validate the application,12,0.253
+Validate the application test app compile compound,0.002,Validate the application,12,0.253
+Validate the application test app compile with compression,0.002,Validate the application,12,0.253
+Validate the application test app compile merge,0.007,Validate the application,12,0.253
+Import/Export tests serialize / deserialize small sample,0.007,Import/Export,6,3.262
+Import/Export tests serialize / deserialize specialCharacters,0.002,Import/Export,6,3.262
+Import/Export tests serialize / deserialize,0.012,Import/Export,6,3.262
+Import/Export tests serialize / deserialize,0.003,Import/Export,6,3.262
+Import/Export tests serialize / deserialize small sample,0.003,Import/Export,6,0.1
+Import/Export tests serialize / deserialize specialCharacters,0.001,Import/Export,6,0.1
+Import/Export tests serialize / deserialize,0.01,Import/Export,6,0.1
+Import/Export tests serialize / deserialize,0.007,Import/Export,6,0.1
+Import/Export tests serialize / deserialize,0.005,Import/Export,2,0.086
+Import/Export tests serialize / deserialize,0.003,Import/Export,2,0.086
+Import/Export tests serialize / deserialize,0.004,Import/Export,2,0.064
+Import/Export tests serialize / deserialize,0.003,Import/Export,2,0.064
+Import/Export tests serialize / deserialize,0.008,Import/Export,1,0.074
+Import/Export tests serialize / deserialize,0.006,Import/Export,1,0.06
+Validate the Application Tests checkText,0.144,Validate the Application,21,4.521
+Validate the fileReader tests reading the cities sample,0.008,Validate the fileReader,9,2.47
+Validate the fileReader tests streamFileLineByLineAsync,0.016,Validate the fileReader,9,2.47
+Validate the fileReader tests streamFileLineByLineAsync 2,0.003,Validate the fileReader,9,2.47
+Validate the writer tests writing data and reading it back.,0.037,Validate the writer,4,0.246
+Validate the writer tests writing data and reading it back. gz,0.045,Validate the writer,4,0.246
+Validate the writer tests writeToFile,0.003,Validate the writer,4,0.246
+Validate the writer tests writeToFile zip,0.002,Validate the writer,4,0.246
+Validate the wordListCompiler test reading and normalizing a file,0.011,Validate the wordListCompiler,10,3.177
+Validate the wordListCompiler test compiling to a file without split,0.011,Validate the wordListCompiler,10,3.177
+Validate the wordListCompiler test reading and normalizing to a trie file,0.022,Validate the wordListCompiler,10,3.177
+Validate the wordListCompiler test reading and normalizing to a trie gz file,0.023,Validate the wordListCompiler,10,3.177
+Validate the wordListCompiler test a simple hunspell dictionary depth 0,0.012,Validate the wordListCompiler,10,3.177
+Validate the wordListCompiler test a simple hunspell dictionary depth 1,0.004,Validate the wordListCompiler,10,3.177
+Validate the application test app compile-trie,0.01,Validate the application,12,0.27
+Validate the application test app compile-trie compress,0.005,Validate the application,12,0.27
+Validate the application test app compile-trie -o,0.004,Validate the application,12,0.27
+Validate the application test app compile,0.006,Validate the application,12,0.27
+Validate the application test app compile-trie max depth,0.003,Validate the application,12,0.27
+Validate the application test app compile-trie compound,0.004,Validate the application,12,0.27
+Validate the application test app compile compound,0.001,Validate the application,12,0.27
+Validate the application test app compile with compression,0.002,Validate the application,12,0.27
+Validate the application test app compile merge,0.007,Validate the application,12,0.27
+Import/Export tests serialize / deserialize small sample,0.007,Import/Export,6,3.263
+Import/Export tests serialize / deserialize specialCharacters,0.002,Import/Export,6,3.263
+Import/Export tests serialize / deserialize,0.014,Import/Export,6,3.263
+Import/Export tests serialize / deserialize,0.003,Import/Export,6,3.263
+Import/Export tests serialize / deserialize small sample,0.003,Import/Export,6,0.113
+Import/Export tests serialize / deserialize specialCharacters,0.002,Import/Export,6,0.113
+Import/Export tests serialize / deserialize,0.013,Import/Export,6,0.113
+Import/Export tests serialize / deserialize,0.005,Import/Export,6,0.113
+Import/Export tests serialize / deserialize,0.005,Import/Export,2,0.08
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.08
+Import/Export tests serialize / deserialize,0.003,Import/Export,2,0.062
+Import/Export tests serialize / deserialize,0.003,Import/Export,2,0.062
+Import/Export tests serialize / deserialize,0.011,Import/Export,1,0.091
+Import/Export tests serialize / deserialize,0.006,Import/Export,1,0.075
+Validate the Application Tests checkText,0.129,Validate the Application,21,4.339
+Validate the fileReader tests reading the cities sample,0.008,Validate the fileReader,9,2.613
+Validate the fileReader tests streamFileLineByLineAsync,0.009,Validate the fileReader,9,2.613
+Validate the fileReader tests streamFileLineByLineAsync 2,0.005,Validate the fileReader,9,2.613
+Validate the writer tests writing data and reading it back.,0.04,Validate the writer,4,0.251
+Validate the writer tests writing data and reading it back. gz,0.039,Validate the writer,4,0.251
+Validate the writer tests writeToFile,0.002,Validate the writer,4,0.251
+Validate the writer tests writeToFile zip,0.003,Validate the writer,4,0.251
+Validate the wordListCompiler test reading and normalizing a file,0.012,Validate the wordListCompiler,10,3.426
+Validate the wordListCompiler test compiling to a file without split,0.011,Validate the wordListCompiler,10,3.426
+Validate the wordListCompiler test reading and normalizing to a trie file,0.021,Validate the wordListCompiler,10,3.426
+Validate the wordListCompiler test reading and normalizing to a trie gz file,0.022,Validate the wordListCompiler,10,3.426
+Validate the wordListCompiler test a simple hunspell dictionary depth 0,0.013,Validate the wordListCompiler,10,3.426
+Validate the wordListCompiler test a simple hunspell dictionary depth 1,0.003,Validate the wordListCompiler,10,3.426
+Validate the application test app compile-trie,0.009,Validate the application,12,0.25
+Validate the application test app compile-trie compress,0.006,Validate the application,12,0.25
+Validate the application test app compile-trie -o,0.003,Validate the application,12,0.25
+Validate the application test app compile,0.002,Validate the application,12,0.25
+Validate the application test app compile-trie max depth,0.008,Validate the application,12,0.25
+Validate the application test app compile-trie compound,0.004,Validate the application,12,0.25
+Validate the application test app compile compound,0.001,Validate the application,12,0.25
+Validate the application test app compile with compression,0.002,Validate the application,12,0.25
+Validate the application test app compile merge,0.007,Validate the application,12,0.25
+Import/Export tests serialize / deserialize small sample,0.006,Import/Export,6,3.365
+Import/Export tests serialize / deserialize specialCharacters,0.002,Import/Export,6,3.365
+Import/Export tests serialize / deserialize,0.011,Import/Export,6,3.365
+Import/Export tests serialize / deserialize,0.003,Import/Export,6,3.365
+Import/Export tests serialize / deserialize small sample,0.002,Import/Export,6,0.094
+Import/Export tests serialize / deserialize specialCharacters,0.001,Import/Export,6,0.094
+Import/Export tests serialize / deserialize,0.009,Import/Export,6,0.094
+Import/Export tests serialize / deserialize,0.007,Import/Export,6,0.094
+Import/Export tests serialize / deserialize,0.005,Import/Export,2,0.083
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.083
+Import/Export tests serialize / deserialize,0.004,Import/Export,2,0.064
+Import/Export tests serialize / deserialize,0.004,Import/Export,2,0.064
+Import/Export tests serialize / deserialize,0.008,Import/Export,1,0.076
+Import/Export tests serialize / deserialize,0.009,Import/Export,1,0.075
+Validate the Application Tests checkText,0.134,Validate the Application,21,4.48
+Validate the fileReader tests reading the cities sample,0.008,Validate the fileReader,9,2.501
+Validate the fileReader tests streamFileLineByLineAsync,0.012,Validate the fileReader,9,2.501
+Validate the fileReader tests streamFileLineByLineAsync 2,0.004,Validate the fileReader,9,2.501
+Validate the writer tests writing data and reading it back.,0.037,Validate the writer,4,0.248
+Validate the writer tests writing data and reading it back. gz,0.041,Validate the writer,4,0.248
+Validate the writer tests writeToFile,0.003,Validate the writer,4,0.248
+Validate the writer tests writeToFile zip,0.003,Validate the writer,4,0.248
+Validate the wordListCompiler test reading and normalizing a file,0.011,Validate the wordListCompiler,10,3.251
+Validate the wordListCompiler test compiling to a file without split,0.01,Validate the wordListCompiler,10,3.251
+Validate the wordListCompiler test reading and normalizing to a trie file,0.02,Validate the wordListCompiler,10,3.251
+Validate the wordListCompiler test reading and normalizing to a trie gz file,0.022,Validate the wordListCompiler,10,3.251
+Validate the wordListCompiler test a simple hunspell dictionary depth 0,0.013,Validate the wordListCompiler,10,3.251
+Validate the wordListCompiler test a simple hunspell dictionary depth 1,0.003,Validate the wordListCompiler,10,3.251
+Validate the application test app compile-trie,0.008,Validate the application,12,0.264
+Validate the application test app compile-trie compress,0.005,Validate the application,12,0.264
+Validate the application test app compile-trie -o,0.008,Validate the application,12,0.264
+Validate the application test app compile,0.002,Validate the application,12,0.264
+Validate the application test app compile-trie max depth,0.004,Validate the application,12,0.264
+Validate the application test app compile-trie compound,0.003,Validate the application,12,0.264
+Validate the application test app compile compound,0.002,Validate the application,12,0.264
+Validate the application test app compile with compression,0.002,Validate the application,12,0.264
+Validate the application test app compile merge,0.007,Validate the application,12,0.264
+Import/Export tests serialize / deserialize small sample,0.007,Import/Export,6,3.257
+Import/Export tests serialize / deserialize specialCharacters,0.002,Import/Export,6,3.257
+Import/Export tests serialize / deserialize,0.013,Import/Export,6,3.257
+Import/Export tests serialize / deserialize,0.004,Import/Export,6,3.257
+Import/Export tests serialize / deserialize small sample,0.004,Import/Export,6,0.109
+Import/Export tests serialize / deserialize specialCharacters,0.003,Import/Export,6,0.109
+Import/Export tests serialize / deserialize,0.011,Import/Export,6,0.109
+Import/Export tests serialize / deserialize,0.007,Import/Export,6,0.109
+Import/Export tests serialize / deserialize,0.006,Import/Export,2,0.086
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.086
+Import/Export tests serialize / deserialize,0.003,Import/Export,2,0.063
+Import/Export tests serialize / deserialize,0.003,Import/Export,2,0.063
+Import/Export tests serialize / deserialize,0.009,Import/Export,1,0.079
+Import/Export tests serialize / deserialize,0.009,Import/Export,1,0.066
+Validate the Application Tests checkText,0.128,Validate the Application,21,4.409
+Validate the fileReader tests reading the cities sample,0.009,Validate the fileReader,9,2.564
+Validate the fileReader tests streamFileLineByLineAsync,0.012,Validate the fileReader,9,2.564
+Validate the fileReader tests streamFileLineByLineAsync 2,0.004,Validate the fileReader,9,2.564
+Validate the writer tests writing data and reading it back.,0.035,Validate the writer,4,0.245
+Validate the writer tests writing data and reading it back. gz,0.041,Validate the writer,4,0.245
+Validate the writer tests writeToFile,0.003,Validate the writer,4,0.245
+Validate the writer tests writeToFile zip,0.002,Validate the writer,4,0.245
+Validate the wordListCompiler test reading and normalizing a file,0.012,Validate the wordListCompiler,10,3.369
+Validate the wordListCompiler test compiling to a file without split,0.011,Validate the wordListCompiler,10,3.369
+Validate the wordListCompiler test reading and normalizing to a trie file,0.02,Validate the wordListCompiler,10,3.369
+Validate the wordListCompiler test reading and normalizing to a trie gz file,0.021,Validate the wordListCompiler,10,3.369
+Validate the wordListCompiler test a simple hunspell dictionary depth 0,0.012,Validate the wordListCompiler,10,3.369
+Validate the wordListCompiler test a simple hunspell dictionary depth 1,0.003,Validate the wordListCompiler,10,3.369
+Validate the application test app compile-trie,0.009,Validate the application,12,0.265
+Validate the application test app compile-trie compress,0.005,Validate the application,12,0.265
+Validate the application test app compile-trie -o,0.008,Validate the application,12,0.265
+Validate the application test app compile,0.002,Validate the application,12,0.265
+Validate the application test app compile-trie max depth,0.004,Validate the application,12,0.265
+Validate the application test app compile-trie compound,0.004,Validate the application,12,0.265
+Validate the application test app compile compound,0.002,Validate the application,12,0.265
+Validate the application test app compile with compression,0.002,Validate the application,12,0.265
+Validate the application test app compile merge,0.007,Validate the application,12,0.265
+Import/Export tests serialize / deserialize small sample,0.007,Import/Export,6,3.246
+Import/Export tests serialize / deserialize specialCharacters,0.002,Import/Export,6,3.246
+Import/Export tests serialize / deserialize,0.013,Import/Export,6,3.246
+Import/Export tests serialize / deserialize,0.003,Import/Export,6,3.246
+Import/Export tests serialize / deserialize small sample,0.003,Import/Export,6,0.1
+Import/Export tests serialize / deserialize specialCharacters,0.002,Import/Export,6,0.1
+Import/Export tests serialize / deserialize,0.009,Import/Export,6,0.1
+Import/Export tests serialize / deserialize,0.006,Import/Export,6,0.1
+Import/Export tests serialize / deserialize,0.006,Import/Export,2,0.082
+Import/Export tests serialize / deserialize,0.003,Import/Export,2,0.082
+Import/Export tests serialize / deserialize,0.004,Import/Export,2,0.057
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.057
+Import/Export tests serialize / deserialize,0.01,Import/Export,1,0.076
+Import/Export tests serialize / deserialize,0.006,Import/Export,1,0.063
+Validate the Application Tests checkText,0.125,Validate the Application,21,4.445
+Validate the fileReader tests reading the cities sample,0.009,Validate the fileReader,9,2.507
+Validate the fileReader tests streamFileLineByLineAsync,0.012,Validate the fileReader,9,2.507
+Validate the fileReader tests streamFileLineByLineAsync 2,0.004,Validate the fileReader,9,2.507
+Validate the writer tests writing data and reading it back.,0.04,Validate the writer,4,0.242
+Validate the writer tests writing data and reading it back. gz,0.042,Validate the writer,4,0.242
+Validate the writer tests writeToFile,0.005,Validate the writer,4,0.242
+Validate the writer tests writeToFile zip,0.006,Validate the writer,4,0.242
+Validate the wordListCompiler test reading and normalizing a file,0.012,Validate the wordListCompiler,10,3.354
+Validate the wordListCompiler test compiling to a file without split,0.011,Validate the wordListCompiler,10,3.354
+Validate the wordListCompiler test reading and normalizing to a trie file,0.022,Validate the wordListCompiler,10,3.354
+Validate the wordListCompiler test reading and normalizing to a trie gz file,0.027,Validate the wordListCompiler,10,3.354
+Validate the wordListCompiler test a simple hunspell dictionary depth 0,0.017,Validate the wordListCompiler,10,3.354
+Validate the wordListCompiler test a simple hunspell dictionary depth 1,0.003,Validate the wordListCompiler,10,3.354
+Validate the application test app compile-trie,0.009,Validate the application,12,0.272
+Validate the application test app compile-trie compress,0.004,Validate the application,12,0.272
+Validate the application test app compile-trie -o,0.008,Validate the application,12,0.272
+Validate the application test app compile,0.002,Validate the application,12,0.272
+Validate the application test app compile-trie max depth,0.004,Validate the application,12,0.272
+Validate the application test app compile-trie compound,0.005,Validate the application,12,0.272
+Validate the application test app compile compound,0.002,Validate the application,12,0.272
+Validate the application test app compile with compression,0.002,Validate the application,12,0.272
+Validate the application test app compile merge,0.008,Validate the application,12,0.272
+Import/Export tests serialize / deserialize small sample,0.007,Import/Export,6,3.398
+Import/Export tests serialize / deserialize specialCharacters,0.002,Import/Export,6,3.398
+Import/Export tests serialize / deserialize,0.012,Import/Export,6,3.398
+Import/Export tests serialize / deserialize,0.003,Import/Export,6,3.398
+Import/Export tests serialize / deserialize small sample,0.003,Import/Export,6,0.106
+Import/Export tests serialize / deserialize specialCharacters,0.001,Import/Export,6,0.106
+Import/Export tests serialize / deserialize,0.01,Import/Export,6,0.106
+Import/Export tests serialize / deserialize,0.007,Import/Export,6,0.106
+Import/Export tests serialize / deserialize,0.006,Import/Export,2,0.081
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.081
+Import/Export tests serialize / deserialize,0.004,Import/Export,2,0.054
+Import/Export tests serialize / deserialize,0.003,Import/Export,2,0.054
+Import/Export tests serialize / deserialize,0.012,Import/Export,1,0.084
+Import/Export tests serialize / deserialize,0.006,Import/Export,1,0.062
+Validate the Application Tests checkText,0.13,Validate the Application,21,4.458
+Validate the fileReader tests reading the cities sample,0.008,Validate the fileReader,9,2.432
+Validate the fileReader tests streamFileLineByLineAsync,0.009,Validate the fileReader,9,2.432
+Validate the fileReader tests streamFileLineByLineAsync 2,0.004,Validate the fileReader,9,2.432
+Validate the writer tests writing data and reading it back.,0.034,Validate the writer,4,0.242
+Validate the writer tests writing data and reading it back. gz,0.042,Validate the writer,4,0.242
+Validate the writer tests writeToFile,0.004,Validate the writer,4,0.242
+Validate the writer tests writeToFile zip,0.004,Validate the writer,4,0.242
+Validate the wordListCompiler test reading and normalizing a file,0.012,Validate the wordListCompiler,10,3.513
+Validate the wordListCompiler test compiling to a file without split,0.011,Validate the wordListCompiler,10,3.513
+Validate the wordListCompiler test reading and normalizing to a trie file,0.023,Validate the wordListCompiler,10,3.513
+Validate the wordListCompiler test reading and normalizing to a trie gz file,0.025,Validate the wordListCompiler,10,3.513
+Validate the wordListCompiler test a simple hunspell dictionary depth 0,0.013,Validate the wordListCompiler,10,3.513
+Validate the wordListCompiler test a simple hunspell dictionary depth 1,0.003,Validate the wordListCompiler,10,3.513
+Validate the application test app compile-trie,0.01,Validate the application,12,0.269
+Validate the application test app compile-trie compress,0.006,Validate the application,12,0.269
+Validate the application test app compile-trie -o,0.007,Validate the application,12,0.269
+Validate the application test app compile,0.002,Validate the application,12,0.269
+Validate the application test app compile-trie max depth,0.004,Validate the application,12,0.269
+Validate the application test app compile-trie compound,0.003,Validate the application,12,0.269
+Validate the application test app compile compound,0.002,Validate the application,12,0.269
+Validate the application test app compile with compression,0.002,Validate the application,12,0.269
+Validate the application test app compile merge,0.008,Validate the application,12,0.269
+Import/Export tests serialize / deserialize small sample,0.007,Import/Export,6,3.4
+Import/Export tests serialize / deserialize specialCharacters,0.001,Import/Export,6,3.4
+Import/Export tests serialize / deserialize,0.01,Import/Export,6,3.4
+Import/Export tests serialize / deserialize,0.003,Import/Export,6,3.4
+Import/Export tests serialize / deserialize small sample,0.003,Import/Export,6,0.098
+Import/Export tests serialize / deserialize specialCharacters,0.002,Import/Export,6,0.098
+Import/Export tests serialize / deserialize,0.011,Import/Export,6,0.098
+Import/Export tests serialize / deserialize,0.003,Import/Export,6,0.098
+Import/Export tests serialize / deserialize,0.006,Import/Export,2,0.084
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.084
+Import/Export tests serialize / deserialize,0.005,Import/Export,2,0.063
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.063
+Import/Export tests serialize / deserialize,0.007,Import/Export,1,0.073
+Import/Export tests serialize / deserialize,0.01,Import/Export,1,0.072
+Validate the Application Tests checkText,0.133,Validate the Application,21,4.47
+Validate the fileReader tests reading the cities sample,0.009,Validate the fileReader,9,2.526
+Validate the fileReader tests streamFileLineByLineAsync,0.014,Validate the fileReader,9,2.526
+Validate the fileReader tests streamFileLineByLineAsync 2,0.005,Validate the fileReader,9,2.526
+Validate the writer tests writing data and reading it back.,0.038,Validate the writer,4,0.259
+Validate the writer tests writing data and reading it back. gz,0.04,Validate the writer,4,0.259
+Validate the writer tests writeToFile,0.003,Validate the writer,4,0.259
+Validate the writer tests writeToFile zip,0.003,Validate the writer,4,0.259
+Validate the wordListCompiler test reading and normalizing a file,0.012,Validate the wordListCompiler,10,3.389
+Validate the wordListCompiler test compiling to a file without split,0.011,Validate the wordListCompiler,10,3.389
+Validate the wordListCompiler test reading and normalizing to a trie file,0.023,Validate the wordListCompiler,10,3.389
+Validate the wordListCompiler test reading and normalizing to a trie gz file,0.022,Validate the wordListCompiler,10,3.389
+Validate the wordListCompiler test a simple hunspell dictionary depth 0,0.013,Validate the wordListCompiler,10,3.389
+Validate the wordListCompiler test a simple hunspell dictionary depth 1,0.003,Validate the wordListCompiler,10,3.389
+Validate the application test app compile-trie,0.009,Validate the application,12,0.277
+Validate the application test app compile-trie compress,0.005,Validate the application,12,0.277
+Validate the application test app compile-trie -o,0.008,Validate the application,12,0.277
+Validate the application test app compile,0.002,Validate the application,12,0.277
+Validate the application test app compile-trie max depth,0.003,Validate the application,12,0.277
+Validate the application test app compile-trie compound,0.004,Validate the application,12,0.277
+Validate the application test app compile compound,0.001,Validate the application,12,0.277
+Validate the application test app compile with compression,0.002,Validate the application,12,0.277
+Validate the application test app compile merge,0.007,Validate the application,12,0.277
+Import/Export tests serialize / deserialize small sample,0.007,Import/Export,6,3.308
+Import/Export tests serialize / deserialize specialCharacters,0.002,Import/Export,6,3.308
+Import/Export tests serialize / deserialize,0.011,Import/Export,6,3.308
+Import/Export tests serialize / deserialize,0.004,Import/Export,6,3.308
+Import/Export tests serialize / deserialize small sample,0.003,Import/Export,6,0.097
+Import/Export tests serialize / deserialize specialCharacters,0.001,Import/Export,6,0.097
+Import/Export tests serialize / deserialize,0.01,Import/Export,6,0.097
+Import/Export tests serialize / deserialize,0.004,Import/Export,6,0.097
+Import/Export tests serialize / deserialize,0.005,Import/Export,2,0.085
+Import/Export tests serialize / deserialize,0.003,Import/Export,2,0.085
+Import/Export tests serialize / deserialize,0.005,Import/Export,2,0.065
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.065
+Import/Export tests serialize / deserialize,0.008,Import/Export,1,0.088
+Import/Export tests serialize / deserialize,0.009,Import/Export,1,0.067
+Validate the Application Tests checkText,0.125,Validate the Application,21,4.46
+Validate the fileReader tests reading the cities sample,0.009,Validate the fileReader,9,2.506
+Validate the fileReader tests streamFileLineByLineAsync,0.009,Validate the fileReader,9,2.506
+Validate the fileReader tests streamFileLineByLineAsync 2,0.005,Validate the fileReader,9,2.506
+Validate the writer tests writing data and reading it back.,0.034,Validate the writer,4,0.277
+Validate the writer tests writing data and reading it back. gz,0.043,Validate the writer,4,0.277
+Validate the writer tests writeToFile,0.002,Validate the writer,4,0.277
+Validate the writer tests writeToFile zip,0.003,Validate the writer,4,0.277
+Validate the wordListCompiler test reading and normalizing a file,0.012,Validate the wordListCompiler,10,3.374
+Validate the wordListCompiler test compiling to a file without split,0.012,Validate the wordListCompiler,10,3.374
+Validate the wordListCompiler test reading and normalizing to a trie file,0.022,Validate the wordListCompiler,10,3.374
+Validate the wordListCompiler test reading and normalizing to a trie gz file,0.022,Validate the wordListCompiler,10,3.374
+Validate the wordListCompiler test a simple hunspell dictionary depth 0,0.013,Validate the wordListCompiler,10,3.374
+Validate the wordListCompiler test a simple hunspell dictionary depth 1,0.004,Validate the wordListCompiler,10,3.374
+Validate the application test app compile-trie,0.008,Validate the application,12,0.254
+Validate the application test app compile-trie compress,0.005,Validate the application,12,0.254
+Validate the application test app compile-trie -o,0.003,Validate the application,12,0.254
+Validate the application test app compile,0.006,Validate the application,12,0.254
+Validate the application test app compile-trie max depth,0.003,Validate the application,12,0.254
+Validate the application test app compile-trie compound,0.004,Validate the application,12,0.254
+Validate the application test app compile compound,0.001,Validate the application,12,0.254
+Validate the application test app compile with compression,0.002,Validate the application,12,0.254
+Validate the application test app compile merge,0.007,Validate the application,12,0.254
+Import/Export tests serialize / deserialize small sample,0.009,Import/Export,6,3.291
+Import/Export tests serialize / deserialize specialCharacters,0.002,Import/Export,6,3.291
+Import/Export tests serialize / deserialize,0.01,Import/Export,6,3.291
+Import/Export tests serialize / deserialize,0.004,Import/Export,6,3.291
+Import/Export tests serialize / deserialize small sample,0.003,Import/Export,6,0.104
+Import/Export tests serialize / deserialize specialCharacters,0.001,Import/Export,6,0.104
+Import/Export tests serialize / deserialize,0.009,Import/Export,6,0.104
+Import/Export tests serialize / deserialize,0.003,Import/Export,6,0.104
+Import/Export tests serialize / deserialize,0.004,Import/Export,2,0.088
+Import/Export tests serialize / deserialize,0.002,Import/Export,2,0.088
+Import/Export tests serialize / deserialize,0.005,Import/Export,2,0.067
+Import/Export tests serialize / deserialize,0.003,Import/Export,2,0.067
+Import/Export tests serialize / deserialize,0.008,Import/Export,1,0.075
+Import/Export tests serialize / deserialize,0.009,Import/Export,1,0.088
+Validate the Application Tests checkText,0.127,Validate the Application,21,4.418

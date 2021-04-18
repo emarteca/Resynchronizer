@@ -1,0 +1,1800 @@
+ should not start server when no mount folder is defined,0.009,undefined,5,0.339
+ should stream logs to log dir,0.004,undefined,5,0.339
+Command: run should call missingConfigurationPrompt if no config found,0.003,Command: run,5,0.104
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.104
+Command: run should call launch if stdin isTTY = true,0.003,Command: run,5,0.104
+Command: run should start process if stdin isTTY = false,0.003,Command: run,5,0.104
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.074
+Appium launcher onPrepare should fail if Appium exits,0,Appium launcher,11,0.074
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.074
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.074
+Appium launcher _redirectLogStream should not write output to file,0.005,Appium launcher,11,0.074
+Appium launcher _redirectLogStream should write output to file,0.001,Appium launcher,11,0.074
+ should not start server when no mount folder is defined,0.008,undefined,5,0.328
+ should stream logs to log dir,0.003,undefined,5,0.328
+Command: run should call missingConfigurationPrompt if no config found,0.003,Command: run,5,0.099
+"Command: run should use Watcher if ""--watch"" flag is passed",0.003,Command: run,5,0.099
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.099
+Command: run should start process if stdin isTTY = false,0.001,Command: run,5,0.099
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.071
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.071
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.071
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.071
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.071
+Appium launcher _redirectLogStream should write output to file,0.004,Appium launcher,11,0.071
+ should not start server when no mount folder is defined,0.009,undefined,5,0.331
+ should stream logs to log dir,0.004,undefined,5,0.331
+Command: run should call missingConfigurationPrompt if no config found,0.002,Command: run,5,0.101
+"Command: run should use Watcher if ""--watch"" flag is passed",0.002,Command: run,5,0.101
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.101
+Command: run should start process if stdin isTTY = false,0.001,Command: run,5,0.101
+Appium launcher onPrepare should start Appium,0.001,Appium launcher,11,0.07
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.07
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.07
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.07
+Appium launcher _redirectLogStream should not write output to file,0.001,Appium launcher,11,0.07
+Appium launcher _redirectLogStream should write output to file,0.004,Appium launcher,11,0.07
+ should not start server when no mount folder is defined,0.009,undefined,5,0.336
+ should stream logs to log dir,0.004,undefined,5,0.336
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.101
+"Command: run should use Watcher if ""--watch"" flag is passed",0.003,Command: run,5,0.101
+Command: run should call launch if stdin isTTY = true,0.001,Command: run,5,0.101
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.101
+Appium launcher onPrepare should start Appium,0.001,Appium launcher,11,0.074
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.074
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.074
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.074
+Appium launcher _redirectLogStream should not write output to file,0.001,Appium launcher,11,0.074
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.074
+ should not start server when no mount folder is defined,0.011,undefined,5,0.414
+ should stream logs to log dir,0.005,undefined,5,0.414
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.123
+"Command: run should use Watcher if ""--watch"" flag is passed",0.003,Command: run,5,0.123
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.123
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.123
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.085
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.085
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.085
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.085
+Appium launcher _redirectLogStream should not write output to file,0.001,Appium launcher,11,0.085
+Appium launcher _redirectLogStream should write output to file,0.006,Appium launcher,11,0.085
+ should not start server when no mount folder is defined,0.011,undefined,5,0.412
+ should stream logs to log dir,0.003,undefined,5,0.412
+Command: run should call missingConfigurationPrompt if no config found,0.003,Command: run,5,0.124
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.124
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.124
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.124
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.084
+Appium launcher onPrepare should fail if Appium exits,0,Appium launcher,11,0.084
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.084
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.084
+Appium launcher _redirectLogStream should not write output to file,0.001,Appium launcher,11,0.084
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.084
+ should not start server when no mount folder is defined,0.011,undefined,5,0.406
+ should stream logs to log dir,0.004,undefined,5,0.406
+Command: run should call missingConfigurationPrompt if no config found,0.003,Command: run,5,0.119
+"Command: run should use Watcher if ""--watch"" flag is passed",0.005,Command: run,5,0.119
+Command: run should call launch if stdin isTTY = true,0.001,Command: run,5,0.119
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.119
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.088
+Appium launcher onPrepare should fail if Appium exits,0,Appium launcher,11,0.088
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.088
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.088
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.088
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.088
+ should not start server when no mount folder is defined,0.011,undefined,5,0.403
+ should stream logs to log dir,0.004,undefined,5,0.403
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.12
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.12
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.12
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.12
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.089
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.089
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.089
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.089
+Appium launcher _redirectLogStream should not write output to file,0.001,Appium launcher,11,0.089
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.089
+ should not start server when no mount folder is defined,0.011,undefined,5,0.401
+ should stream logs to log dir,0.005,undefined,5,0.401
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.121
+"Command: run should use Watcher if ""--watch"" flag is passed",0.005,Command: run,5,0.121
+Command: run should call launch if stdin isTTY = true,0.001,Command: run,5,0.121
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.121
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.09
+Appium launcher onPrepare should fail if Appium exits,0,Appium launcher,11,0.09
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.09
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.09
+Appium launcher _redirectLogStream should not write output to file,0.001,Appium launcher,11,0.09
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.09
+ should not start server when no mount folder is defined,0.01,undefined,5,0.4
+ should stream logs to log dir,0.004,undefined,5,0.4
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.118
+"Command: run should use Watcher if ""--watch"" flag is passed",0.003,Command: run,5,0.118
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.118
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.118
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.086
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.086
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.086
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.086
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.086
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.086
+ should not start server when no mount folder is defined,0.011,undefined,5,0.4
+ should stream logs to log dir,0.005,undefined,5,0.4
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.118
+"Command: run should use Watcher if ""--watch"" flag is passed",0.003,Command: run,5,0.118
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.118
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.118
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.085
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.085
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.085
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.085
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.085
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.085
+ should not start server when no mount folder is defined,0.011,undefined,5,0.41
+ should stream logs to log dir,0.005,undefined,5,0.41
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.124
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.124
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.124
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.124
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.085
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.085
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.085
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.085
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.085
+Appium launcher _redirectLogStream should write output to file,0.004,Appium launcher,11,0.085
+ should not start server when no mount folder is defined,0.01,undefined,5,0.408
+ should stream logs to log dir,0.005,undefined,5,0.408
+Command: run should call missingConfigurationPrompt if no config found,0.003,Command: run,5,0.127
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.127
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.127
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.127
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.092
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.092
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.092
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.092
+Appium launcher _redirectLogStream should not write output to file,0.005,Appium launcher,11,0.092
+Appium launcher _redirectLogStream should write output to file,0.003,Appium launcher,11,0.092
+ should not start server when no mount folder is defined,0.011,undefined,5,0.398
+ should stream logs to log dir,0.004,undefined,5,0.398
+Command: run should call missingConfigurationPrompt if no config found,0.003,Command: run,5,0.12
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.12
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.12
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.12
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.087
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.087
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.087
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.087
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.087
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.087
+ should not start server when no mount folder is defined,0.01,undefined,5,0.405
+ should stream logs to log dir,0.005,undefined,5,0.405
+Command: run should call missingConfigurationPrompt if no config found,0.003,Command: run,5,0.117
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.117
+Command: run should call launch if stdin isTTY = true,0.001,Command: run,5,0.117
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.117
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.087
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.087
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.087
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.087
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.087
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.087
+ should not start server when no mount folder is defined,0.01,undefined,5,0.4
+ should stream logs to log dir,0.004,undefined,5,0.4
+Command: run should call missingConfigurationPrompt if no config found,0.003,Command: run,5,0.119
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.119
+Command: run should call launch if stdin isTTY = true,0.001,Command: run,5,0.119
+Command: run should start process if stdin isTTY = false,0.003,Command: run,5,0.119
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.085
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.085
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.085
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.085
+Appium launcher _redirectLogStream should not write output to file,0.001,Appium launcher,11,0.085
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.085
+ should not start server when no mount folder is defined,0.01,undefined,5,0.405
+ should stream logs to log dir,0.004,undefined,5,0.405
+Command: run should call missingConfigurationPrompt if no config found,0.003,Command: run,5,0.117
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.117
+Command: run should call launch if stdin isTTY = true,0.001,Command: run,5,0.117
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.117
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.085
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.085
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.085
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.085
+Appium launcher _redirectLogStream should not write output to file,0.001,Appium launcher,11,0.085
+Appium launcher _redirectLogStream should write output to file,0.006,Appium launcher,11,0.085
+ should not start server when no mount folder is defined,0.011,undefined,5,0.403
+ should stream logs to log dir,0.004,undefined,5,0.403
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.118
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.118
+Command: run should call launch if stdin isTTY = true,0.001,Command: run,5,0.118
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.118
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.086
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.086
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.086
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.086
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.086
+Appium launcher _redirectLogStream should write output to file,0.004,Appium launcher,11,0.086
+ should not start server when no mount folder is defined,0.01,undefined,5,0.401
+ should stream logs to log dir,0.005,undefined,5,0.401
+Command: run should call missingConfigurationPrompt if no config found,0.003,Command: run,5,0.119
+"Command: run should use Watcher if ""--watch"" flag is passed",0.005,Command: run,5,0.119
+Command: run should call launch if stdin isTTY = true,0.001,Command: run,5,0.119
+Command: run should start process if stdin isTTY = false,0.003,Command: run,5,0.119
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.092
+Appium launcher onPrepare should fail if Appium exits,0,Appium launcher,11,0.092
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.092
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.092
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.092
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.092
+ should not start server when no mount folder is defined,0.011,undefined,5,0.401
+ should stream logs to log dir,0.004,undefined,5,0.401
+Command: run should call missingConfigurationPrompt if no config found,0.003,Command: run,5,0.118
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.118
+Command: run should call launch if stdin isTTY = true,0.001,Command: run,5,0.118
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.118
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.093
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.093
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.093
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.093
+Appium launcher _redirectLogStream should not write output to file,0.005,Appium launcher,11,0.093
+Appium launcher _redirectLogStream should write output to file,0.002,Appium launcher,11,0.093
+ should not start server when no mount folder is defined,0.01,undefined,5,0.401
+ should stream logs to log dir,0.004,undefined,5,0.401
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.124
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.124
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.124
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.124
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.086
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.086
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.086
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.086
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.086
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.086
+ should not start server when no mount folder is defined,0.01,undefined,5,0.405
+ should stream logs to log dir,0.005,undefined,5,0.405
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.123
+"Command: run should use Watcher if ""--watch"" flag is passed",0.003,Command: run,5,0.123
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.123
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.123
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.088
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.088
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.088
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.088
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.088
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.088
+ should not start server when no mount folder is defined,0.01,undefined,5,0.402
+ should stream logs to log dir,0.005,undefined,5,0.402
+Command: run should call missingConfigurationPrompt if no config found,0.003,Command: run,5,0.117
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.117
+Command: run should call launch if stdin isTTY = true,0.001,Command: run,5,0.117
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.117
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.085
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.085
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.085
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.085
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.085
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.085
+ should not start server when no mount folder is defined,0.011,undefined,5,0.397
+ should stream logs to log dir,0.004,undefined,5,0.397
+Command: run should call missingConfigurationPrompt if no config found,0.003,Command: run,5,0.117
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.117
+Command: run should call launch if stdin isTTY = true,0.001,Command: run,5,0.117
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.117
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.084
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.084
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.084
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.084
+Appium launcher _redirectLogStream should not write output to file,0.001,Appium launcher,11,0.084
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.084
+ should not start server when no mount folder is defined,0.011,undefined,5,0.405
+ should stream logs to log dir,0.004,undefined,5,0.405
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.125
+"Command: run should use Watcher if ""--watch"" flag is passed",0.005,Command: run,5,0.125
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.125
+Command: run should start process if stdin isTTY = false,0.004,Command: run,5,0.125
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.084
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.084
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.084
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.084
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.084
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.084
+ should not start server when no mount folder is defined,0.011,undefined,5,0.408
+ should stream logs to log dir,0.004,undefined,5,0.408
+Command: run should call missingConfigurationPrompt if no config found,0.003,Command: run,5,0.118
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.118
+Command: run should call launch if stdin isTTY = true,0.001,Command: run,5,0.118
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.118
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.09
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.09
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.09
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.09
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.09
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.09
+ should not start server when no mount folder is defined,0.011,undefined,5,0.406
+ should stream logs to log dir,0.005,undefined,5,0.406
+Command: run should call missingConfigurationPrompt if no config found,0.005,Command: run,5,0.122
+"Command: run should use Watcher if ""--watch"" flag is passed",0.003,Command: run,5,0.122
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.122
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.122
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.089
+Appium launcher onPrepare should fail if Appium exits,0,Appium launcher,11,0.089
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.089
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.089
+Appium launcher _redirectLogStream should not write output to file,0.001,Appium launcher,11,0.089
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.089
+ should not start server when no mount folder is defined,0.011,undefined,5,0.404
+ should stream logs to log dir,0.004,undefined,5,0.404
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.123
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.123
+Command: run should call launch if stdin isTTY = true,0.001,Command: run,5,0.123
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.123
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.085
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.085
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.085
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.085
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.085
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.085
+ should not start server when no mount folder is defined,0.011,undefined,5,0.409
+ should stream logs to log dir,0.004,undefined,5,0.409
+Command: run should call missingConfigurationPrompt if no config found,0.003,Command: run,5,0.124
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.124
+Command: run should call launch if stdin isTTY = true,0.001,Command: run,5,0.124
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.124
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.085
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.085
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.085
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.085
+Appium launcher _redirectLogStream should not write output to file,0.001,Appium launcher,11,0.085
+Appium launcher _redirectLogStream should write output to file,0.006,Appium launcher,11,0.085
+ should not start server when no mount folder is defined,0.011,undefined,5,0.404
+ should stream logs to log dir,0.004,undefined,5,0.404
+Command: run should call missingConfigurationPrompt if no config found,0.003,Command: run,5,0.124
+"Command: run should use Watcher if ""--watch"" flag is passed",0.005,Command: run,5,0.124
+Command: run should call launch if stdin isTTY = true,0.001,Command: run,5,0.124
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.124
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.083
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.083
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.083
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.083
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.083
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.083
+ should not start server when no mount folder is defined,0.011,undefined,5,0.399
+ should stream logs to log dir,0.005,undefined,5,0.399
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.122
+"Command: run should use Watcher if ""--watch"" flag is passed",0.003,Command: run,5,0.122
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.122
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.122
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.083
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.083
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.083
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.083
+Appium launcher _redirectLogStream should not write output to file,0.004,Appium launcher,11,0.083
+Appium launcher _redirectLogStream should write output to file,0.001,Appium launcher,11,0.083
+ should not start server when no mount folder is defined,0.011,undefined,5,0.405
+ should stream logs to log dir,0.004,undefined,5,0.405
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.121
+"Command: run should use Watcher if ""--watch"" flag is passed",0.003,Command: run,5,0.121
+Command: run should call launch if stdin isTTY = true,0.001,Command: run,5,0.121
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.121
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.089
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.089
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.089
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.089
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.089
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.089
+ should not start server when no mount folder is defined,0.01,undefined,5,0.408
+ should stream logs to log dir,0.006,undefined,5,0.408
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.121
+"Command: run should use Watcher if ""--watch"" flag is passed",0.005,Command: run,5,0.121
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.121
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.121
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.09
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.09
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.09
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.09
+Appium launcher _redirectLogStream should not write output to file,0.001,Appium launcher,11,0.09
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.09
+ should not start server when no mount folder is defined,0.01,undefined,5,0.407
+ should stream logs to log dir,0.005,undefined,5,0.407
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.123
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.123
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.123
+Command: run should start process if stdin isTTY = false,0.004,Command: run,5,0.123
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.086
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.086
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.086
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.086
+Appium launcher _redirectLogStream should not write output to file,0.001,Appium launcher,11,0.086
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.086
+ should not start server when no mount folder is defined,0.011,undefined,5,0.406
+ should stream logs to log dir,0.004,undefined,5,0.406
+Command: run should call missingConfigurationPrompt if no config found,0.005,Command: run,5,0.12
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.12
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.12
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.12
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.083
+Appium launcher onPrepare should fail if Appium exits,0,Appium launcher,11,0.083
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.083
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.083
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.083
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.083
+ should not start server when no mount folder is defined,0.01,undefined,5,0.407
+ should stream logs to log dir,0.005,undefined,5,0.407
+Command: run should call missingConfigurationPrompt if no config found,0.003,Command: run,5,0.127
+"Command: run should use Watcher if ""--watch"" flag is passed",0.006,Command: run,5,0.127
+Command: run should call launch if stdin isTTY = true,0.003,Command: run,5,0.127
+Command: run should start process if stdin isTTY = false,0.003,Command: run,5,0.127
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.085
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.085
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.085
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.085
+Appium launcher _redirectLogStream should not write output to file,0.005,Appium launcher,11,0.085
+Appium launcher _redirectLogStream should write output to file,0.002,Appium launcher,11,0.085
+ should not start server when no mount folder is defined,0.011,undefined,5,0.404
+ should stream logs to log dir,0.004,undefined,5,0.404
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.119
+"Command: run should use Watcher if ""--watch"" flag is passed",0.003,Command: run,5,0.119
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.119
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.119
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.089
+Appium launcher onPrepare should fail if Appium exits,0,Appium launcher,11,0.089
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.089
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.089
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.089
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.089
+ should not start server when no mount folder is defined,0.012,undefined,5,0.403
+ should stream logs to log dir,0.003,undefined,5,0.403
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.117
+"Command: run should use Watcher if ""--watch"" flag is passed",0.003,Command: run,5,0.117
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.117
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.117
+Appium launcher onPrepare should start Appium,0.003,Appium launcher,11,0.083
+Appium launcher onPrepare should fail if Appium exits,0,Appium launcher,11,0.083
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.083
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.083
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.083
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.083
+ should not start server when no mount folder is defined,0.01,undefined,5,0.396
+ should stream logs to log dir,0.004,undefined,5,0.396
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.116
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.116
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.116
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.116
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.082
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.082
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.082
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.082
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.082
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.082
+ should not start server when no mount folder is defined,0.011,undefined,5,0.406
+ should stream logs to log dir,0.004,undefined,5,0.406
+Command: run should call missingConfigurationPrompt if no config found,0.003,Command: run,5,0.124
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.124
+Command: run should call launch if stdin isTTY = true,0.003,Command: run,5,0.124
+Command: run should start process if stdin isTTY = false,0.003,Command: run,5,0.124
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.084
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.084
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.084
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.084
+Appium launcher _redirectLogStream should not write output to file,0.001,Appium launcher,11,0.084
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.084
+ should not start server when no mount folder is defined,0.01,undefined,5,0.402
+ should stream logs to log dir,0.005,undefined,5,0.402
+Command: run should call missingConfigurationPrompt if no config found,0.003,Command: run,5,0.117
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.117
+Command: run should call launch if stdin isTTY = true,0.001,Command: run,5,0.117
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.117
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.084
+Appium launcher onPrepare should fail if Appium exits,0,Appium launcher,11,0.084
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.084
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.084
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.084
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.084
+ should not start server when no mount folder is defined,0.01,undefined,5,0.401
+ should stream logs to log dir,0.006,undefined,5,0.401
+Command: run should call missingConfigurationPrompt if no config found,0.003,Command: run,5,0.12
+"Command: run should use Watcher if ""--watch"" flag is passed",0.005,Command: run,5,0.12
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.12
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.12
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.091
+Appium launcher onPrepare should fail if Appium exits,0,Appium launcher,11,0.091
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.091
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.091
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.091
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.091
+ should not start server when no mount folder is defined,0.01,undefined,5,0.404
+ should stream logs to log dir,0.006,undefined,5,0.404
+Command: run should call missingConfigurationPrompt if no config found,0.003,Command: run,5,0.118
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.118
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.118
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.118
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.092
+Appium launcher onPrepare should fail if Appium exits,0,Appium launcher,11,0.092
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.092
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.092
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.092
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.092
+ should not start server when no mount folder is defined,0.01,undefined,5,0.401
+ should stream logs to log dir,0.004,undefined,5,0.401
+Command: run should call missingConfigurationPrompt if no config found,0.003,Command: run,5,0.121
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.121
+Command: run should call launch if stdin isTTY = true,0.001,Command: run,5,0.121
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.121
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.085
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.085
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.085
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.085
+Appium launcher _redirectLogStream should not write output to file,0.001,Appium launcher,11,0.085
+Appium launcher _redirectLogStream should write output to file,0.006,Appium launcher,11,0.085
+ should not start server when no mount folder is defined,0.01,undefined,5,0.397
+ should stream logs to log dir,0.004,undefined,5,0.397
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.118
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.118
+Command: run should call launch if stdin isTTY = true,0.001,Command: run,5,0.118
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.118
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.082
+Appium launcher onPrepare should fail if Appium exits,0,Appium launcher,11,0.082
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.082
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.082
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.082
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.082
+ should not start server when no mount folder is defined,0.01,undefined,5,0.403
+ should stream logs to log dir,0.004,undefined,5,0.403
+Command: run should call missingConfigurationPrompt if no config found,0.003,Command: run,5,0.119
+"Command: run should use Watcher if ""--watch"" flag is passed",0.003,Command: run,5,0.119
+Command: run should call launch if stdin isTTY = true,0.001,Command: run,5,0.119
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.119
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.084
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.084
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.084
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.084
+Appium launcher _redirectLogStream should not write output to file,0.001,Appium launcher,11,0.084
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.084
+ should not start server when no mount folder is defined,0.01,undefined,5,0.401
+ should stream logs to log dir,0.005,undefined,5,0.401
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.122
+"Command: run should use Watcher if ""--watch"" flag is passed",0.003,Command: run,5,0.122
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.122
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.122
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.089
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.089
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.089
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.089
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.089
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.089
+ should not start server when no mount folder is defined,0.01,undefined,5,0.406
+ should stream logs to log dir,0.004,undefined,5,0.406
+Command: run should call missingConfigurationPrompt if no config found,0.005,Command: run,5,0.12
+"Command: run should use Watcher if ""--watch"" flag is passed",0.003,Command: run,5,0.12
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.12
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.12
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.082
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.082
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.082
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.082
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.082
+Appium launcher _redirectLogStream should write output to file,0.002,Appium launcher,11,0.082
+ should not start server when no mount folder is defined,0.011,undefined,5,0.404
+ should stream logs to log dir,0.005,undefined,5,0.404
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.121
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.121
+Command: run should call launch if stdin isTTY = true,0.001,Command: run,5,0.121
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.121
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.086
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.086
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.086
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.086
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.086
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.086
+ should not start server when no mount folder is defined,0.01,undefined,5,0.408
+ should stream logs to log dir,0.004,undefined,5,0.408
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.121
+"Command: run should use Watcher if ""--watch"" flag is passed",0.003,Command: run,5,0.121
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.121
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.121
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.087
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.087
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.087
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.087
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.087
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.087
+ should not start server when no mount folder is defined,0.011,undefined,5,0.394
+ should stream logs to log dir,0.004,undefined,5,0.394
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.12
+"Command: run should use Watcher if ""--watch"" flag is passed",0.003,Command: run,5,0.12
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.12
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.12
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.086
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.086
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.086
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.086
+Appium launcher _redirectLogStream should not write output to file,0.001,Appium launcher,11,0.086
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.086
+ should not start server when no mount folder is defined,0.01,undefined,5,0.4
+ should stream logs to log dir,0.004,undefined,5,0.4
+Command: run should call missingConfigurationPrompt if no config found,0.003,Command: run,5,0.126
+"Command: run should use Watcher if ""--watch"" flag is passed",0.005,Command: run,5,0.126
+Command: run should call launch if stdin isTTY = true,0.003,Command: run,5,0.126
+Command: run should start process if stdin isTTY = false,0.003,Command: run,5,0.126
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.092
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.092
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.092
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.092
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.092
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.092
+ should not start server when no mount folder is defined,0.011,undefined,5,0.406
+ should stream logs to log dir,0.005,undefined,5,0.406
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.118
+"Command: run should use Watcher if ""--watch"" flag is passed",0.003,Command: run,5,0.118
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.118
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.118
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.085
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.085
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.085
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.085
+Appium launcher _redirectLogStream should not write output to file,0.001,Appium launcher,11,0.085
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.085
+ should not start server when no mount folder is defined,0.01,undefined,5,0.404
+ should stream logs to log dir,0.005,undefined,5,0.404
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.128
+"Command: run should use Watcher if ""--watch"" flag is passed",0.006,Command: run,5,0.128
+Command: run should call launch if stdin isTTY = true,0.003,Command: run,5,0.128
+Command: run should start process if stdin isTTY = false,0.003,Command: run,5,0.128
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.084
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.084
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.084
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.084
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.084
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.084
+ should not start server when no mount folder is defined,0.012,undefined,5,0.405
+ should stream logs to log dir,0.003,undefined,5,0.405
+Command: run should call missingConfigurationPrompt if no config found,0.003,Command: run,5,0.12
+"Command: run should use Watcher if ""--watch"" flag is passed",0.005,Command: run,5,0.12
+Command: run should call launch if stdin isTTY = true,0.001,Command: run,5,0.12
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.12
+Appium launcher onPrepare should start Appium,0.003,Appium launcher,11,0.083
+Appium launcher onPrepare should fail if Appium exits,0,Appium launcher,11,0.083
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.083
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.083
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.083
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.083
+ should not start server when no mount folder is defined,0.011,undefined,5,0.401
+ should stream logs to log dir,0.005,undefined,5,0.401
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.119
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.119
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.119
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.119
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.086
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.086
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.086
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.086
+Appium launcher _redirectLogStream should not write output to file,0.001,Appium launcher,11,0.086
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.086
+ should not start server when no mount folder is defined,0.01,undefined,5,0.403
+ should stream logs to log dir,0.005,undefined,5,0.403
+Command: run should call missingConfigurationPrompt if no config found,0.003,Command: run,5,0.122
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.122
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.122
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.122
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.085
+Appium launcher onPrepare should fail if Appium exits,0,Appium launcher,11,0.085
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.085
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.085
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.085
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.085
+ should not start server when no mount folder is defined,0.011,undefined,5,0.411
+ should stream logs to log dir,0.004,undefined,5,0.411
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.127
+"Command: run should use Watcher if ""--watch"" flag is passed",0.005,Command: run,5,0.127
+Command: run should call launch if stdin isTTY = true,0.003,Command: run,5,0.127
+Command: run should start process if stdin isTTY = false,0.003,Command: run,5,0.127
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.085
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.085
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.085
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.085
+Appium launcher _redirectLogStream should not write output to file,0.001,Appium launcher,11,0.085
+Appium launcher _redirectLogStream should write output to file,0.006,Appium launcher,11,0.085
+ should not start server when no mount folder is defined,0.011,undefined,5,0.403
+ should stream logs to log dir,0.004,undefined,5,0.403
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.119
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.119
+Command: run should call launch if stdin isTTY = true,0.001,Command: run,5,0.119
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.119
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.093
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.093
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.093
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.093
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.093
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.093
+ should not start server when no mount folder is defined,0.011,undefined,5,0.4
+ should stream logs to log dir,0.004,undefined,5,0.4
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.121
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.121
+Command: run should call launch if stdin isTTY = true,0.001,Command: run,5,0.121
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.121
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.083
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.083
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.083
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.083
+Appium launcher _redirectLogStream should not write output to file,0.005,Appium launcher,11,0.083
+Appium launcher _redirectLogStream should write output to file,0.002,Appium launcher,11,0.083
+ should not start server when no mount folder is defined,0.011,undefined,5,0.402
+ should stream logs to log dir,0.004,undefined,5,0.402
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.126
+"Command: run should use Watcher if ""--watch"" flag is passed",0.005,Command: run,5,0.126
+Command: run should call launch if stdin isTTY = true,0.003,Command: run,5,0.126
+Command: run should start process if stdin isTTY = false,0.003,Command: run,5,0.126
+Appium launcher onPrepare should start Appium,0.003,Appium launcher,11,0.09
+Appium launcher onPrepare should fail if Appium exits,0,Appium launcher,11,0.09
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.09
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.09
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.09
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.09
+ should not start server when no mount folder is defined,0.011,undefined,5,0.409
+ should stream logs to log dir,0.004,undefined,5,0.409
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.126
+"Command: run should use Watcher if ""--watch"" flag is passed",0.005,Command: run,5,0.126
+Command: run should call launch if stdin isTTY = true,0.003,Command: run,5,0.126
+Command: run should start process if stdin isTTY = false,0.004,Command: run,5,0.126
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.085
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.085
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.085
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.085
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.085
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.085
+ should not start server when no mount folder is defined,0.01,undefined,5,0.403
+ should stream logs to log dir,0.005,undefined,5,0.403
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.123
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.123
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.123
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.123
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.084
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.084
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.084
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.084
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.084
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.084
+ should not start server when no mount folder is defined,0.01,undefined,5,0.401
+ should stream logs to log dir,0.004,undefined,5,0.401
+Command: run should call missingConfigurationPrompt if no config found,0.003,Command: run,5,0.117
+"Command: run should use Watcher if ""--watch"" flag is passed",0.003,Command: run,5,0.117
+Command: run should call launch if stdin isTTY = true,0.001,Command: run,5,0.117
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.117
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.082
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.082
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.082
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.082
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.082
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.082
+ should not start server when no mount folder is defined,0.01,undefined,5,0.406
+ should stream logs to log dir,0.004,undefined,5,0.406
+Command: run should call missingConfigurationPrompt if no config found,0.005,Command: run,5,0.131
+"Command: run should use Watcher if ""--watch"" flag is passed",0.005,Command: run,5,0.131
+Command: run should call launch if stdin isTTY = true,0.003,Command: run,5,0.131
+Command: run should start process if stdin isTTY = false,0.003,Command: run,5,0.131
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.091
+Appium launcher onPrepare should fail if Appium exits,0,Appium launcher,11,0.091
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.091
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.091
+Appium launcher _redirectLogStream should not write output to file,0.005,Appium launcher,11,0.091
+Appium launcher _redirectLogStream should write output to file,0.002,Appium launcher,11,0.091
+ should not start server when no mount folder is defined,0.011,undefined,5,0.397
+ should stream logs to log dir,0.003,undefined,5,0.397
+Command: run should call missingConfigurationPrompt if no config found,0.003,Command: run,5,0.118
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.118
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.118
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.118
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.081
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.081
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.081
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.081
+Appium launcher _redirectLogStream should not write output to file,0.001,Appium launcher,11,0.081
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.081
+ should not start server when no mount folder is defined,0.01,undefined,5,0.401
+ should stream logs to log dir,0.005,undefined,5,0.401
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.124
+"Command: run should use Watcher if ""--watch"" flag is passed",0.003,Command: run,5,0.124
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.124
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.124
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.089
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.089
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.089
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.089
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.089
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.089
+ should not start server when no mount folder is defined,0.01,undefined,5,0.41
+ should stream logs to log dir,0.005,undefined,5,0.41
+Command: run should call missingConfigurationPrompt if no config found,0.003,Command: run,5,0.118
+"Command: run should use Watcher if ""--watch"" flag is passed",0.005,Command: run,5,0.118
+Command: run should call launch if stdin isTTY = true,0.001,Command: run,5,0.118
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.118
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.085
+Appium launcher onPrepare should fail if Appium exits,0,Appium launcher,11,0.085
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.085
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.085
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.085
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.085
+ should not start server when no mount folder is defined,0.01,undefined,5,0.4
+ should stream logs to log dir,0.005,undefined,5,0.4
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.119
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.119
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.119
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.119
+Appium launcher onPrepare should start Appium,0.003,Appium launcher,11,0.091
+Appium launcher onPrepare should fail if Appium exits,0,Appium launcher,11,0.091
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.091
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.091
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.091
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.091
+ should not start server when no mount folder is defined,0.011,undefined,5,0.41
+ should stream logs to log dir,0.004,undefined,5,0.41
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.124
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.124
+Command: run should call launch if stdin isTTY = true,0.003,Command: run,5,0.124
+Command: run should start process if stdin isTTY = false,0.004,Command: run,5,0.124
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.091
+Appium launcher onPrepare should fail if Appium exits,0,Appium launcher,11,0.091
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.091
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.091
+Appium launcher _redirectLogStream should not write output to file,0.001,Appium launcher,11,0.091
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.091
+ should not start server when no mount folder is defined,0.01,undefined,5,0.401
+ should stream logs to log dir,0.005,undefined,5,0.401
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.118
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.118
+Command: run should call launch if stdin isTTY = true,0.001,Command: run,5,0.118
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.118
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.085
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.085
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.085
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.085
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.085
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.085
+ should not start server when no mount folder is defined,0.011,undefined,5,0.403
+ should stream logs to log dir,0.004,undefined,5,0.403
+Command: run should call missingConfigurationPrompt if no config found,0.003,Command: run,5,0.119
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.119
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.119
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.119
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.087
+Appium launcher onPrepare should fail if Appium exits,0,Appium launcher,11,0.087
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.087
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.087
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.087
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.087
+ should not start server when no mount folder is defined,0.011,undefined,5,0.405
+ should stream logs to log dir,0.004,undefined,5,0.405
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.124
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.124
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.124
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.124
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.079
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.079
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.079
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.079
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.079
+Appium launcher _redirectLogStream should write output to file,0.002,Appium launcher,11,0.079
+ should not start server when no mount folder is defined,0.011,undefined,5,0.405
+ should stream logs to log dir,0.003,undefined,5,0.405
+Command: run should call missingConfigurationPrompt if no config found,0.003,Command: run,5,0.124
+"Command: run should use Watcher if ""--watch"" flag is passed",0.005,Command: run,5,0.124
+Command: run should call launch if stdin isTTY = true,0.003,Command: run,5,0.124
+Command: run should start process if stdin isTTY = false,0.003,Command: run,5,0.124
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.085
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.085
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.085
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.085
+Appium launcher _redirectLogStream should not write output to file,0.001,Appium launcher,11,0.085
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.085
+ should not start server when no mount folder is defined,0.011,undefined,5,0.4
+ should stream logs to log dir,0.005,undefined,5,0.4
+Command: run should call missingConfigurationPrompt if no config found,0.003,Command: run,5,0.122
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.122
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.122
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.122
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.085
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.085
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.085
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.085
+Appium launcher _redirectLogStream should not write output to file,0.001,Appium launcher,11,0.085
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.085
+ should not start server when no mount folder is defined,0.011,undefined,5,0.401
+ should stream logs to log dir,0.004,undefined,5,0.401
+Command: run should call missingConfigurationPrompt if no config found,0.003,Command: run,5,0.119
+"Command: run should use Watcher if ""--watch"" flag is passed",0.003,Command: run,5,0.119
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.119
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.119
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.086
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.086
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.086
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.086
+Appium launcher _redirectLogStream should not write output to file,0.001,Appium launcher,11,0.086
+Appium launcher _redirectLogStream should write output to file,0.006,Appium launcher,11,0.086
+ should not start server when no mount folder is defined,0.01,undefined,5,0.416
+ should stream logs to log dir,0.005,undefined,5,0.416
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.123
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.123
+Command: run should call launch if stdin isTTY = true,0.001,Command: run,5,0.123
+Command: run should start process if stdin isTTY = false,0.003,Command: run,5,0.123
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.089
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.089
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.089
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.089
+Appium launcher _redirectLogStream should not write output to file,0.001,Appium launcher,11,0.089
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.089
+ should not start server when no mount folder is defined,0.011,undefined,5,0.409
+ should stream logs to log dir,0.004,undefined,5,0.409
+Command: run should call missingConfigurationPrompt if no config found,0.003,Command: run,5,0.123
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.123
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.123
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.123
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.086
+Appium launcher onPrepare should fail if Appium exits,0,Appium launcher,11,0.086
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.086
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.086
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.086
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.086
+ should not start server when no mount folder is defined,0.01,undefined,5,0.405
+ should stream logs to log dir,0.005,undefined,5,0.405
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.116
+"Command: run should use Watcher if ""--watch"" flag is passed",0.003,Command: run,5,0.116
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.116
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.116
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.081
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.081
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.081
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.081
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.081
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.081
+ should not start server when no mount folder is defined,0.013,undefined,5,0.401
+ should stream logs to log dir,0.005,undefined,5,0.401
+Command: run should call missingConfigurationPrompt if no config found,0.003,Command: run,5,0.118
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.118
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.118
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.118
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.085
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.085
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.085
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.085
+Appium launcher _redirectLogStream should not write output to file,0.001,Appium launcher,11,0.085
+Appium launcher _redirectLogStream should write output to file,0.006,Appium launcher,11,0.085
+ should not start server when no mount folder is defined,0.011,undefined,5,0.397
+ should stream logs to log dir,0.004,undefined,5,0.397
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.115
+"Command: run should use Watcher if ""--watch"" flag is passed",0.003,Command: run,5,0.115
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.115
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.115
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.082
+Appium launcher onPrepare should fail if Appium exits,0,Appium launcher,11,0.082
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.082
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.082
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.082
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.082
+ should not start server when no mount folder is defined,0.011,undefined,5,0.403
+ should stream logs to log dir,0.005,undefined,5,0.403
+Command: run should call missingConfigurationPrompt if no config found,0.003,Command: run,5,0.117
+"Command: run should use Watcher if ""--watch"" flag is passed",0.003,Command: run,5,0.117
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.117
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.117
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.083
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.083
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.083
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.083
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.083
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.083
+ should not start server when no mount folder is defined,0.011,undefined,5,0.4
+ should stream logs to log dir,0.005,undefined,5,0.4
+Command: run should call missingConfigurationPrompt if no config found,0.003,Command: run,5,0.116
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.116
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.116
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.116
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.08
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.08
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.08
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.08
+Appium launcher _redirectLogStream should not write output to file,0.005,Appium launcher,11,0.08
+Appium launcher _redirectLogStream should write output to file,0.002,Appium launcher,11,0.08
+ should not start server when no mount folder is defined,0.01,undefined,5,0.407
+ should stream logs to log dir,0.005,undefined,5,0.407
+Command: run should call missingConfigurationPrompt if no config found,0.003,Command: run,5,0.12
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.12
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.12
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.12
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.083
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.083
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.083
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.083
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.083
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.083
+ should not start server when no mount folder is defined,0.01,undefined,5,0.405
+ should stream logs to log dir,0.004,undefined,5,0.405
+Command: run should call missingConfigurationPrompt if no config found,0.003,Command: run,5,0.124
+"Command: run should use Watcher if ""--watch"" flag is passed",0.006,Command: run,5,0.124
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.124
+Command: run should start process if stdin isTTY = false,0.003,Command: run,5,0.124
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.082
+Appium launcher onPrepare should fail if Appium exits,0,Appium launcher,11,0.082
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.082
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.082
+Appium launcher _redirectLogStream should not write output to file,0.005,Appium launcher,11,0.082
+Appium launcher _redirectLogStream should write output to file,0.002,Appium launcher,11,0.082
+ should not start server when no mount folder is defined,0.011,undefined,5,0.402
+ should stream logs to log dir,0.005,undefined,5,0.402
+Command: run should call missingConfigurationPrompt if no config found,0.003,Command: run,5,0.12
+"Command: run should use Watcher if ""--watch"" flag is passed",0.003,Command: run,5,0.12
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.12
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.12
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.081
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.081
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.081
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.081
+Appium launcher _redirectLogStream should not write output to file,0.001,Appium launcher,11,0.081
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.081
+ should not start server when no mount folder is defined,0.011,undefined,5,0.42
+ should stream logs to log dir,0.005,undefined,5,0.42
+Command: run should call missingConfigurationPrompt if no config found,0.003,Command: run,5,0.121
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.121
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.121
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.121
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.087
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.087
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.087
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.087
+Appium launcher _redirectLogStream should not write output to file,0.001,Appium launcher,11,0.087
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.087
+ should not start server when no mount folder is defined,0.011,undefined,5,0.416
+ should stream logs to log dir,0.004,undefined,5,0.416
+Command: run should call missingConfigurationPrompt if no config found,0.003,Command: run,5,0.123
+"Command: run should use Watcher if ""--watch"" flag is passed",0.005,Command: run,5,0.123
+Command: run should call launch if stdin isTTY = true,0.003,Command: run,5,0.123
+Command: run should start process if stdin isTTY = false,0.003,Command: run,5,0.123
+Appium launcher onPrepare should start Appium,0.003,Appium launcher,11,0.093
+Appium launcher onPrepare should fail if Appium exits,0,Appium launcher,11,0.093
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.093
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.093
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.093
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.093
+ should not start server when no mount folder is defined,0.011,undefined,5,0.413
+ should stream logs to log dir,0.005,undefined,5,0.413
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.121
+"Command: run should use Watcher if ""--watch"" flag is passed",0.003,Command: run,5,0.121
+Command: run should call launch if stdin isTTY = true,0.001,Command: run,5,0.121
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.121
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.082
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.082
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.082
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.082
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.082
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.082
+ should not start server when no mount folder is defined,0.01,undefined,5,0.401
+ should stream logs to log dir,0.004,undefined,5,0.401
+Command: run should call missingConfigurationPrompt if no config found,0.005,Command: run,5,0.116
+"Command: run should use Watcher if ""--watch"" flag is passed",0.003,Command: run,5,0.116
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.116
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.116
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.081
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.081
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.081
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.081
+Appium launcher _redirectLogStream should not write output to file,0.001,Appium launcher,11,0.081
+Appium launcher _redirectLogStream should write output to file,0.006,Appium launcher,11,0.081
+ should not start server when no mount folder is defined,0.011,undefined,5,0.399
+ should stream logs to log dir,0.005,undefined,5,0.399
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.116
+"Command: run should use Watcher if ""--watch"" flag is passed",0.003,Command: run,5,0.116
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.116
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.116
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.09
+Appium launcher onPrepare should fail if Appium exits,0,Appium launcher,11,0.09
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.09
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.09
+Appium launcher _redirectLogStream should not write output to file,0.001,Appium launcher,11,0.09
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.09
+ should not start server when no mount folder is defined,0.011,undefined,5,0.408
+ should stream logs to log dir,0.005,undefined,5,0.408
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.122
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.122
+Command: run should call launch if stdin isTTY = true,0.001,Command: run,5,0.122
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.122
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.082
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.082
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.082
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.082
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.082
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.082
+ should not start server when no mount folder is defined,0.011,undefined,5,0.393
+ should stream logs to log dir,0.004,undefined,5,0.393
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.115
+"Command: run should use Watcher if ""--watch"" flag is passed",0.003,Command: run,5,0.115
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.115
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.115
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.082
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.082
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.082
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.082
+Appium launcher _redirectLogStream should not write output to file,0.001,Appium launcher,11,0.082
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.082
+ should not start server when no mount folder is defined,0.01,undefined,5,0.403
+ should stream logs to log dir,0.005,undefined,5,0.403
+Command: run should call missingConfigurationPrompt if no config found,0.003,Command: run,5,0.117
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.117
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.117
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.117
+Appium launcher onPrepare should start Appium,0.003,Appium launcher,11,0.081
+Appium launcher onPrepare should fail if Appium exits,0,Appium launcher,11,0.081
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.081
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.081
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.081
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.081
+ should not start server when no mount folder is defined,0.011,undefined,5,0.405
+ should stream logs to log dir,0.005,undefined,5,0.405
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.118
+"Command: run should use Watcher if ""--watch"" flag is passed",0.003,Command: run,5,0.118
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.118
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.118
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.083
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.083
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.083
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.083
+Appium launcher _redirectLogStream should not write output to file,0.001,Appium launcher,11,0.083
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.083
+ should not start server when no mount folder is defined,0.011,undefined,5,0.405
+ should stream logs to log dir,0.004,undefined,5,0.405
+Command: run should call missingConfigurationPrompt if no config found,0.003,Command: run,5,0.119
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.119
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.119
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.119
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.082
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.082
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.082
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.082
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.082
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.082
+ should not start server when no mount folder is defined,0.01,undefined,5,0.405
+ should stream logs to log dir,0.005,undefined,5,0.405
+Command: run should call missingConfigurationPrompt if no config found,0.003,Command: run,5,0.118
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.118
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.118
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.118
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.084
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.084
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.084
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.084
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.084
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.084
+ should not start server when no mount folder is defined,0.011,undefined,5,0.407
+ should stream logs to log dir,0.004,undefined,5,0.407
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.123
+"Command: run should use Watcher if ""--watch"" flag is passed",0.003,Command: run,5,0.123
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.123
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.123
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.083
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.083
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.083
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.083
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.083
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.083
+ should not start server when no mount folder is defined,0.011,undefined,5,0.4
+ should stream logs to log dir,0.004,undefined,5,0.4
+Command: run should call missingConfigurationPrompt if no config found,0.003,Command: run,5,0.116
+"Command: run should use Watcher if ""--watch"" flag is passed",0.003,Command: run,5,0.116
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.116
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.116
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.083
+Appium launcher onPrepare should fail if Appium exits,0,Appium launcher,11,0.083
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.083
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.083
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.083
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.083
+ should not start server when no mount folder is defined,0.01,undefined,5,0.407
+ should stream logs to log dir,0.005,undefined,5,0.407
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.12
+"Command: run should use Watcher if ""--watch"" flag is passed",0.003,Command: run,5,0.12
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.12
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.12
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.091
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.091
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.091
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.091
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.091
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.091
+ should not start server when no mount folder is defined,0.01,undefined,5,0.404
+ should stream logs to log dir,0.005,undefined,5,0.404
+Command: run should call missingConfigurationPrompt if no config found,0.003,Command: run,5,0.117
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.117
+Command: run should call launch if stdin isTTY = true,0.001,Command: run,5,0.117
+Command: run should start process if stdin isTTY = false,0.003,Command: run,5,0.117
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.083
+Appium launcher onPrepare should fail if Appium exits,0,Appium launcher,11,0.083
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.083
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.083
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.083
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.083
+ should not start server when no mount folder is defined,0.01,undefined,5,0.4
+ should stream logs to log dir,0.004,undefined,5,0.4
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.118
+"Command: run should use Watcher if ""--watch"" flag is passed",0.003,Command: run,5,0.118
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.118
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.118
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.084
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.084
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.084
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.084
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.084
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.084
+ should not start server when no mount folder is defined,0.01,undefined,5,0.405
+ should stream logs to log dir,0.004,undefined,5,0.405
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.118
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.118
+Command: run should call launch if stdin isTTY = true,0.001,Command: run,5,0.118
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.118
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.084
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.084
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.084
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.084
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.084
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.084
+ should not start server when no mount folder is defined,0.01,undefined,5,0.411
+ should stream logs to log dir,0.005,undefined,5,0.411
+Command: run should call missingConfigurationPrompt if no config found,0.003,Command: run,5,0.125
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.125
+Command: run should call launch if stdin isTTY = true,0.001,Command: run,5,0.125
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.125
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.085
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.085
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.085
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.085
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.085
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.085
+ should not start server when no mount folder is defined,0.011,undefined,5,0.403
+ should stream logs to log dir,0.005,undefined,5,0.403
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.119
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.119
+Command: run should call launch if stdin isTTY = true,0.001,Command: run,5,0.119
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.119
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.093
+Appium launcher onPrepare should fail if Appium exits,0,Appium launcher,11,0.093
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.093
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.093
+Appium launcher _redirectLogStream should not write output to file,0.001,Appium launcher,11,0.093
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.093
+ should not start server when no mount folder is defined,0.01,undefined,5,0.403
+ should stream logs to log dir,0.004,undefined,5,0.403
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.122
+"Command: run should use Watcher if ""--watch"" flag is passed",0.003,Command: run,5,0.122
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.122
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.122
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.089
+Appium launcher onPrepare should fail if Appium exits,0,Appium launcher,11,0.089
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.089
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.089
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.089
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.089
+ should not start server when no mount folder is defined,0.01,undefined,5,0.403
+ should stream logs to log dir,0.005,undefined,5,0.403
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.118
+"Command: run should use Watcher if ""--watch"" flag is passed",0.003,Command: run,5,0.118
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.118
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.118
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.086
+Appium launcher onPrepare should fail if Appium exits,0,Appium launcher,11,0.086
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.086
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.086
+Appium launcher _redirectLogStream should not write output to file,0.001,Appium launcher,11,0.086
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.086
+ should not start server when no mount folder is defined,0.01,undefined,5,0.407
+ should stream logs to log dir,0.004,undefined,5,0.407
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.124
+"Command: run should use Watcher if ""--watch"" flag is passed",0.003,Command: run,5,0.124
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.124
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.124
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.088
+Appium launcher onPrepare should fail if Appium exits,0,Appium launcher,11,0.088
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.088
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.088
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.088
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.088
+ should not start server when no mount folder is defined,0.012,undefined,5,0.406
+ should stream logs to log dir,0.003,undefined,5,0.406
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.123
+"Command: run should use Watcher if ""--watch"" flag is passed",0.005,Command: run,5,0.123
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.123
+Command: run should start process if stdin isTTY = false,0.004,Command: run,5,0.123
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.087
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.087
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.087
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.087
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.087
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.087
+ should not start server when no mount folder is defined,0.01,undefined,5,0.406
+ should stream logs to log dir,0.005,undefined,5,0.406
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.126
+"Command: run should use Watcher if ""--watch"" flag is passed",0.005,Command: run,5,0.126
+Command: run should call launch if stdin isTTY = true,0.003,Command: run,5,0.126
+Command: run should start process if stdin isTTY = false,0.003,Command: run,5,0.126
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.083
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.083
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.083
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.083
+Appium launcher _redirectLogStream should not write output to file,0.001,Appium launcher,11,0.083
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.083
+ should not start server when no mount folder is defined,0.01,undefined,5,0.407
+ should stream logs to log dir,0.006,undefined,5,0.407
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.124
+"Command: run should use Watcher if ""--watch"" flag is passed",0.005,Command: run,5,0.124
+Command: run should call launch if stdin isTTY = true,0.003,Command: run,5,0.124
+Command: run should start process if stdin isTTY = false,0.004,Command: run,5,0.124
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.086
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.086
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.086
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.086
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.086
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.086
+ should not start server when no mount folder is defined,0.011,undefined,5,0.413
+ should stream logs to log dir,0.004,undefined,5,0.413
+Command: run should call missingConfigurationPrompt if no config found,0.003,Command: run,5,0.124
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.124
+Command: run should call launch if stdin isTTY = true,0.001,Command: run,5,0.124
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.124
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.089
+Appium launcher onPrepare should fail if Appium exits,0,Appium launcher,11,0.089
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.089
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.089
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.089
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.089
+ should not start server when no mount folder is defined,0.014,undefined,5,0.396
+ should stream logs to log dir,0.004,undefined,5,0.396
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.12
+"Command: run should use Watcher if ""--watch"" flag is passed",0.003,Command: run,5,0.12
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.12
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.12
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.084
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.084
+Appium launcher onPrepare should fail and error message if Appium already runs,0.004,Appium launcher,11,0.084
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.084
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.084
+Appium launcher _redirectLogStream should write output to file,0.001,Appium launcher,11,0.084
+ should not start server when no mount folder is defined,0.011,undefined,5,0.413
+ should stream logs to log dir,0.004,undefined,5,0.413
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.123
+"Command: run should use Watcher if ""--watch"" flag is passed",0.003,Command: run,5,0.123
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.123
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.123
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.09
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.09
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.09
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.09
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.09
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.09
+ should not start server when no mount folder is defined,0.01,undefined,5,0.404
+ should stream logs to log dir,0.004,undefined,5,0.404
+Command: run should call missingConfigurationPrompt if no config found,0.003,Command: run,5,0.121
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.121
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.121
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.121
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.085
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.085
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.085
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.085
+Appium launcher _redirectLogStream should not write output to file,0.001,Appium launcher,11,0.085
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.085
+ should not start server when no mount folder is defined,0.01,undefined,5,0.402
+ should stream logs to log dir,0.005,undefined,5,0.402
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.117
+"Command: run should use Watcher if ""--watch"" flag is passed",0.003,Command: run,5,0.117
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.117
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.117
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.085
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.085
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.085
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.085
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.085
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.085
+ should not start server when no mount folder is defined,0.011,undefined,5,0.407
+ should stream logs to log dir,0.004,undefined,5,0.407
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.123
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.123
+Command: run should call launch if stdin isTTY = true,0.001,Command: run,5,0.123
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.123
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.089
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.089
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.089
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.089
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.089
+Appium launcher _redirectLogStream should write output to file,0.004,Appium launcher,11,0.089
+ should not start server when no mount folder is defined,0.011,undefined,5,0.405
+ should stream logs to log dir,0.005,undefined,5,0.405
+Command: run should call missingConfigurationPrompt if no config found,0.003,Command: run,5,0.119
+"Command: run should use Watcher if ""--watch"" flag is passed",0.003,Command: run,5,0.119
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.119
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.119
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.086
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.086
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.086
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.086
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.086
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.086
+ should not start server when no mount folder is defined,0.01,undefined,5,0.408
+ should stream logs to log dir,0.005,undefined,5,0.408
+Command: run should call missingConfigurationPrompt if no config found,0.003,Command: run,5,0.118
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.118
+Command: run should call launch if stdin isTTY = true,0.001,Command: run,5,0.118
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.118
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.091
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.091
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.091
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.091
+Appium launcher _redirectLogStream should not write output to file,0.001,Appium launcher,11,0.091
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.091
+ should not start server when no mount folder is defined,0.011,undefined,5,0.405
+ should stream logs to log dir,0.005,undefined,5,0.405
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.121
+"Command: run should use Watcher if ""--watch"" flag is passed",0.005,Command: run,5,0.121
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.121
+Command: run should start process if stdin isTTY = false,0.004,Command: run,5,0.121
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.089
+Appium launcher onPrepare should fail if Appium exits,0,Appium launcher,11,0.089
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.089
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.089
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.089
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.089
+ should not start server when no mount folder is defined,0.01,undefined,5,0.397
+ should stream logs to log dir,0.004,undefined,5,0.397
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.12
+"Command: run should use Watcher if ""--watch"" flag is passed",0.003,Command: run,5,0.12
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.12
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.12
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.083
+Appium launcher onPrepare should fail if Appium exits,0,Appium launcher,11,0.083
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.083
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.083
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.083
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.083
+ should not start server when no mount folder is defined,0.01,undefined,5,0.407
+ should stream logs to log dir,0.004,undefined,5,0.407
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.119
+"Command: run should use Watcher if ""--watch"" flag is passed",0.003,Command: run,5,0.119
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.119
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.119
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.084
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.084
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.084
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.084
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.084
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.084
+ should not start server when no mount folder is defined,0.01,undefined,5,0.402
+ should stream logs to log dir,0.005,undefined,5,0.402
+Command: run should call missingConfigurationPrompt if no config found,0.003,Command: run,5,0.119
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.119
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.119
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.119
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.091
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.091
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.091
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.091
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.091
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.091
+ should not start server when no mount folder is defined,0.01,undefined,5,0.405
+ should stream logs to log dir,0.004,undefined,5,0.405
+Command: run should call missingConfigurationPrompt if no config found,0.003,Command: run,5,0.119
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.119
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.119
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.119
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.086
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.086
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.086
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.086
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.086
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.086
+ should not start server when no mount folder is defined,0.011,undefined,5,0.402
+ should stream logs to log dir,0.003,undefined,5,0.402
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.12
+"Command: run should use Watcher if ""--watch"" flag is passed",0.003,Command: run,5,0.12
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.12
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.12
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.082
+Appium launcher onPrepare should fail if Appium exits,0,Appium launcher,11,0.082
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.082
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.082
+Appium launcher _redirectLogStream should not write output to file,0.001,Appium launcher,11,0.082
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.082
+ should not start server when no mount folder is defined,0.01,undefined,5,0.408
+ should stream logs to log dir,0.005,undefined,5,0.408
+Command: run should call missingConfigurationPrompt if no config found,0.003,Command: run,5,0.123
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.123
+Command: run should call launch if stdin isTTY = true,0.001,Command: run,5,0.123
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.123
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.083
+Appium launcher onPrepare should fail if Appium exits,0,Appium launcher,11,0.083
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.083
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.083
+Appium launcher _redirectLogStream should not write output to file,0.001,Appium launcher,11,0.083
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.083
+ should not start server when no mount folder is defined,0.01,undefined,5,0.404
+ should stream logs to log dir,0.005,undefined,5,0.404
+Command: run should call missingConfigurationPrompt if no config found,0.003,Command: run,5,0.12
+"Command: run should use Watcher if ""--watch"" flag is passed",0.005,Command: run,5,0.12
+Command: run should call launch if stdin isTTY = true,0.001,Command: run,5,0.12
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.12
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.085
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.085
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.085
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.085
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.085
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.085
+ should not start server when no mount folder is defined,0.01,undefined,5,0.406
+ should stream logs to log dir,0.005,undefined,5,0.406
+Command: run should call missingConfigurationPrompt if no config found,0.005,Command: run,5,0.123
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.123
+Command: run should call launch if stdin isTTY = true,0.001,Command: run,5,0.123
+Command: run should start process if stdin isTTY = false,0.003,Command: run,5,0.123
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.084
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.084
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.084
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.084
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.084
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.084
+ should not start server when no mount folder is defined,0.011,undefined,5,0.415
+ should stream logs to log dir,0.004,undefined,5,0.415
+Command: run should call missingConfigurationPrompt if no config found,0.003,Command: run,5,0.12
+"Command: run should use Watcher if ""--watch"" flag is passed",0.005,Command: run,5,0.12
+Command: run should call launch if stdin isTTY = true,0.001,Command: run,5,0.12
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.12
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.09
+Appium launcher onPrepare should fail if Appium exits,0,Appium launcher,11,0.09
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.09
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.09
+Appium launcher _redirectLogStream should not write output to file,0.001,Appium launcher,11,0.09
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.09
+ should not start server when no mount folder is defined,0.011,undefined,5,0.402
+ should stream logs to log dir,0.005,undefined,5,0.402
+Command: run should call missingConfigurationPrompt if no config found,0.005,Command: run,5,0.123
+"Command: run should use Watcher if ""--watch"" flag is passed",0.003,Command: run,5,0.123
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.123
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.123
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.086
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.086
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.086
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.086
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.086
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.086
+ should not start server when no mount folder is defined,0.01,undefined,5,0.406
+ should stream logs to log dir,0.005,undefined,5,0.406
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.12
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.12
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.12
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.12
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.082
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.082
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.082
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.082
+Appium launcher _redirectLogStream should not write output to file,0.001,Appium launcher,11,0.082
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.082
+ should not start server when no mount folder is defined,0.011,undefined,5,0.4
+ should stream logs to log dir,0.006,undefined,5,0.4
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.12
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.12
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.12
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.12
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.087
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.087
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.087
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.087
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.087
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.087
+ should not start server when no mount folder is defined,0.01,undefined,5,0.407
+ should stream logs to log dir,0.005,undefined,5,0.407
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.118
+"Command: run should use Watcher if ""--watch"" flag is passed",0.003,Command: run,5,0.118
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.118
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.118
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.082
+Appium launcher onPrepare should fail if Appium exits,0,Appium launcher,11,0.082
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.082
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.082
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.082
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.082
+ should not start server when no mount folder is defined,0.011,undefined,5,0.406
+ should stream logs to log dir,0.006,undefined,5,0.406
+Command: run should call missingConfigurationPrompt if no config found,0.003,Command: run,5,0.126
+"Command: run should use Watcher if ""--watch"" flag is passed",0.005,Command: run,5,0.126
+Command: run should call launch if stdin isTTY = true,0.003,Command: run,5,0.126
+Command: run should start process if stdin isTTY = false,0.003,Command: run,5,0.126
+Appium launcher onPrepare should start Appium,0.003,Appium launcher,11,0.083
+Appium launcher onPrepare should fail if Appium exits,0,Appium launcher,11,0.083
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.083
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.083
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.083
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.083
+ should not start server when no mount folder is defined,0.011,undefined,5,0.406
+ should stream logs to log dir,0.005,undefined,5,0.406
+Command: run should call missingConfigurationPrompt if no config found,0.003,Command: run,5,0.12
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.12
+Command: run should call launch if stdin isTTY = true,0.001,Command: run,5,0.12
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.12
+Appium launcher onPrepare should start Appium,0.003,Appium launcher,11,0.084
+Appium launcher onPrepare should fail if Appium exits,0,Appium launcher,11,0.084
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.084
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.084
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.084
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.084
+ should not start server when no mount folder is defined,0.01,undefined,5,0.398
+ should stream logs to log dir,0.005,undefined,5,0.398
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.117
+"Command: run should use Watcher if ""--watch"" flag is passed",0.003,Command: run,5,0.117
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.117
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.117
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.085
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.085
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.085
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.085
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.085
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.085
+ should not start server when no mount folder is defined,0.011,undefined,5,0.405
+ should stream logs to log dir,0.003,undefined,5,0.405
+Command: run should call missingConfigurationPrompt if no config found,0.003,Command: run,5,0.121
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.121
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.121
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.121
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.084
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.084
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.084
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.084
+Appium launcher _redirectLogStream should not write output to file,0.001,Appium launcher,11,0.084
+Appium launcher _redirectLogStream should write output to file,0.006,Appium launcher,11,0.084
+ should not start server when no mount folder is defined,0.011,undefined,5,0.401
+ should stream logs to log dir,0.005,undefined,5,0.401
+Command: run should call missingConfigurationPrompt if no config found,0.003,Command: run,5,0.122
+"Command: run should use Watcher if ""--watch"" flag is passed",0.005,Command: run,5,0.122
+Command: run should call launch if stdin isTTY = true,0.001,Command: run,5,0.122
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.122
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.088
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.088
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.088
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.088
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.088
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.088
+ should not start server when no mount folder is defined,0.011,undefined,5,0.401
+ should stream logs to log dir,0.005,undefined,5,0.401
+Command: run should call missingConfigurationPrompt if no config found,0.003,Command: run,5,0.119
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.119
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.119
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.119
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.083
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.083
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.083
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.083
+Appium launcher _redirectLogStream should not write output to file,0.001,Appium launcher,11,0.083
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.083
+ should not start server when no mount folder is defined,0.01,undefined,5,0.408
+ should stream logs to log dir,0.004,undefined,5,0.408
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.123
+"Command: run should use Watcher if ""--watch"" flag is passed",0.003,Command: run,5,0.123
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.123
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.123
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.088
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.088
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.088
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.088
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.088
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.088
+ should not start server when no mount folder is defined,0.01,undefined,5,0.406
+ should stream logs to log dir,0.005,undefined,5,0.406
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.119
+"Command: run should use Watcher if ""--watch"" flag is passed",0.003,Command: run,5,0.119
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.119
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.119
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.082
+Appium launcher onPrepare should fail if Appium exits,0,Appium launcher,11,0.082
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.082
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.082
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.082
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.082
+ should not start server when no mount folder is defined,0.011,undefined,5,0.399
+ should stream logs to log dir,0.003,undefined,5,0.399
+Command: run should call missingConfigurationPrompt if no config found,0.003,Command: run,5,0.12
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.12
+Command: run should call launch if stdin isTTY = true,0.001,Command: run,5,0.12
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.12
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.082
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.082
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.082
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.082
+Appium launcher _redirectLogStream should not write output to file,0.005,Appium launcher,11,0.082
+Appium launcher _redirectLogStream should write output to file,0.002,Appium launcher,11,0.082
+ should not start server when no mount folder is defined,0.01,undefined,5,0.405
+ should stream logs to log dir,0.005,undefined,5,0.405
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.123
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.123
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.123
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.123
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.092
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.092
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.092
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.092
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.092
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.092
+ should not start server when no mount folder is defined,0.011,undefined,5,0.4
+ should stream logs to log dir,0.005,undefined,5,0.4
+Command: run should call missingConfigurationPrompt if no config found,0.005,Command: run,5,0.12
+"Command: run should use Watcher if ""--watch"" flag is passed",0.003,Command: run,5,0.12
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.12
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.12
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.088
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.088
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.088
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.088
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.088
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.088
+ should not start server when no mount folder is defined,0.011,undefined,5,0.398
+ should stream logs to log dir,0.004,undefined,5,0.398
+Command: run should call missingConfigurationPrompt if no config found,0.003,Command: run,5,0.117
+"Command: run should use Watcher if ""--watch"" flag is passed",0.004,Command: run,5,0.117
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.117
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.117
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.084
+Appium launcher onPrepare should fail if Appium exits,0,Appium launcher,11,0.084
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.084
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.084
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.084
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.084
+ should not start server when no mount folder is defined,0.011,undefined,5,0.407
+ should stream logs to log dir,0.005,undefined,5,0.407
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.123
+"Command: run should use Watcher if ""--watch"" flag is passed",0.005,Command: run,5,0.123
+Command: run should call launch if stdin isTTY = true,0.003,Command: run,5,0.123
+Command: run should start process if stdin isTTY = false,0.003,Command: run,5,0.123
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.084
+Appium launcher onPrepare should fail if Appium exits,0,Appium launcher,11,0.084
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.084
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.084
+Appium launcher _redirectLogStream should not write output to file,0.001,Appium launcher,11,0.084
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.084
+ should not start server when no mount folder is defined,0.012,undefined,5,0.403
+ should stream logs to log dir,0.003,undefined,5,0.403
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.125
+"Command: run should use Watcher if ""--watch"" flag is passed",0.005,Command: run,5,0.125
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.125
+Command: run should start process if stdin isTTY = false,0.004,Command: run,5,0.125
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.084
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.084
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.084
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.084
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.084
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.084
+ should not start server when no mount folder is defined,0.011,undefined,5,0.4
+ should stream logs to log dir,0.005,undefined,5,0.4
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.121
+"Command: run should use Watcher if ""--watch"" flag is passed",0.003,Command: run,5,0.121
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.121
+Command: run should start process if stdin isTTY = false,0.002,Command: run,5,0.121
+Appium launcher onPrepare should start Appium,0.003,Appium launcher,11,0.084
+Appium launcher onPrepare should fail if Appium exits,0,Appium launcher,11,0.084
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.084
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.084
+Appium launcher _redirectLogStream should not write output to file,0.001,Appium launcher,11,0.084
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.084
+ should not start server when no mount folder is defined,0.01,undefined,5,0.409
+ should stream logs to log dir,0.005,undefined,5,0.409
+Command: run should call missingConfigurationPrompt if no config found,0.003,Command: run,5,0.124
+"Command: run should use Watcher if ""--watch"" flag is passed",0.005,Command: run,5,0.124
+Command: run should call launch if stdin isTTY = true,0.003,Command: run,5,0.124
+Command: run should start process if stdin isTTY = false,0.003,Command: run,5,0.124
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.084
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.084
+Appium launcher onPrepare should fail and error message if Appium already runs,0.001,Appium launcher,11,0.084
+Appium launcher onPrepare should fail with Appium error message,0,Appium launcher,11,0.084
+Appium launcher _redirectLogStream should not write output to file,0.002,Appium launcher,11,0.084
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.084
+ should not start server when no mount folder is defined,0.01,undefined,5,0.406
+ should stream logs to log dir,0.005,undefined,5,0.406
+Command: run should call missingConfigurationPrompt if no config found,0.004,Command: run,5,0.126
+"Command: run should use Watcher if ""--watch"" flag is passed",0.005,Command: run,5,0.126
+Command: run should call launch if stdin isTTY = true,0.002,Command: run,5,0.126
+Command: run should start process if stdin isTTY = false,0.004,Command: run,5,0.126
+Appium launcher onPrepare should start Appium,0.002,Appium launcher,11,0.084
+Appium launcher onPrepare should fail if Appium exits,0.001,Appium launcher,11,0.084
+Appium launcher onPrepare should fail and error message if Appium already runs,0,Appium launcher,11,0.084
+Appium launcher onPrepare should fail with Appium error message,0.001,Appium launcher,11,0.084
+Appium launcher _redirectLogStream should not write output to file,0.001,Appium launcher,11,0.084
+Appium launcher _redirectLogStream should write output to file,0.005,Appium launcher,11,0.084

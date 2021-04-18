@@ -1,0 +1,574 @@
+ArtistController with nedb engine .id should return error on invalid id parameter,0.018,ArtistController,39,5.656
+ArtistController with nedb engine .id should return 404 for invalid id,0.003,ArtistController,39,5.656
+ArtistController with nedb engine .id should ignore invalid ids,0.005,ArtistController,39,5.656
+ArtistController with nedb engine .id should return objects,0.127,ArtistController,39,5.656
+ArtistController with nedb engine .state should return object state,0.063,ArtistController,39,5.656
+ArtistController with nedb engine .state should return object states,0.015,ArtistController,39,5.656
+ArtistController with nedb engine .favUpdate should fav an object,0.081,ArtistController,39,5.656
+ArtistController with nedb engine .favUpdate should unfav an object,0.078,ArtistController,39,5.656
+ArtistController with nedb engine .rateUpdate should not rate with invalid parameters,0.007,ArtistController,39,5.656
+ArtistController with nedb engine .rateUpdate should rate an object,0.077,ArtistController,39,5.656
+ArtistController with nedb engine .rateUpdate should unrate an object,0.08,ArtistController,39,5.656
+ArtistController with nedb engine .search should search for an object,0.136,ArtistController,39,5.656
+ArtistController with nedb engine .image should get an image for an object,3.718,ArtistController,39,5.656
+ArtistController with nedb engine .list should return invalid list error,0.004,ArtistController,39,5.656
+ArtistController with nedb engine .list should return lists,0.053,ArtistController,39,5.656
+ArtistController with nedb engine .download should not (prepare) download an object with unsupported format,0.004,ArtistController,39,5.656
+ArtistController with nedb engine .download should (prepare) download an object,0.178,ArtistController,39,5.656
+ArtistController with nedb engine .similarTracks should handle invalid parameters,0.007,ArtistController,39,5.656
+ArtistController with nedb engine .similarTracks should handle error if metadata is not available,0.006,ArtistController,39,5.656
+ArtistController with nedb engine .similarTracks should handle empty metadata data,0.007,ArtistController,39,5.656
+ArtistController with nedb engine .similarTracks should return similar tracks,0.006,ArtistController,39,5.656
+ArtistController with nedb engine .tracks should handle invalid parameters,0.008,ArtistController,39,5.656
+ArtistController with nedb engine .tracks should return tracks,0.005,ArtistController,39,5.656
+ArtistController with nedb engine .index should return an index with all artists,0.01,ArtistController,39,5.656
+ArtistController with nedb engine .index should return an empty index,0.005,ArtistController,39,5.656
+ArtistController with nedb engine .info should return artist info,0.005,ArtistController,39,5.656
+ArtistController with nedb engine .similar should handle invalid parameters,0.007,ArtistController,39,5.656
+ArtistController with nedb engine .similar should handle error if metadata is not available,0.005,ArtistController,39,5.656
+ArtistController with nedb engine .similar should handle empty metadata data,0.005,ArtistController,39,5.656
+ArtistController with nedb engine .similar should return similar artists,0.006,ArtistController,39,5.656
+ArtistController with nedb engine .id should return sub items,0.107,ArtistController,39,5.656
+ArtistController with nedb engine .id should return artist info in sub-object,0.006,ArtistController,39,5.656
+ArtistController with nedb engine .id should handle metadata not available for artist artist info in sub-object,0.006,ArtistController,39,5.656
+ArtistController with nedb engine .id should return artist similar in sub-object,0.009,ArtistController,39,5.656
+ArtistController with nedb engine .id should handle metadata not available for artist similar in sub-object,0.006,ArtistController,39,5.656
+ArtistController with nedb engine .albums should handle invalid parameters,0.005,ArtistController,39,5.656
+ArtistController with nedb engine .albums should return albums,0.006,ArtistController,39,5.656
+ArtistController with nedb engine .series should handle invalid parameters,0.006,ArtistController,39,5.656
+ArtistController with nedb engine .series should return series,0.005,ArtistController,39,5.656
+ArtistController with nedb engine .id should return error on invalid id parameter,0.019,ArtistController,39,5.83
+ArtistController with nedb engine .id should return 404 for invalid id,0.003,ArtistController,39,5.83
+ArtistController with nedb engine .id should ignore invalid ids,0.007,ArtistController,39,5.83
+ArtistController with nedb engine .id should return objects,0.14,ArtistController,39,5.83
+ArtistController with nedb engine .state should return object state,0.077,ArtistController,39,5.83
+ArtistController with nedb engine .state should return object states,0.024,ArtistController,39,5.83
+ArtistController with nedb engine .favUpdate should fav an object,0.102,ArtistController,39,5.83
+ArtistController with nedb engine .favUpdate should unfav an object,0.091,ArtistController,39,5.83
+ArtistController with nedb engine .rateUpdate should not rate with invalid parameters,0.009,ArtistController,39,5.83
+ArtistController with nedb engine .rateUpdate should rate an object,0.094,ArtistController,39,5.83
+ArtistController with nedb engine .rateUpdate should unrate an object,0.09,ArtistController,39,5.83
+ArtistController with nedb engine .search should search for an object,0.165,ArtistController,39,5.83
+ArtistController with nedb engine .image should get an image for an object,3.734,ArtistController,39,5.83
+ArtistController with nedb engine .list should return invalid list error,0.003,ArtistController,39,5.83
+ArtistController with nedb engine .list should return lists,0.046,ArtistController,39,5.83
+ArtistController with nedb engine .download should not (prepare) download an object with unsupported format,0.007,ArtistController,39,5.83
+ArtistController with nedb engine .download should (prepare) download an object,0.156,ArtistController,39,5.83
+ArtistController with nedb engine .similarTracks should handle invalid parameters,0.006,ArtistController,39,5.83
+ArtistController with nedb engine .similarTracks should handle error if metadata is not available,0.007,ArtistController,39,5.83
+ArtistController with nedb engine .similarTracks should handle empty metadata data,0.005,ArtistController,39,5.83
+ArtistController with nedb engine .similarTracks should return similar tracks,0.004,ArtistController,39,5.83
+ArtistController with nedb engine .tracks should handle invalid parameters,0.007,ArtistController,39,5.83
+ArtistController with nedb engine .tracks should return tracks,0.005,ArtistController,39,5.83
+ArtistController with nedb engine .index should return an index with all artists,0.005,ArtistController,39,5.83
+ArtistController with nedb engine .index should return an empty index,0.005,ArtistController,39,5.83
+ArtistController with nedb engine .info should return artist info,0.006,ArtistController,39,5.83
+ArtistController with nedb engine .similar should handle invalid parameters,0.004,ArtistController,39,5.83
+ArtistController with nedb engine .similar should handle error if metadata is not available,0.005,ArtistController,39,5.83
+ArtistController with nedb engine .similar should handle empty metadata data,0.005,ArtistController,39,5.83
+ArtistController with nedb engine .similar should return similar artists,0.005,ArtistController,39,5.83
+ArtistController with nedb engine .id should return sub items,0.096,ArtistController,39,5.83
+ArtistController with nedb engine .id should return artist info in sub-object,0.004,ArtistController,39,5.83
+ArtistController with nedb engine .id should handle metadata not available for artist artist info in sub-object,0.007,ArtistController,39,5.83
+ArtistController with nedb engine .id should return artist similar in sub-object,0.008,ArtistController,39,5.83
+ArtistController with nedb engine .id should handle metadata not available for artist similar in sub-object,0.005,ArtistController,39,5.83
+ArtistController with nedb engine .albums should handle invalid parameters,0.005,ArtistController,39,5.83
+ArtistController with nedb engine .albums should return albums,0.004,ArtistController,39,5.83
+ArtistController with nedb engine .series should handle invalid parameters,0.004,ArtistController,39,5.83
+ArtistController with nedb engine .series should return series,0.005,ArtistController,39,5.83
+TrackController with nedb engine .id should return error on invalid id parameter,0.012,TrackController,18,5.362
+TrackController with nedb engine .id should return 404 for invalid id,0.003,TrackController,18,5.362
+TrackController with nedb engine .id should ignore invalid ids,0.006,TrackController,18,5.362
+TrackController with nedb engine .id should return objects,0.205,TrackController,18,5.362
+TrackController with nedb engine .state should return object state,0.15,TrackController,18,5.362
+TrackController with nedb engine .state should return object states,0.014,TrackController,18,5.362
+TrackController with nedb engine .favUpdate should fav an object,0.2,TrackController,18,5.362
+TrackController with nedb engine .favUpdate should unfav an object,0.199,TrackController,18,5.362
+TrackController with nedb engine .rateUpdate should not rate with invalid parameters,0.009,TrackController,18,5.362
+TrackController with nedb engine .rateUpdate should rate an object,0.2,TrackController,18,5.362
+TrackController with nedb engine .rateUpdate should unrate an object,0.202,TrackController,18,5.362
+TrackController with nedb engine .search should search for an object,0.296,TrackController,18,5.362
+TrackController with nedb engine .image should get an image for an object,2.598,TrackController,18,5.362
+TrackController with nedb engine .list should return invalid list error,0.004,TrackController,18,5.362
+TrackController with nedb engine .list should return lists,0.054,TrackController,18,5.362
+TrackController with nedb engine .download should not (prepare) download an object with unsupported format,0.004,TrackController,18,5.362
+TrackController with nedb engine .download should (prepare) download an object,0.427,TrackController,18,5.362
+TrackController with nedb engine should work,0,TrackController,18,5.362
+TrackController with nedb engine .id should return error on invalid id parameter,0.009,TrackController,18,5.057
+TrackController with nedb engine .id should return 404 for invalid id,0.003,TrackController,18,5.057
+TrackController with nedb engine .id should ignore invalid ids,0.007,TrackController,18,5.057
+TrackController with nedb engine .id should return objects,0.204,TrackController,18,5.057
+TrackController with nedb engine .state should return object state,0.158,TrackController,18,5.057
+TrackController with nedb engine .state should return object states,0.016,TrackController,18,5.057
+TrackController with nedb engine .favUpdate should fav an object,0.192,TrackController,18,5.057
+TrackController with nedb engine .favUpdate should unfav an object,0.199,TrackController,18,5.057
+TrackController with nedb engine .rateUpdate should not rate with invalid parameters,0.013,TrackController,18,5.057
+TrackController with nedb engine .rateUpdate should rate an object,0.209,TrackController,18,5.057
+TrackController with nedb engine .rateUpdate should unrate an object,0.202,TrackController,18,5.057
+TrackController with nedb engine .search should search for an object,0.26,TrackController,18,5.057
+TrackController with nedb engine .image should get an image for an object,2.319,TrackController,18,5.057
+TrackController with nedb engine .list should return invalid list error,0.003,TrackController,18,5.057
+TrackController with nedb engine .list should return lists,0.047,TrackController,18,5.057
+TrackController with nedb engine .download should not (prepare) download an object with unsupported format,0.005,TrackController,18,5.057
+TrackController with nedb engine .download should (prepare) download an object,0.369,TrackController,18,5.057
+TrackController with nedb engine should work,0.001,TrackController,18,5.057
+FolderController with nedb engine .id should return error on invalid id parameter,0.01,FolderController,25,3.716
+FolderController with nedb engine .id should return 404 for invalid id,0.003,FolderController,25,3.716
+FolderController with nedb engine .id should ignore invalid ids,0.005,FolderController,25,3.716
+FolderController with nedb engine .id should return objects,0.157,FolderController,25,3.716
+FolderController with nedb engine .state should return object state,0.1,FolderController,25,3.716
+FolderController with nedb engine .state should return object states,0.014,FolderController,25,3.716
+FolderController with nedb engine .favUpdate should fav an object,0.121,FolderController,25,3.716
+FolderController with nedb engine .favUpdate should unfav an object,0.127,FolderController,25,3.716
+FolderController with nedb engine .rateUpdate should not rate with invalid parameters,0.007,FolderController,25,3.716
+FolderController with nedb engine .rateUpdate should rate an object,0.13,FolderController,25,3.716
+FolderController with nedb engine .rateUpdate should unrate an object,0.123,FolderController,25,3.716
+FolderController with nedb engine .search should search for an object,0.191,FolderController,25,3.716
+FolderController with nedb engine .image should get an image for an object,1.48,FolderController,25,3.716
+FolderController with nedb engine .list should return invalid list error,0.005,FolderController,25,3.716
+FolderController with nedb engine .list should return lists,0.042,FolderController,25,3.716
+FolderController with nedb engine .download should not (prepare) download an object with unsupported format,0.006,FolderController,25,3.716
+FolderController with nedb engine .download should (prepare) download an object,0.219,FolderController,25,3.716
+FolderController with nedb engine .subfolders should not return subfolders for invalid parameter,0.005,FolderController,25,3.716
+FolderController with nedb engine .subfolders should return subfolders,0.057,FolderController,25,3.716
+FolderController with nedb engine .tracks should not return tracks for invalid parameter,0.006,FolderController,25,3.716
+FolderController with nedb engine .tracks should return tracks,0.063,FolderController,25,3.716
+FolderController with nedb engine .children should not return children for invalid parameter,0.007,FolderController,25,3.716
+FolderController with nedb engine .children should return children,0.082,FolderController,25,3.716
+FolderController with nedb engine .index should return an index with all folders,0.008,FolderController,25,3.716
+FolderController with nedb engine .index should return an empty index,0.006,FolderController,25,3.716
+FolderController with nedb engine .id should return error on invalid id parameter,0.011,FolderController,25,3.624
+FolderController with nedb engine .id should return 404 for invalid id,0.004,FolderController,25,3.624
+FolderController with nedb engine .id should ignore invalid ids,0.009,FolderController,25,3.624
+FolderController with nedb engine .id should return objects,0.149,FolderController,25,3.624
+FolderController with nedb engine .state should return object state,0.097,FolderController,25,3.624
+FolderController with nedb engine .state should return object states,0.017,FolderController,25,3.624
+FolderController with nedb engine .favUpdate should fav an object,0.119,FolderController,25,3.624
+FolderController with nedb engine .favUpdate should unfav an object,0.119,FolderController,25,3.624
+FolderController with nedb engine .rateUpdate should not rate with invalid parameters,0.007,FolderController,25,3.624
+FolderController with nedb engine .rateUpdate should rate an object,0.119,FolderController,25,3.624
+FolderController with nedb engine .rateUpdate should unrate an object,0.124,FolderController,25,3.624
+FolderController with nedb engine .search should search for an object,0.19,FolderController,25,3.624
+FolderController with nedb engine .image should get an image for an object,1.46,FolderController,25,3.624
+FolderController with nedb engine .list should return invalid list error,0.004,FolderController,25,3.624
+FolderController with nedb engine .list should return lists,0.045,FolderController,25,3.624
+FolderController with nedb engine .download should not (prepare) download an object with unsupported format,0.004,FolderController,25,3.624
+FolderController with nedb engine .download should (prepare) download an object,0.223,FolderController,25,3.624
+FolderController with nedb engine .subfolders should not return subfolders for invalid parameter,0.007,FolderController,25,3.624
+FolderController with nedb engine .subfolders should return subfolders,0.055,FolderController,25,3.624
+FolderController with nedb engine .tracks should not return tracks for invalid parameter,0.005,FolderController,25,3.624
+FolderController with nedb engine .tracks should return tracks,0.059,FolderController,25,3.624
+FolderController with nedb engine .children should not return children for invalid parameter,0.007,FolderController,25,3.624
+FolderController with nedb engine .children should return children,0.088,FolderController,25,3.624
+FolderController with nedb engine .index should return an index with all folders,0.009,FolderController,25,3.624
+FolderController with nedb engine .index should return an empty index,0.004,FolderController,25,3.624
+WorkerService with nedb RootScanStrategy.auto should rescan,0.344,WorkerService,9,3.556
+WorkerService with nedb RootScanStrategy.auto should remove missing in the root,0.244,WorkerService,9,3.556
+WorkerService with nedb RootScanStrategy.auto should scan added in the root,0.386,WorkerService,9,3.556
+WorkerService with nedb RootScanStrategy.auto should combine/remove artists and albums from different roots,0.424,WorkerService,9,3.556
+WorkerService with nedb RootScanStrategy.auto should combine close enough artist names,0.246,WorkerService,9,3.556
+WorkerService with nedb RootScanStrategy.auto should update/remove artist/albums on changes,0.327,WorkerService,9,3.556
+WorkerService with nedb RootScanStrategy.auto should remove tracks on scan,0.431,WorkerService,9,3.556
+WorkerService with nedb RootScanStrategy.audiobook should rescan,0.362,WorkerService,9,3.556
+TrackWorker with nedb should move tracks,0.244,WorkerService,9,3.556
+WorkerService with nedb RootScanStrategy.auto should rescan,0.364,WorkerService,9,3.654
+WorkerService with nedb RootScanStrategy.auto should remove missing in the root,0.253,WorkerService,9,3.654
+WorkerService with nedb RootScanStrategy.auto should scan added in the root,0.362,WorkerService,9,3.654
+WorkerService with nedb RootScanStrategy.auto should combine/remove artists and albums from different roots,0.427,WorkerService,9,3.654
+WorkerService with nedb RootScanStrategy.auto should combine close enough artist names,0.254,WorkerService,9,3.654
+WorkerService with nedb RootScanStrategy.auto should update/remove artist/albums on changes,0.341,WorkerService,9,3.654
+WorkerService with nedb RootScanStrategy.auto should remove tracks on scan,0.464,WorkerService,9,3.654
+WorkerService with nedb RootScanStrategy.audiobook should rescan,0.35,WorkerService,9,3.654
+TrackWorker with nedb should move tracks,0.251,WorkerService,9,3.654
+WorkerService with nedb RootScanStrategy.auto should rescan,0.354,WorkerService,8,3.272
+WorkerService with nedb RootScanStrategy.auto should remove missing in the root,0.242,WorkerService,8,3.272
+WorkerService with nedb RootScanStrategy.auto should scan added in the root,0.357,WorkerService,8,3.272
+WorkerService with nedb RootScanStrategy.auto should combine/remove artists and albums from different roots,0.421,WorkerService,8,3.272
+WorkerService with nedb RootScanStrategy.auto should combine close enough artist names,0.246,WorkerService,8,3.272
+WorkerService with nedb RootScanStrategy.auto should update/remove artist/albums on changes,0.33,WorkerService,8,3.272
+WorkerService with nedb RootScanStrategy.auto should remove tracks on scan,0.421,WorkerService,8,3.272
+WorkerService with nedb RootScanStrategy.audiobook should rescan,0.362,WorkerService,8,3.272
+WorkerService with nedb RootScanStrategy.auto should rescan,0.346,WorkerService,8,3.877
+WorkerService with nedb RootScanStrategy.auto should remove missing in the root,0.245,WorkerService,8,3.877
+WorkerService with nedb RootScanStrategy.auto should scan added in the root,0.359,WorkerService,8,3.877
+WorkerService with nedb RootScanStrategy.auto should combine/remove artists and albums from different roots,0.663,WorkerService,8,3.877
+WorkerService with nedb RootScanStrategy.auto should combine close enough artist names,0.238,WorkerService,8,3.877
+WorkerService with nedb RootScanStrategy.auto should update/remove artist/albums on changes,0.446,WorkerService,8,3.877
+WorkerService with nedb RootScanStrategy.auto should remove tracks on scan,0.592,WorkerService,8,3.877
+WorkerService with nedb RootScanStrategy.audiobook should rescan,0.455,WorkerService,8,3.877
+ArtistService with nedb .getArtistFolder should return nothing on invalid albums,0.008,ArtistService,3,2.934
+ArtistService with nedb .getArtistFolder should return the artist folder,0.032,ArtistService,3,2.934
+ArtistService with nedb .getArtistImage should return an artist image,2.162,ArtistService,3,2.934
+ArtistService with nedb .getArtistFolder should return nothing on invalid albums,0.015,ArtistService,3,2.877
+ArtistService with nedb .getArtistFolder should return the artist folder,0.024,ArtistService,3,2.877
+ArtistService with nedb .getArtistImage should return an artist image,2.187,ArtistService,3,2.877
+AlbumController with nedb engine .id should return error on invalid id parameter,0.013,AlbumController,29,2.969
+AlbumController with nedb engine .id should return 404 for invalid id,0.003,AlbumController,29,2.969
+AlbumController with nedb engine .id should ignore invalid ids,0.006,AlbumController,29,2.969
+AlbumController with nedb engine .id should return objects,0.127,AlbumController,29,2.969
+AlbumController with nedb engine .state should return object state,0.074,AlbumController,29,2.969
+AlbumController with nedb engine .state should return object states,0.014,AlbumController,29,2.969
+AlbumController with nedb engine .favUpdate should fav an object,0.1,AlbumController,29,2.969
+AlbumController with nedb engine .favUpdate should unfav an object,0.088,AlbumController,29,2.969
+AlbumController with nedb engine .rateUpdate should not rate with invalid parameters,0.008,AlbumController,29,2.969
+AlbumController with nedb engine .rateUpdate should rate an object,0.087,AlbumController,29,2.969
+AlbumController with nedb engine .rateUpdate should unrate an object,0.087,AlbumController,29,2.969
+AlbumController with nedb engine .search should search for an object,0.145,AlbumController,29,2.969
+AlbumController with nedb engine .image should get an image for an object,1.081,AlbumController,29,2.969
+AlbumController with nedb engine .list should return invalid list error,0.003,AlbumController,29,2.969
+AlbumController with nedb engine .list should return lists,0.054,AlbumController,29,2.969
+AlbumController with nedb engine .download should not (prepare) download an object with unsupported format,0.005,AlbumController,29,2.969
+AlbumController with nedb engine .download should (prepare) download an object,0.163,AlbumController,29,2.969
+AlbumController with nedb engine .similarTracks should handle invalid parameters,0.006,AlbumController,29,2.969
+AlbumController with nedb engine .similarTracks should handle error if lastfm is not available,0.005,AlbumController,29,2.969
+AlbumController with nedb engine .similarTracks should handle empty metadata data,0.004,AlbumController,29,2.969
+AlbumController with nedb engine .similarTracks should return similar tracks,0.008,AlbumController,29,2.969
+AlbumController with nedb engine .tracks should handle invalid parameters,0.005,AlbumController,29,2.969
+AlbumController with nedb engine .tracks should return tracks,0.005,AlbumController,29,2.969
+AlbumController with nedb engine .index should return an index with all albums,0.006,AlbumController,29,2.969
+AlbumController with nedb engine .index should return an empty index,0.005,AlbumController,29,2.969
+AlbumController with nedb engine .id should return sub items,0.062,AlbumController,29,2.969
+AlbumController with nedb engine .id should return album info in sub-object,0.004,AlbumController,29,2.969
+AlbumController with nedb engine .id should handle metadata not available for album info in sub-object,0.005,AlbumController,29,2.969
+AlbumController with nedb engine .info should return album info,0.005,AlbumController,29,2.969
+AlbumController with nedb engine .id should return error on invalid id parameter,0.011,AlbumController,29,2.925
+AlbumController with nedb engine .id should return 404 for invalid id,0.003,AlbumController,29,2.925
+AlbumController with nedb engine .id should ignore invalid ids,0.004,AlbumController,29,2.925
+AlbumController with nedb engine .id should return objects,0.118,AlbumController,29,2.925
+AlbumController with nedb engine .state should return object state,0.071,AlbumController,29,2.925
+AlbumController with nedb engine .state should return object states,0.02,AlbumController,29,2.925
+AlbumController with nedb engine .favUpdate should fav an object,0.093,AlbumController,29,2.925
+AlbumController with nedb engine .favUpdate should unfav an object,0.087,AlbumController,29,2.925
+AlbumController with nedb engine .rateUpdate should not rate with invalid parameters,0.009,AlbumController,29,2.925
+AlbumController with nedb engine .rateUpdate should rate an object,0.083,AlbumController,29,2.925
+AlbumController with nedb engine .rateUpdate should unrate an object,0.083,AlbumController,29,2.925
+AlbumController with nedb engine .search should search for an object,0.146,AlbumController,29,2.925
+AlbumController with nedb engine .image should get an image for an object,1.117,AlbumController,29,2.925
+AlbumController with nedb engine .list should return invalid list error,0.006,AlbumController,29,2.925
+AlbumController with nedb engine .list should return lists,0.049,AlbumController,29,2.925
+AlbumController with nedb engine .download should not (prepare) download an object with unsupported format,0.006,AlbumController,29,2.925
+AlbumController with nedb engine .download should (prepare) download an object,0.157,AlbumController,29,2.925
+AlbumController with nedb engine .similarTracks should handle invalid parameters,0.006,AlbumController,29,2.925
+AlbumController with nedb engine .similarTracks should handle error if lastfm is not available,0.006,AlbumController,29,2.925
+AlbumController with nedb engine .similarTracks should handle empty metadata data,0.008,AlbumController,29,2.925
+AlbumController with nedb engine .similarTracks should return similar tracks,0.006,AlbumController,29,2.925
+AlbumController with nedb engine .tracks should handle invalid parameters,0.006,AlbumController,29,2.925
+AlbumController with nedb engine .tracks should return tracks,0.005,AlbumController,29,2.925
+AlbumController with nedb engine .index should return an index with all albums,0.006,AlbumController,29,2.925
+AlbumController with nedb engine .index should return an empty index,0.005,AlbumController,29,2.925
+AlbumController with nedb engine .id should return sub items,0.058,AlbumController,29,2.925
+AlbumController with nedb engine .id should return album info in sub-object,0.005,AlbumController,29,2.925
+AlbumController with nedb engine .id should handle metadata not available for album info in sub-object,0.005,AlbumController,29,2.925
+AlbumController with nedb engine .info should return album info,0.004,AlbumController,29,2.925
+EpisodeService with nedb should fail to download an episode file,0.022,EpisodeService,8,2.835
+EpisodeService with nedb should download an episode file,0.024,EpisodeService,8,2.835
+EpisodeService with nedb should report downloading while downloading,1.133,EpisodeService,8,2.835
+EpisodeService with nedb should block downloading a podcast while download already running,1.05,EpisodeService,8,2.835
+EpisodeService with nedb should throw a storage error,0.033,EpisodeService,8,2.835
+EpisodeService with nedb should fail to download an episode file,0.018,EpisodeService,8,2.848
+EpisodeService with nedb should download an episode file,0.023,EpisodeService,8,2.848
+EpisodeService with nedb should report downloading while downloading,1.127,EpisodeService,8,2.848
+EpisodeService with nedb should block downloading a podcast while download already running,1.055,EpisodeService,8,2.848
+EpisodeService with nedb should throw a storage error,0.025,EpisodeService,8,2.848
+FolderWorker with nedb renameFolder should handle invalid parameters,0.165,FolderWorker,5,2.031
+FolderWorker with nedb renameFolder should rename and update all folder & track paths,0.828,FolderWorker,5,2.031
+FolderWorker with nedb should remove folders,0.21,FolderWorker,5,2.031
+FolderWorker with nedb should not move folders with invalid parameters,0.105,FolderWorker,5,2.031
+FolderWorker with nedb should move folders,0.171,FolderWorker,5,2.031
+FolderWorker with nedb renameFolder should handle invalid parameters,0.144,FolderWorker,5,2
+FolderWorker with nedb renameFolder should rename and update all folder & track paths,0.835,FolderWorker,5,2
+FolderWorker with nedb should remove folders,0.217,FolderWorker,5,2
+FolderWorker with nedb should not move folders with invalid parameters,0.091,FolderWorker,5,2
+FolderWorker with nedb should move folders,0.165,FolderWorker,5,2
+UserService with nedb should set the avatar image,0.787,UserService,12,2.289
+UserService with nedb should set the avatar image,0.744,UserService,12,2.186
+StreamService with nedb should stream a track,0.661,StreamService,5,1.407
+StreamService with nedb should fail streaming a track if file does not exists,0.008,StreamService,5,1.407
+StreamService with nedb should not stream invalid settings,0.011,StreamService,5,1.407
+StreamService with nedb should stream a episode,0.011,StreamService,5,1.407
+StreamService with nedb should fail streaming a episode if file does not exists,0.013,StreamService,5,1.407
+StreamService with nedb should stream a track,0.676,StreamService,5,1.397
+StreamService with nedb should fail streaming a track if file does not exists,0.007,StreamService,5,1.397
+StreamService with nedb should not stream invalid settings,0.01,StreamService,5,1.397
+StreamService with nedb should stream a episode,0.01,StreamService,5,1.397
+StreamService with nedb should fail streaming a episode if file does not exists,0.009,StreamService,5,1.397
+EpisodeController with nedb engine .id should return error on invalid id parameter,0.01,EpisodeController,18,1.586
+EpisodeController with nedb engine .id should return 404 for invalid id,0.003,EpisodeController,18,1.586
+EpisodeController with nedb engine .id should ignore invalid ids,0.005,EpisodeController,18,1.586
+EpisodeController with nedb engine .id should return objects,0.08,EpisodeController,18,1.586
+EpisodeController with nedb engine .state should return object state,0.026,EpisodeController,18,1.586
+EpisodeController with nedb engine .state should return object states,0.014,EpisodeController,18,1.586
+EpisodeController with nedb engine .favUpdate should fav an object,0.027,EpisodeController,18,1.586
+EpisodeController with nedb engine .favUpdate should unfav an object,0.021,EpisodeController,18,1.586
+EpisodeController with nedb engine .rateUpdate should not rate with invalid parameters,0.011,EpisodeController,18,1.586
+EpisodeController with nedb engine .rateUpdate should rate an object,0.024,EpisodeController,18,1.586
+EpisodeController with nedb engine .rateUpdate should unrate an object,0.03,EpisodeController,18,1.586
+EpisodeController with nedb engine .search should search for an object,0.084,EpisodeController,18,1.586
+EpisodeController with nedb engine .image should get an image for an object,0.336,EpisodeController,18,1.586
+EpisodeController with nedb engine .list should return invalid list error,0.003,EpisodeController,18,1.586
+EpisodeController with nedb engine .list should return lists,0.047,EpisodeController,18,1.586
+EpisodeController with nedb engine .download should not (prepare) download an object with unsupported format,0.004,EpisodeController,18,1.586
+EpisodeController with nedb engine .download should (prepare) download an object,0.041,EpisodeController,18,1.586
+EpisodeController with nedb engine should work,0,EpisodeController,18,1.586
+EpisodeController with nedb engine .id should return error on invalid id parameter,0.009,EpisodeController,18,1.617
+EpisodeController with nedb engine .id should return 404 for invalid id,0.003,EpisodeController,18,1.617
+EpisodeController with nedb engine .id should ignore invalid ids,0.005,EpisodeController,18,1.617
+EpisodeController with nedb engine .id should return objects,0.087,EpisodeController,18,1.617
+EpisodeController with nedb engine .state should return object state,0.026,EpisodeController,18,1.617
+EpisodeController with nedb engine .state should return object states,0.016,EpisodeController,18,1.617
+EpisodeController with nedb engine .favUpdate should fav an object,0.023,EpisodeController,18,1.617
+EpisodeController with nedb engine .favUpdate should unfav an object,0.026,EpisodeController,18,1.617
+EpisodeController with nedb engine .rateUpdate should not rate with invalid parameters,0.008,EpisodeController,18,1.617
+EpisodeController with nedb engine .rateUpdate should rate an object,0.029,EpisodeController,18,1.617
+EpisodeController with nedb engine .rateUpdate should unrate an object,0.02,EpisodeController,18,1.617
+EpisodeController with nedb engine .search should search for an object,0.08,EpisodeController,18,1.617
+EpisodeController with nedb engine .image should get an image for an object,0.366,EpisodeController,18,1.617
+EpisodeController with nedb engine .list should return invalid list error,0.004,EpisodeController,18,1.617
+EpisodeController with nedb engine .list should return lists,0.05,EpisodeController,18,1.617
+EpisodeController with nedb engine .download should not (prepare) download an object with unsupported format,0.005,EpisodeController,18,1.617
+EpisodeController with nedb engine .download should (prepare) download an object,0.044,EpisodeController,18,1.617
+EpisodeController with nedb engine should work,0,EpisodeController,18,1.617
+WaveformService with nedb should return svg for a track,0.319,WaveformService,6,1.483
+WaveformService with nedb should return svg for an episode,0.12,WaveformService,6,1.483
+WaveformService with nedb should return json,0.104,WaveformService,6,1.483
+WaveformService with nedb should return binary,0.104,WaveformService,6,1.483
+WaveformService with nedb should throw errors,0.017,WaveformService,6,1.483
+WaveformService with nedb should block creating a waveform while creating a waveform,0.116,WaveformService,6,1.483
+WaveformService with nedb should return svg for a track,0.321,WaveformService,6,1.476
+WaveformService with nedb should return svg for an episode,0.109,WaveformService,6,1.476
+WaveformService with nedb should return json,0.101,WaveformService,6,1.476
+WaveformService with nedb should return binary,0.107,WaveformService,6,1.476
+WaveformService with nedb should throw errors,0.022,WaveformService,6,1.476
+WaveformService with nedb should block creating a waveform while creating a waveform,0.116,WaveformService,6,1.476
+AlbumService with nedb getAlbumFolder should return nothing on invalid albums,0.008,AlbumService,3,1.486
+AlbumService with nedb getAlbumFolder should return the album folder,0.04,AlbumService,3,1.486
+AlbumService with nedb getImage should return an album image,0.725,AlbumService,3,1.486
+AlbumService with nedb getAlbumFolder should return nothing on invalid albums,0.009,AlbumService,3,1.576
+AlbumService with nedb getAlbumFolder should return the album folder,0.059,AlbumService,3,1.576
+AlbumService with nedb getImage should return an album image,0.819,AlbumService,3,1.576
+IOService with nedb should,0,IOService,1,0.791
+IOService with nedb should,0,IOService,1,0.797
+PodcastController with nedb engine .id should return error on invalid id parameter,0.023,PodcastController,18,1.665
+PodcastController with nedb engine .id should return 404 for invalid id,0.004,PodcastController,18,1.665
+PodcastController with nedb engine .id should ignore invalid ids,0.005,PodcastController,18,1.665
+PodcastController with nedb engine .id should return objects,0.074,PodcastController,18,1.665
+PodcastController with nedb engine .state should return object state,0.015,PodcastController,18,1.665
+PodcastController with nedb engine .state should return object states,0.018,PodcastController,18,1.665
+PodcastController with nedb engine .favUpdate should fav an object,0.013,PodcastController,18,1.665
+PodcastController with nedb engine .favUpdate should unfav an object,0.011,PodcastController,18,1.665
+PodcastController with nedb engine .rateUpdate should not rate with invalid parameters,0.007,PodcastController,18,1.665
+PodcastController with nedb engine .rateUpdate should rate an object,0.014,PodcastController,18,1.665
+PodcastController with nedb engine .rateUpdate should unrate an object,0.017,PodcastController,18,1.665
+PodcastController with nedb engine .search should search for an object,0.075,PodcastController,18,1.665
+PodcastController with nedb engine .image should get an image for an object,0.29,PodcastController,18,1.665
+PodcastController with nedb engine .list should return invalid list error,0.004,PodcastController,18,1.665
+PodcastController with nedb engine .list should return lists,0.054,PodcastController,18,1.665
+PodcastController with nedb engine .download should not (prepare) download an object with unsupported format,0.008,PodcastController,18,1.665
+PodcastController with nedb engine .download should (prepare) download an object,0.023,PodcastController,18,1.665
+PodcastController with nedb engine should work,0,PodcastController,18,1.665
+PodcastController with nedb engine .id should return error on invalid id parameter,0.019,PodcastController,18,1.971
+PodcastController with nedb engine .id should return 404 for invalid id,0.004,PodcastController,18,1.971
+PodcastController with nedb engine .id should ignore invalid ids,0.008,PodcastController,18,1.971
+PodcastController with nedb engine .id should return objects,0.078,PodcastController,18,1.971
+PodcastController with nedb engine .state should return object state,0.017,PodcastController,18,1.971
+PodcastController with nedb engine .state should return object states,0.017,PodcastController,18,1.971
+PodcastController with nedb engine .favUpdate should fav an object,0.018,PodcastController,18,1.971
+PodcastController with nedb engine .favUpdate should unfav an object,0.015,PodcastController,18,1.971
+PodcastController with nedb engine .rateUpdate should not rate with invalid parameters,0.008,PodcastController,18,1.971
+PodcastController with nedb engine .rateUpdate should rate an object,0.011,PodcastController,18,1.971
+PodcastController with nedb engine .rateUpdate should unrate an object,0.019,PodcastController,18,1.971
+PodcastController with nedb engine .search should search for an object,0.058,PodcastController,18,1.971
+PodcastController with nedb engine .image should get an image for an object,0.203,PodcastController,18,1.971
+PodcastController with nedb engine .list should return invalid list error,0.004,PodcastController,18,1.971
+PodcastController with nedb engine .list should return lists,0.056,PodcastController,18,1.971
+PodcastController with nedb engine .download should not (prepare) download an object with unsupported format,0.006,PodcastController,18,1.971
+PodcastController with nedb engine .download should (prepare) download an object,0.031,PodcastController,18,1.971
+PodcastController with nedb engine should work,0.001,PodcastController,18,1.971
+TrackService with nedb should return the track folder,0.115,TrackService,2,1.652
+TrackService with nedb should return a track image,0.729,TrackService,2,1.652
+TrackService with nedb should return the track folder,0.119,TrackService,2,1.6
+TrackService with nedb should return a track image,0.733,TrackService,2,1.6
+SeriesService with nedb getImage should return an album image,0.722,SeriesService,1,1.496
+SeriesService with nedb getImage should return an album image,0.752,SeriesService,1,1.513
+PlaylistController with nedb engine .id should return error on invalid id parameter,0.009,PlaylistController,18,1.45
+PlaylistController with nedb engine .id should return 404 for invalid id,0.003,PlaylistController,18,1.45
+PlaylistController with nedb engine .id should ignore invalid ids,0.005,PlaylistController,18,1.45
+PlaylistController with nedb engine .id should return objects,0.074,PlaylistController,18,1.45
+PlaylistController with nedb engine .state should return object state,0.02,PlaylistController,18,1.45
+PlaylistController with nedb engine .state should return object states,0.016,PlaylistController,18,1.45
+PlaylistController with nedb engine .favUpdate should fav an object,0.01,PlaylistController,18,1.45
+PlaylistController with nedb engine .favUpdate should unfav an object,0.013,PlaylistController,18,1.45
+PlaylistController with nedb engine .rateUpdate should not rate with invalid parameters,0.013,PlaylistController,18,1.45
+PlaylistController with nedb engine .rateUpdate should rate an object,0.01,PlaylistController,18,1.45
+PlaylistController with nedb engine .rateUpdate should unrate an object,0.011,PlaylistController,18,1.45
+PlaylistController with nedb engine .search should search for an object,0.056,PlaylistController,18,1.45
+PlaylistController with nedb engine .image should get an image for an object,0.226,PlaylistController,18,1.45
+PlaylistController with nedb engine .list should return invalid list error,0.003,PlaylistController,18,1.45
+PlaylistController with nedb engine .list should return lists,0.052,PlaylistController,18,1.45
+PlaylistController with nedb engine .download should not (prepare) download an object with unsupported format,0.008,PlaylistController,18,1.45
+PlaylistController with nedb engine .download should (prepare) download an object,0.026,PlaylistController,18,1.45
+PlaylistController with nedb engine should work,0,PlaylistController,18,1.45
+PlaylistController with nedb engine .id should return error on invalid id parameter,0.012,PlaylistController,18,1.411
+PlaylistController with nedb engine .id should return 404 for invalid id,0.002,PlaylistController,18,1.411
+PlaylistController with nedb engine .id should ignore invalid ids,0.014,PlaylistController,18,1.411
+PlaylistController with nedb engine .id should return objects,0.056,PlaylistController,18,1.411
+PlaylistController with nedb engine .state should return object state,0.024,PlaylistController,18,1.411
+PlaylistController with nedb engine .state should return object states,0.014,PlaylistController,18,1.411
+PlaylistController with nedb engine .favUpdate should fav an object,0.013,PlaylistController,18,1.411
+PlaylistController with nedb engine .favUpdate should unfav an object,0.015,PlaylistController,18,1.411
+PlaylistController with nedb engine .rateUpdate should not rate with invalid parameters,0.009,PlaylistController,18,1.411
+PlaylistController with nedb engine .rateUpdate should rate an object,0.01,PlaylistController,18,1.411
+PlaylistController with nedb engine .rateUpdate should unrate an object,0.012,PlaylistController,18,1.411
+PlaylistController with nedb engine .search should search for an object,0.055,PlaylistController,18,1.411
+PlaylistController with nedb engine .image should get an image for an object,0.222,PlaylistController,18,1.411
+PlaylistController with nedb engine .list should return invalid list error,0.004,PlaylistController,18,1.411
+PlaylistController with nedb engine .list should return lists,0.05,PlaylistController,18,1.411
+PlaylistController with nedb engine .download should not (prepare) download an object with unsupported format,0.005,PlaylistController,18,1.411
+PlaylistController with nedb engine .download should (prepare) download an object,0.03,PlaylistController,18,1.411
+PlaylistController with nedb engine should work,0,PlaylistController,18,1.411
+SeriesController with nedb engine .id should return error on invalid id parameter,0.014,SeriesController,27,1.512
+SeriesController with nedb engine .id should return 404 for invalid id,0.005,SeriesController,27,1.512
+SeriesController with nedb engine .id should ignore invalid ids,0.007,SeriesController,27,1.512
+SeriesController with nedb engine .id should return objects,0.062,SeriesController,27,1.512
+SeriesController with nedb engine .state should return object state,0.019,SeriesController,27,1.512
+SeriesController with nedb engine .state should return object states,0.013,SeriesController,27,1.512
+SeriesController with nedb engine .favUpdate should fav an object,0.015,SeriesController,27,1.512
+SeriesController with nedb engine .favUpdate should unfav an object,0.012,SeriesController,27,1.512
+SeriesController with nedb engine .rateUpdate should not rate with invalid parameters,0.01,SeriesController,27,1.512
+SeriesController with nedb engine .rateUpdate should rate an object,0.017,SeriesController,27,1.512
+SeriesController with nedb engine .rateUpdate should unrate an object,0.015,SeriesController,27,1.512
+SeriesController with nedb engine .search should search for an object,0.055,SeriesController,27,1.512
+SeriesController with nedb engine .image should get an image for an object,0.215,SeriesController,27,1.512
+SeriesController with nedb engine .list should return invalid list error,0.004,SeriesController,27,1.512
+SeriesController with nedb engine .list should return lists,0.061,SeriesController,27,1.512
+SeriesController with nedb engine .download should not (prepare) download an object with unsupported format,0.007,SeriesController,27,1.512
+SeriesController with nedb engine .download should (prepare) download an object,0.022,SeriesController,27,1.512
+SeriesController with nedb engine .tracks should handle invalid parameters,0.007,SeriesController,27,1.512
+SeriesController with nedb engine .tracks should return tracks,0.014,SeriesController,27,1.512
+SeriesController with nedb engine .index should return an index with all series,0.008,SeriesController,27,1.512
+SeriesController with nedb engine .index should return an empty index,0.005,SeriesController,27,1.512
+SeriesController with nedb engine .info should return series info,0.005,SeriesController,27,1.512
+SeriesController with nedb engine .id should return sub items,0.015,SeriesController,27,1.512
+SeriesController with nedb engine .id should return series info in sub-object,0.005,SeriesController,27,1.512
+SeriesController with nedb engine .id should handle metadata not available for series series info in sub-object,0.009,SeriesController,27,1.512
+SeriesController with nedb engine .albums should handle invalid parameters,0.005,SeriesController,27,1.512
+SeriesController with nedb engine .albums should return albums,0.006,SeriesController,27,1.512
+SeriesController with nedb engine .id should return error on invalid id parameter,0.015,SeriesController,27,1.518
+SeriesController with nedb engine .id should return 404 for invalid id,0.003,SeriesController,27,1.518
+SeriesController with nedb engine .id should ignore invalid ids,0.006,SeriesController,27,1.518
+SeriesController with nedb engine .id should return objects,0.069,SeriesController,27,1.518
+SeriesController with nedb engine .state should return object state,0.015,SeriesController,27,1.518
+SeriesController with nedb engine .state should return object states,0.015,SeriesController,27,1.518
+SeriesController with nedb engine .favUpdate should fav an object,0.015,SeriesController,27,1.518
+SeriesController with nedb engine .favUpdate should unfav an object,0.014,SeriesController,27,1.518
+SeriesController with nedb engine .rateUpdate should not rate with invalid parameters,0.008,SeriesController,27,1.518
+SeriesController with nedb engine .rateUpdate should rate an object,0.01,SeriesController,27,1.518
+SeriesController with nedb engine .rateUpdate should unrate an object,0.017,SeriesController,27,1.518
+SeriesController with nedb engine .search should search for an object,0.058,SeriesController,27,1.518
+SeriesController with nedb engine .image should get an image for an object,0.209,SeriesController,27,1.518
+SeriesController with nedb engine .list should return invalid list error,0.004,SeriesController,27,1.518
+SeriesController with nedb engine .list should return lists,0.057,SeriesController,27,1.518
+SeriesController with nedb engine .download should not (prepare) download an object with unsupported format,0.005,SeriesController,27,1.518
+SeriesController with nedb engine .download should (prepare) download an object,0.024,SeriesController,27,1.518
+SeriesController with nedb engine .tracks should handle invalid parameters,0.007,SeriesController,27,1.518
+SeriesController with nedb engine .tracks should return tracks,0.005,SeriesController,27,1.518
+SeriesController with nedb engine .index should return an index with all series,0.016,SeriesController,27,1.518
+SeriesController with nedb engine .index should return an empty index,0.007,SeriesController,27,1.518
+SeriesController with nedb engine .info should return series info,0.006,SeriesController,27,1.518
+SeriesController with nedb engine .id should return sub items,0.013,SeriesController,27,1.518
+SeriesController with nedb engine .id should return series info in sub-object,0.005,SeriesController,27,1.518
+SeriesController with nedb engine .id should handle metadata not available for series series info in sub-object,0.012,SeriesController,27,1.518
+SeriesController with nedb engine .albums should handle invalid parameters,0.007,SeriesController,27,1.518
+SeriesController with nedb engine .albums should return albums,0.006,SeriesController,27,1.518
+JamApi with nedb engine should exist,0.004,JamApi,1,0.879
+JamApi with nedb engine should exist,0.005,JamApi,1,0.885
+UserController with nedb engine .id should return error on invalid id parameter,0.011,UserController,13,1.166
+UserController with nedb engine .id should return 404 for invalid id,0.014,UserController,13,1.166
+UserController with nedb engine .id should ignore invalid ids,0.009,UserController,13,1.166
+UserController with nedb engine .id should return objects,0.037,UserController,13,1.166
+UserController with nedb engine .state should return object state,0.019,UserController,13,1.166
+UserController with nedb engine .state should return object states,0.027,UserController,13,1.166
+UserController with nedb engine .favUpdate should fav an object,0.013,UserController,13,1.166
+UserController with nedb engine .favUpdate should unfav an object,0.011,UserController,13,1.166
+UserController with nedb engine .rateUpdate should not rate with invalid parameters,0.015,UserController,13,1.166
+UserController with nedb engine .rateUpdate should rate an object,0.012,UserController,13,1.166
+UserController with nedb engine .rateUpdate should unrate an object,0.011,UserController,13,1.166
+UserController with nedb engine .search should search for an object,0.019,UserController,13,1.166
+UserController with nedb engine .image should get an image for an object,0.069,UserController,13,1.166
+UserController with nedb engine .id should return error on invalid id parameter,0.014,UserController,13,1.144
+UserController with nedb engine .id should return 404 for invalid id,0.003,UserController,13,1.144
+UserController with nedb engine .id should ignore invalid ids,0.014,UserController,13,1.144
+UserController with nedb engine .id should return objects,0.03,UserController,13,1.144
+UserController with nedb engine .state should return object state,0.017,UserController,13,1.144
+UserController with nedb engine .state should return object states,0.023,UserController,13,1.144
+UserController with nedb engine .favUpdate should fav an object,0.012,UserController,13,1.144
+UserController with nedb engine .favUpdate should unfav an object,0.012,UserController,13,1.144
+UserController with nedb engine .rateUpdate should not rate with invalid parameters,0.008,UserController,13,1.144
+UserController with nedb engine .rateUpdate should rate an object,0.02,UserController,13,1.144
+UserController with nedb engine .rateUpdate should unrate an object,0.012,UserController,13,1.144
+UserController with nedb engine .search should search for an object,0.02,UserController,13,1.144
+UserController with nedb engine .image should get an image for an object,0.065,UserController,13,1.144
+FolderService with nedb .getFolderImage should return an empty response for not available images,0.005,FolderService,3,1.042
+FolderService with nedb .collectFolderPath should handle invalid parameters,0.017,FolderService,3,1.042
+FolderService with nedb .collectFolderPath should report the right parents,0.228,FolderService,3,1.042
+FolderService with nedb .getFolderImage should return an empty response for not available images,0.006,FolderService,3,1.022
+FolderService with nedb .collectFolderPath should handle invalid parameters,0.007,FolderService,3,1.022
+FolderService with nedb .collectFolderPath should report the right parents,0.22,FolderService,3,1.022
+RootService with nedb should find roots,0.005,RootService,1,0.821
+RootService with nedb should find roots,0.005,RootService,1,0.819
+BookmarkController with nedb engine .create should fail create for non existing track,0.011,BookmarkController,12,1.09
+BookmarkController with nedb engine .create should create a bookmark,0.012,BookmarkController,12,1.09
+BookmarkController with nedb engine .delete should delete an invalid bookmark,0,BookmarkController,12,1.09
+BookmarkController with nedb engine .delete should delete a bookmark,0.011,BookmarkController,12,1.09
+BookmarkController with nedb engine .byTrackDelete should delete an invalid bookmark,0.001,BookmarkController,12,1.09
+BookmarkController with nedb engine .byTrackDelete should delete all bookmark,0.015,BookmarkController,12,1.09
+BookmarkController with nedb engine .list should list bookmarks,0.008,BookmarkController,12,1.09
+BookmarkController with nedb engine .byTrackList should list bookmarks,0.004,BookmarkController,12,1.09
+BookmarkController with nedb engine .id should return error on invalid id parameter,0.009,BookmarkController,12,1.09
+BookmarkController with nedb engine .id should return 404 for invalid id,0.003,BookmarkController,12,1.09
+BookmarkController with nedb engine .id should ignore invalid ids,0.018,BookmarkController,12,1.09
+BookmarkController with nedb engine .id should return an bookmark,0.067,BookmarkController,12,1.09
+BookmarkController with nedb engine .create should fail create for non existing track,0.011,BookmarkController,12,1.719
+BookmarkController with nedb engine .create should create a bookmark,0.005,BookmarkController,12,1.719
+BookmarkController with nedb engine .delete should delete an invalid bookmark,0,BookmarkController,12,1.719
+BookmarkController with nedb engine .delete should delete a bookmark,0.008,BookmarkController,12,1.719
+BookmarkController with nedb engine .byTrackDelete should delete an invalid bookmark,0,BookmarkController,12,1.719
+BookmarkController with nedb engine .byTrackDelete should delete all bookmark,0.018,BookmarkController,12,1.719
+BookmarkController with nedb engine .list should list bookmarks,0.018,BookmarkController,12,1.719
+BookmarkController with nedb engine .byTrackList should list bookmarks,0.006,BookmarkController,12,1.719
+BookmarkController with nedb engine .id should return error on invalid id parameter,0.013,BookmarkController,12,1.719
+BookmarkController with nedb engine .id should return 404 for invalid id,0.004,BookmarkController,12,1.719
+BookmarkController with nedb engine .id should ignore invalid ids,0.005,BookmarkController,12,1.719
+BookmarkController with nedb engine .id should return an bookmark,0.071,BookmarkController,12,1.719
+GenreService with nedb should return genres,0.007,GenreService,2,0.861
+GenreService with nedb should not return genres on invalid root id,0.003,GenreService,2,0.861
+GenreService with nedb should return genres,0.005,GenreService,2,0.833
+GenreService with nedb should not return genres on invalid root id,0.003,GenreService,2,0.833
+SessionController with nedb engine should return ping,0.048,SessionController,2,1.028
+SessionController with nedb engine should return session info,0.032,SessionController,2,1.028
+SessionController with nedb engine should return ping,0.049,SessionController,2,0.941
+SessionController with nedb engine should return session info,0.024,SessionController,2,0.941
+DownloadService with nedb should download a track,0.01,DownloadService,11,0.877
+DownloadService with nedb should download a folder,0.006,DownloadService,11,0.877
+DownloadService with nedb should download an episode,0.006,DownloadService,11,0.877
+DownloadService with nedb should not download an unavailable episode,0.01,DownloadService,11,0.877
+DownloadService with nedb should download an artist,0.005,DownloadService,11,0.877
+DownloadService with nedb should download an album,0.006,DownloadService,11,0.877
+DownloadService with nedb should download a playlist,0.019,DownloadService,11,0.877
+DownloadService with nedb should not download a non public playlist,0.003,DownloadService,11,0.877
+DownloadService with nedb should not allow an unknown download format,0.004,DownloadService,11,0.877
+DownloadService with nedb should download as tar,0.006,DownloadService,11,0.877
+DownloadService with nedb should not download a car,0.002,DownloadService,11,0.877
+DownloadService with nedb should download a track,0.008,DownloadService,11,0.947
+DownloadService with nedb should download a folder,0.008,DownloadService,11,0.947
+DownloadService with nedb should download an episode,0.019,DownloadService,11,0.947
+DownloadService with nedb should not download an unavailable episode,0.01,DownloadService,11,0.947
+DownloadService with nedb should download an artist,0.007,DownloadService,11,0.947
+DownloadService with nedb should download an album,0.007,DownloadService,11,0.947
+DownloadService with nedb should download a playlist,0.011,DownloadService,11,0.947
+DownloadService with nedb should not download a non public playlist,0.003,DownloadService,11,0.947
+DownloadService with nedb should not allow an unknown download format,0.004,DownloadService,11,0.947
+DownloadService with nedb should download as tar,0.013,DownloadService,11,0.947
+DownloadService with nedb should not download a car,0.004,DownloadService,11,0.947
+Engine with nedb engine should refresh,0.005,Engine,1,0.934
+Engine with nedb engine should refresh,0.006,Engine,1,0.909

@@ -1,0 +1,850 @@
+Configuration no argv returns the default configuration,0.0090,no argv,1,0.0090
+Configuration path to a feature returns the appropriate feature and support code paths,0.0040,path to a feature,1,0.0040
+Configuration path to a nested feature returns the appropriate feature and support code paths,0.0020,path to a nested feature,1,0.0020
+Configuration formatters adds a default,0.0010,formatters,5,0.0040
+Configuration formatters splits relative unix paths,0.0010,formatters,5,0.0040
+Configuration formatters splits absolute unix paths,0.0010,formatters,5,0.0040
+Configuration formatters splits absolute windows paths,0.0010,formatters,5,0.0040
+Configuration formatters does not split absolute windows paths without an output,0.0000,formatters,5,0.0040
+Configuration formatOptions joins the objects,0.0010,formatOptions,1,0.0010
+JsonFormatter no features outputs an empty array,0.0010,no features,1,0.0010
+JsonFormatter one scenario with one step passed outputs the feature,0.0030,passed,1,0.0030
+JsonFormatter one scenario with one step retried only outputs the last attempt,0.0020,retried,1,0.0020
+JsonFormatter one scenario with one step failed includes the error message,0.0020,failed,1,0.0020
+JsonFormatter one scenario with one step without a step definition does not output a match attribute for the step,0.0000,without a step definition,1,0.0000
+JsonFormatter one scenario with one step with hooks outputs the hooks with special properties,0.0010,with hooks,1,0.0010
+JsonFormatter one scenario with one step with a doc string outputs the doc string as a step argument,0.0020,with a doc string,1,0.0020
+JsonFormatter one scenario with one step  with a data table string outputs the data table as a step argument,0.0020, with a data table string,1,0.0020
+Configuration no argv returns the default configuration,0.0100,no argv,1,0.0100
+Configuration path to a feature returns the appropriate feature and support code paths,0.0050,path to a feature,1,0.0050
+Configuration path to a nested feature returns the appropriate feature and support code paths,0.0030,path to a nested feature,1,0.0030
+Configuration formatters adds a default,0.0010,formatters,5,0.0050
+Configuration formatters splits relative unix paths,0.0010,formatters,5,0.0050
+Configuration formatters splits absolute unix paths,0.0010,formatters,5,0.0050
+Configuration formatters splits absolute windows paths,0.0010,formatters,5,0.0050
+Configuration formatters does not split absolute windows paths without an output,0.0010,formatters,5,0.0050
+Configuration formatOptions joins the objects,0.0010,formatOptions,1,0.0010
+JsonFormatter no features outputs an empty array,0.0010,no features,1,0.0010
+JsonFormatter one scenario with one step passed outputs the feature,0.0020,passed,1,0.0020
+JsonFormatter one scenario with one step retried only outputs the last attempt,0.0010,retried,1,0.0010
+JsonFormatter one scenario with one step failed includes the error message,0.0020,failed,1,0.0020
+JsonFormatter one scenario with one step without a step definition does not output a match attribute for the step,0.0000,without a step definition,1,0.0000
+JsonFormatter one scenario with one step with hooks outputs the hooks with special properties,0.0010,with hooks,1,0.0010
+JsonFormatter one scenario with one step with a doc string outputs the doc string as a step argument,0.0020,with a doc string,1,0.0020
+JsonFormatter one scenario with one step  with a data table string outputs the data table as a step argument,0.0030, with a data table string,1,0.0030
+Configuration no argv returns the default configuration,0.0090,no argv,1,0.0090
+Configuration path to a feature returns the appropriate feature and support code paths,0.0040,path to a feature,1,0.0040
+Configuration path to a nested feature returns the appropriate feature and support code paths,0.0020,path to a nested feature,1,0.0020
+Configuration formatters adds a default,0.0010,formatters,5,0.0050
+Configuration formatters splits relative unix paths,0.0010,formatters,5,0.0050
+Configuration formatters splits absolute unix paths,0.0010,formatters,5,0.0050
+Configuration formatters splits absolute windows paths,0.0010,formatters,5,0.0050
+Configuration formatters does not split absolute windows paths without an output,0.0010,formatters,5,0.0050
+Configuration formatOptions joins the objects,0.0020,formatOptions,1,0.0020
+JsonFormatter no features outputs an empty array,0.0010,no features,1,0.0010
+JsonFormatter one scenario with one step passed outputs the feature,0.0020,passed,1,0.0020
+JsonFormatter one scenario with one step retried only outputs the last attempt,0.0020,retried,1,0.0020
+JsonFormatter one scenario with one step failed includes the error message,0.0030,failed,1,0.0030
+JsonFormatter one scenario with one step without a step definition does not output a match attribute for the step,0.0000,without a step definition,1,0.0000
+JsonFormatter one scenario with one step with hooks outputs the hooks with special properties,0.0020,with hooks,1,0.0020
+JsonFormatter one scenario with one step with a doc string outputs the doc string as a step argument,0.0020,with a doc string,1,0.0020
+JsonFormatter one scenario with one step  with a data table string outputs the data table as a step argument,0.0020, with a data table string,1,0.0020
+Configuration no argv returns the default configuration,0.0090,no argv,1,0.0090
+Configuration path to a feature returns the appropriate feature and support code paths,0.0040,path to a feature,1,0.0040
+Configuration path to a nested feature returns the appropriate feature and support code paths,0.0040,path to a nested feature,1,0.0040
+Configuration formatters adds a default,0.0020,formatters,5,0.0060
+Configuration formatters splits relative unix paths,0.0010,formatters,5,0.0060
+Configuration formatters splits absolute unix paths,0.0010,formatters,5,0.0060
+Configuration formatters splits absolute windows paths,0.0010,formatters,5,0.0060
+Configuration formatters does not split absolute windows paths without an output,0.0010,formatters,5,0.0060
+Configuration formatOptions joins the objects,0.0010,formatOptions,1,0.0010
+JsonFormatter no features outputs an empty array,0.0020,no features,1,0.0020
+JsonFormatter one scenario with one step passed outputs the feature,0.0020,passed,1,0.0020
+JsonFormatter one scenario with one step retried only outputs the last attempt,0.0020,retried,1,0.0020
+JsonFormatter one scenario with one step failed includes the error message,0.0030,failed,1,0.0030
+JsonFormatter one scenario with one step without a step definition does not output a match attribute for the step,0.0000,without a step definition,1,0.0000
+JsonFormatter one scenario with one step with hooks outputs the hooks with special properties,0.0020,with hooks,1,0.0020
+JsonFormatter one scenario with one step with a doc string outputs the doc string as a step argument,0.0010,with a doc string,1,0.0010
+JsonFormatter one scenario with one step  with a data table string outputs the data table as a step argument,0.0020, with a data table string,1,0.0020
+Configuration no argv returns the default configuration,0.0090,no argv,1,0.0090
+Configuration path to a feature returns the appropriate feature and support code paths,0.0040,path to a feature,1,0.0040
+Configuration path to a nested feature returns the appropriate feature and support code paths,0.0020,path to a nested feature,1,0.0020
+Configuration formatters adds a default,0.0020,formatters,5,0.0060
+Configuration formatters splits relative unix paths,0.0010,formatters,5,0.0060
+Configuration formatters splits absolute unix paths,0.0010,formatters,5,0.0060
+Configuration formatters splits absolute windows paths,0.0010,formatters,5,0.0060
+Configuration formatters does not split absolute windows paths without an output,0.0010,formatters,5,0.0060
+Configuration formatOptions joins the objects,0.0020,formatOptions,1,0.0020
+JsonFormatter no features outputs an empty array,0.0010,no features,1,0.0010
+JsonFormatter one scenario with one step passed outputs the feature,0.0040,passed,1,0.0040
+JsonFormatter one scenario with one step retried only outputs the last attempt,0.0020,retried,1,0.0020
+JsonFormatter one scenario with one step failed includes the error message,0.0030,failed,1,0.0030
+JsonFormatter one scenario with one step without a step definition does not output a match attribute for the step,0.0000,without a step definition,1,0.0000
+JsonFormatter one scenario with one step with hooks outputs the hooks with special properties,0.0020,with hooks,1,0.0020
+JsonFormatter one scenario with one step with a doc string outputs the doc string as a step argument,0.0030,with a doc string,1,0.0030
+JsonFormatter one scenario with one step  with a data table string outputs the data table as a step argument,0.0030, with a data table string,1,0.0030
+Configuration no argv returns the default configuration,0.0090,no argv,1,0.0090
+Configuration path to a feature returns the appropriate feature and support code paths,0.0040,path to a feature,1,0.0040
+Configuration path to a nested feature returns the appropriate feature and support code paths,0.0030,path to a nested feature,1,0.0030
+Configuration formatters adds a default,0.0020,formatters,5,0.0060
+Configuration formatters splits relative unix paths,0.0010,formatters,5,0.0060
+Configuration formatters splits absolute unix paths,0.0010,formatters,5,0.0060
+Configuration formatters splits absolute windows paths,0.0010,formatters,5,0.0060
+Configuration formatters does not split absolute windows paths without an output,0.0010,formatters,5,0.0060
+Configuration formatOptions joins the objects,0.0010,formatOptions,1,0.0010
+JsonFormatter no features outputs an empty array,0.0010,no features,1,0.0010
+JsonFormatter one scenario with one step passed outputs the feature,0.0020,passed,1,0.0020
+JsonFormatter one scenario with one step retried only outputs the last attempt,0.0020,retried,1,0.0020
+JsonFormatter one scenario with one step failed includes the error message,0.0020,failed,1,0.0020
+JsonFormatter one scenario with one step without a step definition does not output a match attribute for the step,0.0000,without a step definition,1,0.0000
+JsonFormatter one scenario with one step with hooks outputs the hooks with special properties,0.0010,with hooks,1,0.0010
+JsonFormatter one scenario with one step with a doc string outputs the doc string as a step argument,0.0020,with a doc string,1,0.0020
+JsonFormatter one scenario with one step  with a data table string outputs the data table as a step argument,0.0020, with a data table string,1,0.0020
+Configuration no argv returns the default configuration,0.0100,no argv,1,0.0100
+Configuration path to a feature returns the appropriate feature and support code paths,0.0050,path to a feature,1,0.0050
+Configuration path to a nested feature returns the appropriate feature and support code paths,0.0030,path to a nested feature,1,0.0030
+Configuration formatters adds a default,0.0010,formatters,5,0.0050
+Configuration formatters splits relative unix paths,0.0010,formatters,5,0.0050
+Configuration formatters splits absolute unix paths,0.0010,formatters,5,0.0050
+Configuration formatters splits absolute windows paths,0.0010,formatters,5,0.0050
+Configuration formatters does not split absolute windows paths without an output,0.0010,formatters,5,0.0050
+Configuration formatOptions joins the objects,0.0010,formatOptions,1,0.0010
+JsonFormatter no features outputs an empty array,0.0000,no features,1,0.0000
+JsonFormatter one scenario with one step passed outputs the feature,0.0020,passed,1,0.0020
+JsonFormatter one scenario with one step retried only outputs the last attempt,0.0020,retried,1,0.0020
+JsonFormatter one scenario with one step failed includes the error message,0.0020,failed,1,0.0020
+JsonFormatter one scenario with one step without a step definition does not output a match attribute for the step,0.0000,without a step definition,1,0.0000
+JsonFormatter one scenario with one step with hooks outputs the hooks with special properties,0.0020,with hooks,1,0.0020
+JsonFormatter one scenario with one step with a doc string outputs the doc string as a step argument,0.0050,with a doc string,1,0.0050
+JsonFormatter one scenario with one step  with a data table string outputs the data table as a step argument,0.0020, with a data table string,1,0.0020
+Configuration no argv returns the default configuration,0.0090,no argv,1,0.0090
+Configuration path to a feature returns the appropriate feature and support code paths,0.0040,path to a feature,1,0.0040
+Configuration path to a nested feature returns the appropriate feature and support code paths,0.0030,path to a nested feature,1,0.0030
+Configuration formatters adds a default,0.0010,formatters,5,0.0060
+Configuration formatters splits relative unix paths,0.0020,formatters,5,0.0060
+Configuration formatters splits absolute unix paths,0.0010,formatters,5,0.0060
+Configuration formatters splits absolute windows paths,0.0010,formatters,5,0.0060
+Configuration formatters does not split absolute windows paths without an output,0.0010,formatters,5,0.0060
+Configuration formatOptions joins the objects,0.0010,formatOptions,1,0.0010
+JsonFormatter no features outputs an empty array,0.0010,no features,1,0.0010
+JsonFormatter one scenario with one step passed outputs the feature,0.0020,passed,1,0.0020
+JsonFormatter one scenario with one step retried only outputs the last attempt,0.0060,retried,1,0.0060
+JsonFormatter one scenario with one step failed includes the error message,0.0020,failed,1,0.0020
+JsonFormatter one scenario with one step without a step definition does not output a match attribute for the step,0.0000,without a step definition,1,0.0000
+JsonFormatter one scenario with one step with hooks outputs the hooks with special properties,0.0010,with hooks,1,0.0010
+JsonFormatter one scenario with one step with a doc string outputs the doc string as a step argument,0.0020,with a doc string,1,0.0020
+JsonFormatter one scenario with one step  with a data table string outputs the data table as a step argument,0.0020, with a data table string,1,0.0020
+Configuration no argv returns the default configuration,0.0090,no argv,1,0.0090
+Configuration path to a feature returns the appropriate feature and support code paths,0.0040,path to a feature,1,0.0040
+Configuration path to a nested feature returns the appropriate feature and support code paths,0.0030,path to a nested feature,1,0.0030
+Configuration formatters adds a default,0.0010,formatters,5,0.0060
+Configuration formatters splits relative unix paths,0.0020,formatters,5,0.0060
+Configuration formatters splits absolute unix paths,0.0010,formatters,5,0.0060
+Configuration formatters splits absolute windows paths,0.0010,formatters,5,0.0060
+Configuration formatters does not split absolute windows paths without an output,0.0010,formatters,5,0.0060
+Configuration formatOptions joins the objects,0.0020,formatOptions,1,0.0020
+JsonFormatter no features outputs an empty array,0.0010,no features,1,0.0010
+JsonFormatter one scenario with one step passed outputs the feature,0.0020,passed,1,0.0020
+JsonFormatter one scenario with one step retried only outputs the last attempt,0.0020,retried,1,0.0020
+JsonFormatter one scenario with one step failed includes the error message,0.0020,failed,1,0.0020
+JsonFormatter one scenario with one step without a step definition does not output a match attribute for the step,0.0000,without a step definition,1,0.0000
+JsonFormatter one scenario with one step with hooks outputs the hooks with special properties,0.0020,with hooks,1,0.0020
+JsonFormatter one scenario with one step with a doc string outputs the doc string as a step argument,0.0020,with a doc string,1,0.0020
+JsonFormatter one scenario with one step  with a data table string outputs the data table as a step argument,0.0030, with a data table string,1,0.0030
+Configuration no argv returns the default configuration,0.0100,no argv,1,0.0100
+Configuration path to a feature returns the appropriate feature and support code paths,0.0050,path to a feature,1,0.0050
+Configuration path to a nested feature returns the appropriate feature and support code paths,0.0030,path to a nested feature,1,0.0030
+Configuration formatters adds a default,0.0010,formatters,5,0.0050
+Configuration formatters splits relative unix paths,0.0010,formatters,5,0.0050
+Configuration formatters splits absolute unix paths,0.0010,formatters,5,0.0050
+Configuration formatters splits absolute windows paths,0.0010,formatters,5,0.0050
+Configuration formatters does not split absolute windows paths without an output,0.0010,formatters,5,0.0050
+Configuration formatOptions joins the objects,0.0010,formatOptions,1,0.0010
+JsonFormatter no features outputs an empty array,0.0010,no features,1,0.0010
+JsonFormatter one scenario with one step passed outputs the feature,0.0020,passed,1,0.0020
+JsonFormatter one scenario with one step retried only outputs the last attempt,0.0050,retried,1,0.0050
+JsonFormatter one scenario with one step failed includes the error message,0.0020,failed,1,0.0020
+JsonFormatter one scenario with one step without a step definition does not output a match attribute for the step,0.0000,without a step definition,1,0.0000
+JsonFormatter one scenario with one step with hooks outputs the hooks with special properties,0.0010,with hooks,1,0.0010
+JsonFormatter one scenario with one step with a doc string outputs the doc string as a step argument,0.0020,with a doc string,1,0.0020
+JsonFormatter one scenario with one step  with a data table string outputs the data table as a step argument,0.0030, with a data table string,1,0.0030
+Configuration no argv returns the default configuration,0.0090,no argv,1,0.0090
+Configuration path to a feature returns the appropriate feature and support code paths,0.0040,path to a feature,1,0.0040
+Configuration path to a nested feature returns the appropriate feature and support code paths,0.0030,path to a nested feature,1,0.0030
+Configuration formatters adds a default,0.0010,formatters,5,0.0060
+Configuration formatters splits relative unix paths,0.0020,formatters,5,0.0060
+Configuration formatters splits absolute unix paths,0.0010,formatters,5,0.0060
+Configuration formatters splits absolute windows paths,0.0010,formatters,5,0.0060
+Configuration formatters does not split absolute windows paths without an output,0.0010,formatters,5,0.0060
+Configuration formatOptions joins the objects,0.0020,formatOptions,1,0.0020
+JsonFormatter no features outputs an empty array,0.0010,no features,1,0.0010
+JsonFormatter one scenario with one step passed outputs the feature,0.0020,passed,1,0.0020
+JsonFormatter one scenario with one step retried only outputs the last attempt,0.0020,retried,1,0.0020
+JsonFormatter one scenario with one step failed includes the error message,0.0020,failed,1,0.0020
+JsonFormatter one scenario with one step without a step definition does not output a match attribute for the step,0.0000,without a step definition,1,0.0000
+JsonFormatter one scenario with one step with hooks outputs the hooks with special properties,0.0010,with hooks,1,0.0010
+JsonFormatter one scenario with one step with a doc string outputs the doc string as a step argument,0.0020,with a doc string,1,0.0020
+JsonFormatter one scenario with one step  with a data table string outputs the data table as a step argument,0.0030, with a data table string,1,0.0030
+Configuration no argv returns the default configuration,0.0090,no argv,1,0.0090
+Configuration path to a feature returns the appropriate feature and support code paths,0.0040,path to a feature,1,0.0040
+Configuration path to a nested feature returns the appropriate feature and support code paths,0.0030,path to a nested feature,1,0.0030
+Configuration formatters adds a default,0.0010,formatters,5,0.0060
+Configuration formatters splits relative unix paths,0.0010,formatters,5,0.0060
+Configuration formatters splits absolute unix paths,0.0010,formatters,5,0.0060
+Configuration formatters splits absolute windows paths,0.0020,formatters,5,0.0060
+Configuration formatters does not split absolute windows paths without an output,0.0010,formatters,5,0.0060
+Configuration formatOptions joins the objects,0.0010,formatOptions,1,0.0010
+JsonFormatter no features outputs an empty array,0.0010,no features,1,0.0010
+JsonFormatter one scenario with one step passed outputs the feature,0.0030,passed,1,0.0030
+JsonFormatter one scenario with one step retried only outputs the last attempt,0.0030,retried,1,0.0030
+JsonFormatter one scenario with one step failed includes the error message,0.0040,failed,1,0.0040
+JsonFormatter one scenario with one step without a step definition does not output a match attribute for the step,0.0000,without a step definition,1,0.0000
+JsonFormatter one scenario with one step with hooks outputs the hooks with special properties,0.0030,with hooks,1,0.0030
+JsonFormatter one scenario with one step with a doc string outputs the doc string as a step argument,0.0020,with a doc string,1,0.0020
+JsonFormatter one scenario with one step  with a data table string outputs the data table as a step argument,0.0020, with a data table string,1,0.0020
+Configuration no argv returns the default configuration,0.0090,no argv,1,0.0090
+Configuration path to a feature returns the appropriate feature and support code paths,0.0040,path to a feature,1,0.0040
+Configuration path to a nested feature returns the appropriate feature and support code paths,0.0030,path to a nested feature,1,0.0030
+Configuration formatters adds a default,0.0010,formatters,5,0.0060
+Configuration formatters splits relative unix paths,0.0020,formatters,5,0.0060
+Configuration formatters splits absolute unix paths,0.0010,formatters,5,0.0060
+Configuration formatters splits absolute windows paths,0.0010,formatters,5,0.0060
+Configuration formatters does not split absolute windows paths without an output,0.0010,formatters,5,0.0060
+Configuration formatOptions joins the objects,0.0010,formatOptions,1,0.0010
+JsonFormatter no features outputs an empty array,0.0010,no features,1,0.0010
+JsonFormatter one scenario with one step passed outputs the feature,0.0040,passed,1,0.0040
+JsonFormatter one scenario with one step retried only outputs the last attempt,0.0020,retried,1,0.0020
+JsonFormatter one scenario with one step failed includes the error message,0.0030,failed,1,0.0030
+JsonFormatter one scenario with one step without a step definition does not output a match attribute for the step,0.0000,without a step definition,1,0.0000
+JsonFormatter one scenario with one step with hooks outputs the hooks with special properties,0.0020,with hooks,1,0.0020
+JsonFormatter one scenario with one step with a doc string outputs the doc string as a step argument,0.0020,with a doc string,1,0.0020
+JsonFormatter one scenario with one step  with a data table string outputs the data table as a step argument,0.0020, with a data table string,1,0.0020
+Configuration no argv returns the default configuration,0.0090,no argv,1,0.0090
+Configuration path to a feature returns the appropriate feature and support code paths,0.0040,path to a feature,1,0.0040
+Configuration path to a nested feature returns the appropriate feature and support code paths,0.0030,path to a nested feature,1,0.0030
+Configuration formatters adds a default,0.0010,formatters,5,0.0060
+Configuration formatters splits relative unix paths,0.0020,formatters,5,0.0060
+Configuration formatters splits absolute unix paths,0.0010,formatters,5,0.0060
+Configuration formatters splits absolute windows paths,0.0010,formatters,5,0.0060
+Configuration formatters does not split absolute windows paths without an output,0.0010,formatters,5,0.0060
+Configuration formatOptions joins the objects,0.0010,formatOptions,1,0.0010
+JsonFormatter no features outputs an empty array,0.0010,no features,1,0.0010
+JsonFormatter one scenario with one step passed outputs the feature,0.0030,passed,1,0.0030
+JsonFormatter one scenario with one step retried only outputs the last attempt,0.0020,retried,1,0.0020
+JsonFormatter one scenario with one step failed includes the error message,0.0020,failed,1,0.0020
+JsonFormatter one scenario with one step without a step definition does not output a match attribute for the step,0.0010,without a step definition,1,0.0010
+JsonFormatter one scenario with one step with hooks outputs the hooks with special properties,0.0020,with hooks,1,0.0020
+JsonFormatter one scenario with one step with a doc string outputs the doc string as a step argument,0.0010,with a doc string,1,0.0010
+JsonFormatter one scenario with one step  with a data table string outputs the data table as a step argument,0.0020, with a data table string,1,0.0020
+Configuration no argv returns the default configuration,0.0090,no argv,1,0.0090
+Configuration path to a feature returns the appropriate feature and support code paths,0.0040,path to a feature,1,0.0040
+Configuration path to a nested feature returns the appropriate feature and support code paths,0.0030,path to a nested feature,1,0.0030
+Configuration formatters adds a default,0.0020,formatters,5,0.0060
+Configuration formatters splits relative unix paths,0.0010,formatters,5,0.0060
+Configuration formatters splits absolute unix paths,0.0010,formatters,5,0.0060
+Configuration formatters splits absolute windows paths,0.0010,formatters,5,0.0060
+Configuration formatters does not split absolute windows paths without an output,0.0010,formatters,5,0.0060
+Configuration formatOptions joins the objects,0.0010,formatOptions,1,0.0010
+JsonFormatter no features outputs an empty array,0.0010,no features,1,0.0010
+JsonFormatter one scenario with one step passed outputs the feature,0.0030,passed,1,0.0030
+JsonFormatter one scenario with one step retried only outputs the last attempt,0.0020,retried,1,0.0020
+JsonFormatter one scenario with one step failed includes the error message,0.0020,failed,1,0.0020
+JsonFormatter one scenario with one step without a step definition does not output a match attribute for the step,0.0000,without a step definition,1,0.0000
+JsonFormatter one scenario with one step with hooks outputs the hooks with special properties,0.0020,with hooks,1,0.0020
+JsonFormatter one scenario with one step with a doc string outputs the doc string as a step argument,0.0020,with a doc string,1,0.0020
+JsonFormatter one scenario with one step  with a data table string outputs the data table as a step argument,0.0010, with a data table string,1,0.0010
+Configuration no argv returns the default configuration,0.0090,no argv,1,0.0090
+Configuration path to a feature returns the appropriate feature and support code paths,0.0050,path to a feature,1,0.0050
+Configuration path to a nested feature returns the appropriate feature and support code paths,0.0030,path to a nested feature,1,0.0030
+Configuration formatters adds a default,0.0010,formatters,5,0.0060
+Configuration formatters splits relative unix paths,0.0020,formatters,5,0.0060
+Configuration formatters splits absolute unix paths,0.0010,formatters,5,0.0060
+Configuration formatters splits absolute windows paths,0.0010,formatters,5,0.0060
+Configuration formatters does not split absolute windows paths without an output,0.0010,formatters,5,0.0060
+Configuration formatOptions joins the objects,0.0010,formatOptions,1,0.0010
+JsonFormatter no features outputs an empty array,0.0010,no features,1,0.0010
+JsonFormatter one scenario with one step passed outputs the feature,0.0020,passed,1,0.0020
+JsonFormatter one scenario with one step retried only outputs the last attempt,0.0010,retried,1,0.0010
+JsonFormatter one scenario with one step failed includes the error message,0.0020,failed,1,0.0020
+JsonFormatter one scenario with one step without a step definition does not output a match attribute for the step,0.0000,without a step definition,1,0.0000
+JsonFormatter one scenario with one step with hooks outputs the hooks with special properties,0.0020,with hooks,1,0.0020
+JsonFormatter one scenario with one step with a doc string outputs the doc string as a step argument,0.0020,with a doc string,1,0.0020
+JsonFormatter one scenario with one step  with a data table string outputs the data table as a step argument,0.0020, with a data table string,1,0.0020
+Configuration no argv returns the default configuration,0.0100,no argv,1,0.0100
+Configuration path to a feature returns the appropriate feature and support code paths,0.0040,path to a feature,1,0.0040
+Configuration path to a nested feature returns the appropriate feature and support code paths,0.0020,path to a nested feature,1,0.0020
+Configuration formatters adds a default,0.0010,formatters,5,0.0060
+Configuration formatters splits relative unix paths,0.0010,formatters,5,0.0060
+Configuration formatters splits absolute unix paths,0.0010,formatters,5,0.0060
+Configuration formatters splits absolute windows paths,0.0020,formatters,5,0.0060
+Configuration formatters does not split absolute windows paths without an output,0.0010,formatters,5,0.0060
+Configuration formatOptions joins the objects,0.0010,formatOptions,1,0.0010
+JsonFormatter no features outputs an empty array,0.0010,no features,1,0.0010
+JsonFormatter one scenario with one step passed outputs the feature,0.0070,passed,1,0.0070
+JsonFormatter one scenario with one step retried only outputs the last attempt,0.0020,retried,1,0.0020
+JsonFormatter one scenario with one step failed includes the error message,0.0020,failed,1,0.0020
+JsonFormatter one scenario with one step without a step definition does not output a match attribute for the step,0.0000,without a step definition,1,0.0000
+JsonFormatter one scenario with one step with hooks outputs the hooks with special properties,0.0020,with hooks,1,0.0020
+JsonFormatter one scenario with one step with a doc string outputs the doc string as a step argument,0.0020,with a doc string,1,0.0020
+JsonFormatter one scenario with one step  with a data table string outputs the data table as a step argument,0.0020, with a data table string,1,0.0020
+Configuration no argv returns the default configuration,0.0090,no argv,1,0.0090
+Configuration path to a feature returns the appropriate feature and support code paths,0.0040,path to a feature,1,0.0040
+Configuration path to a nested feature returns the appropriate feature and support code paths,0.0020,path to a nested feature,1,0.0020
+Configuration formatters adds a default,0.0010,formatters,5,0.0060
+Configuration formatters splits relative unix paths,0.0010,formatters,5,0.0060
+Configuration formatters splits absolute unix paths,0.0010,formatters,5,0.0060
+Configuration formatters splits absolute windows paths,0.0020,formatters,5,0.0060
+Configuration formatters does not split absolute windows paths without an output,0.0010,formatters,5,0.0060
+Configuration formatOptions joins the objects,0.0010,formatOptions,1,0.0010
+JsonFormatter no features outputs an empty array,0.0010,no features,1,0.0010
+JsonFormatter one scenario with one step passed outputs the feature,0.0040,passed,1,0.0040
+JsonFormatter one scenario with one step retried only outputs the last attempt,0.0020,retried,1,0.0020
+JsonFormatter one scenario with one step failed includes the error message,0.0020,failed,1,0.0020
+JsonFormatter one scenario with one step without a step definition does not output a match attribute for the step,0.0000,without a step definition,1,0.0000
+JsonFormatter one scenario with one step with hooks outputs the hooks with special properties,0.0020,with hooks,1,0.0020
+JsonFormatter one scenario with one step with a doc string outputs the doc string as a step argument,0.0010,with a doc string,1,0.0010
+JsonFormatter one scenario with one step  with a data table string outputs the data table as a step argument,0.0020, with a data table string,1,0.0020
+Configuration no argv returns the default configuration,0.0110,no argv,1,0.0110
+Configuration path to a feature returns the appropriate feature and support code paths,0.0060,path to a feature,1,0.0060
+Configuration path to a nested feature returns the appropriate feature and support code paths,0.0040,path to a nested feature,1,0.0040
+Configuration formatters adds a default,0.0020,formatters,5,0.0090
+Configuration formatters splits relative unix paths,0.0010,formatters,5,0.0090
+Configuration formatters splits absolute unix paths,0.0020,formatters,5,0.0090
+Configuration formatters splits absolute windows paths,0.0020,formatters,5,0.0090
+Configuration formatters does not split absolute windows paths without an output,0.0020,formatters,5,0.0090
+Configuration formatOptions joins the objects,0.0030,formatOptions,1,0.0030
+JsonFormatter no features outputs an empty array,0.0010,no features,1,0.0010
+JsonFormatter one scenario with one step passed outputs the feature,0.0020,passed,1,0.0020
+JsonFormatter one scenario with one step retried only outputs the last attempt,0.0020,retried,1,0.0020
+JsonFormatter one scenario with one step failed includes the error message,0.0030,failed,1,0.0030
+JsonFormatter one scenario with one step without a step definition does not output a match attribute for the step,0.0000,without a step definition,1,0.0000
+JsonFormatter one scenario with one step with hooks outputs the hooks with special properties,0.0020,with hooks,1,0.0020
+JsonFormatter one scenario with one step with a doc string outputs the doc string as a step argument,0.0010,with a doc string,1,0.0010
+JsonFormatter one scenario with one step  with a data table string outputs the data table as a step argument,0.0020, with a data table string,1,0.0020
+Configuration no argv returns the default configuration,0.0100,no argv,1,0.0100
+Configuration path to a feature returns the appropriate feature and support code paths,0.0040,path to a feature,1,0.0040
+Configuration path to a nested feature returns the appropriate feature and support code paths,0.0030,path to a nested feature,1,0.0030
+Configuration formatters adds a default,0.0020,formatters,5,0.0060
+Configuration formatters splits relative unix paths,0.0010,formatters,5,0.0060
+Configuration formatters splits absolute unix paths,0.0010,formatters,5,0.0060
+Configuration formatters splits absolute windows paths,0.0010,formatters,5,0.0060
+Configuration formatters does not split absolute windows paths without an output,0.0010,formatters,5,0.0060
+Configuration formatOptions joins the objects,0.0010,formatOptions,1,0.0010
+JsonFormatter no features outputs an empty array,0.0010,no features,1,0.0010
+JsonFormatter one scenario with one step passed outputs the feature,0.0040,passed,1,0.0040
+JsonFormatter one scenario with one step retried only outputs the last attempt,0.0020,retried,1,0.0020
+JsonFormatter one scenario with one step failed includes the error message,0.0020,failed,1,0.0020
+JsonFormatter one scenario with one step without a step definition does not output a match attribute for the step,0.0000,without a step definition,1,0.0000
+JsonFormatter one scenario with one step with hooks outputs the hooks with special properties,0.0020,with hooks,1,0.0020
+JsonFormatter one scenario with one step with a doc string outputs the doc string as a step argument,0.0020,with a doc string,1,0.0020
+JsonFormatter one scenario with one step  with a data table string outputs the data table as a step argument,0.0020, with a data table string,1,0.0020
+Configuration no argv returns the default configuration,0.0110,no argv,1,0.0110
+Configuration path to a feature returns the appropriate feature and support code paths,0.0050,path to a feature,1,0.0050
+Configuration path to a nested feature returns the appropriate feature and support code paths,0.0030,path to a nested feature,1,0.0030
+Configuration formatters adds a default,0.0010,formatters,5,0.0080
+Configuration formatters splits relative unix paths,0.0020,formatters,5,0.0080
+Configuration formatters splits absolute unix paths,0.0020,formatters,5,0.0080
+Configuration formatters splits absolute windows paths,0.0010,formatters,5,0.0080
+Configuration formatters does not split absolute windows paths without an output,0.0020,formatters,5,0.0080
+Configuration formatOptions joins the objects,0.0020,formatOptions,1,0.0020
+JsonFormatter no features outputs an empty array,0.0010,no features,1,0.0010
+JsonFormatter one scenario with one step passed outputs the feature,0.0030,passed,1,0.0030
+JsonFormatter one scenario with one step retried only outputs the last attempt,0.0020,retried,1,0.0020
+JsonFormatter one scenario with one step failed includes the error message,0.0020,failed,1,0.0020
+JsonFormatter one scenario with one step without a step definition does not output a match attribute for the step,0.0000,without a step definition,1,0.0000
+JsonFormatter one scenario with one step with hooks outputs the hooks with special properties,0.0020,with hooks,1,0.0020
+JsonFormatter one scenario with one step with a doc string outputs the doc string as a step argument,0.0020,with a doc string,1,0.0020
+JsonFormatter one scenario with one step  with a data table string outputs the data table as a step argument,0.0020, with a data table string,1,0.0020
+Configuration no argv returns the default configuration,0.0100,no argv,1,0.0100
+Configuration path to a feature returns the appropriate feature and support code paths,0.0040,path to a feature,1,0.0040
+Configuration path to a nested feature returns the appropriate feature and support code paths,0.0030,path to a nested feature,1,0.0030
+Configuration formatters adds a default,0.0010,formatters,5,0.0050
+Configuration formatters splits relative unix paths,0.0010,formatters,5,0.0050
+Configuration formatters splits absolute unix paths,0.0010,formatters,5,0.0050
+Configuration formatters splits absolute windows paths,0.0010,formatters,5,0.0050
+Configuration formatters does not split absolute windows paths without an output,0.0010,formatters,5,0.0050
+Configuration formatOptions joins the objects,0.0020,formatOptions,1,0.0020
+JsonFormatter no features outputs an empty array,0.0010,no features,1,0.0010
+JsonFormatter one scenario with one step passed outputs the feature,0.0020,passed,1,0.0020
+JsonFormatter one scenario with one step retried only outputs the last attempt,0.0020,retried,1,0.0020
+JsonFormatter one scenario with one step failed includes the error message,0.0020,failed,1,0.0020
+JsonFormatter one scenario with one step without a step definition does not output a match attribute for the step,0.0000,without a step definition,1,0.0000
+JsonFormatter one scenario with one step with hooks outputs the hooks with special properties,0.0010,with hooks,1,0.0010
+JsonFormatter one scenario with one step with a doc string outputs the doc string as a step argument,0.0020,with a doc string,1,0.0020
+JsonFormatter one scenario with one step  with a data table string outputs the data table as a step argument,0.0020, with a data table string,1,0.0020
+Configuration no argv returns the default configuration,0.0090,no argv,1,0.0090
+Configuration path to a feature returns the appropriate feature and support code paths,0.0040,path to a feature,1,0.0040
+Configuration path to a nested feature returns the appropriate feature and support code paths,0.0030,path to a nested feature,1,0.0030
+Configuration formatters adds a default,0.0010,formatters,5,0.0050
+Configuration formatters splits relative unix paths,0.0010,formatters,5,0.0050
+Configuration formatters splits absolute unix paths,0.0010,formatters,5,0.0050
+Configuration formatters splits absolute windows paths,0.0010,formatters,5,0.0050
+Configuration formatters does not split absolute windows paths without an output,0.0010,formatters,5,0.0050
+Configuration formatOptions joins the objects,0.0010,formatOptions,1,0.0010
+JsonFormatter no features outputs an empty array,0.0010,no features,1,0.0010
+JsonFormatter one scenario with one step passed outputs the feature,0.0020,passed,1,0.0020
+JsonFormatter one scenario with one step retried only outputs the last attempt,0.0020,retried,1,0.0020
+JsonFormatter one scenario with one step failed includes the error message,0.0020,failed,1,0.0020
+JsonFormatter one scenario with one step without a step definition does not output a match attribute for the step,0.0000,without a step definition,1,0.0000
+JsonFormatter one scenario with one step with hooks outputs the hooks with special properties,0.0020,with hooks,1,0.0020
+JsonFormatter one scenario with one step with a doc string outputs the doc string as a step argument,0.0020,with a doc string,1,0.0020
+JsonFormatter one scenario with one step  with a data table string outputs the data table as a step argument,0.0020, with a data table string,1,0.0020
+Configuration no argv returns the default configuration,0.0090,no argv,1,0.0090
+Configuration path to a feature returns the appropriate feature and support code paths,0.0040,path to a feature,1,0.0040
+Configuration path to a nested feature returns the appropriate feature and support code paths,0.0030,path to a nested feature,1,0.0030
+Configuration formatters adds a default,0.0010,formatters,5,0.0060
+Configuration formatters splits relative unix paths,0.0020,formatters,5,0.0060
+Configuration formatters splits absolute unix paths,0.0010,formatters,5,0.0060
+Configuration formatters splits absolute windows paths,0.0010,formatters,5,0.0060
+Configuration formatters does not split absolute windows paths without an output,0.0010,formatters,5,0.0060
+Configuration formatOptions joins the objects,0.0020,formatOptions,1,0.0020
+JsonFormatter no features outputs an empty array,0.0000,no features,1,0.0000
+JsonFormatter one scenario with one step passed outputs the feature,0.0020,passed,1,0.0020
+JsonFormatter one scenario with one step retried only outputs the last attempt,0.0010,retried,1,0.0010
+JsonFormatter one scenario with one step failed includes the error message,0.0020,failed,1,0.0020
+JsonFormatter one scenario with one step without a step definition does not output a match attribute for the step,0.0000,without a step definition,1,0.0000
+JsonFormatter one scenario with one step with hooks outputs the hooks with special properties,0.0010,with hooks,1,0.0010
+JsonFormatter one scenario with one step with a doc string outputs the doc string as a step argument,0.0020,with a doc string,1,0.0020
+JsonFormatter one scenario with one step  with a data table string outputs the data table as a step argument,0.0020, with a data table string,1,0.0020
+Configuration no argv returns the default configuration,0.0070,no argv,1,0.0070
+Configuration path to a feature returns the appropriate feature and support code paths,0.0030,path to a feature,1,0.0030
+Configuration path to a nested feature returns the appropriate feature and support code paths,0.0020,path to a nested feature,1,0.0020
+Configuration formatters adds a default,0.0010,formatters,5,0.0040
+Configuration formatters splits relative unix paths,0.0010,formatters,5,0.0040
+Configuration formatters splits absolute unix paths,0.0010,formatters,5,0.0040
+Configuration formatters splits absolute windows paths,0.0010,formatters,5,0.0040
+Configuration formatters does not split absolute windows paths without an output,0.0000,formatters,5,0.0040
+Configuration formatOptions joins the objects,0.0010,formatOptions,1,0.0010
+JsonFormatter no features outputs an empty array,0.0010,no features,1,0.0010
+JsonFormatter one scenario with one step passed outputs the feature,0.0020,passed,1,0.0020
+JsonFormatter one scenario with one step retried only outputs the last attempt,0.0020,retried,1,0.0020
+JsonFormatter one scenario with one step failed includes the error message,0.0020,failed,1,0.0020
+JsonFormatter one scenario with one step without a step definition does not output a match attribute for the step,0.0010,without a step definition,1,0.0010
+JsonFormatter one scenario with one step with hooks outputs the hooks with special properties,0.0020,with hooks,1,0.0020
+JsonFormatter one scenario with one step with a doc string outputs the doc string as a step argument,0.0020,with a doc string,1,0.0020
+JsonFormatter one scenario with one step  with a data table string outputs the data table as a step argument,0.0020, with a data table string,1,0.0020
+Configuration no argv returns the default configuration,0.0070,no argv,1,0.0070
+Configuration path to a feature returns the appropriate feature and support code paths,0.0030,path to a feature,1,0.0030
+Configuration path to a nested feature returns the appropriate feature and support code paths,0.0030,path to a nested feature,1,0.0030
+Configuration formatters adds a default,0.0010,formatters,5,0.0050
+Configuration formatters splits relative unix paths,0.0010,formatters,5,0.0050
+Configuration formatters splits absolute unix paths,0.0010,formatters,5,0.0050
+Configuration formatters splits absolute windows paths,0.0010,formatters,5,0.0050
+Configuration formatters does not split absolute windows paths without an output,0.0010,formatters,5,0.0050
+Configuration formatOptions joins the objects,0.0010,formatOptions,1,0.0010
+JsonFormatter no features outputs an empty array,0.0010,no features,1,0.0010
+JsonFormatter one scenario with one step passed outputs the feature,0.0030,passed,1,0.0030
+JsonFormatter one scenario with one step retried only outputs the last attempt,0.0030,retried,1,0.0030
+JsonFormatter one scenario with one step failed includes the error message,0.0030,failed,1,0.0030
+JsonFormatter one scenario with one step without a step definition does not output a match attribute for the step,0.0000,without a step definition,1,0.0000
+JsonFormatter one scenario with one step with hooks outputs the hooks with special properties,0.0020,with hooks,1,0.0020
+JsonFormatter one scenario with one step with a doc string outputs the doc string as a step argument,0.0010,with a doc string,1,0.0010
+JsonFormatter one scenario with one step  with a data table string outputs the data table as a step argument,0.0010, with a data table string,1,0.0010
+Configuration no argv returns the default configuration,0.0070,no argv,1,0.0070
+Configuration path to a feature returns the appropriate feature and support code paths,0.0030,path to a feature,1,0.0030
+Configuration path to a nested feature returns the appropriate feature and support code paths,0.0020,path to a nested feature,1,0.0020
+Configuration formatters adds a default,0.0000,formatters,5,0.0030
+Configuration formatters splits relative unix paths,0.0010,formatters,5,0.0030
+Configuration formatters splits absolute unix paths,0.0010,formatters,5,0.0030
+Configuration formatters splits absolute windows paths,0.0010,formatters,5,0.0030
+Configuration formatters does not split absolute windows paths without an output,0.0000,formatters,5,0.0030
+Configuration formatOptions joins the objects,0.0010,formatOptions,1,0.0010
+JsonFormatter no features outputs an empty array,0.0010,no features,1,0.0010
+JsonFormatter one scenario with one step passed outputs the feature,0.0020,passed,1,0.0020
+JsonFormatter one scenario with one step retried only outputs the last attempt,0.0020,retried,1,0.0020
+JsonFormatter one scenario with one step failed includes the error message,0.0020,failed,1,0.0020
+JsonFormatter one scenario with one step without a step definition does not output a match attribute for the step,0.0000,without a step definition,1,0.0000
+JsonFormatter one scenario with one step with hooks outputs the hooks with special properties,0.0010,with hooks,1,0.0010
+JsonFormatter one scenario with one step with a doc string outputs the doc string as a step argument,0.0010,with a doc string,1,0.0010
+JsonFormatter one scenario with one step  with a data table string outputs the data table as a step argument,0.0010, with a data table string,1,0.0010
+Configuration no argv returns the default configuration,0.0080,no argv,1,0.0080
+Configuration path to a feature returns the appropriate feature and support code paths,0.0040,path to a feature,1,0.0040
+Configuration path to a nested feature returns the appropriate feature and support code paths,0.0020,path to a nested feature,1,0.0020
+Configuration formatters adds a default,0.0010,formatters,5,0.0050
+Configuration formatters splits relative unix paths,0.0010,formatters,5,0.0050
+Configuration formatters splits absolute unix paths,0.0010,formatters,5,0.0050
+Configuration formatters splits absolute windows paths,0.0010,formatters,5,0.0050
+Configuration formatters does not split absolute windows paths without an output,0.0010,formatters,5,0.0050
+Configuration formatOptions joins the objects,0.0010,formatOptions,1,0.0010
+JsonFormatter no features outputs an empty array,0.0010,no features,1,0.0010
+JsonFormatter one scenario with one step passed outputs the feature,0.0030,passed,1,0.0030
+JsonFormatter one scenario with one step retried only outputs the last attempt,0.0010,retried,1,0.0010
+JsonFormatter one scenario with one step failed includes the error message,0.0010,failed,1,0.0010
+JsonFormatter one scenario with one step without a step definition does not output a match attribute for the step,0.0000,without a step definition,1,0.0000
+JsonFormatter one scenario with one step with hooks outputs the hooks with special properties,0.0010,with hooks,1,0.0010
+JsonFormatter one scenario with one step with a doc string outputs the doc string as a step argument,0.0010,with a doc string,1,0.0010
+JsonFormatter one scenario with one step  with a data table string outputs the data table as a step argument,0.0020, with a data table string,1,0.0020
+Configuration no argv returns the default configuration,0.0070,no argv,1,0.0070
+Configuration path to a feature returns the appropriate feature and support code paths,0.0030,path to a feature,1,0.0030
+Configuration path to a nested feature returns the appropriate feature and support code paths,0.0030,path to a nested feature,1,0.0030
+Configuration formatters adds a default,0.0010,formatters,5,0.0050
+Configuration formatters splits relative unix paths,0.0010,formatters,5,0.0050
+Configuration formatters splits absolute unix paths,0.0010,formatters,5,0.0050
+Configuration formatters splits absolute windows paths,0.0010,formatters,5,0.0050
+Configuration formatters does not split absolute windows paths without an output,0.0010,formatters,5,0.0050
+Configuration formatOptions joins the objects,0.0010,formatOptions,1,0.0010
+JsonFormatter no features outputs an empty array,0.0000,no features,1,0.0000
+JsonFormatter one scenario with one step passed outputs the feature,0.0030,passed,1,0.0030
+JsonFormatter one scenario with one step retried only outputs the last attempt,0.0020,retried,1,0.0020
+JsonFormatter one scenario with one step failed includes the error message,0.0030,failed,1,0.0030
+JsonFormatter one scenario with one step without a step definition does not output a match attribute for the step,0.0000,without a step definition,1,0.0000
+JsonFormatter one scenario with one step with hooks outputs the hooks with special properties,0.0020,with hooks,1,0.0020
+JsonFormatter one scenario with one step with a doc string outputs the doc string as a step argument,0.0020,with a doc string,1,0.0020
+JsonFormatter one scenario with one step  with a data table string outputs the data table as a step argument,0.0010, with a data table string,1,0.0010
+Configuration no argv returns the default configuration,0.0080,no argv,1,0.0080
+Configuration path to a feature returns the appropriate feature and support code paths,0.0040,path to a feature,1,0.0040
+Configuration path to a nested feature returns the appropriate feature and support code paths,0.0020,path to a nested feature,1,0.0020
+Configuration formatters adds a default,0.0010,formatters,5,0.0050
+Configuration formatters splits relative unix paths,0.0010,formatters,5,0.0050
+Configuration formatters splits absolute unix paths,0.0010,formatters,5,0.0050
+Configuration formatters splits absolute windows paths,0.0010,formatters,5,0.0050
+Configuration formatters does not split absolute windows paths without an output,0.0010,formatters,5,0.0050
+Configuration formatOptions joins the objects,0.0010,formatOptions,1,0.0010
+JsonFormatter no features outputs an empty array,0.0010,no features,1,0.0010
+JsonFormatter one scenario with one step passed outputs the feature,0.0020,passed,1,0.0020
+JsonFormatter one scenario with one step retried only outputs the last attempt,0.0020,retried,1,0.0020
+JsonFormatter one scenario with one step failed includes the error message,0.0020,failed,1,0.0020
+JsonFormatter one scenario with one step without a step definition does not output a match attribute for the step,0.0000,without a step definition,1,0.0000
+JsonFormatter one scenario with one step with hooks outputs the hooks with special properties,0.0010,with hooks,1,0.0010
+JsonFormatter one scenario with one step with a doc string outputs the doc string as a step argument,0.0010,with a doc string,1,0.0010
+JsonFormatter one scenario with one step  with a data table string outputs the data table as a step argument,0.0050, with a data table string,1,0.0050
+Configuration no argv returns the default configuration,0.0080,no argv,1,0.0080
+Configuration path to a feature returns the appropriate feature and support code paths,0.0030,path to a feature,1,0.0030
+Configuration path to a nested feature returns the appropriate feature and support code paths,0.0030,path to a nested feature,1,0.0030
+Configuration formatters adds a default,0.0010,formatters,5,0.0050
+Configuration formatters splits relative unix paths,0.0010,formatters,5,0.0050
+Configuration formatters splits absolute unix paths,0.0010,formatters,5,0.0050
+Configuration formatters splits absolute windows paths,0.0010,formatters,5,0.0050
+Configuration formatters does not split absolute windows paths without an output,0.0010,formatters,5,0.0050
+Configuration formatOptions joins the objects,0.0010,formatOptions,1,0.0010
+JsonFormatter no features outputs an empty array,0.0010,no features,1,0.0010
+JsonFormatter one scenario with one step passed outputs the feature,0.0020,passed,1,0.0020
+JsonFormatter one scenario with one step retried only outputs the last attempt,0.0010,retried,1,0.0010
+JsonFormatter one scenario with one step failed includes the error message,0.0020,failed,1,0.0020
+JsonFormatter one scenario with one step without a step definition does not output a match attribute for the step,0.0000,without a step definition,1,0.0000
+JsonFormatter one scenario with one step with hooks outputs the hooks with special properties,0.0010,with hooks,1,0.0010
+JsonFormatter one scenario with one step with a doc string outputs the doc string as a step argument,0.0010,with a doc string,1,0.0010
+JsonFormatter one scenario with one step  with a data table string outputs the data table as a step argument,0.0010, with a data table string,1,0.0010
+Configuration no argv returns the default configuration,0.0080,no argv,1,0.0080
+Configuration path to a feature returns the appropriate feature and support code paths,0.0030,path to a feature,1,0.0030
+Configuration path to a nested feature returns the appropriate feature and support code paths,0.0020,path to a nested feature,1,0.0020
+Configuration formatters adds a default,0.0010,formatters,5,0.0040
+Configuration formatters splits relative unix paths,0.0010,formatters,5,0.0040
+Configuration formatters splits absolute unix paths,0.0010,formatters,5,0.0040
+Configuration formatters splits absolute windows paths,0.0000,formatters,5,0.0040
+Configuration formatters does not split absolute windows paths without an output,0.0010,formatters,5,0.0040
+Configuration formatOptions joins the objects,0.0010,formatOptions,1,0.0010
+JsonFormatter no features outputs an empty array,0.0010,no features,1,0.0010
+JsonFormatter one scenario with one step passed outputs the feature,0.0030,passed,1,0.0030
+JsonFormatter one scenario with one step retried only outputs the last attempt,0.0020,retried,1,0.0020
+JsonFormatter one scenario with one step failed includes the error message,0.0020,failed,1,0.0020
+JsonFormatter one scenario with one step without a step definition does not output a match attribute for the step,0.0010,without a step definition,1,0.0010
+JsonFormatter one scenario with one step with hooks outputs the hooks with special properties,0.0010,with hooks,1,0.0010
+JsonFormatter one scenario with one step with a doc string outputs the doc string as a step argument,0.0020,with a doc string,1,0.0020
+JsonFormatter one scenario with one step  with a data table string outputs the data table as a step argument,0.0010, with a data table string,1,0.0010
+Configuration no argv returns the default configuration,0.0080,no argv,1,0.0080
+Configuration path to a feature returns the appropriate feature and support code paths,0.0040,path to a feature,1,0.0040
+Configuration path to a nested feature returns the appropriate feature and support code paths,0.0020,path to a nested feature,1,0.0020
+Configuration formatters adds a default,0.0010,formatters,5,0.0050
+Configuration formatters splits relative unix paths,0.0010,formatters,5,0.0050
+Configuration formatters splits absolute unix paths,0.0010,formatters,5,0.0050
+Configuration formatters splits absolute windows paths,0.0010,formatters,5,0.0050
+Configuration formatters does not split absolute windows paths without an output,0.0010,formatters,5,0.0050
+Configuration formatOptions joins the objects,0.0010,formatOptions,1,0.0010
+JsonFormatter no features outputs an empty array,0.0000,no features,1,0.0000
+JsonFormatter one scenario with one step passed outputs the feature,0.0030,passed,1,0.0030
+JsonFormatter one scenario with one step retried only outputs the last attempt,0.0010,retried,1,0.0010
+JsonFormatter one scenario with one step failed includes the error message,0.0020,failed,1,0.0020
+JsonFormatter one scenario with one step without a step definition does not output a match attribute for the step,0.0000,without a step definition,1,0.0000
+JsonFormatter one scenario with one step with hooks outputs the hooks with special properties,0.0010,with hooks,1,0.0010
+JsonFormatter one scenario with one step with a doc string outputs the doc string as a step argument,0.0010,with a doc string,1,0.0010
+JsonFormatter one scenario with one step  with a data table string outputs the data table as a step argument,0.0010, with a data table string,1,0.0010
+Configuration no argv returns the default configuration,0.0080,no argv,1,0.0080
+Configuration path to a feature returns the appropriate feature and support code paths,0.0030,path to a feature,1,0.0030
+Configuration path to a nested feature returns the appropriate feature and support code paths,0.0020,path to a nested feature,1,0.0020
+Configuration formatters adds a default,0.0010,formatters,5,0.0050
+Configuration formatters splits relative unix paths,0.0010,formatters,5,0.0050
+Configuration formatters splits absolute unix paths,0.0010,formatters,5,0.0050
+Configuration formatters splits absolute windows paths,0.0010,formatters,5,0.0050
+Configuration formatters does not split absolute windows paths without an output,0.0010,formatters,5,0.0050
+Configuration formatOptions joins the objects,0.0010,formatOptions,1,0.0010
+JsonFormatter no features outputs an empty array,0.0010,no features,1,0.0010
+JsonFormatter one scenario with one step passed outputs the feature,0.0030,passed,1,0.0030
+JsonFormatter one scenario with one step retried only outputs the last attempt,0.0010,retried,1,0.0010
+JsonFormatter one scenario with one step failed includes the error message,0.0020,failed,1,0.0020
+JsonFormatter one scenario with one step without a step definition does not output a match attribute for the step,0.0000,without a step definition,1,0.0000
+JsonFormatter one scenario with one step with hooks outputs the hooks with special properties,0.0010,with hooks,1,0.0010
+JsonFormatter one scenario with one step with a doc string outputs the doc string as a step argument,0.0010,with a doc string,1,0.0010
+JsonFormatter one scenario with one step  with a data table string outputs the data table as a step argument,0.0010, with a data table string,1,0.0010
+Configuration no argv returns the default configuration,0.0080,no argv,1,0.0080
+Configuration path to a feature returns the appropriate feature and support code paths,0.0030,path to a feature,1,0.0030
+Configuration path to a nested feature returns the appropriate feature and support code paths,0.0030,path to a nested feature,1,0.0030
+Configuration formatters adds a default,0.0010,formatters,5,0.0040
+Configuration formatters splits relative unix paths,0.0010,formatters,5,0.0040
+Configuration formatters splits absolute unix paths,0.0010,formatters,5,0.0040
+Configuration formatters splits absolute windows paths,0.0010,formatters,5,0.0040
+Configuration formatters does not split absolute windows paths without an output,0.0000,formatters,5,0.0040
+Configuration formatOptions joins the objects,0.0010,formatOptions,1,0.0010
+JsonFormatter no features outputs an empty array,0.0010,no features,1,0.0010
+JsonFormatter one scenario with one step passed outputs the feature,0.0030,passed,1,0.0030
+JsonFormatter one scenario with one step retried only outputs the last attempt,0.0020,retried,1,0.0020
+JsonFormatter one scenario with one step failed includes the error message,0.0030,failed,1,0.0030
+JsonFormatter one scenario with one step without a step definition does not output a match attribute for the step,0.0000,without a step definition,1,0.0000
+JsonFormatter one scenario with one step with hooks outputs the hooks with special properties,0.0020,with hooks,1,0.0020
+JsonFormatter one scenario with one step with a doc string outputs the doc string as a step argument,0.0020,with a doc string,1,0.0020
+JsonFormatter one scenario with one step  with a data table string outputs the data table as a step argument,0.0010, with a data table string,1,0.0010
+Configuration no argv returns the default configuration,0.0080,no argv,1,0.0080
+Configuration path to a feature returns the appropriate feature and support code paths,0.0030,path to a feature,1,0.0030
+Configuration path to a nested feature returns the appropriate feature and support code paths,0.0020,path to a nested feature,1,0.0020
+Configuration formatters adds a default,0.0010,formatters,5,0.0040
+Configuration formatters splits relative unix paths,0.0010,formatters,5,0.0040
+Configuration formatters splits absolute unix paths,0.0010,formatters,5,0.0040
+Configuration formatters splits absolute windows paths,0.0010,formatters,5,0.0040
+Configuration formatters does not split absolute windows paths without an output,0.0000,formatters,5,0.0040
+Configuration formatOptions joins the objects,0.0020,formatOptions,1,0.0020
+JsonFormatter no features outputs an empty array,0.0000,no features,1,0.0000
+JsonFormatter one scenario with one step passed outputs the feature,0.0030,passed,1,0.0030
+JsonFormatter one scenario with one step retried only outputs the last attempt,0.0020,retried,1,0.0020
+JsonFormatter one scenario with one step failed includes the error message,0.0020,failed,1,0.0020
+JsonFormatter one scenario with one step without a step definition does not output a match attribute for the step,0.0000,without a step definition,1,0.0000
+JsonFormatter one scenario with one step with hooks outputs the hooks with special properties,0.0010,with hooks,1,0.0010
+JsonFormatter one scenario with one step with a doc string outputs the doc string as a step argument,0.0010,with a doc string,1,0.0010
+JsonFormatter one scenario with one step  with a data table string outputs the data table as a step argument,0.0010, with a data table string,1,0.0010
+Configuration no argv returns the default configuration,0.0070,no argv,1,0.0070
+Configuration path to a feature returns the appropriate feature and support code paths,0.0030,path to a feature,1,0.0030
+Configuration path to a nested feature returns the appropriate feature and support code paths,0.0020,path to a nested feature,1,0.0020
+Configuration formatters adds a default,0.0010,formatters,5,0.0050
+Configuration formatters splits relative unix paths,0.0020,formatters,5,0.0050
+Configuration formatters splits absolute unix paths,0.0010,formatters,5,0.0050
+Configuration formatters splits absolute windows paths,0.0010,formatters,5,0.0050
+Configuration formatters does not split absolute windows paths without an output,0.0000,formatters,5,0.0050
+Configuration formatOptions joins the objects,0.0010,formatOptions,1,0.0010
+JsonFormatter no features outputs an empty array,0.0010,no features,1,0.0010
+JsonFormatter one scenario with one step passed outputs the feature,0.0010,passed,1,0.0010
+JsonFormatter one scenario with one step retried only outputs the last attempt,0.0010,retried,1,0.0010
+JsonFormatter one scenario with one step failed includes the error message,0.0020,failed,1,0.0020
+JsonFormatter one scenario with one step without a step definition does not output a match attribute for the step,0.0000,without a step definition,1,0.0000
+JsonFormatter one scenario with one step with hooks outputs the hooks with special properties,0.0010,with hooks,1,0.0010
+JsonFormatter one scenario with one step with a doc string outputs the doc string as a step argument,0.0010,with a doc string,1,0.0010
+JsonFormatter one scenario with one step  with a data table string outputs the data table as a step argument,0.0010, with a data table string,1,0.0010
+Configuration no argv returns the default configuration,0.0080,no argv,1,0.0080
+Configuration path to a feature returns the appropriate feature and support code paths,0.0040,path to a feature,1,0.0040
+Configuration path to a nested feature returns the appropriate feature and support code paths,0.0020,path to a nested feature,1,0.0020
+Configuration formatters adds a default,0.0010,formatters,5,0.0050
+Configuration formatters splits relative unix paths,0.0020,formatters,5,0.0050
+Configuration formatters splits absolute unix paths,0.0010,formatters,5,0.0050
+Configuration formatters splits absolute windows paths,0.0010,formatters,5,0.0050
+Configuration formatters does not split absolute windows paths without an output,0.0000,formatters,5,0.0050
+Configuration formatOptions joins the objects,0.0010,formatOptions,1,0.0010
+JsonFormatter no features outputs an empty array,0.0010,no features,1,0.0010
+JsonFormatter one scenario with one step passed outputs the feature,0.0030,passed,1,0.0030
+JsonFormatter one scenario with one step retried only outputs the last attempt,0.0030,retried,1,0.0030
+JsonFormatter one scenario with one step failed includes the error message,0.0030,failed,1,0.0030
+JsonFormatter one scenario with one step without a step definition does not output a match attribute for the step,0.0010,without a step definition,1,0.0010
+JsonFormatter one scenario with one step with hooks outputs the hooks with special properties,0.0020,with hooks,1,0.0020
+JsonFormatter one scenario with one step with a doc string outputs the doc string as a step argument,0.0020,with a doc string,1,0.0020
+JsonFormatter one scenario with one step  with a data table string outputs the data table as a step argument,0.0010, with a data table string,1,0.0010
+Configuration no argv returns the default configuration,0.0080,no argv,1,0.0080
+Configuration path to a feature returns the appropriate feature and support code paths,0.0030,path to a feature,1,0.0030
+Configuration path to a nested feature returns the appropriate feature and support code paths,0.0020,path to a nested feature,1,0.0020
+Configuration formatters adds a default,0.0000,formatters,5,0.0040
+Configuration formatters splits relative unix paths,0.0020,formatters,5,0.0040
+Configuration formatters splits absolute unix paths,0.0010,formatters,5,0.0040
+Configuration formatters splits absolute windows paths,0.0010,formatters,5,0.0040
+Configuration formatters does not split absolute windows paths without an output,0.0000,formatters,5,0.0040
+Configuration formatOptions joins the objects,0.0010,formatOptions,1,0.0010
+JsonFormatter no features outputs an empty array,0.0000,no features,1,0.0000
+JsonFormatter one scenario with one step passed outputs the feature,0.0030,passed,1,0.0030
+JsonFormatter one scenario with one step retried only outputs the last attempt,0.0020,retried,1,0.0020
+JsonFormatter one scenario with one step failed includes the error message,0.0020,failed,1,0.0020
+JsonFormatter one scenario with one step without a step definition does not output a match attribute for the step,0.0000,without a step definition,1,0.0000
+JsonFormatter one scenario with one step with hooks outputs the hooks with special properties,0.0010,with hooks,1,0.0010
+JsonFormatter one scenario with one step with a doc string outputs the doc string as a step argument,0.0010,with a doc string,1,0.0010
+JsonFormatter one scenario with one step  with a data table string outputs the data table as a step argument,0.0010, with a data table string,1,0.0010
+Configuration no argv returns the default configuration,0.0080,no argv,1,0.0080
+Configuration path to a feature returns the appropriate feature and support code paths,0.0030,path to a feature,1,0.0030
+Configuration path to a nested feature returns the appropriate feature and support code paths,0.0020,path to a nested feature,1,0.0020
+Configuration formatters adds a default,0.0010,formatters,5,0.0050
+Configuration formatters splits relative unix paths,0.0020,formatters,5,0.0050
+Configuration formatters splits absolute unix paths,0.0010,formatters,5,0.0050
+Configuration formatters splits absolute windows paths,0.0010,formatters,5,0.0050
+Configuration formatters does not split absolute windows paths without an output,0.0000,formatters,5,0.0050
+Configuration formatOptions joins the objects,0.0010,formatOptions,1,0.0010
+JsonFormatter no features outputs an empty array,0.0010,no features,1,0.0010
+JsonFormatter one scenario with one step passed outputs the feature,0.0030,passed,1,0.0030
+JsonFormatter one scenario with one step retried only outputs the last attempt,0.0020,retried,1,0.0020
+JsonFormatter one scenario with one step failed includes the error message,0.0020,failed,1,0.0020
+JsonFormatter one scenario with one step without a step definition does not output a match attribute for the step,0.0010,without a step definition,1,0.0010
+JsonFormatter one scenario with one step with hooks outputs the hooks with special properties,0.0020,with hooks,1,0.0020
+JsonFormatter one scenario with one step with a doc string outputs the doc string as a step argument,0.0020,with a doc string,1,0.0020
+JsonFormatter one scenario with one step  with a data table string outputs the data table as a step argument,0.0020, with a data table string,1,0.0020
+Configuration no argv returns the default configuration,0.0070,no argv,1,0.0070
+Configuration path to a feature returns the appropriate feature and support code paths,0.0030,path to a feature,1,0.0030
+Configuration path to a nested feature returns the appropriate feature and support code paths,0.0020,path to a nested feature,1,0.0020
+Configuration formatters adds a default,0.0020,formatters,5,0.0060
+Configuration formatters splits relative unix paths,0.0010,formatters,5,0.0060
+Configuration formatters splits absolute unix paths,0.0010,formatters,5,0.0060
+Configuration formatters splits absolute windows paths,0.0010,formatters,5,0.0060
+Configuration formatters does not split absolute windows paths without an output,0.0010,formatters,5,0.0060
+Configuration formatOptions joins the objects,0.0010,formatOptions,1,0.0010
+JsonFormatter no features outputs an empty array,0.0000,no features,1,0.0000
+JsonFormatter one scenario with one step passed outputs the feature,0.0030,passed,1,0.0030
+JsonFormatter one scenario with one step retried only outputs the last attempt,0.0010,retried,1,0.0010
+JsonFormatter one scenario with one step failed includes the error message,0.0020,failed,1,0.0020
+JsonFormatter one scenario with one step without a step definition does not output a match attribute for the step,0.0000,without a step definition,1,0.0000
+JsonFormatter one scenario with one step with hooks outputs the hooks with special properties,0.0010,with hooks,1,0.0010
+JsonFormatter one scenario with one step with a doc string outputs the doc string as a step argument,0.0010,with a doc string,1,0.0010
+JsonFormatter one scenario with one step  with a data table string outputs the data table as a step argument,0.0020, with a data table string,1,0.0020
+Configuration no argv returns the default configuration,0.0070,no argv,1,0.0070
+Configuration path to a feature returns the appropriate feature and support code paths,0.0030,path to a feature,1,0.0030
+Configuration path to a nested feature returns the appropriate feature and support code paths,0.0020,path to a nested feature,1,0.0020
+Configuration formatters adds a default,0.0010,formatters,5,0.0050
+Configuration formatters splits relative unix paths,0.0010,formatters,5,0.0050
+Configuration formatters splits absolute unix paths,0.0010,formatters,5,0.0050
+Configuration formatters splits absolute windows paths,0.0010,formatters,5,0.0050
+Configuration formatters does not split absolute windows paths without an output,0.0010,formatters,5,0.0050
+Configuration formatOptions joins the objects,0.0010,formatOptions,1,0.0010
+JsonFormatter no features outputs an empty array,0.0000,no features,1,0.0000
+JsonFormatter one scenario with one step passed outputs the feature,0.0030,passed,1,0.0030
+JsonFormatter one scenario with one step retried only outputs the last attempt,0.0020,retried,1,0.0020
+JsonFormatter one scenario with one step failed includes the error message,0.0020,failed,1,0.0020
+JsonFormatter one scenario with one step without a step definition does not output a match attribute for the step,0.0010,without a step definition,1,0.0010
+JsonFormatter one scenario with one step with hooks outputs the hooks with special properties,0.0020,with hooks,1,0.0020
+JsonFormatter one scenario with one step with a doc string outputs the doc string as a step argument,0.0020,with a doc string,1,0.0020
+JsonFormatter one scenario with one step  with a data table string outputs the data table as a step argument,0.0020, with a data table string,1,0.0020
+Configuration no argv returns the default configuration,0.0080,no argv,1,0.0080
+Configuration path to a feature returns the appropriate feature and support code paths,0.0030,path to a feature,1,0.0030
+Configuration path to a nested feature returns the appropriate feature and support code paths,0.0020,path to a nested feature,1,0.0020
+Configuration formatters adds a default,0.0010,formatters,5,0.0050
+Configuration formatters splits relative unix paths,0.0010,formatters,5,0.0050
+Configuration formatters splits absolute unix paths,0.0010,formatters,5,0.0050
+Configuration formatters splits absolute windows paths,0.0010,formatters,5,0.0050
+Configuration formatters does not split absolute windows paths without an output,0.0010,formatters,5,0.0050
+Configuration formatOptions joins the objects,0.0010,formatOptions,1,0.0010
+JsonFormatter no features outputs an empty array,0.0000,no features,1,0.0000
+JsonFormatter one scenario with one step passed outputs the feature,0.0020,passed,1,0.0020
+JsonFormatter one scenario with one step retried only outputs the last attempt,0.0010,retried,1,0.0010
+JsonFormatter one scenario with one step failed includes the error message,0.0020,failed,1,0.0020
+JsonFormatter one scenario with one step without a step definition does not output a match attribute for the step,0.0000,without a step definition,1,0.0000
+JsonFormatter one scenario with one step with hooks outputs the hooks with special properties,0.0020,with hooks,1,0.0020
+JsonFormatter one scenario with one step with a doc string outputs the doc string as a step argument,0.0010,with a doc string,1,0.0010
+JsonFormatter one scenario with one step  with a data table string outputs the data table as a step argument,0.0020, with a data table string,1,0.0020
+Configuration no argv returns the default configuration,0.0080,no argv,1,0.0080
+Configuration path to a feature returns the appropriate feature and support code paths,0.0030,path to a feature,1,0.0030
+Configuration path to a nested feature returns the appropriate feature and support code paths,0.0030,path to a nested feature,1,0.0030
+Configuration formatters adds a default,0.0010,formatters,5,0.0050
+Configuration formatters splits relative unix paths,0.0010,formatters,5,0.0050
+Configuration formatters splits absolute unix paths,0.0010,formatters,5,0.0050
+Configuration formatters splits absolute windows paths,0.0010,formatters,5,0.0050
+Configuration formatters does not split absolute windows paths without an output,0.0010,formatters,5,0.0050
+Configuration formatOptions joins the objects,0.0020,formatOptions,1,0.0020
+JsonFormatter no features outputs an empty array,0.0010,no features,1,0.0010
+JsonFormatter one scenario with one step passed outputs the feature,0.0030,passed,1,0.0030
+JsonFormatter one scenario with one step retried only outputs the last attempt,0.0030,retried,1,0.0030
+JsonFormatter one scenario with one step failed includes the error message,0.0030,failed,1,0.0030
+JsonFormatter one scenario with one step without a step definition does not output a match attribute for the step,0.0000,without a step definition,1,0.0000
+JsonFormatter one scenario with one step with hooks outputs the hooks with special properties,0.0020,with hooks,1,0.0020
+JsonFormatter one scenario with one step with a doc string outputs the doc string as a step argument,0.0010,with a doc string,1,0.0010
+JsonFormatter one scenario with one step  with a data table string outputs the data table as a step argument,0.0010, with a data table string,1,0.0010
+Configuration no argv returns the default configuration,0.0080,no argv,1,0.0080
+Configuration path to a feature returns the appropriate feature and support code paths,0.0030,path to a feature,1,0.0030
+Configuration path to a nested feature returns the appropriate feature and support code paths,0.0030,path to a nested feature,1,0.0030
+Configuration formatters adds a default,0.0010,formatters,5,0.0050
+Configuration formatters splits relative unix paths,0.0010,formatters,5,0.0050
+Configuration formatters splits absolute unix paths,0.0010,formatters,5,0.0050
+Configuration formatters splits absolute windows paths,0.0010,formatters,5,0.0050
+Configuration formatters does not split absolute windows paths without an output,0.0010,formatters,5,0.0050
+Configuration formatOptions joins the objects,0.0010,formatOptions,1,0.0010
+JsonFormatter no features outputs an empty array,0.0010,no features,1,0.0010
+JsonFormatter one scenario with one step passed outputs the feature,0.0020,passed,1,0.0020
+JsonFormatter one scenario with one step retried only outputs the last attempt,0.0020,retried,1,0.0020
+JsonFormatter one scenario with one step failed includes the error message,0.0020,failed,1,0.0020
+JsonFormatter one scenario with one step without a step definition does not output a match attribute for the step,0.0000,without a step definition,1,0.0000
+JsonFormatter one scenario with one step with hooks outputs the hooks with special properties,0.0020,with hooks,1,0.0020
+JsonFormatter one scenario with one step with a doc string outputs the doc string as a step argument,0.0010,with a doc string,1,0.0010
+JsonFormatter one scenario with one step  with a data table string outputs the data table as a step argument,0.0020, with a data table string,1,0.0020
+Configuration no argv returns the default configuration,0.0080,no argv,1,0.0080
+Configuration path to a feature returns the appropriate feature and support code paths,0.0030,path to a feature,1,0.0030
+Configuration path to a nested feature returns the appropriate feature and support code paths,0.0020,path to a nested feature,1,0.0020
+Configuration formatters adds a default,0.0010,formatters,5,0.0050
+Configuration formatters splits relative unix paths,0.0010,formatters,5,0.0050
+Configuration formatters splits absolute unix paths,0.0010,formatters,5,0.0050
+Configuration formatters splits absolute windows paths,0.0010,formatters,5,0.0050
+Configuration formatters does not split absolute windows paths without an output,0.0010,formatters,5,0.0050
+Configuration formatOptions joins the objects,0.0010,formatOptions,1,0.0010
+JsonFormatter no features outputs an empty array,0.0010,no features,1,0.0010
+JsonFormatter one scenario with one step passed outputs the feature,0.0030,passed,1,0.0030
+JsonFormatter one scenario with one step retried only outputs the last attempt,0.0010,retried,1,0.0010
+JsonFormatter one scenario with one step failed includes the error message,0.0020,failed,1,0.0020
+JsonFormatter one scenario with one step without a step definition does not output a match attribute for the step,0.0000,without a step definition,1,0.0000
+JsonFormatter one scenario with one step with hooks outputs the hooks with special properties,0.0010,with hooks,1,0.0010
+JsonFormatter one scenario with one step with a doc string outputs the doc string as a step argument,0.0010,with a doc string,1,0.0010
+JsonFormatter one scenario with one step  with a data table string outputs the data table as a step argument,0.0010, with a data table string,1,0.0010
+Configuration no argv returns the default configuration,0.0070,no argv,1,0.0070
+Configuration path to a feature returns the appropriate feature and support code paths,0.0030,path to a feature,1,0.0030
+Configuration path to a nested feature returns the appropriate feature and support code paths,0.0020,path to a nested feature,1,0.0020
+Configuration formatters adds a default,0.0010,formatters,5,0.0050
+Configuration formatters splits relative unix paths,0.0020,formatters,5,0.0050
+Configuration formatters splits absolute unix paths,0.0010,formatters,5,0.0050
+Configuration formatters splits absolute windows paths,0.0010,formatters,5,0.0050
+Configuration formatters does not split absolute windows paths without an output,0.0000,formatters,5,0.0050
+Configuration formatOptions joins the objects,0.0010,formatOptions,1,0.0010
+JsonFormatter no features outputs an empty array,0.0010,no features,1,0.0010
+JsonFormatter one scenario with one step passed outputs the feature,0.0010,passed,1,0.0010
+JsonFormatter one scenario with one step retried only outputs the last attempt,0.0010,retried,1,0.0010
+JsonFormatter one scenario with one step failed includes the error message,0.0020,failed,1,0.0020
+JsonFormatter one scenario with one step without a step definition does not output a match attribute for the step,0.0000,without a step definition,1,0.0000
+JsonFormatter one scenario with one step with hooks outputs the hooks with special properties,0.0010,with hooks,1,0.0010
+JsonFormatter one scenario with one step with a doc string outputs the doc string as a step argument,0.0010,with a doc string,1,0.0010
+JsonFormatter one scenario with one step  with a data table string outputs the data table as a step argument,0.0010, with a data table string,1,0.0010
+Configuration no argv returns the default configuration,0.0080,no argv,1,0.0080
+Configuration path to a feature returns the appropriate feature and support code paths,0.0040,path to a feature,1,0.0040
+Configuration path to a nested feature returns the appropriate feature and support code paths,0.0020,path to a nested feature,1,0.0020
+Configuration formatters adds a default,0.0010,formatters,5,0.0060
+Configuration formatters splits relative unix paths,0.0020,formatters,5,0.0060
+Configuration formatters splits absolute unix paths,0.0010,formatters,5,0.0060
+Configuration formatters splits absolute windows paths,0.0010,formatters,5,0.0060
+Configuration formatters does not split absolute windows paths without an output,0.0010,formatters,5,0.0060
+Configuration formatOptions joins the objects,0.0010,formatOptions,1,0.0010
+JsonFormatter no features outputs an empty array,0.0000,no features,1,0.0000
+JsonFormatter one scenario with one step passed outputs the feature,0.0030,passed,1,0.0030
+JsonFormatter one scenario with one step retried only outputs the last attempt,0.0020,retried,1,0.0020
+JsonFormatter one scenario with one step failed includes the error message,0.0020,failed,1,0.0020
+JsonFormatter one scenario with one step without a step definition does not output a match attribute for the step,0.0000,without a step definition,1,0.0000
+JsonFormatter one scenario with one step with hooks outputs the hooks with special properties,0.0020,with hooks,1,0.0020
+JsonFormatter one scenario with one step with a doc string outputs the doc string as a step argument,0.0020,with a doc string,1,0.0020
+JsonFormatter one scenario with one step  with a data table string outputs the data table as a step argument,0.0020, with a data table string,1,0.0020
+Configuration no argv returns the default configuration,0.0080,no argv,1,0.0080
+Configuration path to a feature returns the appropriate feature and support code paths,0.0030,path to a feature,1,0.0030
+Configuration path to a nested feature returns the appropriate feature and support code paths,0.0020,path to a nested feature,1,0.0020
+Configuration formatters adds a default,0.0010,formatters,5,0.0050
+Configuration formatters splits relative unix paths,0.0010,formatters,5,0.0050
+Configuration formatters splits absolute unix paths,0.0010,formatters,5,0.0050
+Configuration formatters splits absolute windows paths,0.0010,formatters,5,0.0050
+Configuration formatters does not split absolute windows paths without an output,0.0010,formatters,5,0.0050
+Configuration formatOptions joins the objects,0.0010,formatOptions,1,0.0010
+JsonFormatter no features outputs an empty array,0.0010,no features,1,0.0010
+JsonFormatter one scenario with one step passed outputs the feature,0.0030,passed,1,0.0030
+JsonFormatter one scenario with one step retried only outputs the last attempt,0.0020,retried,1,0.0020
+JsonFormatter one scenario with one step failed includes the error message,0.0020,failed,1,0.0020
+JsonFormatter one scenario with one step without a step definition does not output a match attribute for the step,0.0000,without a step definition,1,0.0000
+JsonFormatter one scenario with one step with hooks outputs the hooks with special properties,0.0010,with hooks,1,0.0010
+JsonFormatter one scenario with one step with a doc string outputs the doc string as a step argument,0.0010,with a doc string,1,0.0010
+JsonFormatter one scenario with one step  with a data table string outputs the data table as a step argument,0.0010, with a data table string,1,0.0010
+Configuration no argv returns the default configuration,0.0080,no argv,1,0.0080
+Configuration path to a feature returns the appropriate feature and support code paths,0.0030,path to a feature,1,0.0030
+Configuration path to a nested feature returns the appropriate feature and support code paths,0.0030,path to a nested feature,1,0.0030
+Configuration formatters adds a default,0.0010,formatters,5,0.0050
+Configuration formatters splits relative unix paths,0.0020,formatters,5,0.0050
+Configuration formatters splits absolute unix paths,0.0010,formatters,5,0.0050
+Configuration formatters splits absolute windows paths,0.0010,formatters,5,0.0050
+Configuration formatters does not split absolute windows paths without an output,0.0000,formatters,5,0.0050
+Configuration formatOptions joins the objects,0.0010,formatOptions,1,0.0010
+JsonFormatter no features outputs an empty array,0.0000,no features,1,0.0000
+JsonFormatter one scenario with one step passed outputs the feature,0.0020,passed,1,0.0020
+JsonFormatter one scenario with one step retried only outputs the last attempt,0.0020,retried,1,0.0020
+JsonFormatter one scenario with one step failed includes the error message,0.0020,failed,1,0.0020
+JsonFormatter one scenario with one step without a step definition does not output a match attribute for the step,0.0000,without a step definition,1,0.0000
+JsonFormatter one scenario with one step with hooks outputs the hooks with special properties,0.0020,with hooks,1,0.0020
+JsonFormatter one scenario with one step with a doc string outputs the doc string as a step argument,0.0020,with a doc string,1,0.0020
+JsonFormatter one scenario with one step  with a data table string outputs the data table as a step argument,0.0020, with a data table string,1,0.0020
