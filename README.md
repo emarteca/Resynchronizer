@@ -45,12 +45,12 @@ In the docker, you can
 ### Contents of the container
 
 The relevant contents of the container are as follows:
-* ExperimentalData: data from our timing experiments; can be used to reproduce the graphs in the paper and supplementary materials
-* ReorderingUtils.qll: static side effect analysis code
-* reorder_me.py: the driving script for applying the reordering
-* applyResync.sh: script for applying Resynchronizer to a project
-* paper.pdf: copy of the associated paper
-* supplementary.pdf: copy of the supplementary materials
+* `ExperimentalData`: data from our timing experiments; can be used to reproduce the graphs in the paper and supplementary materials
+* `ReorderingUtils.qll`: static side effect analysis code
+* `reorder_me.py`: the driving script for applying the reordering
+* `applyResync.sh`: script for applying Resynchronizer to a project
+* `paper.pdf`: copy of the associated paper
+* `supplementary.pdf`: copy of the supplementary materials
 
 
 ### Interacting with data: graph reproduction
@@ -107,7 +107,7 @@ cd ../..
 ./applyResync.sh Playground/mattermost-redux/ QLDBs/mattermost-redux
 
 ```
-The `mattermost-redux` with the reorderings applied is now saved in the directory `reordered_proj` in /home/resynchronizer (your current directory).
+The `mattermost-redux` with the reorderings applied is now saved in the directory `reordered_proj` in `/home/resynchronizer` (your current directory).
 
 To see the effect of the transformations, `grep` for the temporary variables:
 ```
@@ -130,8 +130,14 @@ src/actions/search.ts:518:console.log("/home/resynchronizer/reordered_proj/src/a
 src/actions/search.ts:519: posts =   AWAIT_VAR_TIMING_TEMP_VAR_AUTOGEN152__RANDOM
 
 ```
-Here you see the newly introduced variables assigned to the computation that was originally being awaited, with `var TEMP_VAR_AUTOGEN<number> = ...`.
-You can also see where the results are awaited, `await TEMP_VAR_AUTOGEN<number>`.
+Here you see the newly introduced variables assigned to the computation that was originally being awaited, with:
+```
+var TEMP_VAR_AUTOGEN<number> = ...
+```
+You can also see where the results are awaited: 
+```
+await TEMP_VAR_AUTOGEN<number>
+```
 
 The other results of the `grep` are the `TIMING_TEMP` variables, which are only introduced for the purposes of logging how long the awaited computations are taking (you see these variables in the `console.log` calls).
 
@@ -163,22 +169,22 @@ cd mattermost-redux
 ./batchListOfTests.sh 50 test_list.txt raw_output.out test_times_bothswap_50times.out 5
 ```
 The parameters are:
-* 50: the number of test iterations
-* test_list.txt: the pre-generated list of tests affected by the reorderings
-* raw_output.out: the raw logged output of all the tests, that gets processed into the next file
-* test_times_bothswap_50times.out: the file where the processed test output gets dumped; this matches ExperimentalData/mattermost-redux/test_times_bothswap_50times.out (although of course the numbers will differ since they are test runtimes)
-* 5: the number of warmup runs
+* `50`: the number of test iterations
+* `test_list.txt`: the pre-generated list of tests affected by the reorderings
+* `raw_output.out`: the raw logged output of all the tests, that gets processed into the next file
+* `test_times_bothswap_50times.out`: the file where the processed test output gets dumped; this matches `ExperimentalData/mattermost-redux/test_times_bothswap_50times.out` (although of course the exact numbers will differ since they are test runtimes)
+* `5`: the number of warmup runs
 
 If you want to only run a few test iterations to make sure it's working, I would recommend setting a smaller number of test iterations (maybe 10) and omitting the warmup runs.
 
-You can also run the experiments on the non-reordered code by checking out the JustTiming branch (where all awaits that will be reordered are timed):
+You can also run the experiments on the non-reordered code by checking out the `JustTiming` branch (where all awaits that will be reordered are timed):
 ```
 git checkout JustTiming
 ```
 Then, rerun the experiments the same way as above.
-Change the output filename to test_times_noswap_50times.out to emulate the experiments we performed.
+Change the output filename to `test_times_noswap_50times.out` to emulate the experiments we performed.
 
-Note: the timing values will be different running here than in the reported results, since those were not run inside a docker container. 
+Note: the timing values will be different running here than in the reported results in the paper, since those were not run inside a docker container. 
 
 
 
