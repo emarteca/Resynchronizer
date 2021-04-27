@@ -3,7 +3,6 @@ import pandas as pd
 import re
 import scipy.stats as stats
 import matplotlib
-matplotlib.use('TKAgg')
 import matplotlib.pylab as plt
 
 class Stmt:
@@ -207,39 +206,3 @@ def get_total_test_timing(junit_df):
 	for i in range(len(runtimes)):
 		run_timing[i % num_experiments] += runtimes[i]
 	return(np.array(run_timing))
-
-def load_data_for_package(pkgname):
-
-	global bothswap_jest_tests
-	global noswap_jest_tests
-	global bothswap_tests_timing
-	global noswap_tests_timing
-	global comp_mean_table
-	global result_table
-
-	DATA_DIR = "ExperimentalData/"
-	VALID_PKG_NAMES = ["bit", "desktop", "gatsby", "kactus", "reflect", "svelte", "wire-desktop", "cspell", "enquirer", 
-					   "get", "mattermost-redux", "sapper", "vscode-psl", "zapier-platform-cli", 
-					   "cucumber-js", "fiddle", "jamserve", "nodemonorepo", "sourcecred", "webdriverio"]
-
-	if not pkgname in VALID_PKG_NAMES:
-		print("Invalid package name, not loading data")
-		return
-
-
-	# read in the dataframes, here they are & separated
-
-	bothswap_jest_tests = process_jest_test_output(DATA_DIR + pkgname + "/test_times_bothswap_50times.out")
-	noswap_jest_tests = process_jest_test_output(DATA_DIR + pkgname + "/test_times_noswap_50times.out")
-
-	noswap_tests_timing = get_test_timing_from_junit( bothswap_jest_tests)
-	noswap_tests_timing = get_test_timing_from_junit( noswap_jest_tests)
-
-	comp_mean_table = gen_jest_test_comparative_mean_table( noswap_jest_tests, bothswap_jest_tests)
-	result_table = gen_result_table_for_tests(noswap_tests_timing, noswap_tests_timing)
-
-	# example: generate the % speedup scatterplot for package tests
-	# scatterplot_test_speedup(comp_mean_table, pkgname) 
-
-	# example: scatterplot of runtimes for one specific test (test 117)
-	# plot_test_times( bothswap_jest_tests, noswap_jest_tests, 117) 

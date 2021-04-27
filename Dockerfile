@@ -2,7 +2,7 @@ FROM ubuntu:latest
 ARG DEBIAN_FRONTEND=noninteractive
 
 RUN apt-get update \
-	&& apt-get -y install --no-install-recommends python3 ipython3 python3-tk git unzip vim curl gnupg nodejs npm xz-utils \
+	&& apt-get -y install --no-install-recommends python3 ipython3 jupyter jupyter-notebook python3-tk git unzip vim curl gnupg nodejs npm xz-utils \
 												libx11-xcb1 libxtst6 libsecret-1-0 
 
 # https://github.com/puppeteer/puppeteer/blob/main/docs/troubleshooting.md#chrome-headless-doesnt-launch-on-unix

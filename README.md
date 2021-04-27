@@ -3,25 +3,10 @@
 
 This is the artifact for the paper *Reducing Over-Synchronization in JavaScript Applications*.
 
-## Contents of the artifact
-
-* paper.pdf: copy of the submitted paper
-* supplementary.pdf copy of the associated supplementary materials
-
-The rest of the artifact is the code and data from our experiments.
-We have configured this to run inside of a docker container.
-Instructions for building and interacting with the docker container follow.
-
 
 ## Setup and build docker image 
 
-
-First clone this repo.
 Make sure you have docker installed.
-```
-# allow docker to access display (so the container can display graphs)
-xhosts +
-```
 
 #### If you don't have the image:
 
@@ -57,21 +42,31 @@ In the docker, you can
 
 The relevant contents of the container are as follows:
 * `ExperimentalData`: data from our timing experiments; can be used to reproduce the graphs in the paper and supplementary materials
-* `ReorderingUtils.qll`: static side effect analysis code
-* `reorder_me.py`: the driving script for applying the reorderings determined through the analysis
-* `applyResync.sh`: script for applying Resynchronizer to a project
-* `paper.pdf`: copy of the associated paper
-* `supplementary.pdf`: copy of the supplementary materials
+* `DataAnalysis` directory: contains a jupyter notebook for interacting with our data
+* `Resynchronizer` directory: contains the code for applying and running Resynchronizer
+* `Resynchronizer/ReorderingUtils.qll`: static side effect analysis code
+* `Resynchronizer/reorder_me.py`: the driving script for applying the reorderings determined through the analysis
+* `Resynchronizer/applyResync.sh`: script for applying Resynchronizer to a project
+* `Paper` directory: paper and associated supplementary materials
 
 
 ### Interacting with data: graph reproduction
 
 The `ExperimentalData` directory contains all the raw timing data from our experiments.
-To reproduce the graphs in the paper and further explore the data, load `data_analysis.py`:
+To reproduce the graphs in the paper and further explore the data, go into the `DataAnalysis` directory and open the jupyter notebook:
 ```
-ipython3 -i data_analysis.py
+cd DataAnalysis
+jupyter notebook --ip 0.0.0.0 --no-browser --allow-root
 ```
-Then, in the interactive python shell, you can recreate the graphs from the paper.
+This will produce some output, the last line of which will be of the form
+```
+http://127.0.0.1:8888/?token=<some string of chars>
+```
+Then, on your machine, you can access the notebook by copy pasting that path into your browser.
+
+Alternatively, you can access the notebook by going to `http://127.0.0.1:8888/notebooks/data_analysis.ipynb` on your browser, and then entering the string of characters following `token=` from the docker output, when prompted for a token.
+
+In the notebook, there are the following example commands to recreate the graphs from the paper.
 For example:
 ```
 pkgname = "kactus"
@@ -97,10 +92,12 @@ load_data_for_package("kactus")
 plot_test_times( bothswap_jest_tests, noswap_jest_tests, 22)
 ```
 
-When you're done looking at the data, exit `ipython` to try the rest of the artifact.
+When you're done looking at the data, exit the notebook to try the rest of the artifact.
 
 
 ### Run resynchronizer on a new project
+
+To use Resynchronizer, first enter the `Resynchronizer` directory  in the container home.
 
 Demonstrative example of applying resynchronizer to the version of `mattermost-redux` used in our experiments:
 ```

@@ -20,5 +20,5 @@ echo "alias vi=vim" >> /root/.bashrc
 
 cd /home/resynchronizer
 
-mkdir Playground
-mkdir QLDBs
+mkdir Resynchronizer/Playground
+mkdir Resynchronizer/QLDBs
