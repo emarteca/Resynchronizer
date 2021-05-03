@@ -1,7 +1,7 @@
 
 # README
 
-This is the artifact for the paper *Reducing Over-Synchronization in JavaScript Applications*.
+This is the artifact for the paper *Enabling Additional Parallelism in Asynchronous JavaScript Applications*.
 
 
 ## Setup and build docker image 
