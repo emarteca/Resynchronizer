@@ -1,7 +1,7 @@
 
 # README
 
-This is the artifact for the paper *Enabling Additional Parallelism in Asynchronous JavaScript Applications*.
+This is the artifact for the paper *Enabling Additional Parallelism in Asynchronous JavaScript Applications*, presented at [ECOOP 2021](https://2021.ecoop.org/track/ecoop-2021-ecoop-research-papers#event-overview).
 
 
 ## Setup and build docker image 
